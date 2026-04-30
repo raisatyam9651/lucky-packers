@@ -1,7 +1,6 @@
 @font-face {
     font-family: "flaticon";
-    src: url(../fonts/flaticon_lgdt.eot);
-    src: url("../fonts/flaticon_lgdtd41d.eot?#iefix") format("embedded-opentype"), url(../fonts/flaticon_lgdt.woff2) format("woff2"), url(../fonts/flaticon_lgdt.woff) format("woff"), url(../fonts/flaticon_lgdt.ttf) format("truetype"), url("../fonts/flaticon_lgdt.svg#Flaticon") format("svg")
+    src: url(../fonts/flaticon_lgdt.woff2) format("woff2"), url(../fonts/flat-icon/flaticon_tg_defaultbada.ttf) format("truetype")
 }
 
 i[class^="flaticon-"]:before,

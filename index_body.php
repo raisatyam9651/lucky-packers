@@ -17,7 +17,7 @@
                                     <div class="slider__content-two">
                                         <span class="sub-title">11+ Years of Excellence</span>
                                         <h2 class="title">India’s Trusted Packers & Movers</h2>
-                                        <p>Thousands of happy customers trust us for safe and timely relocations. Experience stress-free shifting with DZ Cargo Packers and Movers by your side.</p>
+                                        <p>Thousands of happy customers trust us for safe and timely relocations. Experience stress-free shifting with LC Packers and Movers by your side.</p>
                                         <div class="slider__btn-wrap">
                                             <a href="javascript:void(0);" class="btn get_a_free_quote" title="Get a Free Quote Now">Get a Free Quote
                                                 <img src="<?php echo $base_url; ?>assets/media/svg/right-arrow-white.svg" alt="Arrow Icon">
@@ -145,7 +145,7 @@
                     <!-- Image Section -->
                     <div class="col-lg-6 col-md-9">
                         <div class="about__img-five">
-                            <img src="<?php echo $base_url; ?>assets/media/about/dz-cargo-packers-about-us-team.webp" alt="DZ Cargo Packers and Movers Team" data-aos="fade-left" data-aos-delay="200">
+                            <img src="<?php echo $base_url; ?>assets/media/about/dz-cargo-packers-about-us-team.webp" alt="LC Packers and Movers Team" data-aos="fade-left" data-aos-delay="200">
                             <div class="about__clients-box about__clients-box-two" data-aos="fade-right" data-aos-delay="200">
                                 <span class="title">Committed to Safe & Reliable Relocation</span>
                                 <div class="counter__item">
@@ -174,11 +174,11 @@
                     <div class="col-lg-6">
                         <div class="about__content-five">
                             <div class="section__title mb-10">
-                                <span class="sub-title">// About DZ Cargo Packers and Movers</span>
+                                <span class="sub-title">// About LC Packers and Movers</span>
                                 <h2 class="title">Your Trusted Partner for Stress-Free Moving</h2>
                             </div>
                             <p>
-                                DZ Cargo Packers and Movers PVT. LTD. has been in business for over 11 years specializing in safe and reliable house relocations across India. Anything that is bound to offer you this much peace is also going to be tailored to meet your needs and specifications, right from home and office movers to vehicle movers and more.
+                                LC Packers and Movers PVT. LTD. has been in business for over 11 years specializing in safe and reliable house relocations across India. Anything that is bound to offer you this much peace is also going to be tailored to meet your needs and specifications, right from home and office movers to vehicle movers and more.
                             </p>
                             <p>
                                 We have qualified and experienced personnel who guarantee safe transportation and on-time arrival. Whether moving locally or internationally, customer satisfaction is the primary goal and we treat your goods with the best care at every stage of the move.
@@ -228,7 +228,7 @@
                                     </div>
                                     <div class="content">
                                         <span>Hotline Number</span>
-                                        <a title="Call DZ Cargo Packers and Movers PVT. LTD. for Reliable Relocation Services" href="tel:+91 8003600809">+91 8003600809</a>
+                                        <a title="Call LC Packers and Movers PVT. LTD. for Reliable Relocation Services" href="tel:+91 8003600809">+91 8003600809</a>
                                     </div>
                                 </div>
                             </div>
@@ -300,7 +300,7 @@
                             <span class="sub-title">// Our Services</span>
                             <h2 class="title">Tailored Relocation Solutions for Every Need</h2>
                             <p>
-                                At DZ Cargo Packers and Movers PVT. LTD., we provide specialized relocation services for homes, offices, and vehicles. With over 11 years of expertise, we ensure secure, efficient, and stress-free moving solutions for every requirement.
+                                At LC Packers and Movers PVT. LTD., we provide specialized relocation services for homes, offices, and vehicles. With over 11 years of expertise, we ensure secure, efficient, and stress-free moving solutions for every requirement.
                             </p>
                         </div>
                     </div>
@@ -311,7 +311,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="services__item-three">
                             <div class="services__thumb-three">
-                                <a href="./our-services/home-shifting.php" title="Household Relocation Services by DZ Cargo Packers and Movers">
+                                <a href="./our-services/home-shifting.php" title="Household Relocation Services by LC Packers and Movers">
                                     <img src="<?php echo $base_url; ?>assets/media/services/dz-cargo-packers-home-shifting.webp" alt="Household Relocation Services">
                                 </a>
                             </div>
@@ -332,7 +332,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="services__item-three">
                             <div class="services__thumb-three">
-                                <a href="./our-services/office-shifting.php" title="Office Shifting Services by DZ Cargo Packers and Movers">
+                                <a href="./our-services/office-shifting.php" title="Office Shifting Services by LC Packers and Movers">
                                     <img src="<?php echo $base_url; ?>assets/media/services/dz-cargo-packers-office-shifting.webp" alt="Office Shifting Services">
                                 </a>
                             </div>
@@ -353,7 +353,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="services__item-three">
                             <div class="services__thumb-three">
-                                <a href="./our-services/international-relocation.php" title="International Relocation Services by DZ Cargo Packers and Movers">
+                                <a href="./our-services/international-relocation.php" title="International Relocation Services by LC Packers and Movers">
                                     <img src="<?php echo $base_url; ?>assets/media/services/dz-cargo-packers-international-relocation.webp" alt="International Relocation Services">
                                 </a>
                             </div>
@@ -374,7 +374,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="services__item-three">
                             <div class="services__thumb-three">
-                                <a href="./our-services/car-and-bike-transportation.php" title="Car and Bike Moving Services by DZ Cargo Packers and Movers">
+                                <a href="./our-services/car-and-bike-transportation.php" title="Car and Bike Moving Services by LC Packers and Movers">
                                     <img src="<?php echo $base_url; ?>assets/media/services/dz-cargo-packers-car-bike-transportation.webp" alt="Car and Bike Moving Services">
                                 </a>
                             </div>
@@ -395,7 +395,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="services__item-three">
                             <div class="services__thumb-three">
-                                <a href="./our-services/warehouse-services.php" title="Warehousing Services by DZ Cargo Packers and Movers">
+                                <a href="./our-services/warehouse-services.php" title="Warehousing Services by LC Packers and Movers">
                                     <img src="<?php echo $base_url; ?>assets/media/services/dz-cargo-packers-warehousing.webp" alt="Warehousing Services">
                                 </a>
                             </div>
@@ -416,7 +416,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="services__item-three">
                             <div class="services__thumb-three">
-                                <a href="./our-services/goods-insurance.php" title="Goods Insurance Services by DZ Cargo Packers and Movers">
+                                <a href="./our-services/goods-insurance.php" title="Goods Insurance Services by LC Packers and Movers">
                                     <img src="<?php echo $base_url; ?>assets/media/services/dz-cargo-packers-goods-insurance.webp" alt="Goods Insurance Services">
                                 </a>
                             </div>
@@ -435,7 +435,7 @@
                 </div>
                 <div class="col-12">
                     <div class="view-all-btn-two view-all-btn-three text-center mb-0 mt-10">
-                        <a href="./our-services/" title="Explore All Services by DZ Cargo Packers and Movers" class="btn border-btn">View All Services
+                        <a href="./our-services/" title="Explore All Services by LC Packers and Movers" class="btn border-btn">View All Services
                             <img src="<?php echo $base_url; ?>assets/media/svg/right-arrow-red.svg" alt="Explore All Services" class="injectable">
                         </a>
                     </div>
@@ -607,7 +607,7 @@
                             <span class="sub-title">// Why Choose Us</span>
                             <h2 class="title">Delivering Excellence with Every Move</h2>
                             <p>
-                                At DZ Cargo Packers & Movers PVT. LTD., we take pride in offering reliable, safe, and efficient relocation services. With over 11 years of experience, our specialized workers ensure that every move, whether residential, commercial, or automotive, is trouble-free. Trust us to handle your valuable belongings with care while delivering the highest quality service.
+                                At LC Packers and Movers PVT. LTD., we take pride in offering reliable, safe, and efficient relocation services. With over 11 years of experience, our specialized workers ensure that every move, whether residential, commercial, or automotive, is trouble-free. Trust us to handle your valuable belongings with care while delivering the highest quality service.
                             </p>
                         </div>
                     </div>
@@ -823,13 +823,13 @@
                     <div class="col-lg-3 col-md-6">
                         <article class="project__item-three">
                             <figure class="project__thumb-three">
-                                <a href="./our-work.php" title="Explore our work at DZ Cargo Packers">
-                                    <img src="<?php echo $base_url; ?>assets/media/our-work/dz-cargo-packers-pvt-ltd-work01.webp" alt="DZ Cargo Packers Work Image 1">
+                                <a href="./our-work.php" title="Explore our work at LC Packers">
+                                    <img src="<?php echo $base_url; ?>assets/media/our-work/dz-cargo-packers-pvt-ltd-work01.webp" alt="LC Packers Work Image 1">
                                 </a>
                             </figure>
                             <div class="project__content-three">
                                 <h3 class="title">
-                                    <a href="./our-work.php" title="Explore all work by DZ Cargo Packers">View All Work</a>
+                                    <a href="./our-work.php" title="Explore all work by LC Packers">View All Work</a>
                                 </h3>
                             </div>
                             <div class="project__icon">
@@ -844,13 +844,13 @@
                     <div class="col-lg-3 col-md-6">
                         <article class="project__item-three">
                             <figure class="project__thumb-three">
-                                <a href="./our-work.php" title="Explore our work at DZ Cargo Packers">
-                                    <img src="<?php echo $base_url; ?>assets/media/our-work/dz-cargo-packers-pvt-ltd-work02.webp" alt="DZ Cargo Packers Work Image 2">
+                                <a href="./our-work.php" title="Explore our work at LC Packers">
+                                    <img src="<?php echo $base_url; ?>assets/media/our-work/dz-cargo-packers-pvt-ltd-work02.webp" alt="LC Packers Work Image 2">
                                 </a>
                             </figure>
                             <div class="project__content-three">
                                 <h3 class="title">
-                                    <a href="./our-work.php" title="Explore all work by DZ Cargo Packers">View All Work</a>
+                                    <a href="./our-work.php" title="Explore all work by LC Packers">View All Work</a>
                                 </h3>
                             </div>
                             <div class="project__icon">
@@ -865,13 +865,13 @@
                     <div class="col-lg-3 col-md-6">
                         <article class="project__item-three">
                             <figure class="project__thumb-three">
-                                <a href="./our-work.php" title="Explore our work at DZ Cargo Packers">
-                                    <img src="<?php echo $base_url; ?>assets/media/our-work/dz-cargo-packers-pvt-ltd-work03.webp" alt="DZ Cargo Packers Work Image 3">
+                                <a href="./our-work.php" title="Explore our work at LC Packers">
+                                    <img src="<?php echo $base_url; ?>assets/media/our-work/dz-cargo-packers-pvt-ltd-work03.webp" alt="LC Packers Work Image 3">
                                 </a>
                             </figure>
                             <div class="project__content-three">
                                 <h3 class="title">
-                                    <a href="./our-work.php" title="Explore all work by DZ Cargo Packers">View All Work</a>
+                                    <a href="./our-work.php" title="Explore all work by LC Packers">View All Work</a>
                                 </h3>
                             </div>
                             <div class="project__icon">
@@ -886,13 +886,13 @@
                     <div class="col-lg-3 col-md-6">
                         <article class="project__item-three">
                             <figure class="project__thumb-three">
-                                <a href="./our-work.php" title="Explore our work at DZ Cargo Packers">
-                                    <img src="<?php echo $base_url; ?>assets/media/our-work/dz-cargo-packers-pvt-ltd-work04.webp" alt="DZ Cargo Packers Work Image 4">
+                                <a href="./our-work.php" title="Explore our work at LC Packers">
+                                    <img src="<?php echo $base_url; ?>assets/media/our-work/dz-cargo-packers-pvt-ltd-work04.webp" alt="LC Packers Work Image 4">
                                 </a>
                             </figure>
                             <div class="project__content-three">
                                 <h3 class="title">
-                                    <a href="./our-work.php" title="Explore all work by DZ Cargo Packers">View All Work</a>
+                                    <a href="./our-work.php" title="Explore all work by LC Packers">View All Work</a>
                                 </h3>
                             </div>
                             <div class="project__icon">
@@ -908,13 +908,13 @@
                     <div class="col-lg-3 col-md-6">
                         <article class="project__item-three">
                             <figure class="project__thumb-three">
-                                <a href="./our-work.php" title="Explore our work at DZ Cargo Packers">
-                                    <img src="<?php echo $base_url; ?>assets/media/our-work/dz-cargo-packers-pvt-ltd-work05.webp" alt="DZ Cargo Packers Work Image 5">
+                                <a href="./our-work.php" title="Explore our work at LC Packers">
+                                    <img src="<?php echo $base_url; ?>assets/media/our-work/dz-cargo-packers-pvt-ltd-work05.webp" alt="LC Packers Work Image 5">
                                 </a>
                             </figure>
                             <div class="project__content-three">
                                 <h3 class="title">
-                                    <a href="./our-work.php" title="Explore all work by DZ Cargo Packers">View All Work</a>
+                                    <a href="./our-work.php" title="Explore all work by LC Packers">View All Work</a>
                                 </h3>
                             </div>
                             <div class="project__icon">
@@ -929,13 +929,13 @@
                     <div class="col-lg-3 col-md-6">
                         <article class="project__item-three">
                             <figure class="project__thumb-three">
-                                <a href="./our-work.php" title="Explore our work at DZ Cargo Packers">
-                                    <img src="<?php echo $base_url; ?>assets/media/our-work/dz-cargo-packers-pvt-ltd-work06.webp" alt="DZ Cargo Packers Work Image 6">
+                                <a href="./our-work.php" title="Explore our work at LC Packers">
+                                    <img src="<?php echo $base_url; ?>assets/media/our-work/dz-cargo-packers-pvt-ltd-work06.webp" alt="LC Packers Work Image 6">
                                 </a>
                             </figure>
                             <div class="project__content-three">
                                 <h3 class="title">
-                                    <a href="./our-work.php" title="Explore all work by DZ Cargo Packers">View All Work</a>
+                                    <a href="./our-work.php" title="Explore all work by LC Packers">View All Work</a>
                                 </h3>
                             </div>
                             <div class="project__icon">
@@ -950,13 +950,13 @@
                     <div class="col-lg-3 col-md-6">
                         <article class="project__item-three">
                             <figure class="project__thumb-three">
-                                <a href="./our-work.php" title="Explore our work at DZ Cargo Packers">
-                                    <img src="<?php echo $base_url; ?>assets/media/our-work/dz-cargo-packers-pvt-ltd-work07.webp" alt="DZ Cargo Packers Work Image 7">
+                                <a href="./our-work.php" title="Explore our work at LC Packers">
+                                    <img src="<?php echo $base_url; ?>assets/media/our-work/dz-cargo-packers-pvt-ltd-work07.webp" alt="LC Packers Work Image 7">
                                 </a>
                             </figure>
                             <div class="project__content-three">
                                 <h3 class="title">
-                                    <a href="./our-work.php" title="Explore all work by DZ Cargo Packers">View All Work</a>
+                                    <a href="./our-work.php" title="Explore all work by LC Packers">View All Work</a>
                                 </h3>
                             </div>
                             <div class="project__icon">
@@ -971,13 +971,13 @@
                     <div class="col-lg-3 col-md-6">
                         <article class="project__item-three">
                             <figure class="project__thumb-three">
-                                <a href="./our-work.php" title="Explore our work at DZ Cargo Packers">
-                                    <img src="<?php echo $base_url; ?>assets/media/our-work/dz-cargo-packers-pvt-ltd-work08.webp" alt="DZ Cargo Packers Work Image 8">
+                                <a href="./our-work.php" title="Explore our work at LC Packers">
+                                    <img src="<?php echo $base_url; ?>assets/media/our-work/dz-cargo-packers-pvt-ltd-work08.webp" alt="LC Packers Work Image 8">
                                 </a>
                             </figure>
                             <div class="project__content-three">
                                 <h3 class="title">
-                                    <a href="./our-work.php" title="Explore all work by DZ Cargo Packers">View All Work</a>
+                                    <a href="./our-work.php" title="Explore all work by LC Packers">View All Work</a>
                                 </h3>
                             </div>
                             <div class="project__icon">
@@ -993,7 +993,7 @@
 
             <div class="col-12">
                 <div class="view-all-btn-two view-all-btn-three text-center mb-0 mt-10">
-                    <a href="./our-work.php" title="Explore All Work by DZ Cargo Packers and Movers" class="btn border-btn">View All Work <img src="<?php echo $base_url; ?>assets/media/svg/right-arrow-red.svg" alt="Explore All Services" class="injectable"></a>
+                    <a href="./our-work.php" title="Explore All Work by LC Packers and Movers" class="btn border-btn">View All Work <img src="<?php echo $base_url; ?>assets/media/svg/right-arrow-red.svg" alt="Explore All Services" class="injectable"></a>
                 </div>
             </div>
             </div>
@@ -1057,7 +1057,7 @@
                             <span class="sub-title">// HOW IT WORKS</span>
                             <h2 class="title">Unveiling Our Streamlined Relocation Process</h2>
                             <p class="dec">
-                                At DZ Cargo Packers and Movers PVT. LTD., we follow a proven and efficient process to ensure your relocation is smooth and hassle-free. From planning and packing to transportation and delivery, every step is designed to provide the highest level of safety and satisfaction. Discover how our expert team transforms moving into a seamless experience for you.
+                                At LC Packers and Movers PVT. LTD., we follow a proven and efficient process to ensure your relocation is smooth and hassle-free. From planning and packing to transportation and delivery, every step is designed to provide the highest level of safety and satisfaction. Discover how our expert team transforms moving into a seamless experience for you.
                             </p>
                         </div>
                     </div>
@@ -1190,12 +1190,12 @@
             <div class="container">
                 <div class="cta__wrap-two cta__wrap-three">
                     <div class="cta__img">
-                        <img src="<?php echo $base_url; ?>assets/media/cta/dz-cargo-packers-main.webp" alt="DZ Cargo Packers and Movers - Reliable Transport Services">
+                        <img src="<?php echo $base_url; ?>assets/media/cta/dz-cargo-packers-main.webp" alt="LC Packers and Movers - Reliable Transport Services">
                     </div>
                     <div class="cta__content-two cta__content-three">
                         <div class="content__left">
                             <h1 class="title">Looking for Reliable Packing and Moving Services?</h1>
-                            <p>DZ Cargo Packers and Movers PVT. LTD. is operating in this sector for over 11 years which gives them the experience to provide the best quality of packing, moving and relocation services all over India. Whether it is shifting a home, an office or a vehicle, we make the transition easy and efficient.</p>
+                            <p>LC Packers and Movers PVT. LTD. is operating in this sector for over 11 years which gives them the experience to provide the best quality of packing, moving and relocation services all over India. Whether it is shifting a home, an office or a vehicle, we make the transition easy and efficient.</p>
                         </div>
                         <div class="cta__btn-two cta__btn-three">
                             <a href="javascript:void(0);" class="btn get_a_free_quote">Get A Free Quote <img src="<?php echo $base_url; ?>assets/media/svg/right-arrow-white.svg" alt="Get A Free Quote" class="injectable"></a>
@@ -1266,7 +1266,7 @@
                                                 <i class="fas fa-star"></i>
                                             </div>
                                             <div class="testimonial__content">
-                                                <p>“DZ Cargo Packers and Movers made my home relocation completely hassle-free. Their team was professional, on-time, and handled my belongings with utmost care. Highly recommended!”</p>
+                                                <p>“LC Packers and Movers made my home relocation completely hassle-free. Their team was professional, on-time, and handled my belongings with utmost care. Highly recommended!”</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1304,7 +1304,7 @@
                                                 <i class="fas fa-star"></i>
                                             </div>
                                             <div class="testimonial__content">
-                                                <p>“I was nervous about relocating my office, but DZ Cargo Packers and Movers handled everything smoothly. The team was efficient, and they ensured minimal downtime for my business.”</p>
+                                                <p>“I was nervous about relocating my office, but LC Packers and Movers handled everything smoothly. The team was efficient, and they ensured minimal downtime for my business.”</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1498,8 +1498,8 @@
                                     <!-- FAQ 1 -->
                                     <div class="accordion-item">
                                         <h2 class="accordion-header">
-                                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne" title="What are the services provided by DZ Cargo Packers and Movers?">
-                                                What are the services provided by DZ Cargo Packers and Movers?
+                                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne" title="What are the services provided by LC Packers and Movers?">
+                                                What are the services provided by LC Packers and Movers?
                                             </button>
                                         </h2>
                                         <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
@@ -1728,14 +1728,14 @@
                 <div class="row align-items-center">
                     <div class="col-lg-8 col-md-8">
                         <div class="section__title mb-30">
-                            <span class="sub-title" title="Explore Recent Blogs by DZ Cargo Packers and Movers">// Recent Blogs</span>
+                            <span class="sub-title" title="Explore Recent Blogs by LC Packers and Movers">// Recent Blogs</span>
                             <h2 class="title">Our Latest Insights</h2>
                             <p class="description">Discover expert tips, relocation advice, and industry insights to make your move seamless and hassle-free.</p>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4">
                         <div class="view-all-btn text-end mb-30">
-                            <a href="./blogs/" class="btn" title="Explore All Blogs by DZ Cargo Packers and Movers">See All Blogs
+                            <a href="./blogs/" class="btn" title="Explore All Blogs by LC Packers and Movers">See All Blogs
                                 <img src="<?php echo $base_url; ?>assets/media/svg/right-arrow-white.svg" alt="View All Blogs" class="injectable">
                             </a>
                         </div>
@@ -1879,7 +1879,7 @@
                             <span class="sub-title">// Our Service Locations</span>
                             <h2 class="title">Professional Relocation Across Major Cities in India</h2>
                             <p>
-                                DZ Cargo Packers and Movers Pvt. Ltd also ... has experienced and skilled experts for packing and moving to the major metros in India. May it be residential relocation, office relocation or vehicle transportation, DZ Cargo Packers and Movers Pvt. Ltd guarantees reliability and eliminates any hassle in transportation.
+                                LC Packers and Movers Pvt. Ltd also ... has experienced and skilled experts for packing and moving to the major metros in India. May it be residential relocation, office relocation or vehicle transportation, LC Packers and Movers Pvt. Ltd guarantees reliability and eliminates any hassle in transportation.
                             </p>
                         </div>
                     </div>
@@ -1993,92 +1993,92 @@
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client01.webp"
-                                        alt="Client 1 Logo | Trusted by DZ Cargo Packers and Movers"
-                                        title="Client 1 | Partner of DZ Cargo Packers and Movers">
+                                        alt="Client 1 Logo | Trusted by LC Packers and Movers"
+                                        title="Client 1 | Partner of LC Packers and Movers">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client02.webp"
-                                        alt="Client 2 Logo | Trusted by DZ Cargo Packers and Movers"
-                                        title="Client 2 | Partner of DZ Cargo Packers and Movers">
+                                        alt="Client 2 Logo | Trusted by LC Packers and Movers"
+                                        title="Client 2 | Partner of LC Packers and Movers">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client03.webp"
-                                        alt="Client 3 Logo | Trusted by DZ Cargo Packers and Movers"
-                                        title="Client 3 | Partner of DZ Cargo Packers and Movers">
+                                        alt="Client 3 Logo | Trusted by LC Packers and Movers"
+                                        title="Client 3 | Partner of LC Packers and Movers">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client04.webp"
-                                        alt="Client 4 Logo | Trusted by DZ Cargo Packers and Movers"
-                                        title="Client 4 | Partner of DZ Cargo Packers and Movers">
+                                        alt="Client 4 Logo | Trusted by LC Packers and Movers"
+                                        title="Client 4 | Partner of LC Packers and Movers">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client05.webp"
-                                        alt="Client 5 Logo | Trusted by DZ Cargo Packers and Movers"
-                                        title="Client 5 | Partner of DZ Cargo Packers and Movers">
+                                        alt="Client 5 Logo | Trusted by LC Packers and Movers"
+                                        title="Client 5 | Partner of LC Packers and Movers">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client06.webp"
-                                        alt="Client 6 Logo | Trusted by DZ Cargo Packers and Movers"
-                                        title="Client 6 | Partner of DZ Cargo Packers and Movers">
+                                        alt="Client 6 Logo | Trusted by LC Packers and Movers"
+                                        title="Client 6 | Partner of LC Packers and Movers">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client07.webp"
-                                        alt="Client 7 Logo | Trusted by DZ Cargo Packers and Movers"
-                                        title="Client 7 | Partner of DZ Cargo Packers and Movers">
+                                        alt="Client 7 Logo | Trusted by LC Packers and Movers"
+                                        title="Client 7 | Partner of LC Packers and Movers">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client08.webp"
-                                        alt="Client 8 Logo | Trusted by DZ Cargo Packers and Movers"
-                                        title="Client 8 | Partner of DZ Cargo Packers and Movers">
+                                        alt="Client 8 Logo | Trusted by LC Packers and Movers"
+                                        title="Client 8 | Partner of LC Packers and Movers">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client09.webp"
-                                        alt="Client 9 Logo | Trusted by DZ Cargo Packers and Movers"
-                                        title="Client 9 | Partner of DZ Cargo Packers and Movers">
+                                        alt="Client 9 Logo | Trusted by LC Packers and Movers"
+                                        title="Client 9 | Partner of LC Packers and Movers">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client10.webp"
-                                        alt="Client 10 Logo | Trusted by DZ Cargo Packers and Movers"
-                                        title="Client 10 | Partner of DZ Cargo Packers and Movers">
+                                        alt="Client 10 Logo | Trusted by LC Packers and Movers"
+                                        title="Client 10 | Partner of LC Packers and Movers">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client11.webp"
-                                        alt="Client 11 Logo | Trusted by DZ Cargo Packers and Movers"
-                                        title="Client 11 | Partner of DZ Cargo Packers and Movers">
+                                        alt="Client 11 Logo | Trusted by LC Packers and Movers"
+                                        title="Client 11 | Partner of LC Packers and Movers">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client12.webp"
-                                        alt="Client 12 Logo | Trusted by DZ Cargo Packers and Movers"
-                                        title="Client 12 | Partner of DZ Cargo Packers and Movers">
+                                        alt="Client 12 Logo | Trusted by LC Packers and Movers"
+                                        title="Client 12 | Partner of LC Packers and Movers">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client13.webp"
-                                        alt="Client 13 Logo | Trusted by DZ Cargo Packers and Movers"
-                                        title="Client 13 | Partner of DZ Cargo Packers and Movers">
+                                        alt="Client 13 Logo | Trusted by LC Packers and Movers"
+                                        title="Client 13 | Partner of LC Packers and Movers">
                                 </div>
                             </div>
                                             </div>

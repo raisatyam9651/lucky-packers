@@ -5,32 +5,32 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>DZ Cargo Packers and Movers PVT. LTD. - Trusted Relocation Services</title>
-    <meta name="description" content="Reliable packers and movers with 11+ years of experience. DZ Cargo Packers and Movers PVT. LTD. offers home, office, and vehicle relocation services across India. Get a free quote today!">
-    <meta name="keywords" content="packers and movers, relocation services, home shifting, office relocation, car transportation, warehouse storage, DZ Cargo Packers and Movers, trusted packers in India">
+    <title>LC Packers and Movers PVT. LTD. - Trusted Relocation Services</title>
+    <meta name="description" content="Reliable packers and movers with 11+ years of experience. LC Packers and Movers PVT. LTD. offers home, office, and vehicle relocation services across India. Get a free quote today!">
+    <meta name="keywords" content="packers and movers, relocation services, home shifting, office relocation, car transportation, warehouse storage, LC Packers and Movers, trusted packers in India">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/media/favicon/favicon-96x96.png" sizes="96x96" />
     <link rel="icon" type="image/svg+xml" href="<?php echo $base_url; ?>assets/media/favicon/favicon.svg" />
     <link rel="shortcut icon" href="<?php echo $base_url; ?>assets/media/favicon/favicon.ico" />
     <link rel="apple-touch-icon" sizes="180x180" href="<?php echo $base_url; ?>assets/media/favicon/apple-touch-icon.png" />
-    <meta name="apple-mobile-web-app-title" content="DZ Cargo Packers and Movers" />
+    <meta name="apple-mobile-web-app-title" content="LC Packers and Movers" />
     <link rel="manifest" href="<?php echo $base_url; ?>assets/media/favicon/site.webmanifest" />
 
     <!-- Twitter Card data -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@DzCargo">
-    <meta name="twitter:title" content="DZ Cargo Packers and Movers PVT. LTD. - Trusted Relocation Services">
+    <meta name="twitter:title" content="LC Packers and Movers PVT. LTD. - Trusted Relocation Services">
     <meta name="twitter:description" content="Explore our Home Relocation, Office Relocation, and Vehicle Moving Services. Reliable, secure, and available all over India.">
     <meta name="twitter:image" content="<?php echo $base_url; ?>assets/media/card/twitter-card.webp">
 
     <!-- Open Graph data -->
-    <meta property="og:title" content="DZ Cargo Packers and Movers PVT. LTD. - Trusted Relocation Services" />
+    <meta property="og:title" content="LC Packers and Movers PVT. LTD. - Trusted Relocation Services" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="<?php echo $base_url; ?>" />
     <meta property="og:image" content="<?php echo $base_url; ?>assets/media/card/facebook-open-graph-card.webp" />
     <meta property="og:description" content="Relocation made easy with our reliable services – Home, Office, International, and Vehicle Moving Solutions." />
-    <meta property="og:site_name" content="DZ Cargo Packers and Movers PVT. LTD." />
+    <meta property="og:site_name" content="LC Packers and Movers PVT. LTD." />
 
     <!-- CSS here -->
     <link rel="stylesheet" href="<?php echo $base_url; ?>assets/css01/bootstrap.min.css">
@@ -127,12 +127,12 @@ In your html page, add the snippet and call gtag_report_conversion when someone 
                 <div class="top-header-01-left-section" role="contentinfo">
                     <div>
                         <i class="fas fa-map-marker-alt" aria-hidden="true"></i>
-                        <span>Welcome to <strong>DZ Cargo Packer PVT. LTD.</strong></span>
+                        <span>Welcome to <strong>LC Packers and Movers PVT. LTD.</strong></span>
                     </div>
                     <div>
                         <i class="fa-regular fa-phone" aria-hidden="true"></i>
                         <span>
-                            <a href="tel:+91 8003600809" onclick="gtag_report_conversion_call_button();" title="Call DZ Cargo Packers and Movers PVT. LTD.">
+                            <a href="tel:+91 8003600809" onclick="gtag_report_conversion_call_button();" title="Call LC Packers and Movers PVT. LTD.">
                                 +91 8003600809                            </a>
                         </span>
                     </div>
@@ -140,10 +140,10 @@ In your html page, add the snippet and call gtag_report_conversion when someone 
 
                 <!-- Right Section -->
                 <div class="top-header-01-right-section">
-                    <a href="javascript:void(0);" class="get_a_free_quote" title="Get a Free Quote from DZ Cargo Packers and Movers PVT. LTD.">
+                    <a href="javascript:void(0);" class="get_a_free_quote" title="Get a Free Quote from LC Packers and Movers PVT. LTD.">
                         <i class="fa-regular fa-paper-plane" aria-hidden="true"></i>Get Free Quote
                     </a>
-                    <a href="javascript:void(0);" class="make_payment_btn_pop" title="Make a Payment to DZ Cargo Packers and Movers PVT. LTD.">
+                    <a href="javascript:void(0);" class="make_payment_btn_pop" title="Make a Payment to LC Packers and Movers PVT. LTD.">
                         <i class="fa-regular fa-receipt" aria-hidden="true"></i>Make A Payment
                     </a>
                 </div>
@@ -162,8 +162,8 @@ In your html page, add the snippet and call gtag_report_conversion when someone 
                         <div class="tgmenu__wrap">
                             <!-- Logo -->
                             <div class="logo">
-                                <a href="<?php echo $base_url; ?>" title="DZ Cargo Packers and Movers - Home">
-                                    <img src="<?php echo $base_url; ?>assets/media/logo/dz-cargo-packers-and-movers-pvt-ltd-logo.webp" alt="DZ Cargo Packers and Movers Logo" loading="lazy">
+                                <a href="<?php echo $base_url; ?>" title="LC Packers and Movers - Home">
+                                    <img src="<?php echo $base_url; ?>assets/media/logo/lc-packers-and-movers-logo.png" alt="LC Packers and Movers Logo" loading="lazy" style="height: 60px;">
                                 </a>
                             </div>
 
@@ -275,7 +275,7 @@ In your html page, add the snippet and call gtag_report_conversion when someone 
                                     <li style="display:flex;align-items:center;">
                                         <a href="<?php echo $base_url; ?>tracking.php"
                                             class=" d-inline-flex align-items-center gap-2"
-                                            style="background:#d00729;color:#fff !important;border-radius:8px;font-size:12px;font-weight:700;padding:7px 14px;white-space:nowrap;line-height:1.4;"
+                                            style="background:#E8811A;color:#fff !important;border-radius:8px;font-size:12px;font-weight:700;padding:7px 14px;white-space:nowrap;line-height:1.4;"
                                             title="Track Your Shipment">
                                             <i class="fas fa-map-marker-alt" style="font-size:11px;"></i> Track Shipment
                                         </a>
@@ -298,12 +298,12 @@ In your html page, add the snippet and call gtag_report_conversion when someone 
                             <nav class="tgmobile__menu-box">
                                 <div class="close-btn" title="Close Mobile Menu"><i class="tg-flaticon-close"></i></div>
                                 <div class="nav-logo">
-                                    <a href="<?php echo $base_url; ?>" title="DZ Cargo Packers and Movers - Home">
-                                        <img src="<?php echo $base_url; ?>assets/media/logo/dz-cargo-packers-and-movers-pvt-ltd-logo.webp" alt="DZ Cargo Packers and Movers Logo" loading="lazy">
+                                    <a href="<?php echo $base_url; ?>" title="LC Packers and Movers - Home">
+                                        <img src="<?php echo $base_url; ?>assets/media/logo/lc-packers-and-movers-logo.png" alt="LC Packers and Movers Logo" loading="lazy" style="height: 60px;">
                                     </a>
                                 </div>
                                 <div class="tgmobile__track-btn" style="padding:14px 20px 6px;">
-                                    <a href="<?php echo $base_url; ?>tracking.php" class="d-flex align-items-center justify-content-center gap-2 w-100" style="background:#d00729;color:#fff;border-radius:10px;font-size:14px;font-weight:600;padding:11px 18px;text-decoration:none;" title="Track Your Shipment">
+                                    <a href="<?php echo $base_url; ?>tracking.php" class="d-flex align-items-center justify-content-center gap-2 w-100" style="background:#E8811A;color:#fff;border-radius:10px;font-size:14px;font-weight:600;padding:11px 18px;text-decoration:none;" title="Track Your Shipment">
                                         <i class="fas fa-map-marker-alt"></i> Track Your Shipment
                                     </a>
                                 </div>

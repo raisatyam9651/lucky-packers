@@ -111,7 +111,7 @@
                         <h5 style="text-align: center;" class="mb-20">Account Details</h5>
                         <div style="line-height: 5px;">
                             <p style="margin-bottom: 5px;">Bank Name : Axis Bank</p>
-                            <p style="margin-bottom: 5px;">Name : DZ Cargo Packers & Movers PVT. LTD.</p>
+                            <p style="margin-bottom: 5px;">Name : LC Packers & Movers PVT. LTD.</p>
                             <p style="margin-bottom: 5px;">Account Number : 923010061615235</p>
                             <p style="margin-bottom: 5px;">IFSC Code : UTIB0004149</p>
                         </div>
@@ -120,9 +120,9 @@
                 <div class="row align-items-center">
                     <div class="col-lg-12 col-md-12">
                         <div class="view-all-btn text-center mb-30">
-                            <a href="upi://pay?pa=9588925534@axl&pn=DZ%20Cargo%20Packers%20and%20Movers"
+                            <a href="upi://pay?pa=9588925534@axl&pn=LC%20Packers%20and%20Movers"
                                 class="btn"
-                                title="Make a Quick and Secure UPI Payment to DZ Cargo Packers and Movers">
+                                title="Make a Quick and Secure UPI Payment to LC Packers and Movers">
                                 Click to Pay Instantly - Secure UPI Payment
                                 <img src="<?php echo $base_url; ?>assets/media/svg/right-arrow-white.svg" alt="Click to Pay Now" class="injectable">
                             </a>

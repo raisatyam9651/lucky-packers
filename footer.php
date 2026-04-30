@@ -7,11 +7,11 @@
                 <div class="col-xl-4 col-lg-5 col-md-6">
                     <div class="footer__widget">
                         <div class="footer__logo">
-                            <a href="<?php echo $base_url; ?>"><img src="<?php echo $base_url; ?>assets/media/logo/dz-cargo-packers-and-movers-pvt-ltd-logo-white.webp" alt="DZ Cargo Packers and Movers Logo"></a>
+                            <a href="<?php echo $base_url; ?>"><img src="<?php echo $base_url; ?>assets/media/logo/lc-packers-and-movers-logo.png" alt="LC Packers and Movers Logo"></a>
                         </div>
                         <div class="footer__content footer__content-two">
                             <p>
-                                DZ Cargo Packers and Movers PVT. LTD. offers professional packing and moving services across India. With over 11 years of experience, we ensure a seamless relocation for homes, offices, and vehicles.
+                                LC Packers and Movers PVT. LTD. offers professional packing and moving services across India. With over 11 years of experience, we ensure a seamless relocation for homes, offices, and vehicles.
                             </p>
                         </div>
                         <div class="footer__social footer__social-two">
@@ -96,7 +96,7 @@
             <div class="row align-items-center">
                 <div class="col-md-6">
                     <div class="copyright-text">
-                        <p>Copyright <a href="<?php echo $base_url; ?>">© 2026 DZ Cargo Packers and Movers PVT. LTD.</a> | All Rights Reserved</p>
+                        <p>Copyright <a href="<?php echo $base_url; ?>">© 2026 LC Packers and Movers PVT. LTD.</a> | All Rights Reserved</p>
                     </div>
                 </div>
                 <div class="col-md-6">
@@ -126,34 +126,34 @@
 <div class="gocube_bottom_bar01">
 
     <!-- Call Button -->
-    <a class="botbtn" href="tel:+91 8003600809" onclick="gtag_report_conversion_call_button();" title="Call DZ Cargo Packers and Movers PVT. LTD. at +91 8003600809">
+    <a class="botbtn" href="tel:+91 8003600809" onclick="gtag_report_conversion_call_button();" title="Call LC Packers and Movers PVT. LTD. at +91 8003600809">
         <i class="fa-regular fa-phone"></i>
         <br><span>CALL</span>
     </a>
 
     <!-- Email Button -->
-    <a class="botbtn" href="mailto:info@dzcargopackers.com?cc=info@dzcargopackers.com&amp;subject=Looking for Packers and Movers with DZ Cargo Packers and Movers PVT. LTD."
-        title="Send an Email to DZ Cargo Packers and Movers PVT. LTD.">
+    <a class="botbtn" href="mailto:info@dzcargopackers.com?cc=info@dzcargopackers.com&amp;subject=Looking for Packers and Movers with LC Packers and Movers PVT. LTD."
+        title="Send an Email to LC Packers and Movers PVT. LTD.">
         <i class="fa-regular fa-envelope"></i>
         <br><span>E-MAIL</span>
     </a>
 
     <!-- WhatsApp Button -->
-    <a class="botbtn" href="https://api.whatsapp.com/send?phone=+918003600809&amp;text=I%20am%20Looking%20for%20Packers%20and%20Movers%20with%20DZ%20Packers%20and%20Movers%20PVT.%20LTD."
-        target="_blank" onclick="gtag_report_conversion_whatsapp_button();" title="Chat with DZ Cargo Packers and Movers PVT. LTD. on WhatsApp">
+    <a class="botbtn" href="https://api.whatsapp.com/send?phone=+918003600809&amp;text=I%20am%20Looking%20for%20Packers%20and%20Movers%20with%20LC%20Packers%20and%20Movers%20PVT.%20LTD."
+        target="_blank" onclick="gtag_report_conversion_whatsapp_button();" title="Chat with LC Packers and Movers PVT. LTD. on WhatsApp">
         <i class="fa-brands fa-whatsapp"></i>
         <br><span>WHATSAPP</span>
     </a>
 
     <!-- Enquiry Button -->
-    <a class="botbtn get_a_free_quote" href="javascript:void(0);" title="Submit Your Enquiry to DZ Cargo Packers and Movers PVT. LTD.">
+    <a class="botbtn get_a_free_quote" href="javascript:void(0);" title="Submit Your Enquiry to LC Packers and Movers PVT. LTD.">
         <i class="fa-regular fa-square-pen"></i>
         <br><span>ENQUIRY</span>
     </a>
 
     <!-- SMS Button -->
-    <a class="botbtn" href="sms:+91 8003600809?body=I%20am%20Looking%20for%20Packers%20and%20Movers%20with%20DZ%20Packers%20and%20Movers%20PVT.%20LTD."
-        title="Send a Text Message to DZ Cargo Packers and Movers PVT. LTD.">
+    <a class="botbtn" href="sms:+91 8003600809?body=I%20am%20Looking%20for%20Packers%20and%20Movers%20with%20LC%20Packers%20and%20Movers%20PVT.%20LTD."
+        title="Send a Text Message to LC Packers and Movers PVT. LTD.">
         <i class="fa-regular fa-comment-sms"></i>
         <br><span>MESSAGE</span>
     </a>
@@ -184,7 +184,7 @@
     <script>
         setTimeout(function() {
             $('#modal01').modal('show');
-        }, 15000);
+        }, 600000); // 10 minutes
     </script>
 </body>
 

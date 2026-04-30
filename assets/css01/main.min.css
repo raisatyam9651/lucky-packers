@@ -9,7 +9,7 @@
     --tg-body-color: #666666;
     --tg-heading-color: #000038;
     --tg-theme-primary: #001b90;
-    --tg-theme-primary-two: #d70006;
+    --tg-theme-primary-two: #E8811A;
     --tg-theme-secondary: #29abe2;
     --tg-color-dark-blue: #0e104b;
     --tg-color-dark-blue-two: #001b31;
@@ -226,7 +226,7 @@ body.theme-blue {
 }
 
 body.theme-red {
-    --tg-theme-primary: #d70006
+    --tg-theme-primary: #E8811A
 }
 
 body.theme-red {
