@@ -1,0 +1,2915 @@
+<!-- header-area-end -->
+
+    <!-- main-area -->
+    <main class="fix">
+
+        <!-- slider-area -->
+        <section class="slider__area">
+            <div class="swiper-container slider__active-two">
+                <div class="swiper-wrapper">
+
+                    <!-- Slider 1: Trust & Experience -->
+                    <div class="swiper-slide slider__single-two">
+                        <div class="slider__bg-two" data-background="<?php echo $base_url; ?>assets/media/slider/dz-cargo-packers-trust-experience.webp"></div>
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <div class="slider__content-two">
+                                        <span class="sub-title">11+ Years of Excellence</span>
+                                        <h2 class="title">India’s Trusted Packers & Movers</h2>
+                                        <p>Thousands of happy customers trust us for safe and timely relocations. Experience stress-free shifting with DZ Cargo Packers and Movers by your side.</p>
+                                        <div class="slider__btn-wrap">
+                                            <a href="javascript:void(0);" class="btn get_a_free_quote" title="Get a Free Quote Now">Get a Free Quote
+                                                <img src="<?php echo $base_url; ?>assets/media/svg/right-arrow-white.svg" alt="Arrow Icon">
+                                            </a>
+                                            <a href="./our-services/" class="btn border-btn" title="Explore Our Offerings">Explore Services
+                                                <img src="<?php echo $base_url; ?>assets/media/svg/right-arrow-white.svg" alt="Arrow Icon">
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Slider 2: Efficiency & Speed -->
+                    <div class="swiper-slide slider__single-two">
+                        <div class="slider__bg-two" data-background="<?php echo $base_url; ?>assets/media/slider/dz-cargo-packers-fast-efficient.webp"></div>
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <div class="slider__content-two">
+                                        <span class="sub-title">Fast, Reliable, Secure</span>
+                                        <h2 class="title">Your Goods, Our Responsibility</h2>
+                                        <p>We handle your belongings with care. With our advanced logistics and experienced team, every move is fast, efficient, and secure.</p>
+                                        <div class="slider__btn-wrap">
+                                            <a href="javascript:void(0);" class="btn get_a_free_quote" title="Get a Free Quote Now">Get a Free Quote
+                                                <img src="<?php echo $base_url; ?>assets/media/svg/right-arrow-white.svg" alt="Arrow Icon">
+                                            </a>
+                                            <a href="./our-services/" class="btn border-btn" title="Explore Our Offerings">Explore Services
+                                                <img src="<?php echo $base_url; ?>assets/media/svg/right-arrow-white.svg" alt="Arrow Icon">
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Slider 3: Customer Satisfaction -->
+                    <div class="swiper-slide slider__single-two">
+                        <div class="slider__bg-two" data-background="<?php echo $base_url; ?>assets/media/slider/dz-cargo-packers-happy-customers.webp"></div>
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <div class="slider__content-two">
+                                        <span class="sub-title">Customer First Approach</span>
+                                        <h2 class="title">Delivering Smiles with Every Move</h2>
+                                        <p>Your satisfaction is our priority. We strive to make every relocation seamless, safe, and stress-free, ensuring you feel at home from start to finish.</p>
+                                        <div class="slider__btn-wrap">
+                                            <a href="javascript:void(0);" class="btn get_a_free_quote" title="Get a Free Quote Now">Get a Free Quote
+                                                <img src="<?php echo $base_url; ?>assets/media/svg/right-arrow-white.svg" alt="Arrow Icon">
+                                            </a>
+                                            <a href="./our-services/" class="btn border-btn" title="Explore Our Offerings">Explore Services
+                                                <img src="<?php echo $base_url; ?>assets/media/svg/right-arrow-white.svg" alt="Arrow Icon">
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+        <!-- slider-area-end -->
+
+        <!-- features-area -->
+        <section class="features__area section-pb-0">
+            <div class="container">
+                <div class="features__item-wrap-two">
+                    <div class="row justify-content-center gutter-24">
+                        <!-- Feature 1: 24/7 Customer Support -->
+                        <div class="col-lg-4 col-md-6">
+                            <div class="features__item">
+                                <div class="features__icon">
+                                    <i class="fa-light fa-headset"></i>
+                                </div>
+                                <div class="features__content">
+                                    <h2 class="title">24/7 Customer Support</h2>
+                                    <p>Round-the-clock assistance to address all your queries & concerns.</p>
+                                    <h2 class="number">01</h2>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Feature 2: Nationwide Coverage -->
+                        <div class="col-lg-4 col-md-6">
+                            <div class="features__item">
+                                <div class="features__icon">
+                                    <i class="fa-light fa-map"></i>
+                                </div>
+                                <div class="features__content">
+                                    <h2 class="title">Nationwide Coverage</h2>
+                                    <p>Extensive network across India to ensure seamless connectivity.</p>
+                                    <h2 class="number">02</h2>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Feature 3: Real-Time Tracking -->
+                        <div class="col-lg-4 col-md-6">
+                            <div class="features__item">
+                                <div class="features__icon">
+                                    <i class="fa-light fa-location-dot"></i>
+                                </div>
+                                <div class="features__content">
+                                    <h2 class="title">Real-Time Tracking</h2>
+                                    <p>Track your shipments live and stay informed at every step.</p>
+                                    <h2 class="number">03</h2>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- features-area-end -->
+
+
+        <!-- about-area -->
+        <section class="about__area-five section-p-60" style="padding-top: 30px;">
+            <div class="container">
+                <div class="row align-items-center justify-content-center gutter-24">
+                    <!-- Image Section -->
+                    <div class="col-lg-6 col-md-9">
+                        <div class="about__img-five">
+                            <img src="<?php echo $base_url; ?>assets/media/about/dz-cargo-packers-about-us-team.webp" alt="DZ Cargo Packers and Movers Team" data-aos="fade-left" data-aos-delay="200">
+                            <div class="about__clients-box about__clients-box-two" data-aos="fade-right" data-aos-delay="200">
+                                <span class="title">Committed to Safe & Reliable Relocation</span>
+                                <div class="counter__item">
+                                    <div class="counter__icon">
+                                        <i class="fa-thin fa-award"></i>
+                                    </div>
+                                    <div class="counter__content">
+                                        <h2 class="count"><span class="counter-number">11</span>+ Years</h2>
+                                        <p>Experience in Relocation Services</p>
+                                    </div>
+                                </div>
+                                <div class="counter__item">
+                                    <div class="counter__icon">
+                                        <i class="fa-thin fa-person-dolly"></i>
+                                    </div>
+                                    <div class="counter__content">
+                                        <h2 class="count"><span class="counter-number">22</span>K+</h2>
+                                        <p>Successful Relocations</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Content Section -->
+                    <div class="col-lg-6">
+                        <div class="about__content-five">
+                            <div class="section__title mb-10">
+                                <span class="sub-title">// About DZ Cargo Packers and Movers</span>
+                                <h2 class="title">Your Trusted Partner for Stress-Free Moving</h2>
+                            </div>
+                            <p>
+                                DZ Cargo Packers and Movers PVT. LTD. has been in business for over 11 years specializing in safe and reliable house relocations across India. Anything that is bound to offer you this much peace is also going to be tailored to meet your needs and specifications, right from home and office movers to vehicle movers and more.
+                            </p>
+                            <p>
+                                We have qualified and experienced personnel who guarantee safe transportation and on-time arrival. Whether moving locally or internationally, customer satisfaction is the primary goal and we treat your goods with the best care at every stage of the move.
+                            </p>
+                            <div class="about__content-inner-three">
+                                <div class="about__list-box about__list-box-five">
+                                    <ul class="list-wrap">
+                                        <li><i class="flaticon-check"></i>Expertise You Can Trust</li>
+                                        <li><i class="flaticon-check"></i>Nationwide Service Coverage</li>
+                                        <li><i class="flaticon-check"></i>Safe & On-Time Deliveries</li>
+                                        <li><i class="flaticon-check"></i>Customer-Centric Approach</li>
+                                    </ul>
+                                </div>
+                                <div class="about__list-wrap-two">
+                                    <div class="about__list-item-two">
+                                        <div class="icon">
+                                            <i class="fa-thin fa-cart-flatbed-boxes"></i>
+                                        </div>
+                                        <div class="content">
+                                            <h4 class="title">Tailored Services</h4>
+                                            <p>Customized relocation solutions for all needs.</p>
+                                        </div>
+                                    </div>
+                                    <div class="about__list-item-two">
+                                        <div class="icon">
+                                            <i class="fa-thin fa-person-carry-box"></i>
+                                        </div>
+                                        <div class="content">
+                                            <h4 class="title">Secure Handling</h4>
+                                            <p>Top-notch safety for every belonging we handle.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="about__content-bottom-two">
+                                <div class="about__author-two">
+                                    <div class="content">
+
+                                        <a href="./about-us.php" class="btn" title="Read More About us">Read More
+                                            <img src="<?php echo $base_url; ?>assets/media/svg/right-arrow-white.svg" alt="Arrow Icon">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="about__contact">
+                                    <div class="icon">
+                                        <i class="flaticon-telephone"></i>
+                                    </div>
+                                    <div class="content">
+                                        <span>Hotline Number</span>
+                                        <a title="Call DZ Cargo Packers and Movers PVT. LTD. for Reliable Relocation Services" href="tel:+91 8003600809">+91 8003600809</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="about__shape-two">
+                <img src="<?php echo $base_url; ?>assets/media/shape/dz-cargo-packers-about-featrus.webp" alt="Decorative Shape for About Section" data-aos="fade-left" data-aos-delay="400">
+            </div>
+        </section>
+
+        <!-- about-area-end -->
+        <article class="main-container__marquee">
+            <div class="main-container__marquee-track">
+                <div class="main-container__marquee-items">
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 11+ Years of Trusted Service</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Pan-India Relocation Experts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Home & Office Relocation Made Easy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Car & Bike Safe Transport</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> International Relocation Specialists</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Licensed & Certified Movers</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Advanced Tracking Technology</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Custom Packing for Fragile Items</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Transparent Pricing Policy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Fast & Secure Deliveries</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Personalized Moving Solutions</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Corporate Relocation Discounts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Comprehensive Goods Insurance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Hassle-Free Pet Relocation</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Experienced Packing Team</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 24/7 Customer Assistance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Modern & Reliable Fleet</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Flexible Scheduling Options</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Satisfaction Guaranteed</span>
+                </div>
+
+                <!-- Duplicate for Smooth Marquee Scroll -->
+                <div aria-hidden="true" class="main-container__marquee-items">
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 11+ Years of Trusted Service</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Pan-India Relocation Experts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Home & Office Relocation Made Easy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Car & Bike Safe Transport</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> International Relocation Specialists</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Licensed & Certified Movers</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Advanced Tracking Technology</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Custom Packing for Fragile Items</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Transparent Pricing Policy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Fast & Secure Deliveries</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Personalized Moving Solutions</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Corporate Relocation Discounts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Comprehensive Goods Insurance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Hassle-Free Pet Relocation</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Experienced Packing Team</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 24/7 Customer Assistance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Modern & Reliable Fleet</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Flexible Scheduling Options</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Satisfaction Guaranteed</span>
+                </div>
+            </div>
+        </article>
+
+        <!-- services-area -->
+        <section class="services__area-four grey-bg section-p-60">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-xl-12 col-lg-12">
+                        <div class="section__title text-center mb-30">
+                            <span class="sub-title">// Our Services</span>
+                            <h2 class="title">Tailored Relocation Solutions for Every Need</h2>
+                            <p>
+                                At DZ Cargo Packers and Movers PVT. LTD., we provide specialized relocation services for homes, offices, and vehicles. With over 11 years of expertise, we ensure secure, efficient, and stress-free moving solutions for every requirement.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row gutter-24 justify-content-center">
+                    <!-- Service 1: Household Relocation -->
+                    <div class="col-lg-4 col-md-6">
+                        <div class="services__item-three">
+                            <div class="services__thumb-three">
+                                <a href="./our-services/home-shifting.php" title="Household Relocation Services by DZ Cargo Packers and Movers">
+                                    <img src="<?php echo $base_url; ?>assets/media/services/dz-cargo-packers-home-shifting.webp" alt="Household Relocation Services">
+                                </a>
+                            </div>
+                            <div class="services__content-three">
+                                <div class="services__icon-three">
+                                    <i class="fa-thin fa-person-dolly"></i>
+                                </div>
+                                <h4 class="title">
+                                    <a href="./our-services/home-shifting.php" title="Learn more about Household Relocation">Household Relocation</a>
+                                </h4>
+                                <p>Our team ensures safe and efficient packing, transportation, and delivery of all household items, making your home shifting process stress-free and reliable.</p>
+                                <p style="margin-top: 10px;"><a href="./our-services/home-shifting.php" alt='read more about this service' alt='read more about this service'>Read More >></a></p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Service 2: Office Shifting -->
+                    <div class="col-lg-4 col-md-6">
+                        <div class="services__item-three">
+                            <div class="services__thumb-three">
+                                <a href="./our-services/office-shifting.php" title="Office Shifting Services by DZ Cargo Packers and Movers">
+                                    <img src="<?php echo $base_url; ?>assets/media/services/dz-cargo-packers-office-shifting.webp" alt="Office Shifting Services">
+                                </a>
+                            </div>
+                            <div class="services__content-three">
+                                <div class="services__icon-three">
+                                    <i class="fa-thin fa-building"></i>
+                                </div>
+                                <h4 class="title">
+                                    <a href="./our-services/office-shifting.php" title="Learn more about Office Shifting">Office Shifting</a>
+                                </h4>
+                                <p>Minimize downtime and ensure your office relocation is completed swiftly and securely with our expert handling of office equipment and sensitive documents.</p>
+                                <p style="margin-top: 10px;"><a href="./our-services/office-shifting.php" alt='read more about this service'>Read More >></a></p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Service 3: International Relocation -->
+                    <div class="col-lg-4 col-md-6">
+                        <div class="services__item-three">
+                            <div class="services__thumb-three">
+                                <a href="./our-services/international-relocation.php" title="International Relocation Services by DZ Cargo Packers and Movers">
+                                    <img src="<?php echo $base_url; ?>assets/media/services/dz-cargo-packers-international-relocation.webp" alt="International Relocation Services">
+                                </a>
+                            </div>
+                            <div class="services__content-three">
+                                <div class="services__icon-three">
+                                    <i class="fa-thin fa-plane-circle-check"></i>
+                                </div>
+                                <h4 class="title">
+                                    <a href="./our-services/international-relocation.php" title="Learn more about International Relocation">International Relocation</a>
+                                </h4>
+                                <p>Our cross-border relocation services provide seamless and reliable support for moving internationally, with a focus on secure transportation and customs clearance.</p>
+                                <p style="margin-top: 10px;"><a href="./our-services/international-relocation.php" alt='read more about this service'>Read More >></a></p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Service 4: Car & Bike Moving -->
+                    <div class="col-lg-4 col-md-6">
+                        <div class="services__item-three">
+                            <div class="services__thumb-three">
+                                <a href="./our-services/car-and-bike-transportation.php" title="Car and Bike Moving Services by DZ Cargo Packers and Movers">
+                                    <img src="<?php echo $base_url; ?>assets/media/services/dz-cargo-packers-car-bike-transportation.webp" alt="Car and Bike Moving Services">
+                                </a>
+                            </div>
+                            <div class="services__content-three">
+                                <div class="services__icon-three">
+                                    <i class="fa-thin fa-car"></i>
+                                </div>
+                                <h4 class="title">
+                                    <a href="./our-services/car-and-bike-transportation.php" title="Learn more about Car and Bike Moving">Car & Bike Moving</a>
+                                </h4>
+                                <p>We provide specialized transportation for cars and bikes, ensuring damage-free delivery with secure handling and timely service.</p>
+                                <p style="margin-top: 10px;"><a href="./our-services/car-and-bike-transportation.php" alt='read more about this service'>Read More >></a></p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Service 5: Warehousing -->
+                    <div class="col-lg-4 col-md-6">
+                        <div class="services__item-three">
+                            <div class="services__thumb-three">
+                                <a href="./our-services/warehouse-services.php" title="Warehousing Services by DZ Cargo Packers and Movers">
+                                    <img src="<?php echo $base_url; ?>assets/media/services/dz-cargo-packers-warehousing.webp" alt="Warehousing Services">
+                                </a>
+                            </div>
+                            <div class="services__content-three">
+                                <div class="services__icon-three">
+                                    <i class="fa-thin fa-warehouse"></i>
+                                </div>
+                                <h4 class="title">
+                                    <a href="./our-services/warehouse-services.php" title="Learn more about Warehousing">Warehousing</a>
+                                </h4>
+                                <p>Our modern warehouses provide secure storage options, flexible plans, and round-the-clock monitoring to safeguard your goods.</p>
+                                <p style="margin-top: 10px;"><a href="./our-services/warehouse-services.php" alt='read more about this service'>Read More >></a></p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Service 6: Goods Insurance -->
+                    <div class="col-lg-4 col-md-6">
+                        <div class="services__item-three">
+                            <div class="services__thumb-three">
+                                <a href="./our-services/goods-insurance.php" title="Goods Insurance Services by DZ Cargo Packers and Movers">
+                                    <img src="<?php echo $base_url; ?>assets/media/services/dz-cargo-packers-goods-insurance.webp" alt="Goods Insurance Services">
+                                </a>
+                            </div>
+                            <div class="services__content-three">
+                                <div class="services__icon-three">
+                                    <i class="fa-thin fa-shield-check"></i>
+                                </div>
+                                <h4 class="title">
+                                    <a href="./our-services/goods-insurance.php" title="Learn more about Goods Insurance">Goods Insurance</a>
+                                </h4>
+                                <p>Comprehensive insurance coverage to protect your belongings against unforeseen events during transit, providing peace of mind.</p>
+                                <p style="margin-top: 10px;"><a href="./our-services/goods-insurance.php" alt='read more about this service'>Read More >></a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12">
+                    <div class="view-all-btn-two view-all-btn-three text-center mb-0 mt-10">
+                        <a href="./our-services/" title="Explore All Services by DZ Cargo Packers and Movers" class="btn border-btn">View All Services
+                            <img src="<?php echo $base_url; ?>assets/media/svg/right-arrow-red.svg" alt="Explore All Services" class="injectable">
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="services__shape-wrap-two">
+                <img src="<?php echo $base_url; ?>assets/media/svg/services_shape01.svg" alt="Decorative Shape" data-aos="fade-right" data-aos-delay="400">
+                <img src="<?php echo $base_url; ?>assets/media/svg/services_shape02.svg" alt="Rotating Decorative Shape" class="rotateme">
+                <img src="<?php echo $base_url; ?>assets/media/svg/services_shape03.svg" alt="Static Decorative Shape">
+            </div>
+        </section>
+        <!-- services-area-end -->
+
+
+        <article class="main-container__marquee" style="background-color: #000;">
+            <div class="main-container__marquee-track">
+                <div class="main-container__marquee-items">
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 11+ Years of Trusted Service</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Pan-India Relocation Experts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Home & Office Relocation Made Easy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Car & Bike Safe Transport</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> International Relocation Specialists</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Licensed & Certified Movers</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Advanced Tracking Technology</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Custom Packing for Fragile Items</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Transparent Pricing Policy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Fast & Secure Deliveries</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Personalized Moving Solutions</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Corporate Relocation Discounts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Comprehensive Goods Insurance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Hassle-Free Pet Relocation</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Experienced Packing Team</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 24/7 Customer Assistance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Modern & Reliable Fleet</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Flexible Scheduling Options</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Satisfaction Guaranteed</span>
+                </div>
+
+                <!-- Duplicate for Smooth Marquee Scroll -->
+                <div aria-hidden="true" class="main-container__marquee-items">
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 11+ Years of Trusted Service</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Pan-India Relocation Experts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Home & Office Relocation Made Easy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Car & Bike Safe Transport</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> International Relocation Specialists</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Licensed & Certified Movers</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Advanced Tracking Technology</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Custom Packing for Fragile Items</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Transparent Pricing Policy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Fast & Secure Deliveries</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Personalized Moving Solutions</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Corporate Relocation Discounts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Comprehensive Goods Insurance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Hassle-Free Pet Relocation</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Experienced Packing Team</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 24/7 Customer Assistance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Modern & Reliable Fleet</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Flexible Scheduling Options</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Satisfaction Guaranteed</span>
+                </div>
+            </div>
+        </article>
+        <!-- counter-area -->
+        <section class="counter__area counter__bg" style="padding-top:60px;padding-bottom:40px;" data-background="<?php echo $base_url; ?>assets/media/svg/vector_bg05.svg">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-3 col-sm-6">
+                        <div class="counter__item-two">
+                            <div class="counter__icon-two">
+                                <i class="fa-thin fa-box-check"></i>
+                            </div>
+                            <div class="counter__content-two">
+                                <h2 class="count"><span class="counter-number">26</span>K+</h2>
+                                <p>Completed Moves</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-sm-6">
+                        <div class="counter__item-two">
+                            <div class="counter__icon-two">
+                                <i class="fa-thin fa-face-smile"></i>
+                            </div>
+                            <div class="counter__content-two">
+                                <h2 class="count"><span class="counter-number">21</span>K+</h2>
+                                <p>Happy Clients</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-sm-6">
+                        <div class="counter__item-two">
+                            <div class="counter__icon-two">
+                                <i class="fa-thin fa-people-group"></i>
+                            </div>
+                            <div class="counter__content-two">
+                                <h2 class="count"><span class="counter-number">82</span>+</h2>
+                                <p>Expert Team Members</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-sm-6">
+                        <div class="counter__item-two">
+                            <div class="counter__icon-two">
+                                <i class="fa-thin fa-earth-americas"></i>
+                            </div>
+                            <div class="counter__content-two">
+                                <h2 class="count"><span class="counter-number">40</span>+</h2>
+                                <p>WorldWide Office</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- counter-area-end -->
+        <article class="main-container__marquee" style="background-color: #000;">
+            <div class="main-container__marquee-track">
+                <div class="main-container__marquee-items">
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 11+ Years of Trusted Service</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Pan-India Relocation Experts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Home & Office Relocation Made Easy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Car & Bike Safe Transport</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> International Relocation Specialists</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Licensed & Certified Movers</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Advanced Tracking Technology</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Custom Packing for Fragile Items</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Transparent Pricing Policy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Fast & Secure Deliveries</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Personalized Moving Solutions</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Corporate Relocation Discounts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Comprehensive Goods Insurance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Hassle-Free Pet Relocation</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Experienced Packing Team</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 24/7 Customer Assistance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Modern & Reliable Fleet</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Flexible Scheduling Options</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Satisfaction Guaranteed</span>
+                </div>
+
+                <!-- Duplicate for Smooth Marquee Scroll -->
+                <div aria-hidden="true" class="main-container__marquee-items">
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 11+ Years of Trusted Service</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Pan-India Relocation Experts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Home & Office Relocation Made Easy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Car & Bike Safe Transport</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> International Relocation Specialists</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Licensed & Certified Movers</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Advanced Tracking Technology</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Custom Packing for Fragile Items</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Transparent Pricing Policy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Fast & Secure Deliveries</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Personalized Moving Solutions</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Corporate Relocation Discounts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Comprehensive Goods Insurance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Hassle-Free Pet Relocation</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Experienced Packing Team</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 24/7 Customer Assistance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Modern & Reliable Fleet</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Flexible Scheduling Options</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Satisfaction Guaranteed</span>
+                </div>
+            </div>
+        </article>
+        <!-- why choose us area -->
+        <section class="project__area-four grey-bg section-p-60">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-10">
+                        <div class="section__title text-center mb-30">
+                            <span class="sub-title">// Why Choose Us</span>
+                            <h2 class="title">Delivering Excellence with Every Move</h2>
+                            <p>
+                                At DZ Cargo Packers & Movers PVT. LTD., we take pride in offering reliable, safe, and efficient relocation services. With over 11 years of experience, our specialized workers ensure that every move, whether residential, commercial, or automotive, is trouble-free. Trust us to handle your valuable belongings with care while delivering the highest quality service.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row gutter-24">
+                    <!-- Key Point 1 -->
+                    <div class="col-xl-3 col-lg-4 col-md-6">
+                        <div class="services__item-two">
+                            <div class="services__item-top">
+                                <div class="services__icon-two">
+                                    <i class="fa-thin fa-truck-fast" aria-hidden="true"></i>
+                                </div>
+                            </div>
+                            <h2 class="services__item-top_title">
+                                <a href="#" title="Fast & Efficient Delivery">Fast & Efficient Delivery</a>
+                            </h2>
+                            <div class="services__content-two">
+                                <p>Enjoy seamless and on-time delivery tailored to meet your deadlines.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Key Point 2 -->
+                    <div class="col-xl-3 col-lg-4 col-md-6">
+                        <div class="services__item-two">
+                            <div class="services__item-top">
+                                <div class="services__icon-two">
+                                    <i class="fa-thin fa-award" aria-hidden="true"></i>
+                                </div>
+                            </div>
+                            <h2 class="services__item-top_title">
+                                <a href="#" title="11+ Years of Expertise">11+ Years of Expertise</a>
+                            </h2>
+                            <div class="services__content-two">
+                                <p>Trust in our decade-long experience and unmatched relocation expertise.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Key Point 3 -->
+                    <div class="col-xl-3 col-lg-4 col-md-6">
+                        <div class="services__item-two">
+                            <div class="services__item-top">
+                                <div class="services__icon-two">
+                                    <i class="fa-thin fa-box-open" aria-hidden="true"></i>
+                                </div>
+                            </div>
+                            <h2 class="services__item-top_title">
+                                <a href="#" title="Careful Handling">Careful Handling</a>
+                            </h2>
+                            <div class="services__content-two">
+                                <p>Your belongings are handled with utmost care, ensuring safety at every step.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Key Point 4 -->
+                    <div class="col-xl-3 col-lg-4 col-md-6">
+                        <div class="services__item-two">
+                            <div class="services__item-top">
+                                <div class="services__icon-two">
+                                    <i class="fa-thin fa-map-location-dot" aria-hidden="true"></i>
+                                </div>
+                            </div>
+                            <h2 class="services__item-top_title">
+                                <a href="#" title="Pan-India Coverage">Pan-India Coverage</a>
+                            </h2>
+                            <div class="services__content-two">
+                                <p>We provide packing and moving services across every corner of India.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Key Point 5 -->
+                    <div class="col-xl-3 col-lg-4 col-md-6">
+                        <div class="services__item-two">
+                            <div class="services__item-top">
+                                <div class="services__icon-two">
+                                    <i class="fa-thin fa-shield-check" aria-hidden="true"></i>
+                                </div>
+                            </div>
+                            <h2 class="services__item-top_title">
+                                <a href="#" title="Comprehensive Insurance">Comprehensive Insurance</a>
+                            </h2>
+                            <div class="services__content-two">
+                                <p>Relax with the assurance of complete insurance coverage for your goods.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Key Point 6 -->
+                    <div class="col-xl-3 col-lg-4 col-md-6">
+                        <div class="services__item-two">
+                            <div class="services__item-top">
+                                <div class="services__icon-two">
+                                    <i class="fa-thin fa-headset" aria-hidden="true"></i>
+                                </div>
+                            </div>
+                            <h2 class="services__item-top_title">
+                                <a href="#" title="24/7 Customer Support">24/7 Customer Support</a>
+                            </h2>
+                            <div class="services__content-two">
+                                <p>Get assistance anytime with our dedicated round-the-clock customer support.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Key Point 7 -->
+                    <div class="col-xl-3 col-lg-4 col-md-6">
+                        <div class="services__item-two">
+                            <div class="services__item-top">
+                                <div class="services__icon-two">
+                                    <i class="fa-thin fa-truck" aria-hidden="true"></i>
+                                </div>
+                            </div>
+                            <h2 class="services__item-top_title">
+                                <a href="#" title="Modern Vehicle Fleet">Modern Vehicle Fleet</a>
+                            </h2>
+                            <div class="services__content-two">
+                                <p>Move with confidence using our well-maintained and advanced vehicle fleet.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Key Point 8 -->
+                    <div class="col-xl-3 col-lg-4 col-md-6">
+                        <div class="services__item-two">
+                            <div class="services__item-top">
+                                <div class="services__icon-two">
+                                    <i class="fa-thin fa-star" aria-hidden="true"></i>
+                                </div>
+                            </div>
+                            <h2 class="services__item-top_title">
+                                <a href="#" title="100% Customer Satisfaction">100% Customer Satisfaction</a>
+                            </h2>
+                            <div class="services__content-two">
+                                <p>We are dedicated to exceeding customer expectations with every service.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- why choose us end -->
+
+        <article class="main-container__marquee">
+            <div class="main-container__marquee-track">
+                <div class="main-container__marquee-items">
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 11+ Years of Trusted Service</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Pan-India Relocation Experts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Home & Office Relocation Made Easy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Car & Bike Safe Transport</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> International Relocation Specialists</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Licensed & Certified Movers</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Advanced Tracking Technology</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Custom Packing for Fragile Items</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Transparent Pricing Policy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Fast & Secure Deliveries</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Personalized Moving Solutions</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Corporate Relocation Discounts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Comprehensive Goods Insurance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Hassle-Free Pet Relocation</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Experienced Packing Team</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 24/7 Customer Assistance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Modern & Reliable Fleet</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Flexible Scheduling Options</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Satisfaction Guaranteed</span>
+                </div>
+
+                <!-- Duplicate for Smooth Marquee Scroll -->
+                <div aria-hidden="true" class="main-container__marquee-items">
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 11+ Years of Trusted Service</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Pan-India Relocation Experts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Home & Office Relocation Made Easy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Car & Bike Safe Transport</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> International Relocation Specialists</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Licensed & Certified Movers</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Advanced Tracking Technology</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Custom Packing for Fragile Items</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Transparent Pricing Policy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Fast & Secure Deliveries</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Personalized Moving Solutions</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Corporate Relocation Discounts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Comprehensive Goods Insurance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Hassle-Free Pet Relocation</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Experienced Packing Team</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 24/7 Customer Assistance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Modern & Reliable Fleet</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Flexible Scheduling Options</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Satisfaction Guaranteed</span>
+                </div>
+            </div>
+        </article>
+
+
+        <!-- project-area -->
+        <section class="project__area-four section-p-60">
+            <div class="container custom-container-three">
+                <div class="row justify-content-center">
+                    <div class="col-lg-10">
+                        <div class="section__title text-center mb-50">
+                            <span class="sub-title">// Our Recent Work</span>
+                            <h2 class="title">Delivering Success with Every Project</h2>
+                            <p>
+                                We have performed the task of relocation for so many times and we excel at it. From moving houses to relocating whole offices, we are able to do it all in a precise, safe and timely manner. Check out our recent work and see for yourself why the customers resort to us for all their relocation tasks.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row gutter-24">
+                    <!-- Work Item 1 -->
+                    <div class="col-lg-3 col-md-6">
+                        <article class="project__item-three">
+                            <figure class="project__thumb-three">
+                                <a href="./our-work.php" title="Explore our work at DZ Cargo Packers">
+                                    <img src="<?php echo $base_url; ?>assets/media/our-work/dz-cargo-packers-pvt-ltd-work01.webp" alt="DZ Cargo Packers Work Image 1">
+                                </a>
+                            </figure>
+                            <div class="project__content-three">
+                                <h3 class="title">
+                                    <a href="./our-work.php" title="Explore all work by DZ Cargo Packers">View All Work</a>
+                                </h3>
+                            </div>
+                            <div class="project__icon">
+                                <a href="./our-work.php" title="View more about our work">
+                                    <i class="flaticon-diagonal-arrow"></i>
+                                </a>
+                            </div>
+                        </article>
+                    </div>
+
+                    <!-- Work Item 2 -->
+                    <div class="col-lg-3 col-md-6">
+                        <article class="project__item-three">
+                            <figure class="project__thumb-three">
+                                <a href="./our-work.php" title="Explore our work at DZ Cargo Packers">
+                                    <img src="<?php echo $base_url; ?>assets/media/our-work/dz-cargo-packers-pvt-ltd-work02.webp" alt="DZ Cargo Packers Work Image 2">
+                                </a>
+                            </figure>
+                            <div class="project__content-three">
+                                <h3 class="title">
+                                    <a href="./our-work.php" title="Explore all work by DZ Cargo Packers">View All Work</a>
+                                </h3>
+                            </div>
+                            <div class="project__icon">
+                                <a href="./our-work.php" title="View more about our work">
+                                    <i class="flaticon-diagonal-arrow"></i>
+                                </a>
+                            </div>
+                        </article>
+                    </div>
+
+                    <!-- Work Item 3 -->
+                    <div class="col-lg-3 col-md-6">
+                        <article class="project__item-three">
+                            <figure class="project__thumb-three">
+                                <a href="./our-work.php" title="Explore our work at DZ Cargo Packers">
+                                    <img src="<?php echo $base_url; ?>assets/media/our-work/dz-cargo-packers-pvt-ltd-work03.webp" alt="DZ Cargo Packers Work Image 3">
+                                </a>
+                            </figure>
+                            <div class="project__content-three">
+                                <h3 class="title">
+                                    <a href="./our-work.php" title="Explore all work by DZ Cargo Packers">View All Work</a>
+                                </h3>
+                            </div>
+                            <div class="project__icon">
+                                <a href="./our-work.php" title="View more about our work">
+                                    <i class="flaticon-diagonal-arrow"></i>
+                                </a>
+                            </div>
+                        </article>
+                    </div>
+
+                    <!-- Work Item 4 -->
+                    <div class="col-lg-3 col-md-6">
+                        <article class="project__item-three">
+                            <figure class="project__thumb-three">
+                                <a href="./our-work.php" title="Explore our work at DZ Cargo Packers">
+                                    <img src="<?php echo $base_url; ?>assets/media/our-work/dz-cargo-packers-pvt-ltd-work04.webp" alt="DZ Cargo Packers Work Image 4">
+                                </a>
+                            </figure>
+                            <div class="project__content-three">
+                                <h3 class="title">
+                                    <a href="./our-work.php" title="Explore all work by DZ Cargo Packers">View All Work</a>
+                                </h3>
+                            </div>
+                            <div class="project__icon">
+                                <a href="./our-work.php" title="View more about our work">
+                                    <i class="flaticon-diagonal-arrow"></i>
+                                </a>
+                            </div>
+                        </article>
+                    </div>
+
+                    <!-- Work Item 5 -->
+                    <!-- Work Item 5 -->
+                    <div class="col-lg-3 col-md-6">
+                        <article class="project__item-three">
+                            <figure class="project__thumb-three">
+                                <a href="./our-work.php" title="Explore our work at DZ Cargo Packers">
+                                    <img src="<?php echo $base_url; ?>assets/media/our-work/dz-cargo-packers-pvt-ltd-work05.webp" alt="DZ Cargo Packers Work Image 5">
+                                </a>
+                            </figure>
+                            <div class="project__content-three">
+                                <h3 class="title">
+                                    <a href="./our-work.php" title="Explore all work by DZ Cargo Packers">View All Work</a>
+                                </h3>
+                            </div>
+                            <div class="project__icon">
+                                <a href="./our-work.php" title="View more about our work">
+                                    <i class="flaticon-diagonal-arrow"></i>
+                                </a>
+                            </div>
+                        </article>
+                    </div>
+
+                    <!-- Work Item 6 -->
+                    <div class="col-lg-3 col-md-6">
+                        <article class="project__item-three">
+                            <figure class="project__thumb-three">
+                                <a href="./our-work.php" title="Explore our work at DZ Cargo Packers">
+                                    <img src="<?php echo $base_url; ?>assets/media/our-work/dz-cargo-packers-pvt-ltd-work06.webp" alt="DZ Cargo Packers Work Image 6">
+                                </a>
+                            </figure>
+                            <div class="project__content-three">
+                                <h3 class="title">
+                                    <a href="./our-work.php" title="Explore all work by DZ Cargo Packers">View All Work</a>
+                                </h3>
+                            </div>
+                            <div class="project__icon">
+                                <a href="./our-work.php" title="View more about our work">
+                                    <i class="flaticon-diagonal-arrow"></i>
+                                </a>
+                            </div>
+                        </article>
+                    </div>
+
+                    <!-- Work Item 7 -->
+                    <div class="col-lg-3 col-md-6">
+                        <article class="project__item-three">
+                            <figure class="project__thumb-three">
+                                <a href="./our-work.php" title="Explore our work at DZ Cargo Packers">
+                                    <img src="<?php echo $base_url; ?>assets/media/our-work/dz-cargo-packers-pvt-ltd-work07.webp" alt="DZ Cargo Packers Work Image 7">
+                                </a>
+                            </figure>
+                            <div class="project__content-three">
+                                <h3 class="title">
+                                    <a href="./our-work.php" title="Explore all work by DZ Cargo Packers">View All Work</a>
+                                </h3>
+                            </div>
+                            <div class="project__icon">
+                                <a href="./our-work.php" title="View more about our work">
+                                    <i class="flaticon-diagonal-arrow"></i>
+                                </a>
+                            </div>
+                        </article>
+                    </div>
+
+                    <!-- Work Item 8 -->
+                    <div class="col-lg-3 col-md-6">
+                        <article class="project__item-three">
+                            <figure class="project__thumb-three">
+                                <a href="./our-work.php" title="Explore our work at DZ Cargo Packers">
+                                    <img src="<?php echo $base_url; ?>assets/media/our-work/dz-cargo-packers-pvt-ltd-work08.webp" alt="DZ Cargo Packers Work Image 8">
+                                </a>
+                            </figure>
+                            <div class="project__content-three">
+                                <h3 class="title">
+                                    <a href="./our-work.php" title="Explore all work by DZ Cargo Packers">View All Work</a>
+                                </h3>
+                            </div>
+                            <div class="project__icon">
+                                <a href="./our-work.php" title="View more about our work">
+                                    <i class="flaticon-diagonal-arrow"></i>
+                                </a>
+                            </div>
+                        </article>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="col-12">
+                <div class="view-all-btn-two view-all-btn-three text-center mb-0 mt-10">
+                    <a href="./our-work.php" title="Explore All Work by DZ Cargo Packers and Movers" class="btn border-btn">View All Work <img src="<?php echo $base_url; ?>assets/media/svg/right-arrow-red.svg" alt="Explore All Services" class="injectable"></a>
+                </div>
+            </div>
+            </div>
+        </section>
+        <!-- project-area-end -->
+
+        <article class="main-container__marquee" style="background-color: #000;">
+            <div class="main-container__marquee-track">
+                <div class="main-container__marquee-items">
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 11+ Years of Trusted Service</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Pan-India Relocation Experts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Home & Office Relocation Made Easy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Car & Bike Safe Transport</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> International Relocation Specialists</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Licensed & Certified Movers</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Advanced Tracking Technology</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Custom Packing for Fragile Items</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Transparent Pricing Policy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Fast & Secure Deliveries</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Personalized Moving Solutions</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Corporate Relocation Discounts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Comprehensive Goods Insurance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Hassle-Free Pet Relocation</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Experienced Packing Team</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 24/7 Customer Assistance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Modern & Reliable Fleet</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Flexible Scheduling Options</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Satisfaction Guaranteed</span>
+                </div>
+
+                <!-- Duplicate for Smooth Marquee Scroll -->
+                <div aria-hidden="true" class="main-container__marquee-items">
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 11+ Years of Trusted Service</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Pan-India Relocation Experts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Home & Office Relocation Made Easy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Car & Bike Safe Transport</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> International Relocation Specialists</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Licensed & Certified Movers</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Advanced Tracking Technology</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Custom Packing for Fragile Items</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Transparent Pricing Policy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Fast & Secure Deliveries</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Personalized Moving Solutions</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Corporate Relocation Discounts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Comprehensive Goods Insurance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Hassle-Free Pet Relocation</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Experienced Packing Team</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 24/7 Customer Assistance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Modern & Reliable Fleet</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Flexible Scheduling Options</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Satisfaction Guaranteed</span>
+                </div>
+            </div>
+        </article>
+        <!-- work-area -->
+        <section class="work__area-two section-p-60">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-10">
+                        <div class="section__title text-center white-title mb-50">
+                            <span class="sub-title">// HOW IT WORKS</span>
+                            <h2 class="title">Unveiling Our Streamlined Relocation Process</h2>
+                            <p class="dec">
+                                At DZ Cargo Packers and Movers PVT. LTD., we follow a proven and efficient process to ensure your relocation is smooth and hassle-free. From planning and packing to transportation and delivery, every step is designed to provide the highest level of safety and satisfaction. Discover how our expert team transforms moving into a seamless experience for you.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="work__item-wrap">
+                    <div class="row justify-content-center">
+                        <!-- Step 1: Planning & Scheduling -->
+                        <div class="col-lg-3 col-sm-6">
+                            <div class="work__item work__item-two">
+                                <div class="work__icon work__icon-two">
+                                    <i class="fa-thin fa-calendar-check" title="Planning & Scheduling Icon"></i>
+                                    <span class="number">01</span>
+                                </div>
+                                <div class="work__content work__content-two">
+                                    <h4 class="title">Planning & Scheduling</h4>
+                                    <p>We assess your requirements and create a customized plan for a hassle-free relocation.</p>
+                                </div>
+                                <div class="work__shape work__shape-two">
+                                    <img src="<?php echo $base_url; ?>assets/media/shape/working-process01.svg" alt="Planning Shape Graphic" class="injectable">
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Step 2: Professional Packing -->
+                        <div class="col-lg-3 col-sm-6">
+                            <div class="work__item work__item-two">
+                                <div class="work__icon work__icon-two">
+                                    <i class="fa-thin fa-box-open" title="Professional Packing Icon"></i>
+                                    <span class="number">02</span>
+                                </div>
+                                <div class="work__content work__content-two">
+                                    <h4 class="title">Professional Packing</h4>
+                                    <p>Our team uses high-quality materials to securely pack and label your belongings.</p>
+                                </div>
+                                <div class="work__shape work__shape-two">
+                                    <img src="<?php echo $base_url; ?>assets/media/shape/working-process02.svg" alt="Packing Shape Graphic" class="injectable">
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Step 3: Safe Transportation -->
+                        <div class="col-lg-3 col-sm-6">
+                            <div class="work__item work__item-two">
+                                <div class="work__icon work__icon-two">
+                                    <i class="fa-thin fa-truck" title="Safe Transportation Icon"></i>
+                                    <span class="number">03</span>
+                                </div>
+                                <div class="work__content work__content-two">
+                                    <h4 class="title">Safe Transportation</h4>
+                                    <p>Your goods are transported safely using GPS-equipped vehicles for timely delivery.</p>
+                                </div>
+                                <div class="work__shape work__shape-two">
+                                    <img src="<?php echo $base_url; ?>assets/media/shape/working-process01.svg" alt="Transportation Shape Graphic" class="injectable">
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Step 4: Unloading & Setup -->
+                        <div class="col-lg-3 col-sm-6">
+                            <div class="work__item work__item-two">
+                                <div class="work__icon work__icon-two">
+                                    <i class="fa-thin fa-people-carry-box" title="Unloading & Setup Icon"></i>
+                                    <span class="number">04</span>
+                                </div>
+                                <div class="work__content work__content-two">
+                                    <h4 class="title">Unloading & Setup</h4>
+                                    <p>We carefully unload and assist with unpacking to ensure a smooth transition.</p>
+                                </div>
+                                <div class="work__shape work__shape-two">
+                                    <img src="<?php echo $base_url; ?>assets/media/shape/working-process01.svg" alt="Unloading Shape Graphic" class="injectable">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- work-area-end -->
+
+        <article class="main-container__marquee" style="background-color: #000;">
+            <div class="main-container__marquee-track">
+                <div class="main-container__marquee-items">
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 11+ Years of Trusted Service</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Pan-India Relocation Experts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Home & Office Relocation Made Easy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Car & Bike Safe Transport</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> International Relocation Specialists</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Licensed & Certified Movers</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Advanced Tracking Technology</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Custom Packing for Fragile Items</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Transparent Pricing Policy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Fast & Secure Deliveries</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Personalized Moving Solutions</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Corporate Relocation Discounts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Comprehensive Goods Insurance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Hassle-Free Pet Relocation</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Experienced Packing Team</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 24/7 Customer Assistance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Modern & Reliable Fleet</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Flexible Scheduling Options</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Satisfaction Guaranteed</span>
+                </div>
+
+                <!-- Duplicate for Smooth Marquee Scroll -->
+                <div aria-hidden="true" class="main-container__marquee-items">
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 11+ Years of Trusted Service</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Pan-India Relocation Experts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Home & Office Relocation Made Easy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Car & Bike Safe Transport</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> International Relocation Specialists</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Licensed & Certified Movers</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Advanced Tracking Technology</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Custom Packing for Fragile Items</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Transparent Pricing Policy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Fast & Secure Deliveries</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Personalized Moving Solutions</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Corporate Relocation Discounts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Comprehensive Goods Insurance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Hassle-Free Pet Relocation</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Experienced Packing Team</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 24/7 Customer Assistance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Modern & Reliable Fleet</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Flexible Scheduling Options</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Satisfaction Guaranteed</span>
+                </div>
+            </div>
+        </article>
+        <!-- cta-area -->
+        <section class="cta__area-three">
+            <div class="container">
+                <div class="cta__wrap-two cta__wrap-three">
+                    <div class="cta__img">
+                        <img src="<?php echo $base_url; ?>assets/media/cta/dz-cargo-packers-main.webp" alt="DZ Cargo Packers and Movers - Reliable Transport Services">
+                    </div>
+                    <div class="cta__content-two cta__content-three">
+                        <div class="content__left">
+                            <h1 class="title">Looking for Reliable Packing and Moving Services?</h1>
+                            <p>DZ Cargo Packers and Movers PVT. LTD. is operating in this sector for over 11 years which gives them the experience to provide the best quality of packing, moving and relocation services all over India. Whether it is shifting a home, an office or a vehicle, we make the transition easy and efficient.</p>
+                        </div>
+                        <div class="cta__btn-two cta__btn-three">
+                            <a href="javascript:void(0);" class="btn get_a_free_quote">Get A Free Quote <img src="<?php echo $base_url; ?>assets/media/svg/right-arrow-white.svg" alt="Get A Free Quote" class="injectable"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- cta-area-end -->
+        <!-- testimonial-area -->
+        <section class="testimonial__area-four">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-xl-8 col-lg-10">
+                        <div class="testimonial__wrap fix">
+                            <div class="testimonial__icon testimonial__icon-two">
+                                <img src="<?php echo $base_url; ?>assets/media/icon/quote.svg" alt="Quote Icon" class="injectable">
+                            </div>
+                            <div class="testimonial-slider-dot">
+                                <div class="swiper testimonial__nav">
+                                    <div class="swiper-wrapper">
+                                        <div class="swiper-slide">
+                                            <button>
+                                                <img src="<?php echo $base_url; ?>assets/media/testimonial/avatar-1.webp" alt="Rajat Sharma - Delhi, India">
+                                            </button>
+                                        </div>
+                                        <div class="swiper-slide">
+                                            <button>
+                                                <img src="<?php echo $base_url; ?>assets/media/testimonial/avatar-2.webp" alt="Priya Mehta - Mumbai, India">
+                                            </button>
+                                        </div>
+                                        <div class="swiper-slide">
+                                            <button>
+                                                <img src="<?php echo $base_url; ?>assets/media/testimonial/avatar-3.webp" alt="Anjali Gupta - Pune, India">
+                                            </button>
+                                        </div>
+                                        <div class="swiper-slide">
+                                            <button>
+                                                <img src="<?php echo $base_url; ?>assets/media/testimonial/avatar-4.webp" alt="Ramesh Verma - Hyderabad, India">
+                                            </button>
+                                        </div>
+                                        <div class="swiper-slide">
+                                            <button>
+                                                <img src="<?php echo $base_url; ?>assets/media/testimonial/avatar-5.webp" alt="Sneha Rajput - Chennai, India">
+                                            </button>
+                                        </div>
+                                        <div class="swiper-slide">
+                                            <button>
+                                                <img src="<?php echo $base_url; ?>assets/media/testimonial/avatar-6.webp" alt="Vivek Mishra - Kolkata, India">
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper testimonial-active">
+                                <div class="swiper-wrapper">
+                                    <div class="swiper-slide">
+                                        <div class="testimonial__item">
+                                            <div class="testimonial__info">
+                                                <h2 class="name">Rajat Sharma</h2>
+                                                <span>Delhi, India</span>
+                                            </div>
+                                            <div class="testimonial__rating">
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                            </div>
+                                            <div class="testimonial__content">
+                                                <p>“DZ Cargo Packers and Movers made my home relocation completely hassle-free. Their team was professional, on-time, and handled my belongings with utmost care. Highly recommended!”</p>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="swiper-slide">
+                                        <div class="testimonial__item">
+                                            <div class="testimonial__info">
+                                                <h2 class="name">Priya Mehta</h2>
+                                                <span>Mumbai, India</span>
+                                            </div>
+                                            <div class="testimonial__rating">
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star-half-alt"></i>
+                                            </div>
+                                            <div class="testimonial__content">
+                                                <p>“Their service was excellent! My car was delivered safely and on time to Bangalore. Although the initial scheduling took some time, the overall experience was fantastic.”</p>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="swiper-slide">
+                                        <div class="testimonial__item">
+                                            <div class="testimonial__info">
+                                                <h2 class="name">Anjali Gupta</h2>
+                                                <span>Pune, India</span>
+                                            </div>
+                                            <div class="testimonial__rating">
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                            </div>
+                                            <div class="testimonial__content">
+                                                <p>“I was nervous about relocating my office, but DZ Cargo Packers and Movers handled everything smoothly. The team was efficient, and they ensured minimal downtime for my business.”</p>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="swiper-slide">
+                                        <div class="testimonial__item">
+                                            <div class="testimonial__info">
+                                                <h2 class="name">Ramesh Verma</h2>
+                                                <span>Hyderabad, India</span>
+                                            </div>
+                                            <div class="testimonial__rating">
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star-half-alt"></i>
+                                            </div>
+                                            <div class="testimonial__content">
+                                                <p>“The packing was impressive, and the staff was very courteous. My furniture arrived without a single scratch. Their tracking system is also very helpful.”</p>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="swiper-slide">
+                                        <div class="testimonial__item">
+                                            <div class="testimonial__info">
+                                                <h2 class="name">Sneha Rajput</h2>
+                                                <span>Chennai, India</span>
+                                            </div>
+                                            <div class="testimonial__rating">
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                            </div>
+                                            <div class="testimonial__content">
+                                                <p>“I’ve used their services twice now, and both times were exceptional. Their attention to detail and care for my belongings is unmatched. Will definitely use again!”</p>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="swiper-slide">
+                                        <div class="testimonial__item">
+                                            <div class="testimonial__info">
+                                                <h2 class="name">Vivek Mishra</h2>
+                                                <span>Kolkata, India</span>
+                                            </div>
+                                            <div class="testimonial__rating">
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                            </div>
+                                            <div class="testimonial__content">
+                                                <p>“They made my inter-city relocation a breeze. The team was friendly, and the pricing was transparent with no hidden costs. Definitely the best movers I’ve hired!”</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="testimonial__nav-wrap testimonial__nav-wrap-three">
+                                    <button class="testimonial-button-prev">
+                                        <i class="flaticon-left-arrow"></i>
+                                    </button>
+                                    <button class="testimonial-button-next">
+                                        <i class="flaticon-right-arrow"></i>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="testimonial__shape">
+                    <img src="<?php echo $base_url; ?>assets/media/shape/dz-cargo-packers-testimonial.svg" alt="Decorative Testimonial Shape">
+                </div>
+            </div>
+        </section>
+        <!-- testimonial-area-end -->
+        <article class="main-container__marquee">
+            <div class="main-container__marquee-track">
+                <div class="main-container__marquee-items">
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 11+ Years of Trusted Service</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Pan-India Relocation Experts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Home & Office Relocation Made Easy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Car & Bike Safe Transport</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> International Relocation Specialists</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Licensed & Certified Movers</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Advanced Tracking Technology</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Custom Packing for Fragile Items</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Transparent Pricing Policy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Fast & Secure Deliveries</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Personalized Moving Solutions</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Corporate Relocation Discounts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Comprehensive Goods Insurance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Hassle-Free Pet Relocation</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Experienced Packing Team</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 24/7 Customer Assistance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Modern & Reliable Fleet</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Flexible Scheduling Options</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Satisfaction Guaranteed</span>
+                </div>
+
+                <!-- Duplicate for Smooth Marquee Scroll -->
+                <div aria-hidden="true" class="main-container__marquee-items">
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 11+ Years of Trusted Service</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Pan-India Relocation Experts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Home & Office Relocation Made Easy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Car & Bike Safe Transport</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> International Relocation Specialists</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Licensed & Certified Movers</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Advanced Tracking Technology</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Custom Packing for Fragile Items</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Transparent Pricing Policy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Fast & Secure Deliveries</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Personalized Moving Solutions</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Corporate Relocation Discounts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Comprehensive Goods Insurance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Hassle-Free Pet Relocation</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Experienced Packing Team</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 24/7 Customer Assistance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Modern & Reliable Fleet</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Flexible Scheduling Options</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Satisfaction Guaranteed</span>
+                </div>
+            </div>
+        </article>
+
+        <!-- Pricing Section -->
+        <section class="project__area-four grey-bg section-p-60">
+            <div class="container">
+                <!-- Section Title -->
+                <div class="row justify-content-center">
+                    <div class="col-lg-10">
+                        <div class="section__title text-center mb-30">
+                            <span class="sub-title">// Transparent Pricing</span>
+                            <h2 class="title">Affordable Pricing for Reliable Relocation</h2>
+                            <p>
+                                As for our pricing, we want to provide our clients with reasonable, cost-effective, and most of all transparent costs for our quality services of moving. At DZ Cargo Packers and Movers PVT. LTD., with over 11 years of experience, we ensure that the value of your move matches the cost. Whether you are relocating your house, office space, or vehicle, we offer cost-effective plans to meet all your requirements with no hidden charges.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Pricing Tables -->
+                <div class="row gutter-24">
+                    <div class="container my-1">
+                        <!-- Local Shifting Charges -->
+                        <span class="sub-title_price">
+                            -- Local Shifting Charges Approx With Price List --
+                        </span>
+                        <div class="table-responsive">
+                            <table class="table table-bordered" aria-label="Local Shifting Charges">
+                                <tbody class="table-light">
+                                    <tr style="background-color: var(--maroof-primary);">
+                                        <th>Type of Move</th>
+                                        <th>Up to 10 km</th>
+                                        <th>From 11 - 25 km</th>
+                                        <th>From 26 - 40 km</th>
+                                        <th>Above 45 km</th>
+                                    </tr>
+                                    <tr>
+                                        <td>1 BHK house shifting</td>
+                                        <td>₹ 3,000 - 5,000</td>
+                                        <td>₹ 4,000 – 6,500</td>
+                                        <td>₹ 7,000 - 8,500</td>
+                                        <td>₹ 8,000 - 10,500</td>
+                                    </tr>
+                                    <tr>
+                                        <td>2 BHK house shifting</td>
+                                        <td>₹ 4,000 - 7,000</td>
+                                        <td>₹ 6,500 - 9,500</td>
+                                        <td>₹ 8,500 - 11,000</td>
+                                        <td>₹ 10,000 - 13,500</td>
+                                    </tr>
+                                    <tr>
+                                        <td>3 BHK house shifting</td>
+                                        <td>₹ 8,000 - 10,000</td>
+                                        <td>₹ 9,500 - 12,500</td>
+                                        <td>₹ 12,000 – 16,500</td>
+                                        <td>₹ 15,000 - 20,500</td>
+                                    </tr>
+                                    <tr>
+                                        <td>4 BHK house shifting</td>
+                                        <td>₹ 8,000 - 12,000</td>
+                                        <td>₹ 12,000 - 14,500</td>
+                                        <td>₹ 13,500 - 17,500</td>
+                                        <td>₹ 15,000 - 20,500</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Office shifting</td>
+                                        <td>₹ 6,500 - 10,000</td>
+                                        <td>₹ 11,000 - 18,500</td>
+                                        <td>₹ 18,000 - 26,000</td>
+                                        <td>₹ 25,000 - 35,000</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                        <!-- Domestic Shifting Charges -->
+                        <span class="sub-title_price mt-4">
+                            -- Domestic Shifting Charges Approx With Price List --
+                        </span>
+                        <div class="table-responsive">
+                            <table class="table table-bordered" aria-label="Domestic Shifting Charges">
+                                <tbody class="table-light">
+                                    <tr>
+                                        <th>Type of Move</th>
+                                        <th>Up to 400 Km</th>
+                                        <th>400 – 800 Km</th>
+                                        <th>800 – 1300 Km</th>
+                                        <th>1300 – 1900 Km</th>
+                                    </tr>
+                                    <tr>
+                                        <td>Complete house shifting</td>
+                                        <td>₹ 11,000 – 22,000</td>
+                                        <td>₹ 12,000 – 25,000</td>
+                                        <td>₹ 13,000 – 26,000</td>
+                                        <td>₹ 14,000 – 30,000</td>
+                                    </tr>
+                                    <tr>
+                                        <td>1 BHK house shifting</td>
+                                        <td>₹ 6,000 – 15,000</td>
+                                        <td>₹ 9,000 – 20,000</td>
+                                        <td>₹ 10,000 – 22,000</td>
+                                        <td>₹ 11,000 – 24,000</td>
+                                    </tr>
+                                    <tr>
+                                        <td>2 BHK house shifting</td>
+                                        <td>₹ 8,000 – 18,000</td>
+                                        <td>₹ 10,000 – 25,000</td>
+                                        <td>₹ 12,000 – 24,000</td>
+                                        <td>₹ 14,000 – 28,000</td>
+                                    </tr>
+                                    <tr>
+                                        <td>3 BHK house shifting</td>
+                                        <td>₹ 10,000 – 25,000</td>
+                                        <td>₹ 11,000 – 30,000</td>
+                                        <td>₹ 13,000 – 28,000</td>
+                                        <td>₹ 16,000 – 34,000</td>
+                                    </tr>
+                                    <tr>
+                                        <td>4 BHK house shifting</td>
+                                        <td>₹ 15,000 – 28,000</td>
+                                        <td>₹ 16,000 – 32,000</td>
+                                        <td>₹ 16,000 – 32,000</td>
+                                        <td>₹ 26,000 – 42,000</td>
+                                    </tr>
+                                    <tr>
+                                        <td>5 BHK house shifting</td>
+                                        <td>₹ 18,000 – 30,000</td>
+                                        <td>₹ 23,000 – 40,000</td>
+                                        <td>₹ 22,000 – 38,000</td>
+                                        <td>₹ 34,000 – 48,000</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Car transportation charges</td>
+                                        <td>₹ 3,000 – 5,000</td>
+                                        <td>₹ 7,000 – 10,000</td>
+                                        <td>₹ 9,000 – 13,000</td>
+                                        <td>₹ 11,000 – 15,000</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <article class="main-container__marquee" style="background-color: #000;">
+            <div class="main-container__marquee-track">
+                <div class="main-container__marquee-items">
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 11+ Years of Trusted Service</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Pan-India Relocation Experts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Home & Office Relocation Made Easy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Car & Bike Safe Transport</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> International Relocation Specialists</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Licensed & Certified Movers</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Advanced Tracking Technology</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Custom Packing for Fragile Items</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Transparent Pricing Policy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Fast & Secure Deliveries</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Personalized Moving Solutions</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Corporate Relocation Discounts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Comprehensive Goods Insurance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Hassle-Free Pet Relocation</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Experienced Packing Team</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 24/7 Customer Assistance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Modern & Reliable Fleet</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Flexible Scheduling Options</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Satisfaction Guaranteed</span>
+                </div>
+
+                <!-- Duplicate for Smooth Marquee Scroll -->
+                <div aria-hidden="true" class="main-container__marquee-items">
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 11+ Years of Trusted Service</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Pan-India Relocation Experts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Home & Office Relocation Made Easy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Car & Bike Safe Transport</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> International Relocation Specialists</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Licensed & Certified Movers</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Advanced Tracking Technology</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Custom Packing for Fragile Items</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Transparent Pricing Policy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Fast & Secure Deliveries</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Personalized Moving Solutions</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Corporate Relocation Discounts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Comprehensive Goods Insurance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Hassle-Free Pet Relocation</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Experienced Packing Team</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 24/7 Customer Assistance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Modern & Reliable Fleet</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Flexible Scheduling Options</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Satisfaction Guaranteed</span>
+                </div>
+            </div>
+        </article>
+
+        <!-- faq-area -->
+        <section class="faq__area-two section-p-60">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-6">
+                        <div class="faq__content">
+                            <div class="section__title white-title mb-30">
+                                <span class="sub-title">// PACKERS & MOVERS FAQ'S</span>
+                                <h2 class="title">Get Answers to Common Relocation Questions</h2>
+                            </div>
+                            <div class="faq__wrap-three">
+                                <div class="accordion" id="accordionExample">
+                                    <!-- FAQ 1 -->
+                                    <div class="accordion-item">
+                                        <h2 class="accordion-header">
+                                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne" title="What are the services provided by DZ Cargo Packers and Movers?">
+                                                What are the services provided by DZ Cargo Packers and Movers?
+                                            </button>
+                                        </h2>
+                                        <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+                                            <div class="accordion-body">
+                                                <p>We provide household relocation, office shifting, international moving, car and bike transportation, warehousing, and goods insurance services across India.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <!-- FAQ 2 -->
+                                    <div class="accordion-item">
+                                        <h2 class="accordion-header">
+                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo" title="How much time does the relocation process take?">
+                                                How much time does the relocation process take?
+                                            </button>
+                                        </h2>
+                                        <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                            <div class="accordion-body">
+                                                <p>The time depends on the type and distance of relocation. Local moves generally take 1-2 days, while domestic or international moves may take longer.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <!-- FAQ 3 -->
+                                    <div class="accordion-item">
+                                        <h2 class="accordion-header">
+                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree" title="Are my goods insured during transit?">
+                                                Are my goods insured during transit?
+                                            </button>
+                                        </h2>
+                                        <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                            <div class="accordion-body">
+                                                <p>Yes, we offer comprehensive goods insurance to ensure your items are covered in case of any unforeseen events during transit.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <!-- FAQ 4 -->
+                                    <div class="accordion-item">
+                                        <h2 class="accordion-header">
+                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour" title="What payment methods are accepted?">
+                                                What payment methods are accepted?
+                                            </button>
+                                        </h2>
+                                        <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                            <div class="accordion-body">
+                                                <p>We accept all major payment methods, including credit/debit cards, UPI, net banking, and cash payments.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <!-- FAQ 5 -->
+                                    <div class="accordion-item">
+                                        <h2 class="accordion-header">
+                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive" title="How can I track my shipment?">
+                                                How can I track my shipment?
+                                            </button>
+                                        </h2>
+                                        <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                            <div class="accordion-body">
+                                                <p>You can track your shipment using the tracking ID provided by us. Our GPS-enabled vehicles allow real-time tracking for added peace of mind.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <!-- FAQ 6 -->
+                                    <div class="accordion-item">
+                                        <h2 class="accordion-header">
+                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix" title="Do you offer packing materials and labor services?">
+                                                Do you offer packing materials and labor services?
+                                            </button>
+                                        </h2>
+                                        <div id="collapseSix" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                            <div class="accordion-body">
+                                                <p>Yes, we provide high-quality packing materials and professional labor to pack, load, and unload your belongings safely.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6">
+                        <div class="container">
+                            <div class="request__wrap-two">
+                                <div class="section__title mb-20">
+                                    <span class="sub-title">// Contact Us</span>
+                                    <h2 class="title">Get A Free Quote!</h2>
+                                </div>
+                                <form action="javascript:void(0);" id="get_a_quote_form02" class="request__form-three">
+                                    <div class="row">
+                                        <!-- Name Field -->
+                                        <div class="col-lg-6 col-12">
+                                            <div class="form-grp">
+                                                <input type="text" name="name" class="form-control" placeholder="Your Name" title="Enter your full name">
+                                                <small class="error-message"></small>
+                                            </div>
+                                        </div>
+                                        <!-- Mobile Field -->
+                                        <div class="col-lg-6 col-12">
+                                            <div class="form-grp">
+                                                <input type="tel" name="mobile" class="form-control" placeholder="10 Digit Mobile Number" title="Enter a valid mobile number">
+                                                <small class="error-message"></small>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-12">
+                                            <div class="form-grp">
+                                                <input type="email" name="email" class="form-control" placeholder="Email Address" title="Enter your email address">
+                                                <small class="error-message"></small>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-6 col-12">
+                                            <div class="form-grp">
+                                                <input type="text" name="shifting_from" autocomplete="off" class="form-control iput66b626d1925ae" id="ip66b6238a43f5903" placeholder="Shifting From" title="Enter the origin location">
+                                                <div class="s5ece4797eaf5e" id="ip66b6238a43f5903Suggestions" style="width: 80% !important"></div>
+                                                <small class="error-message"></small>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-6 col-12">
+                                            <div class="form-grp">
+                                                <input type="text" name="shifting_to" autocomplete="off" class="form-control iput66b626d1925ae" placeholder="Shifting To" id="ip66b6238a43f5904" title="Enter the destination location">
+                                                <div class="s5ece4797eaf5e" id="ip66b6238a43f5904Suggestions" style="width: 80% !important"></div>
+                                                <small class="error-message"></small>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-12">
+                                            <div class="form-grp select-grp">
+                                                <select name="shifting_type" id="shifting_type" class="form-control" title="Select the type of shifting">
+                                                    <option value="" selected="" hidden="">Select Shifting Type</option>
+                                                    <option value="Household Shifting">Household Shifting</option>
+                                                    <option value="Household + Car Shifting">Household + Car Shifting</option>
+                                                    <option value="Household + Bike Shifting">Household + Bike Shifting</option>
+                                                    <option value="Few Household Item Shifting">Few Household Item Shifting</option>
+                                                    <option value="Car Shifting">Car Shifting</option>
+                                                    <option value="SUV Car Shifting">SUV Car Shifting</option>
+                                                    <option value="Bike Shifting">Bike Shifting</option>
+                                                    <option value="Office Shifting">Office Shifting</option>
+                                                    <option value="Single Item Shifting">Single Item Shifting</option>
+                                                </select>
+                                                <small class="error-message"></small>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-12">
+                                            <div class="form-grp">
+                                                <textarea style="height: 120px;" name="message" class="form-control" placeholder="Message" title="Provide additional details about your shifting"></textarea>
+                                                <small class="error-message"></small>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-12">
+                                            <button type="submit" id="submitButton" class="btn w-100">Get a Quote Now <img src="<?php echo $base_url; ?>assets/media/svg/right-arrow-white.svg" alt="Submit Form" class="injectable"></button>
+                                        </div>
+                                    </div>
+                                    <p class="mt-10" style="text-align: center;" id="get_a_quote_form02_result"></p>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- faq-area-end -->
+        <article class="main-container__marquee" style="background-color: #000;">
+            <div class="main-container__marquee-track">
+                <div class="main-container__marquee-items">
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 11+ Years of Trusted Service</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Pan-India Relocation Experts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Home & Office Relocation Made Easy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Car & Bike Safe Transport</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> International Relocation Specialists</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Licensed & Certified Movers</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Advanced Tracking Technology</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Custom Packing for Fragile Items</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Transparent Pricing Policy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Fast & Secure Deliveries</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Personalized Moving Solutions</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Corporate Relocation Discounts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Comprehensive Goods Insurance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Hassle-Free Pet Relocation</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Experienced Packing Team</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 24/7 Customer Assistance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Modern & Reliable Fleet</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Flexible Scheduling Options</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Satisfaction Guaranteed</span>
+                </div>
+
+                <!-- Duplicate for Smooth Marquee Scroll -->
+                <div aria-hidden="true" class="main-container__marquee-items">
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 11+ Years of Trusted Service</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Pan-India Relocation Experts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Home & Office Relocation Made Easy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Car & Bike Safe Transport</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> International Relocation Specialists</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Licensed & Certified Movers</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Advanced Tracking Technology</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Custom Packing for Fragile Items</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Transparent Pricing Policy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Fast & Secure Deliveries</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Personalized Moving Solutions</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Corporate Relocation Discounts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Comprehensive Goods Insurance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Hassle-Free Pet Relocation</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Experienced Packing Team</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 24/7 Customer Assistance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Modern & Reliable Fleet</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Flexible Scheduling Options</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Satisfaction Guaranteed</span>
+                </div>
+            </div>
+        </article>
+
+        <!-- blog-post-area -->
+        <section class="blog__post-area-three section-p-60">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-8 col-md-8">
+                        <div class="section__title mb-30">
+                            <span class="sub-title" title="Explore Recent Blogs by DZ Cargo Packers and Movers">// Recent Blogs</span>
+                            <h2 class="title">Our Latest Insights</h2>
+                            <p class="description">Discover expert tips, relocation advice, and industry insights to make your move seamless and hassle-free.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4">
+                        <div class="view-all-btn text-end mb-30">
+                            <a href="./blogs/" class="btn" title="Explore All Blogs by DZ Cargo Packers and Movers">See All Blogs
+                                <img src="<?php echo $base_url; ?>assets/media/svg/right-arrow-white.svg" alt="View All Blogs" class="injectable">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row justify-content-center gutter-24">
+                                            <div class="col-lg-4 col-md-6">
+                            <div class="blog__post-item shine__animate-item">
+                                <div class="blog__post-thumb">
+                                    <a href="blogs/10-packing-tips-for-hassle-free-relocation.php" class="shine__animate-link">
+                                        <img src="<?php echo $base_url; ?>assets/media/blogs/dz-cargo-packers-packing-tips.webp" alt="10 Essential Packing Tips for a Hassle-Free Relocation" loading="lazy">
+                                    </a>
+                                </div>
+                                <div class="blog__post-content">
+                                    <div class="blog__meta">
+                                        <ul class="list-wrap">
+                                            <li><i class="flaticon-calendar"></i>22 Nov, 2024</li>
+                                        </ul>
+                                    </div>
+                                    <h3 class="title">
+                                        <a href="blogs/10-packing-tips-for-hassle-free-relocation.php" title="10 Essential Packing Tips for a Hassle-Free Relocation">
+                                            10 Essential Packing Tips for a Hassle-Free Relocation                                        </a>
+                                    </h3>
+                                    <p>Learn how to pack like a pro with our expert tips to ensure your belongings stay safe during the move.</p>
+                                    <a href="blogs/10-packing-tips-for-hassle-free-relocation.php" class="btn btn-two">Read More
+                                        <img src="<?php echo $base_url; ?>assets/media/svg/right-arrow-red.svg" alt="Read More" class="injectable">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                                            <div class="col-lg-4 col-md-6">
+                            <div class="blog__post-item shine__animate-item">
+                                <div class="blog__post-thumb">
+                                    <a href="blogs/the-ultimate-guide-to-choosing-the-best-packers-and-movers.php" class="shine__animate-link">
+                                        <img src="<?php echo $base_url; ?>assets/media/blogs/dz-cargo-packers-choose-best.webp" alt="The Ultimate Guide to Choosing the Best Packers and Movers" loading="lazy">
+                                    </a>
+                                </div>
+                                <div class="blog__post-content">
+                                    <div class="blog__meta">
+                                        <ul class="list-wrap">
+                                            <li><i class="flaticon-calendar"></i>18 Nov, 2024</li>
+                                        </ul>
+                                    </div>
+                                    <h3 class="title">
+                                        <a href="blogs/the-ultimate-guide-to-choosing-the-best-packers-and-movers.php" title="The Ultimate Guide to Choosing the Best Packers and Movers">
+                                            The Ultimate Guide to Choosing the Best Packers and Movers                                        </a>
+                                    </h3>
+                                    <p>Explore key factors to consider when selecting a reliable relocation partner for your next move.</p>
+                                    <a href="blogs/the-ultimate-guide-to-choosing-the-best-packers-and-movers.php" class="btn btn-two">Read More
+                                        <img src="<?php echo $base_url; ?>assets/media/svg/right-arrow-red.svg" alt="Read More" class="injectable">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                                            <div class="col-lg-4 col-md-6">
+                            <div class="blog__post-item shine__animate-item">
+                                <div class="blog__post-thumb">
+                                    <a href="blogs/why-goods-insurance-is-a-must-for-every-move.php" class="shine__animate-link">
+                                        <img src="<?php echo $base_url; ?>assets/media/blogs/dz-cargo-packers-goods-insurance.webp" alt="Why Goods Insurance Is a Must for Every Move" loading="lazy">
+                                    </a>
+                                </div>
+                                <div class="blog__post-content">
+                                    <div class="blog__meta">
+                                        <ul class="list-wrap">
+                                            <li><i class="flaticon-calendar"></i>15 Nov, 2024</li>
+                                        </ul>
+                                    </div>
+                                    <h3 class="title">
+                                        <a href="blogs/why-goods-insurance-is-a-must-for-every-move.php" title="Why Goods Insurance Is a Must for Every Move">
+                                            Why Goods Insurance Is a Must for Every Move                                        </a>
+                                    </h3>
+                                    <p>Protect your valuables with comprehensive insurance coverage. Learn why it&#039;s vital for peace of mind.</p>
+                                    <a href="blogs/why-goods-insurance-is-a-must-for-every-move.php" class="btn btn-two">Read More
+                                        <img src="<?php echo $base_url; ?>assets/media/svg/right-arrow-red.svg" alt="Read More" class="injectable">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    
+                </div>
+            </div>
+        </section>
+        <!-- blog-post-area-end -->
+        <!-- main-area-end -->
+        <article class="main-container__marquee">
+            <div class="main-container__marquee-track">
+                <div class="main-container__marquee-items">
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 11+ Years of Trusted Service</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Pan-India Relocation Experts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Home & Office Relocation Made Easy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Car & Bike Safe Transport</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> International Relocation Specialists</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Licensed & Certified Movers</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Advanced Tracking Technology</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Custom Packing for Fragile Items</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Transparent Pricing Policy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Fast & Secure Deliveries</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Personalized Moving Solutions</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Corporate Relocation Discounts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Comprehensive Goods Insurance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Hassle-Free Pet Relocation</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Experienced Packing Team</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 24/7 Customer Assistance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Modern & Reliable Fleet</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Flexible Scheduling Options</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Satisfaction Guaranteed</span>
+                </div>
+
+                <!-- Duplicate for Smooth Marquee Scroll -->
+                <div aria-hidden="true" class="main-container__marquee-items">
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 11+ Years of Trusted Service</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Pan-India Relocation Experts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Home & Office Relocation Made Easy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Car & Bike Safe Transport</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> International Relocation Specialists</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Licensed & Certified Movers</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Advanced Tracking Technology</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Custom Packing for Fragile Items</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Transparent Pricing Policy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Fast & Secure Deliveries</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Personalized Moving Solutions</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Corporate Relocation Discounts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Comprehensive Goods Insurance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Hassle-Free Pet Relocation</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Experienced Packing Team</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 24/7 Customer Assistance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Modern & Reliable Fleet</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Flexible Scheduling Options</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Satisfaction Guaranteed</span>
+                </div>
+            </div>
+        </article>
+
+        <section class="project__area-four grey-bg section-p-60">
+            <div class="container">
+                <!-- Section Title -->
+                <div class="row justify-content-center">
+                    <div class="col-lg-10">
+                        <div class="section__title text-center mb-20">
+                            <span class="sub-title">// Our Service Locations</span>
+                            <h2 class="title">Professional Relocation Across Major Cities in India</h2>
+                            <p>
+                                DZ Cargo Packers and Movers Pvt. Ltd also ... has experienced and skilled experts for packing and moving to the major metros in India. May it be residential relocation, office relocation or vehicle transportation, DZ Cargo Packers and Movers Pvt. Ltd guarantees reliability and eliminates any hassle in transportation.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Pricing Tables -->
+                <div class="row gutter-24">
+                    <div class="container my-1 ca-our-service-city-area">
+                        <!-- Our Service Locations in Jaipur -->
+                        <span class="sub-title_price">
+                            -- Our Service Locations in Jaipur --
+                        </span>
+                        <div class="container aos-init">
+                            <div class="row">
+                                <!-- 1st Column (19 items) -->
+                                <div class="col-md-3 col-sm-6 mb-3">
+                                    <div class="list-group">
+                                        <a href="./jaipur/packers-and-movers-in-adarsh-nagar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Adarsh Nagar">Packers & Movers in Adarsh Nagar</a>
+                                        <a href="./jaipur/packers-and-movers-in-agra-road.php" class="list-group-item list-group-item-action" title="Packers and Movers in Agra Road">Packers & Movers in Agra Road</a>
+                                        <a href="./jaipur/packers-and-movers-in-ajmer-road.php" class="list-group-item list-group-item-action" title="Packers and Movers in Ajmer Road">Packers & Movers in Ajmer Road</a>
+                                        <a href="./jaipur/packers-and-movers-in-amer.php" class="list-group-item list-group-item-action" title="Packers and Movers in Amer">Packers & Movers in Amer</a>
+                                        <a href="./jaipur/packers-and-movers-in-apex-circle.php" class="list-group-item list-group-item-action" title="Packers and Movers in Apex Circle">Packers & Movers in Apex Circle</a>
+                                        <a href="./jaipur/packers-and-movers-in-arjun-nagar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Arjun Nagar">Packers & Movers in Arjun Nagar</a>
+                                        <a href="./jaipur/packers-and-movers-in-ashok-nagar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Ashok Nagar">Packers & Movers in Ashok Nagar</a>
+                                        <a href="./jaipur/packers-and-movers-in-bajaj-nagar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Bajaj Nagar">Packers & Movers in Bajaj Nagar</a>
+                                        <a href="./jaipur/packers-and-movers-in-bani-park.php" class="list-group-item list-group-item-action" title="Packers and Movers in Bani Park">Packers & Movers in Bani Park</a>
+                                        <a href="./jaipur/packers-and-movers-in-bapu-bazar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Bapu Bazar">Packers & Movers in Bapu Bazar</a>
+                                        <a href="./jaipur/packers-and-movers-in-bapu-nagar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Bapu Nagar">Packers & Movers in Bapu Nagar</a>
+                                        <a href="./jaipur/packers-and-movers-in-chaura-rasta.php" class="list-group-item list-group-item-action" title="Packers and Movers in Chaura Rasta">Packers & Movers in Chaura Rasta</a>
+                                        <a href="./jaipur/packers-and-movers-in-chitrakoot.php" class="list-group-item list-group-item-action" title="Packers and Movers in Chitrakoot">Packers & Movers in Chitrakoot</a>
+                                        <a href="./jaipur/packers-and-movers-in-civil-lines.php" class="list-group-item list-group-item-action" title="Packers and Movers in Civil Lines">Packers & Movers in Civil Lines</a>
+                                        <a href="./jaipur/packers-and-movers-in-dher-ke-balaji.php" class="list-group-item list-group-item-action" title="Packers and Movers in Dher Ke Balaji">Packers & Movers in Dher Ke Balaji</a>
+                                        <a href="./jaipur/packers-and-movers-in-dholai.php" class="list-group-item list-group-item-action" title="Packers and Movers in Dholai">Packers & Movers in Dholai</a>
+                                        <a href="./jaipur/packers-and-movers-in-durgapura.php" class="list-group-item list-group-item-action" title="Packers and Movers in Durgapura">Packers & Movers in Durgapura</a>
+                                        <a href="./jaipur/packers-and-movers-in-durgapura-colony.php" class="list-group-item list-group-item-action" title="Packers and Movers in Durgapura Colony">Packers & Movers in Durgapura Colony</a>
+                                        <a href="./jaipur/packers-and-movers-in-galta-gate.php" class="list-group-item list-group-item-action" title="Packers and Movers in Galta Gate">Packers & Movers in Galta Gate</a>
+                                    </div>
+                                </div>
+
+                                <!-- 2nd Column (19 items) -->
+                                <div class="col-md-3 col-sm-6 mb-3">
+                                    <div class="list-group">
+                                        <a href="./jaipur/packers-and-movers-in-ganesh-nagar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Ganesh Nagar">Packers & Movers in Ganesh Nagar</a>
+                                        <a href="./jaipur/packers-and-movers-in-gandhi-path.php" class="list-group-item list-group-item-action" title="Packers and Movers in Gandhi Path">Packers & Movers in Gandhi Path</a>
+                                        <a href="./jaipur/packers-and-movers-in-gopalpura.php" class="list-group-item list-group-item-action" title="Packers and Movers in Gopalpura">Packers & Movers in Gopalpura</a>
+                                        <a href="./jaipur/packers-and-movers-in-harmada.php" class="list-group-item list-group-item-action" title="Packers and Movers in Harmada">Packers & Movers in Harmada</a>
+                                        <a href="./jaipur/packers-and-movers-in-hawa-mahal.php" class="list-group-item list-group-item-action" title="Packers and Movers in Hawa Mahal">Packers & Movers in Hawa Mahal</a>
+                                        <a href="./jaipur/packers-and-movers-in-jagatpura.php" class="list-group-item list-group-item-action" title="Packers and Movers in Jagatpura">Packers & Movers in Jagatpura</a>
+                                        <a href="./jaipur/packers-and-movers-in-jaipur.php" class="list-group-item list-group-item-action" title="Packers and Movers in Jaipur">Packers & Movers in Jaipur</a>
+                                        <a href="./jaipur/packers-and-movers-in-jawahar-circle.php" class="list-group-item list-group-item-action" title="Packers and Movers in Jawahar Circle">Packers & Movers in Jawahar Circle</a>
+                                        <a href="./jaipur/packers-and-movers-in-jawahar-colony.php" class="list-group-item list-group-item-action" title="Packers and Movers in Jawahar Colony">Packers & Movers in Jawahar Colony</a>
+                                        <a href="./jaipur/packers-and-movers-in-jawahar-nagar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Jawahar Nagar">Packers & Movers in Jawahar Nagar</a>
+                                        <a href="./jaipur/packers-and-movers-in-jhotwara.php" class="list-group-item list-group-item-action" title="Packers and Movers in Jhotwara">Packers & Movers in Jhotwara</a>
+                                        <a href="./jaipur/packers-and-movers-in-johari-bazar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Johari Bazar">Packers & Movers in Johari Bazar</a>
+                                        <a href="./jaipur/packers-and-movers-in-jln-marg.php" class="list-group-item list-group-item-action" title="Packers and Movers in JLN Marg">Packers & Movers in JLN Marg</a>
+                                        <a href="./jaipur/packers-and-movers-in-kalwar-road.php" class="list-group-item list-group-item-action" title="Packers and Movers in Kalwar Road">Packers & Movers in Kalwar Road</a>
+                                        <a href="./jaipur/packers-and-movers-in-kanti-nagar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Kanti Nagar">Packers & Movers in Kanti Nagar</a>
+                                        <a href="./jaipur/packers-and-movers-in-khatipura.php" class="list-group-item list-group-item-action" title="Packers and Movers in Khatipura">Packers & Movers in Khatipura</a>
+                                        <a href="./jaipur/packers-and-movers-in-kishanpole-bazar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Kishanpole Bazar">Packers & Movers in Kishanpole Bazar</a>
+                                        <a href="./jaipur/packers-and-movers-in-kukas.php" class="list-group-item list-group-item-action" title="Packers and Movers in Kukas">Packers & Movers in Kukas</a>
+                                        <a href="./jaipur/packers-and-movers-in-lal-kothi.php" class="list-group-item list-group-item-action" title="Packers and Movers in Lal Kothi">Packers & Movers in Lal Kothi</a>
+                                    </div>
+                                </div>
+
+                                <!-- 3rd Column (18 items) -->
+                                <div class="col-md-3 col-sm-6 mb-3">
+                                    <div class="list-group">
+                                        <a href="./jaipur/packers-and-movers-in-madhyam-marg.php" class="list-group-item list-group-item-action" title="Packers and Movers in Madhyam Marg">Packers & Movers in Madhyam Marg</a>
+                                        <a href="./jaipur/packers-and-movers-in-mahesh-nagar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Mahesh Nagar">Packers & Movers in Mahesh Nagar</a>
+                                        <a href="./jaipur/packers-and-movers-in-mahindra-sez.php" class="list-group-item list-group-item-action" title="Packers and Movers in Mahindra SEZ">Packers & Movers in Mahindra SEZ</a>
+                                        <a href="./jaipur/packers-and-movers-in-malviya-nagar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Malviya Nagar">Packers & Movers in Malviya Nagar</a>
+                                        <a href="./jaipur/packers-and-movers-in-mansarovar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Mansarovar">Packers & Movers in Mansarovar</a>
+                                        <a href="./jaipur/packers-and-movers-in-moti-doongri.php" class="list-group-item list-group-item-action" title="Packers and Movers in Moti Doongri">Packers & Movers in Moti Doongri</a>
+                                        <a href="./jaipur/packers-and-movers-in-narayan-singh-circle.php" class="list-group-item list-group-item-action" title="Packers and Movers in Narayan Singh Circle">Packers & Movers in Narayan Singh Circle</a>
+                                        <a href="./jaipur/packers-and-movers-in-niwaru-road.php" class="list-group-item list-group-item-action" title="Packers and Movers in Niwaru Road">Packers & Movers in Niwaru Road</a>
+                                        <a href="./jaipur/packers-and-movers-in-panchsheel-colony.php" class="list-group-item list-group-item-action" title="Packers and Movers in Panchsheel Colony">Packers & Movers in Panchsheel Colony</a>
+                                        <a href="./jaipur/packers-and-movers-in-pratap-nagar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Pratap Nagar">Packers & Movers in Pratap Nagar</a>
+                                        <a href="./jaipur/packers-and-movers-in-raja-park.php" class="list-group-item list-group-item-action" title="Packers and Movers in Raja Park">Packers & Movers in Raja Park</a>
+                                        <a href="./jaipur/packers-and-movers-in-rambagh.php" class="list-group-item list-group-item-action" title="Packers and Movers in Rambagh">Packers & Movers in Rambagh</a>
+                                        <a href="./jaipur/packers-and-movers-in-ramganj.php" class="list-group-item list-group-item-action" title="Packers and Movers in Ramganj">Packers & Movers in Ramganj</a>
+                                        <a href="./jaipur/packers-and-movers-in-riddhi-siddhi.php" class="list-group-item list-group-item-action" title="Packers and Movers in Riddhi Siddhi">Packers & Movers in Riddhi Siddhi</a>
+                                        <a href="./jaipur/packers-and-movers-in-sanganer.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sanganer">Packers & Movers in Sanganer</a>
+                                        <a href="./jaipur/packers-and-movers-in-shankar-vihar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Shankar Vihar">Packers & Movers in Shankar Vihar</a>
+                                        <a href="./jaipur/packers-and-movers-in-shastri-nagar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Shastri Nagar">Packers & Movers in Shastri Nagar</a>
+                                        <a href="./jaipur/packers-and-movers-in-shipra-path.php" class="list-group-item list-group-item-action" title="Packers and Movers in Shipra Path">Packers & Movers in Shipra Path</a>
+                                    </div>
+                                </div>
+
+                                <!-- 4th Column (18 items) -->
+                                <div class="col-md-3 col-sm-6 mb-3">
+                                    <div class="list-group">
+                                        <a href="./jaipur/packers-and-movers-in-shivaji-nagar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Shivaji Nagar">Packers & Movers in Shivaji Nagar</a>
+                                        <a href="./jaipur/packers-and-movers-in-shivpuri.php" class="list-group-item list-group-item-action" title="Packers and Movers in Shivpuri">Packers & Movers in Shivpuri</a>
+                                        <a href="./jaipur/packers-and-movers-in-shyam-nagar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Shyam Nagar">Packers & Movers in Shyam Nagar</a>
+                                        <a href="./jaipur/packers-and-movers-in-shyam-path.php" class="list-group-item list-group-item-action" title="Packers and Movers in Shyam Path">Packers & Movers in Shyam Path</a>
+                                        <a href="./jaipur/packers-and-movers-in-sikar-road.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sikar Road">Packers & Movers in Sikar Road</a>
+                                        <a href="./jaipur/packers-and-movers-in-sindhi-camp.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sindhi Camp">Packers & Movers in Sindhi Camp</a>
+                                        <a href="./jaipur/packers-and-movers-in-sindhi-colony.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sindhi Colony">Packers & Movers in Sindhi Colony</a>
+                                        <a href="./jaipur/packers-and-movers-in-sitapura.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sitapura">Packers & Movers in Sitapura</a>
+                                        <a href="./jaipur/packers-and-movers-in-sodala.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sodala">Packers & Movers in Sodala</a>
+                                        <a href="./jaipur/packers-and-movers-in-tagore-nagar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Tagore Nagar">Packers & Movers in Tagore Nagar</a>
+                                        <a href="./jaipur/packers-and-movers-in-tilak-nagar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Tilak Nagar">Packers & Movers in Tilak Nagar</a>
+                                        <a href="./jaipur/packers-and-movers-in-tonk-road.php" class="list-group-item list-group-item-action" title="Packers and Movers in Tonk Road">Packers & Movers in Tonk Road</a>
+                                        <a href="./jaipur/packers-and-movers-in-transport-nagar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Transport Nagar">Packers & Movers in Transport Nagar</a>
+                                        <a href="./jaipur/packers-and-movers-in-triveni-nagar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Triveni Nagar">Packers & Movers in Triveni Nagar</a>
+                                        <a href="./jaipur/packers-and-movers-in-vaishali-extension.php" class="list-group-item list-group-item-action" title="Packers and Movers in Vaishali Extension">Packers & Movers in Vaishali Extension</a>
+                                        <a href="./jaipur/packers-and-movers-in-vaishali-nagar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Vaishali Nagar">Packers & Movers in Vaishali Nagar</a>
+                                        <a href="./jaipur/packers-and-movers-in-vidhyadhar-nagar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Vidhyadhar Nagar">Packers & Movers in Vidhyadhar Nagar</a>
+                                        <a href="./jaipur/packers-and-movers-in-vishwakarma-industrial-area.php" class="list-group-item list-group-item-action" title="Packers and Movers in Vishwakarma Industrial Area">Packers & Movers in Vishwakarma Industrial Area</a>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        <!-- Our Service Locations in Delhi -->
+                        <span class="sub-title_price">
+                            -- Our Service Locations in Delhi --
+                        </span>
+                        <div class="container aos-init">
+                            <div class="row">
+                                <!-- ======== Column 1 (Items #1–23) ======== -->
+                                <div class="col-md-3 col-sm-6 mb-3">
+                                    <div class="list-group">
+
+                                        <a href="./delhi/packers-and-movers-in-Adarsh-Nagar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Adarsh Nagar">Packers & Movers in Adarsh Nagar</a>
+                                        <a href="./delhi/packers-and-movers-in-Anand-Lok.php" class="list-group-item list-group-item-action" title="Packers and Movers in Anand Lok">Packers & Movers in Anand Lok</a>
+                                        <a href="./delhi/packers-and-movers-in-Ashok-Vihar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Ashok Vihar">Packers & Movers in Ashok Vihar</a>
+                                        <a href="./delhi/packers-and-movers-in-Badarpur.php" class="list-group-item list-group-item-action" title="Packers and Movers in Badarpur">Packers & Movers in Badarpur</a>
+                                        <a href="./delhi/packers-and-movers-in-Burari.php" class="list-group-item list-group-item-action" title="Packers and Movers in Burari">Packers & Movers in Burari</a>
+                                        <a href="./delhi/packers-and-movers-in-Chanakyapuri.php" class="list-group-item list-group-item-action" title="Packers and Movers in Chanakyapuri">Packers & Movers in Chanakyapuri</a>
+                                        <a href="./delhi/packers-and-movers-in-Chandni-Chowk.php" class="list-group-item list-group-item-action" title="Packers and Movers in Chandni Chowk">Packers & Movers in Chandni Chowk</a>
+                                        <a href="./delhi/packers-and-movers-in-Chhattarpur.php" class="list-group-item list-group-item-action" title="Packers and Movers in Chhattarpur">Packers & Movers in Chhattarpur</a>
+                                        <a href="./delhi/packers-and-movers-in-Civil-Lines.php" class="list-group-item list-group-item-action" title="Packers and Movers in Civil Lines">Packers & Movers in Civil Lines</a>
+                                        <a href="./delhi/packers-and-movers-in-Connaught-Place.php" class="list-group-item list-group-item-action" title="Packers and Movers in Connaught Place">Packers & Movers in Connaught Place</a>
+                                        <a href="./delhi/packers-and-movers-in-Defence-Colony.php" class="list-group-item list-group-item-action" title="Packers and Movers in Defence Colony">Packers & Movers in Defence Colony</a>
+                                        <a href="./delhi/packers-and-movers-in-delhi.php" class="list-group-item list-group-item-action" title="Packers and Movers in Delhi">Packers & Movers in Delhi</a>
+                                        <a href="./delhi/packers-and-movers-in-Dhaula-Kuan.php" class="list-group-item list-group-item-action" title="Packers and Movers in Dhaula Kuan">Packers & Movers in Dhaula Kuan</a>
+                                        <a href="./delhi/packers-and-movers-in-Dilshad-Garden.php" class="list-group-item list-group-item-action" title="Packers and Movers in Dilshad Garden">Packers & Movers in Dilshad Garden</a>
+                                        <a href="./delhi/packers-and-movers-in-Dwarka.php" class="list-group-item list-group-item-action" title="Packers and Movers in Dwarka">Packers & Movers in Dwarka</a>
+                                        <a href="./delhi/packers-and-movers-in-Dwarka-Mor.php" class="list-group-item list-group-item-action" title="Packers and Movers in Dwarka Mor">Packers & Movers in Dwarka Mor</a>
+                                        <a href="./delhi/packers-and-movers-in-Dwarka-Sector-10.php" class="list-group-item list-group-item-action" title="Packers and Movers in Dwarka Sector 10">Packers & Movers in Dwarka Sector 10</a>
+                                        <a href="./delhi/packers-and-movers-in-Dwarka-Sector-12.php" class="list-group-item list-group-item-action" title="Packers and Movers in Dwarka Sector 12">Packers & Movers in Dwarka Sector 12</a>
+                                        <a href="./delhi/packers-and-movers-in-Dwarka-Sector-21.php" class="list-group-item list-group-item-action" title="Packers and Movers in Dwarka Sector 21">Packers & Movers in Dwarka Sector 21</a>
+                                        <a href="./delhi/packers-and-movers-in-Dwarka-Sector-6.php" class="list-group-item list-group-item-action" title="Packers and Movers in Dwarka Sector 6">Packers & Movers in Dwarka Sector 6</a>
+                                        <a href="./delhi/packers-and-movers-in-East-Patel-Nagar.php" class="list-group-item list-group-item-action" title="Packers and Movers in East Patel Nagar">Packers & Movers in East Patel Nagar</a>
+                                        <a href="./delhi/packers-and-movers-in-Friends-Colony-West.php" class="list-group-item list-group-item-action" title="Packers and Movers in Friends Colony West">Packers & Movers in Friends Colony West</a>
+                                        <a href="./delhi/packers-and-movers-in-Geeta-Colony.php" class="list-group-item list-group-item-action" title="Packers and Movers in Geeta Colony">Packers & Movers in Geeta Colony</a>
+
+                                    </div>
+                                </div>
+
+                                <!-- ======== Column 2 (Items #24–46) ======== -->
+                                <div class="col-md-3 col-sm-6 mb-3">
+                                    <div class="list-group">
+
+                                        <a href="./delhi/packers-and-movers-in-Greater-Kailash.php" class="list-group-item list-group-item-action" title="Packers and Movers in Greater Kailash">Packers & Movers in Greater Kailash</a>
+                                        <a href="./delhi/packers-and-movers-in-Green-Park.php" class="list-group-item list-group-item-action" title="Packers and Movers in Green Park">Packers & Movers in Green Park</a>
+                                        <a href="./delhi/packers-and-movers-in-GTB-Nagar.php" class="list-group-item list-group-item-action" title="Packers and Movers in GTB Nagar">Packers & Movers in GTB Nagar</a>
+                                        <a href="./delhi/packers-and-movers-in-Hauz-Khas.php" class="list-group-item list-group-item-action" title="Packers and Movers in Hauz Khas">Packers & Movers in Hauz Khas</a>
+                                        <a href="./delhi/packers-and-movers-in-ITO.php" class="list-group-item list-group-item-action" title="Packers and Movers in ITO">Packers & Movers in ITO</a>
+                                        <a href="./delhi/packers-and-movers-in-Janakpuri.php" class="list-group-item list-group-item-action" title="Packers and Movers in Janakpuri">Packers & Movers in Janakpuri</a>
+                                        <a href="./delhi/packers-and-movers-in-Jangpura.php" class="list-group-item list-group-item-action" title="Packers and Movers in Jangpura">Packers & Movers in Jangpura</a>
+                                        <a href="./delhi/packers-and-movers-in-Jasola.php" class="list-group-item list-group-item-action" title="Packers and Movers in Jasola">Packers & Movers in Jasola</a>
+                                        <a href="./delhi/packers-and-movers-in-Jhandewalan.php" class="list-group-item list-group-item-action" title="Packers and Movers in Jhandewalan">Packers & Movers in Jhandewalan</a>
+                                        <a href="./delhi/packers-and-movers-in-Jor-Bagh.php" class="list-group-item list-group-item-action" title="Packers and Movers in Jor Bagh">Packers & Movers in Jor Bagh</a>
+                                        <a href="./delhi/packers-and-movers-in-Karkardooma.php" class="list-group-item list-group-item-action" title="Packers and Movers in Karkardooma">Packers & Movers in Karkardooma</a>
+                                        <a href="./delhi/packers-and-movers-in-Karol-Bagh.php" class="list-group-item list-group-item-action" title="Packers and Movers in Karol Bagh">Packers & Movers in Karol Bagh</a>
+                                        <a href="./delhi/packers-and-movers-in-Kashmere-Gate.php" class="list-group-item list-group-item-action" title="Packers and Movers in Kashmere Gate">Packers & Movers in Kashmere Gate</a>
+                                        <a href="./delhi/packers-and-movers-in-Khan-Market.php" class="list-group-item list-group-item-action" title="Packers and Movers in Khan Market">Packers & Movers in Khan Market</a>
+                                        <a href="./delhi/packers-and-movers-in-Kirari-Suleman-Nagar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Kirari Suleman Nagar">Packers & Movers in Kirari Suleman Nagar</a>
+                                        <a href="./delhi/packers-and-movers-in-Kirti-Nagar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Kirti Nagar">Packers & Movers in Kirti Nagar</a>
+                                        <a href="./delhi/packers-and-movers-in-Krishna-Nagar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Krishna Nagar">Packers & Movers in Krishna Nagar</a>
+                                        <a href="./delhi/packers-and-movers-in-Lajpat-Nagar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Lajpat Nagar">Packers & Movers in Lajpat Nagar</a>
+                                        <a href="./delhi/packers-and-movers-in-Laxmi-Nagar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Laxmi Nagar">Packers & Movers in Laxmi Nagar</a>
+                                        <a href="./delhi/packers-and-movers-in-Lodhi-Colony.php" class="list-group-item list-group-item-action" title="Packers and Movers in Lodhi Colony">Packers & Movers in Lodhi Colony</a>
+                                        <a href="./delhi/packers-and-movers-in-Maharaja-Agrasen-Park.php" class="list-group-item list-group-item-action" title="Packers and Movers in Maharaja Agrasen Park">Packers & Movers in Maharaja Agrasen Park</a>
+                                        <a href="./delhi/packers-and-movers-in-Maharani-Bagh.php" class="list-group-item list-group-item-action" title="Packers and Movers in Maharani Bagh">Packers & Movers in Maharani Bagh</a>
+                                        <a href="./delhi/packers-and-movers-in-Malviya-Nagar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Malviya Nagar">Packers & Movers in Malviya Nagar</a>
+
+                                    </div>
+                                </div>
+
+                                <!-- ======== Column 3 (Items #47–69) ======== -->
+                                <div class="col-md-3 col-sm-6 mb-3">
+                                    <div class="list-group">
+
+                                        <a href="./delhi/packers-and-movers-in-Mandi-House.php" class="list-group-item list-group-item-action" title="Packers and Movers in Mandi House">Packers & Movers in Mandi House</a>
+                                        <a href="./delhi/packers-and-movers-in-Mansarovar-Garden.php" class="list-group-item list-group-item-action" title="Packers and Movers in Mansarovar Garden">Packers & Movers in Mansarovar Garden</a>
+                                        <a href="./delhi/packers-and-movers-in-Maurice-Nagar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Maurice Nagar">Packers & Movers in Maurice Nagar</a>
+                                        <a href="./delhi/packers-and-movers-in-Mayur-Vihar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Mayur Vihar">Packers & Movers in Mayur Vihar</a>
+                                        <a href="./delhi/packers-and-movers-in-Mehrauli.php" class="list-group-item list-group-item-action" title="Packers and Movers in Mehrauli">Packers & Movers in Mehrauli</a>
+                                        <a href="./delhi/packers-and-movers-in-Model-Town.php" class="list-group-item list-group-item-action" title="Packers and Movers in Model Town">Packers & Movers in Model Town</a>
+                                        <a href="./delhi/packers-and-movers-in-Moti-Nagar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Moti Nagar">Packers & Movers in Moti Nagar</a>
+                                        <a href="./delhi/packers-and-movers-in-Mukherjee-Nagar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Mukherjee Nagar">Packers & Movers in Mukherjee Nagar</a>
+                                        <a href="./delhi/packers-and-movers-in-Munirka.php" class="list-group-item list-group-item-action" title="Packers and Movers in Munirka">Packers & Movers in Munirka</a>
+                                        <a href="./delhi/packers-and-movers-in-Najafgarh.php" class="list-group-item list-group-item-action" title="Packers and Movers in Najafgarh">Packers & Movers in Najafgarh</a>
+                                        <a href="./delhi/packers-and-movers-in-Nangloi.php" class="list-group-item list-group-item-action" title="Packers and Movers in Nangloi">Packers & Movers in Nangloi</a>
+                                        <a href="./delhi/packers-and-movers-in-Naraina.php" class="list-group-item list-group-item-action" title="Packers and Movers in Naraina">Packers & Movers in Naraina</a>
+                                        <a href="./delhi/packers-and-movers-in-New-Friends-Colony.php" class="list-group-item list-group-item-action" title="Packers and Movers in New Friends Colony">Packers & Movers in New Friends Colony</a>
+                                        <a href="./delhi/packers-and-movers-in-Nizamuddin.php" class="list-group-item list-group-item-action" title="Packers and Movers in Nizamuddin">Packers & Movers in Nizamuddin</a>
+                                        <a href="./delhi/packers-and-movers-in-Okhla.php" class="list-group-item list-group-item-action" title="Packers and Movers in Okhla">Packers & Movers in Okhla</a>
+                                        <a href="./delhi/packers-and-movers-in-Panchsheel-Park.php" class="list-group-item list-group-item-action" title="Packers and Movers in Panchsheel Park">Packers & Movers in Panchsheel Park</a>
+                                        <a href="./delhi/packers-and-movers-in-Paschim-Vihar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Paschim Vihar">Packers & Movers in Paschim Vihar</a>
+                                        <a href="./delhi/packers-and-movers-in-Patel-Nagar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Patel Nagar">Packers & Movers in Patel Nagar</a>
+                                        <a href="./delhi/packers-and-movers-in-Patparganj.php" class="list-group-item list-group-item-action" title="Packers and Movers in Patparganj">Packers & Movers in Patparganj</a>
+                                        <a href="./delhi/packers-and-movers-in-Pitampura.php" class="list-group-item list-group-item-action" title="Packers and Movers in Pitampura">Packers & Movers in Pitampura</a>
+                                        <a href="./delhi/packers-and-movers-in-Pragati-Maidan.php" class="list-group-item list-group-item-action" title="Packers and Movers in Pragati Maidan">Packers & Movers in Pragati Maidan</a>
+                                        <a href="./delhi/packers-and-movers-in-Preet-Vihar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Preet Vihar">Packers & Movers in Preet Vihar</a>
+                                        <a href="./delhi/packers-and-movers-in-Punjabi-Bagh.php" class="list-group-item list-group-item-action" title="Packers and Movers in Punjabi Bagh">Packers & Movers in Punjabi Bagh</a>
+
+                                    </div>
+                                </div>
+
+                                <!-- ======== Column 4 (Items #70–90) ======== -->
+                                <div class="col-md-3 col-sm-6 mb-3">
+                                    <div class="list-group">
+
+                                        <a href="./delhi/packers-and-movers-in-Qutub-Institutional-Area.php" class="list-group-item list-group-item-action" title="Packers and Movers in Qutub Institutional Area">Packers & Movers in Qutub Institutional Area</a>
+                                        <a href="./delhi/packers-and-movers-in-Rajouri-Garden.php" class="list-group-item list-group-item-action" title="Packers and Movers in Rajouri Garden">Packers & Movers in Rajouri Garden</a>
+                                        <a href="./delhi/packers-and-movers-in-Ramesh-Nagar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Ramesh Nagar">Packers & Movers in Ramesh Nagar</a>
+                                        <a href="./delhi/packers-and-movers-in-Rohini.php" class="list-group-item list-group-item-action" title="Packers and Movers in Rohini">Packers & Movers in Rohini</a>
+                                        <a href="./delhi/packers-and-movers-in-Safdarjung-Enclave.php" class="list-group-item list-group-item-action" title="Packers and Movers in Safdarjung Enclave">Packers & Movers in Safdarjung Enclave</a>
+                                        <a href="./delhi/packers-and-movers-in-Saket.php" class="list-group-item list-group-item-action" title="Packers and Movers in Saket">Packers & Movers in Saket</a>
+                                        <a href="./delhi/packers-and-movers-in-Sangam-Vihar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sangam Vihar">Packers & Movers in Sangam Vihar</a>
+                                        <a href="./delhi/packers-and-movers-in-Sarita-Vihar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sarita Vihar">Packers & Movers in Sarita Vihar</a>
+                                        <a href="./delhi/packers-and-movers-in-Sarojini-Nagar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sarojini Nagar">Packers & Movers in Sarojini Nagar</a>
+                                        <a href="./delhi/packers-and-movers-in-Satya-Niketan.php" class="list-group-item list-group-item-action" title="Packers and Movers in Satya Niketan">Packers & Movers in Satya Niketan</a>
+                                        <a href="./delhi/packers-and-movers-in-SDA.php" class="list-group-item list-group-item-action" title="Packers and Movers in SDA">Packers & Movers in SDA</a>
+                                        <a href="./delhi/packers-and-movers-in-Shahdara.php" class="list-group-item list-group-item-action" title="Packers and Movers in Shahdara">Packers & Movers in Shahdara</a>
+                                        <a href="./delhi/packers-and-movers-in-Shalimar-Bagh.php" class="list-group-item list-group-item-action" title="Packers and Movers in Shalimar Bagh">Packers & Movers in Shalimar Bagh</a>
+                                        <a href="./delhi/packers-and-movers-in-Surajmal-Vihar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Surajmal Vihar">Packers & Movers in Surajmal Vihar</a>
+                                        <a href="./delhi/packers-and-movers-in-Tughlakabad.php" class="list-group-item list-group-item-action" title="Packers and Movers in Tughlakabad">Packers & Movers in Tughlakabad</a>
+                                        <a href="./delhi/packers-and-movers-in-Uttam-Nagar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Uttam Nagar">Packers & Movers in Uttam Nagar</a>
+                                        <a href="./delhi/packers-and-movers-in-Vasant-Kunj.php" class="list-group-item list-group-item-action" title="Packers and Movers in Vasant Kunj">Packers & Movers in Vasant Kunj</a>
+                                        <a href="./delhi/packers-and-movers-in-Vasant-Vihar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Vasant Vihar">Packers & Movers in Vasant Vihar</a>
+                                        <a href="./delhi/packers-and-movers-in-Vivek-Vihar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Vivek Vihar">Packers & Movers in Vivek Vihar</a>
+                                        <a href="./delhi/packers-and-movers-in-West-Patel-Nagar.php" class="list-group-item list-group-item-action" title="Packers and Movers in West Patel Nagar">Packers & Movers in West Patel Nagar</a>
+                                        <a href="./delhi/packers-and-movers-in-Yamuna-Vihar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Yamuna Vihar">Packers & Movers in Yamuna Vihar</a>
+
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        <!-- Our Service Locations in Gurgaon -->
+                        <span class="sub-title_price">
+                            -- Our Service Locations in Gurgaon --
+                        </span>
+                        <div class="container aos-init">
+                            <div class="row">
+                                <!-- ======= Column 1 (Items #1–24) ======= -->
+                                <div class="col-md-3 col-sm-6 mb-3">
+                                    <div class="list-group">
+                                        <!-- 1 -->
+                                        <a href="./gurgaon/packers-and-movers-in-ardee-city.php" class="list-group-item list-group-item-action" title="Packers and Movers in Ardee City">Packers & Movers in Ardee City</a>
+                                        <!-- 2 -->
+                                        <a href="./gurgaon/packers-and-movers-in-cyber-city.php" class="list-group-item list-group-item-action" title="Packers and Movers in Cyber City">Packers & Movers in Cyber City</a>
+                                        <!-- 3 -->
+                                        <a href="./gurgaon/packers-and-movers-in-dlf-phase-1.php" class="list-group-item list-group-item-action" title="Packers and Movers in DLF Phase 1">Packers & Movers in DLF Phase 1</a>
+                                        <!-- 4 -->
+                                        <a href="./gurgaon/packers-and-movers-in-dlf-phase-2.php" class="list-group-item list-group-item-action" title="Packers and Movers in DLF Phase 2">Packers & Movers in DLF Phase 2</a>
+                                        <!-- 5 -->
+                                        <a href="./gurgaon/packers-and-movers-in-dlf-phase-3.php" class="list-group-item list-group-item-action" title="Packers and Movers in DLF Phase 3">Packers & Movers in DLF Phase 3</a>
+                                        <!-- 6 -->
+                                        <a href="./gurgaon/packers-and-movers-in-dlf-phase-4.php" class="list-group-item list-group-item-action" title="Packers and Movers in DLF Phase 4">Packers & Movers in DLF Phase 4</a>
+                                        <!-- 7 -->
+                                        <a href="./gurgaon/packers-and-movers-in-dlf-phase-5.php" class="list-group-item list-group-item-action" title="Packers and Movers in DLF Phase 5">Packers & Movers in DLF Phase 5</a>
+                                        <!-- 8 -->
+                                        <a href="./gurgaon/packers-and-movers-in-golf-course-road.php" class="list-group-item list-group-item-action" title="Packers and Movers in Golf Course Road">Packers & Movers in Golf Course Road</a>
+                                        <!-- 9 -->
+                                        <a href="./gurgaon/packers-and-movers-in-greenwood-city.php" class="list-group-item list-group-item-action" title="Packers and Movers in Greenwood City">Packers & Movers in Greenwood City</a>
+                                        <!-- 10 -->
+                                        <a href="./gurgaon/packers-and-movers-in-gurgaon.php" class="list-group-item list-group-item-action" title="Packers and Movers in Gurgaon">Packers & Movers in Gurgaon</a>
+                                        <!-- 11 -->
+                                        <a href="./gurgaon/packers-and-movers-in-manesar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Manesar">Packers & Movers in Manesar</a>
+                                        <!-- 12 -->
+                                        <a href="./gurgaon/packers-and-movers-in-mg-road.php" class="list-group-item list-group-item-action" title="Packers and Movers in MG Road">Packers & Movers in MG Road</a>
+                                        <!-- 13 -->
+                                        <a href="./gurgaon/packers-and-movers-in-new-palam-vihar.php" class="list-group-item list-group-item-action" title="Packers and Movers in New Palam Vihar">Packers & Movers in New Palam Vihar</a>
+                                        <!-- 14 -->
+                                        <a href="./gurgaon/packers-and-movers-in-nirvana-country.php" class="list-group-item list-group-item-action" title="Packers and Movers in Nirvana Country">Packers & Movers in Nirvana Country</a>
+                                        <!-- 15 -->
+                                        <a href="./gurgaon/packers-and-movers-in-palam-vihar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Palam Vihar">Packers & Movers in Palam Vihar</a>
+                                        <!-- 16 -->
+                                        <a href="./gurgaon/packers-and-movers-in-park-view-city.php" class="list-group-item list-group-item-action" title="Packers and Movers in Park View City">Packers & Movers in Park View City</a>
+                                        <!-- 17 -->
+                                        <a href="./gurgaon/packers-and-movers-in-rajendra-park.php" class="list-group-item list-group-item-action" title="Packers and Movers in Rajendra Park">Packers & Movers in Rajendra Park</a>
+                                        <!-- 18 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-100.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 100">Packers & Movers in Sector 100</a>
+                                        <!-- 19 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-101.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 101">Packers & Movers in Sector 101</a>
+                                        <!-- 20 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-102.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 102">Packers & Movers in Sector 102</a>
+                                        <!-- 21 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-103.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 103">Packers & Movers in Sector 103</a>
+                                        <!-- 22 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-104.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 104">Packers & Movers in Sector 104</a>
+                                        <!-- 23 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-105.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 105">Packers & Movers in Sector 105</a>
+                                        <!-- 24 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-106.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 106">Packers & Movers in Sector 106</a>
+                                    </div>
+                                </div>
+
+                                <!-- ======= Column 2 (Items #25–47) ======= -->
+                                <div class="col-md-3 col-sm-6 mb-3">
+                                    <div class="list-group">
+                                        <!-- 25 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-107.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 107">Packers & Movers in Sector 107</a>
+                                        <!-- 26 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-108.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 108">Packers & Movers in Sector 108</a>
+                                        <!-- 27 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-109.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 109">Packers & Movers in Sector 109</a>
+                                        <!-- 28 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-110.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 110">Packers & Movers in Sector 110</a>
+                                        <!-- 29 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-111.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 111">Packers & Movers in Sector 111</a>
+                                        <!-- 30 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-112.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 112">Packers & Movers in Sector 112</a>
+                                        <!-- 31 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-113.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 113">Packers & Movers in Sector 113</a>
+                                        <!-- 32 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-114.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 114">Packers & Movers in Sector 114</a>
+                                        <!-- 33 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-115.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 115">Packers & Movers in Sector 115</a>
+                                        <!-- 34 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-116.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 116">Packers & Movers in Sector 116</a>
+                                        <!-- 35 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-117.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 117">Packers & Movers in Sector 117</a>
+                                        <!-- 36 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-118.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 118">Packers & Movers in Sector 118</a>
+                                        <!-- 37 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-119.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 119">Packers & Movers in Sector 119</a>
+                                        <!-- 38 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-120.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 120">Packers & Movers in Sector 120</a>
+                                        <!-- 39 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-121.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 121">Packers & Movers in Sector 121</a>
+                                        <!-- 40 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-122.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 122">Packers & Movers in Sector 122</a>
+                                        <!-- 41 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-123.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 123">Packers & Movers in Sector 123</a>
+                                        <!-- 42 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-124.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 124">Packers & Movers in Sector 124</a>
+                                        <!-- 43 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-125.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 125">Packers & Movers in Sector 125</a>
+                                        <!-- 44 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-126.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 126">Packers & Movers in Sector 126</a>
+                                        <!-- 45 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-127.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 127">Packers & Movers in Sector 127</a>
+                                        <!-- 46 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-14.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 14">Packers & Movers in Sector 14</a>
+                                        <!-- 47 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-15.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 15">Packers & Movers in Sector 15</a>
+                                    </div>
+                                </div>
+
+                                <!-- ======= Column 3 (Items #48–70) ======= -->
+                                <div class="col-md-3 col-sm-6 mb-3">
+                                    <div class="list-group">
+                                        <!-- 48 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-31.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 31">Packers & Movers in Sector 31</a>
+                                        <!-- 49 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-32.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 32">Packers & Movers in Sector 32</a>
+                                        <!-- 50 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-39.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 39">Packers & Movers in Sector 39</a>
+                                        <!-- 51 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-40.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 40">Packers & Movers in Sector 40</a>
+                                        <!-- 52 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-41.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 41">Packers & Movers in Sector 41</a>
+                                        <!-- 53 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-42.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 42">Packers & Movers in Sector 42</a>
+                                        <!-- 54 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-43.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 43">Packers & Movers in Sector 43</a>
+                                        <!-- 55 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-44.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 44">Packers & Movers in Sector 44</a>
+                                        <!-- 56 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-45.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 45">Packers & Movers in Sector 45</a>
+                                        <!-- 57 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-46.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 46">Packers & Movers in Sector 46</a>
+                                        <!-- 58 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-47.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 47">Packers & Movers in Sector 47</a>
+                                        <!-- 59 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-48.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 48">Packers & Movers in Sector 48</a>
+                                        <!-- 60 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-49.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 49">Packers & Movers in Sector 49</a>
+                                        <!-- 61 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-50.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 50">Packers & Movers in Sector 50</a>
+                                        <!-- 62 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-53.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 53">Packers & Movers in Sector 53</a>
+                                        <!-- 63 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-54.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 54">Packers & Movers in Sector 54</a>
+                                        <!-- 64 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-55.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 55">Packers & Movers in Sector 55</a>
+                                        <!-- 65 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-56.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 56">Packers & Movers in Sector 56</a>
+                                        <!-- 66 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-57.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 57">Packers & Movers in Sector 57</a>
+                                        <!-- 67 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-83.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 83">Packers & Movers in Sector 83</a>
+                                        <!-- 68 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-84.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 84">Packers & Movers in Sector 84</a>
+                                        <!-- 69 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-85.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 85">Packers & Movers in Sector 85</a>
+                                        <!-- 70 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-86.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 86">Packers & Movers in Sector 86</a>
+                                    </div>
+                                </div>
+
+                                <!-- ======= Column 4 (Items #71–93) ======= -->
+                                <div class="col-md-3 col-sm-6 mb-3">
+                                    <div class="list-group">
+                                        <!-- 71 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-87.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 87">Packers & Movers in Sector 87</a>
+                                        <!-- 72 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-88.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 88">Packers & Movers in Sector 88</a>
+                                        <!-- 73 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-89.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 89">Packers & Movers in Sector 89</a>
+                                        <!-- 74 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-90.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 90">Packers & Movers in Sector 90</a>
+                                        <!-- 75 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-91.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 91">Packers & Movers in Sector 91</a>
+                                        <!-- 76 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-92.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 92">Packers & Movers in Sector 92</a>
+                                        <!-- 77 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-93.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 93">Packers & Movers in Sector 93</a>
+                                        <!-- 78 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-94.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 94">Packers & Movers in Sector 94</a>
+                                        <!-- 79 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-95.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 95">Packers & Movers in Sector 95</a>
+                                        <!-- 80 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-96.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 96">Packers & Movers in Sector 96</a>
+                                        <!-- 81 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-97.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 97">Packers & Movers in Sector 97</a>
+                                        <!-- 82 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-98.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 98">Packers & Movers in Sector 98</a>
+                                        <!-- 83 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sector-99.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sector 99">Packers & Movers in Sector 99</a>
+                                        <!-- 84 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sohna-road.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sohna Road">Packers & Movers in Sohna Road</a>
+                                        <!-- 85 -->
+                                        <a href="./gurgaon/packers-and-movers-in-south-city-1.php" class="list-group-item list-group-item-action" title="Packers and Movers in South City 1">Packers & Movers in South City 1</a>
+                                        <!-- 86 -->
+                                        <a href="./gurgaon/packers-and-movers-in-south-city-2.php" class="list-group-item list-group-item-action" title="Packers and Movers in South City 2">Packers & Movers in South City 2</a>
+                                        <!-- 87 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sun-city.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sun City">Packers & Movers in Sun City</a>
+                                        <!-- 88 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sushant-lok-phase-1.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sushant Lok Phase 1">Packers & Movers in Sushant Lok Phase 1</a>
+                                        <!-- 89 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sushant-lok-phase-2.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sushant Lok Phase 2">Packers & Movers in Sushant Lok Phase 2</a>
+                                        <!-- 90 -->
+                                        <a href="./gurgaon/packers-and-movers-in-sushant-lok-phase-3.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sushant Lok Phase 3">Packers & Movers in Sushant Lok Phase 3</a>
+                                        <!-- 91 -->
+                                        <a href="./gurgaon/packers-and-movers-in-udyog-vihar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Udyog Vihar">Packers & Movers in Udyog Vihar</a>
+                                        <!-- 92 -->
+                                        <a href="./gurgaon/packers-and-movers-in-vatika-city.php" class="list-group-item list-group-item-action" title="Packers and Movers in Vatika City">Packers & Movers in Vatika City</a>
+                                        <!-- 93 -->
+                                        <a href="./gurgaon/packers-and-movers-in-vatika-india-next.php" class="list-group-item list-group-item-action" title="Packers and Movers in Vatika India Next">Packers & Movers in Vatika India Next</a>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        <!-- Our Service Locations in Mumbai -->
+                        <span class="sub-title_price">
+                            -- Our Service Locations in Mumbai --
+                        </span>
+                        <div class="container aos-init">
+                            <div class="row">
+                                <!-- ==================== Column 1 (Items #1–24) ==================== -->
+                                <div class="col-md-3 col-sm-6 mb-3">
+                                    <div class="list-group">
+                                        <!-- 1 -->
+                                        <a href="./mumbai/packers-and-movers-in-airoli.php" class="list-group-item list-group-item-action" title="Packers and Movers in Airoli">Packers & Movers in Airoli</a>
+                                        <!-- 2 -->
+                                        <a href="./mumbai/packers-and-movers-in-ambernath.php" class="list-group-item list-group-item-action" title="Packers and Movers in Ambernath">Packers & Movers in Ambernath</a>
+                                        <!-- 3 -->
+                                        <a href="./mumbai/packers-and-movers-in-andheri.php" class="list-group-item list-group-item-action" title="Packers and Movers in Andheri">Packers & Movers in Andheri</a>
+                                        <!-- 4 -->
+                                        <a href="./mumbai/packers-and-movers-in-antop-hill.php" class="list-group-item list-group-item-action" title="Packers and Movers in Antop Hill">Packers & Movers in Antop Hill</a>
+                                        <!-- 5 -->
+                                        <a href="./mumbai/packers-and-movers-in-badlapur.php" class="list-group-item list-group-item-action" title="Packers and Movers in Badlapur">Packers & Movers in Badlapur</a>
+                                        <!-- 6 -->
+                                        <a href="./mumbai/packers-and-movers-in-ballard-estate.php" class="list-group-item list-group-item-action" title="Packers and Movers in Ballard Estate">Packers & Movers in Ballard Estate</a>
+                                        <!-- 7 -->
+                                        <a href="./mumbai/packers-and-movers-in-bandra.php" class="list-group-item list-group-item-action" title="Packers and Movers in Bandra">Packers & Movers in Bandra</a>
+                                        <!-- 8 -->
+                                        <a href="./mumbai/packers-and-movers-in-belapur.php" class="list-group-item list-group-item-action" title="Packers and Movers in Belapur">Packers & Movers in Belapur</a>
+                                        <!-- 9 -->
+                                        <a href="./mumbai/packers-and-movers-in-bhandup.php" class="list-group-item list-group-item-action" title="Packers and Movers in Bhandup">Packers & Movers in Bhandup</a>
+                                        <!-- 10 -->
+                                        <a href="./mumbai/packers-and-movers-in-bhivpuri.php" class="list-group-item list-group-item-action" title="Packers and Movers in Bhivpuri">Packers & Movers in Bhivpuri</a>
+                                        <!-- 11 -->
+                                        <a href="./mumbai/packers-and-movers-in-bhuleshwar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Bhuleshwar">Packers & Movers in Bhuleshwar</a>
+                                        <!-- 12 -->
+                                        <a href="./mumbai/packers-and-movers-in-borivali.php" class="list-group-item list-group-item-action" title="Packers and Movers in Borivali">Packers & Movers in Borivali</a>
+                                        <!-- 13 -->
+                                        <a href="./mumbai/packers-and-movers-in-borivali-east.php" class="list-group-item list-group-item-action" title="Packers and Movers in Borivali East">Packers & Movers in Borivali East</a>
+                                        <!-- 14 -->
+                                        <a href="./mumbai/packers-and-movers-in-borivali-west.php" class="list-group-item list-group-item-action" title="Packers and Movers in Borivali West">Packers & Movers in Borivali West</a>
+                                        <!-- 15 -->
+                                        <a href="./mumbai/packers-and-movers-in-byculla.php" class="list-group-item list-group-item-action" title="Packers and Movers in Byculla">Packers & Movers in Byculla</a>
+                                        <!-- 16 -->
+                                        <a href="./mumbai/packers-and-movers-in-chandivali.php" class="list-group-item list-group-item-action" title="Packers and Movers in Chandivali">Packers & Movers in Chandivali</a>
+                                        <!-- 17 -->
+                                        <a href="./mumbai/packers-and-movers-in-charni-road.php" class="list-group-item list-group-item-action" title="Packers and Movers in Charni Road">Packers & Movers in Charni Road</a>
+                                        <!-- 18 -->
+                                        <a href="./mumbai/packers-and-movers-in-chembur.php" class="list-group-item list-group-item-action" title="Packers and Movers in Chembur">Packers & Movers in Chembur</a>
+                                        <!-- 19 -->
+                                        <a href="./mumbai/packers-and-movers-in-chinchpokli.php" class="list-group-item list-group-item-action" title="Packers and Movers in Chinchpokli">Packers & Movers in Chinchpokli</a>
+                                        <!-- 20 -->
+                                        <a href="./mumbai/packers-and-movers-in-chowpatty.php" class="list-group-item list-group-item-action" title="Packers and Movers in Chowpatty">Packers & Movers in Chowpatty</a>
+                                        <!-- 21 -->
+                                        <a href="./mumbai/packers-and-movers-in-churchgate.php" class="list-group-item list-group-item-action" title="Packers and Movers in Churchgate">Packers & Movers in Churchgate</a>
+                                        <!-- 22 -->
+                                        <a href="./mumbai/packers-and-movers-in-colaba.php" class="list-group-item list-group-item-action" title="Packers and Movers in Colaba">Packers & Movers in Colaba</a>
+                                        <!-- 23 -->
+                                        <a href="./mumbai/packers-and-movers-in-cotton-green.php" class="list-group-item list-group-item-action" title="Packers and Movers in Cotton Green">Packers & Movers in Cotton Green</a>
+                                        <!-- 24 -->
+                                        <a href="./mumbai/packers-and-movers-in-crawford-market.php" class="list-group-item list-group-item-action" title="Packers and Movers in Crawford Market">Packers & Movers in Crawford Market</a>
+                                    </div>
+                                </div>
+
+                                <!-- ==================== Column 2 (Items #25–48) ==================== -->
+                                <div class="col-md-3 col-sm-6 mb-3">
+                                    <div class="list-group">
+                                        <!-- 25 -->
+                                        <a href="./mumbai/packers-and-movers-in-cuffe-parade.php" class="list-group-item list-group-item-action" title="Packers and Movers in Cuffe Parade">Packers & Movers in Cuffe Parade</a>
+                                        <!-- 26 -->
+                                        <a href="./mumbai/packers-and-movers-in-dadar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Dadar">Packers & Movers in Dadar</a>
+                                        <!-- 27 -->
+                                        <a href="./mumbai/packers-and-movers-in-dadar-tt.php" class="list-group-item list-group-item-action" title="Packers and Movers in Dadar TT">Packers & Movers in Dadar TT</a>
+                                        <!-- 28 -->
+                                        <a href="./mumbai/packers-and-movers-in-dahisar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Dahisar">Packers & Movers in Dahisar</a>
+                                        <!-- 29 -->
+                                        <a href="./mumbai/packers-and-movers-in-dockyard-road.php" class="list-group-item list-group-item-action" title="Packers and Movers in Dockyard Road">Packers & Movers in Dockyard Road</a>
+                                        <!-- 30 -->
+                                        <a href="./mumbai/packers-and-movers-in-dombivli.php" class="list-group-item list-group-item-action" title="Packers and Movers in Dombivli">Packers & Movers in Dombivli</a>
+                                        <!-- 31 -->
+                                        <a href="./mumbai/packers-and-movers-in-elphinstone.php" class="list-group-item list-group-item-action" title="Packers and Movers in Elphinstone">Packers & Movers in Elphinstone</a>
+                                        <!-- 32 -->
+                                        <a href="./mumbai/packers-and-movers-in-ghatkopar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Ghatkopar">Packers & Movers in Ghatkopar</a>
+                                        <!-- 33 -->
+                                        <a href="./mumbai/packers-and-movers-in-ghansoli.php" class="list-group-item list-group-item-action" title="Packers and Movers in Ghansoli">Packers & Movers in Ghansoli</a>
+                                        <!-- 34 -->
+                                        <a href="./mumbai/packers-and-movers-in-girgaon.php" class="list-group-item list-group-item-action" title="Packers and Movers in Girgaon">Packers & Movers in Girgaon</a>
+                                        <!-- 35 -->
+                                        <a href="./mumbai/packers-and-movers-in-goregaon.php" class="list-group-item list-group-item-action" title="Packers and Movers in Goregaon">Packers & Movers in Goregaon</a>
+                                        <!-- 36 -->
+                                        <a href="./mumbai/packers-and-movers-in-goregaon-east.php" class="list-group-item list-group-item-action" title="Packers and Movers in Goregaon East">Packers & Movers in Goregaon East</a>
+                                        <!-- 37 -->
+                                        <a href="./mumbai/packers-and-movers-in-goregaon-west.php" class="list-group-item list-group-item-action" title="Packers and Movers in Goregaon West">Packers & Movers in Goregaon West</a>
+                                        <!-- 38 -->
+                                        <a href="./mumbai/packers-and-movers-in-grant-road.php" class="list-group-item list-group-item-action" title="Packers and Movers in Grant Road">Packers & Movers in Grant Road</a>
+                                        <!-- 39 -->
+                                        <a href="./mumbai/packers-and-movers-in-jogeshwari.php" class="list-group-item list-group-item-action" title="Packers and Movers in Jogeshwari">Packers & Movers in Jogeshwari</a>
+                                        <!-- 40 -->
+                                        <a href="./mumbai/packers-and-movers-in-juhu.php" class="list-group-item list-group-item-action" title="Packers and Movers in Juhu">Packers & Movers in Juhu</a>
+                                        <!-- 41 -->
+                                        <a href="./mumbai/packers-and-movers-in-kalamboli.php" class="list-group-item list-group-item-action" title="Packers and Movers in Kalamboli">Packers & Movers in Kalamboli</a>
+                                        <!-- 42 -->
+                                        <a href="./mumbai/packers-and-movers-in-kalbadevi.php" class="list-group-item list-group-item-action" title="Packers and Movers in Kalbadevi">Packers & Movers in Kalbadevi</a>
+                                        <!-- 43 -->
+                                        <a href="./mumbai/packers-and-movers-in-kalyan.php" class="list-group-item list-group-item-action" title="Packers and Movers in Kalyan">Packers & Movers in Kalyan</a>
+                                        <!-- 44 -->
+                                        <a href="./mumbai/packers-and-movers-in-kamothe.php" class="list-group-item list-group-item-action" title="Packers and Movers in Kamothe">Packers & Movers in Kamothe</a>
+                                        <!-- 45 -->
+                                        <a href="./mumbai/packers-and-movers-in-kandivali.php" class="list-group-item list-group-item-action" title="Packers and Movers in Kandivali">Packers & Movers in Kandivali</a>
+                                        <!-- 46 -->
+                                        <a href="./mumbai/packers-and-movers-in-kandivali-east.php" class="list-group-item list-group-item-action" title="Packers and Movers in Kandivali East">Packers & Movers in Kandivali East</a>
+                                        <!-- 47 -->
+                                        <a href="./mumbai/packers-and-movers-in-kandivali-west.php" class="list-group-item list-group-item-action" title="Packers and Movers in Kandivali West">Packers & Movers in Kandivali West</a>
+                                        <!-- 48 -->
+                                        <a href="./mumbai/packers-and-movers-in-khar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Khar">Packers & Movers in Khar</a>
+                                    </div>
+                                </div>
+
+                                <!-- ==================== Column 3 (Items #49–71) ==================== -->
+                                <div class="col-md-3 col-sm-6 mb-3">
+                                    <div class="list-group">
+                                        <!-- 49 -->
+                                        <a href="./mumbai/packers-and-movers-in-kharghar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Kharghar">Packers & Movers in Kharghar</a>
+                                        <!-- 50 -->
+                                        <a href="./mumbai/packers-and-movers-in-kopri.php" class="list-group-item list-group-item-action" title="Packers and Movers in Kopri">Packers & Movers in Kopri</a>
+                                        <!-- 51 -->
+                                        <a href="./mumbai/packers-and-movers-in-kurla.php" class="list-group-item list-group-item-action" title="Packers and Movers in Kurla">Packers & Movers in Kurla</a>
+                                        <!-- 52 -->
+                                        <a href="./mumbai/packers-and-movers-in-lalbaug.php" class="list-group-item list-group-item-action" title="Packers and Movers in Lalbaug">Packers & Movers in Lalbaug</a>
+                                        <!-- 53 -->
+                                        <a href="./mumbai/packers-and-movers-in-lower-parel.php" class="list-group-item list-group-item-action" title="Packers and Movers in Lower Parel">Packers & Movers in Lower Parel</a>
+                                        <!-- 54 -->
+                                        <a href="./mumbai/packers-and-movers-in-mahim.php" class="list-group-item list-group-item-action" title="Packers and Movers in Mahim">Packers & Movers in Mahim</a>
+                                        <!-- 55 -->
+                                        <a href="./mumbai/packers-and-movers-in-malad.php" class="list-group-item list-group-item-action" title="Packers and Movers in Malad">Packers & Movers in Malad</a>
+                                        <!-- 56 -->
+                                        <a href="./mumbai/packers-and-movers-in-marine-lines.php" class="list-group-item list-group-item-action" title="Packers and Movers in Marine Lines">Packers & Movers in Marine Lines</a>
+                                        <!-- 57 -->
+                                        <a href="./mumbai/packers-and-movers-in-matunga.php" class="list-group-item list-group-item-action" title="Packers and Movers in Matunga">Packers & Movers in Matunga</a>
+                                        <!-- 58 -->
+                                        <a href="./mumbai/packers-and-movers-in-mazgaon.php" class="list-group-item list-group-item-action" title="Packers and Movers in Mazgaon">Packers & Movers in Mazgaon</a>
+                                        <!-- 59 -->
+                                        <a href="./mumbai/packers-and-movers-in-mazgaon-dock.php" class="list-group-item list-group-item-action" title="Packers and Movers in Mazgaon Dock">Packers & Movers in Mazgaon Dock</a>
+                                        <!-- 60 -->
+                                        <a href="./mumbai/packers-and-movers-in-mazgaon-east.php" class="list-group-item list-group-item-action" title="Packers and Movers in Mazgaon East">Packers & Movers in Mazgaon East</a>
+                                        <!-- 61 -->
+                                        <a href="./mumbai/packers-and-movers-in-mira-road.php" class="list-group-item list-group-item-action" title="Packers and Movers in Mira Road">Packers & Movers in Mira Road</a>
+                                        <!-- 62 -->
+                                        <a href="./mumbai/packers-and-movers-in-mumbra.php" class="list-group-item list-group-item-action" title="Packers and Movers in Mumbra">Packers & Movers in Mumbra</a>
+                                        <!-- 63 -->
+                                        <a href="./mumbai/packers-and-movers-in-mumbai.php" class="list-group-item list-group-item-action" title="Packers and Movers in Mumbai">Packers & Movers in Mumbai</a>
+                                        <!-- 64 -->
+                                        <a href="./mumbai/packers-and-movers-in-mulund.php" class="list-group-item list-group-item-action" title="Packers and Movers in Mulund">Packers & Movers in Mulund</a>
+                                        <!-- 65 -->
+                                        <a href="./mumbai/packers-and-movers-in-nagpada.php" class="list-group-item list-group-item-action" title="Packers and Movers in Nagpada">Packers & Movers in Nagpada</a>
+                                        <!-- 66 -->
+                                        <a href="./mumbai/packers-and-movers-in-nariman-point.php" class="list-group-item list-group-item-action" title="Packers and Movers in Nariman Point">Packers & Movers in Nariman Point</a>
+                                        <!-- 67 -->
+                                        <a href="./mumbai/packers-and-movers-in-navi-mumbai.php" class="list-group-item list-group-item-action" title="Packers and Movers in Navi Mumbai">Packers & Movers in Navi Mumbai</a>
+                                        <!-- 68 -->
+                                        <a href="./mumbai/packers-and-movers-in-panvel.php" class="list-group-item list-group-item-action" title="Packers and Movers in Panvel">Packers & Movers in Panvel</a>
+                                        <!-- 69 -->
+                                        <a href="./mumbai/packers-and-movers-in-parel.php" class="list-group-item list-group-item-action" title="Packers and Movers in Parel">Packers & Movers in Parel</a>
+                                        <!-- 70 -->
+                                        <a href="./mumbai/packers-and-movers-in-powai.php" class="list-group-item list-group-item-action" title="Packers and Movers in Powai">Packers & Movers in Powai</a>
+                                        <!-- 71 -->
+                                        <a href="./mumbai/packers-and-movers-in-pydhonie.php" class="list-group-item list-group-item-action" title="Packers and Movers in Pydhonie">Packers & Movers in Pydhonie</a>
+                                    </div>
+                                </div>
+
+                                <!-- ==================== Column 4 (Items #72–94) ==================== -->
+                                <div class="col-md-3 col-sm-6 mb-3">
+                                    <div class="list-group">
+                                        <!-- 72 -->
+                                        <a href="./mumbai/packers-and-movers-in-rabale.php" class="list-group-item list-group-item-action" title="Packers and Movers in Rabale">Packers & Movers in Rabale</a>
+                                        <!-- 73 -->
+                                        <a href="./mumbai/packers-and-movers-in-reay-road.php" class="list-group-item list-group-item-action" title="Packers and Movers in Reay Road">Packers & Movers in Reay Road</a>
+                                        <!-- 74 -->
+                                        <a href="./mumbai/packers-and-movers-in-sandhurst-road.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sandhurst Road">Packers & Movers in Sandhurst Road</a>
+                                        <!-- 75 -->
+                                        <a href="./mumbai/packers-and-movers-in-sanpada.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sanpada">Packers & Movers in Sanpada</a>
+                                        <!-- 76 -->
+                                        <a href="./mumbai/packers-and-movers-in-santacruz.php" class="list-group-item list-group-item-action" title="Packers and Movers in Santacruz">Packers & Movers in Santacruz</a>
+                                        <!-- 77 -->
+                                        <a href="./mumbai/packers-and-movers-in-seawoods.php" class="list-group-item list-group-item-action" title="Packers and Movers in Seawoods">Packers & Movers in Seawoods</a>
+                                        <!-- 78 -->
+                                        <a href="./mumbai/packers-and-movers-in-sewri.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sewri">Packers & Movers in Sewri</a>
+                                        <!-- 79 -->
+                                        <a href="./mumbai/packers-and-movers-in-sewri-west.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sewri West">Packers & Movers in Sewri West</a>
+                                        <!-- 80 -->
+                                        <a href="./mumbai/packers-and-movers-in-shilphata.php" class="list-group-item list-group-item-action" title="Packers and Movers in Shilphata">Packers & Movers in Shilphata</a>
+                                        <!-- 81 -->
+                                        <a href="./mumbai/packers-and-movers-in-sion.php" class="list-group-item list-group-item-action" title="Packers and Movers in Sion">Packers & Movers in Sion</a>
+                                        <!-- 82 -->
+                                        <a href="./mumbai/packers-and-movers-in-taloja.php" class="list-group-item list-group-item-action" title="Packers and Movers in Taloja">Packers & Movers in Taloja</a>
+                                        <!-- 83 -->
+                                        <a href="./mumbai/packers-and-movers-in-thane-east.php" class="list-group-item list-group-item-action" title="Packers and Movers in Thane East">Packers & Movers in Thane East</a>
+                                        <!-- 84 -->
+                                        <a href="./mumbai/packers-and-movers-in-thane-west.php" class="list-group-item list-group-item-action" title="Packers and Movers in Thane West">Packers & Movers in Thane West</a>
+                                        <!-- 85 -->
+                                        <a href="./mumbai/packers-and-movers-in-trombay.php" class="list-group-item list-group-item-action" title="Packers and Movers in Trombay">Packers & Movers in Trombay</a>
+                                        <!-- 86 -->
+                                        <a href="./mumbai/packers-and-movers-in-turbhe.php" class="list-group-item list-group-item-action" title="Packers and Movers in Turbhe">Packers & Movers in Turbhe</a>
+                                        <!-- 87 -->
+                                        <a href="./mumbai/packers-and-movers-in-ulhasnagar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Ulhasnagar">Packers & Movers in Ulhasnagar</a>
+                                        <!-- 88 -->
+                                        <a href="./mumbai/packers-and-movers-in-ulwe.php" class="list-group-item list-group-item-action" title="Packers and Movers in Ulwe">Packers & Movers in Ulwe</a>
+                                        <!-- 89 -->
+                                        <a href="./mumbai/packers-and-movers-in-vashi.php" class="list-group-item list-group-item-action" title="Packers and Movers in Vashi">Packers & Movers in Vashi</a>
+                                        <!-- 90 -->
+                                        <a href="./mumbai/packers-and-movers-in-versova.php" class="list-group-item list-group-item-action" title="Packers and Movers in Versova">Packers & Movers in Versova</a>
+                                        <!-- 91 -->
+                                        <a href="./mumbai/packers-and-movers-in-vikhroli.php" class="list-group-item list-group-item-action" title="Packers and Movers in Vikhroli">Packers & Movers in Vikhroli</a>
+                                        <!-- 92 -->
+                                        <a href="./mumbai/packers-and-movers-in-vile-parle.php" class="list-group-item list-group-item-action" title="Packers and Movers in Vile Parle">Packers & Movers in Vile Parle</a>
+                                        <!-- 93 -->
+                                        <a href="./mumbai/packers-and-movers-in-wadala.php" class="list-group-item list-group-item-action" title="Packers and Movers in Wadala">Packers & Movers in Wadala</a>
+                                        <!-- 94 -->
+                                        <a href="./mumbai/packers-and-movers-in-worli.php" class="list-group-item list-group-item-action" title="Packers and Movers in Worli">Packers & Movers in Worli</a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="mt-10" style="text-align: center;">
+                                <p style="font-weight: 700;">We provide reliable moving services in all major cities across India. Contact us to learn more about our services in your city.
+
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <article class="main-container__marquee">
+            <div class="main-container__marquee-track">
+                <div class="main-container__marquee-items">
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 11+ Years of Trusted Service</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Pan-India Relocation Experts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Home & Office Relocation Made Easy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Car & Bike Safe Transport</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> International Relocation Specialists</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Licensed & Certified Movers</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Advanced Tracking Technology</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Custom Packing for Fragile Items</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Transparent Pricing Policy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Fast & Secure Deliveries</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Personalized Moving Solutions</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Corporate Relocation Discounts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Comprehensive Goods Insurance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Hassle-Free Pet Relocation</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Experienced Packing Team</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 24/7 Customer Assistance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Modern & Reliable Fleet</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Flexible Scheduling Options</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Satisfaction Guaranteed</span>
+                </div>
+
+                <!-- Duplicate for Smooth Marquee Scroll -->
+                <div aria-hidden="true" class="main-container__marquee-items">
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 11+ Years of Trusted Service</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Pan-India Relocation Experts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Home & Office Relocation Made Easy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Car & Bike Safe Transport</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> International Relocation Specialists</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Licensed & Certified Movers</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Advanced Tracking Technology</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Custom Packing for Fragile Items</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Transparent Pricing Policy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Fast & Secure Deliveries</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Personalized Moving Solutions</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Corporate Relocation Discounts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Comprehensive Goods Insurance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Hassle-Free Pet Relocation</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Experienced Packing Team</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 24/7 Customer Assistance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Modern & Reliable Fleet</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Flexible Scheduling Options</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Satisfaction Guaranteed</span>
+                </div>
+            </div>
+        </article>
+        <!-- client area -->
+        <section class="brand__area section-p-60">
+            <div class="container">
+                <div class="swiper brand-active fix">
+                    <div class="swiper-wrapper">
+                        <!-- Client 1 to 13 -->
+                                                    <div class="swiper-slide">
+                                <div class="brand__item">
+                                    <img src="<?php echo $base_url; ?>assets/media/clients/client01.webp"
+                                        alt="Client 1 Logo | Trusted by DZ Cargo Packers and Movers"
+                                        title="Client 1 | Partner of DZ Cargo Packers and Movers">
+                                </div>
+                            </div>
+                                                    <div class="swiper-slide">
+                                <div class="brand__item">
+                                    <img src="<?php echo $base_url; ?>assets/media/clients/client02.webp"
+                                        alt="Client 2 Logo | Trusted by DZ Cargo Packers and Movers"
+                                        title="Client 2 | Partner of DZ Cargo Packers and Movers">
+                                </div>
+                            </div>
+                                                    <div class="swiper-slide">
+                                <div class="brand__item">
+                                    <img src="<?php echo $base_url; ?>assets/media/clients/client03.webp"
+                                        alt="Client 3 Logo | Trusted by DZ Cargo Packers and Movers"
+                                        title="Client 3 | Partner of DZ Cargo Packers and Movers">
+                                </div>
+                            </div>
+                                                    <div class="swiper-slide">
+                                <div class="brand__item">
+                                    <img src="<?php echo $base_url; ?>assets/media/clients/client04.webp"
+                                        alt="Client 4 Logo | Trusted by DZ Cargo Packers and Movers"
+                                        title="Client 4 | Partner of DZ Cargo Packers and Movers">
+                                </div>
+                            </div>
+                                                    <div class="swiper-slide">
+                                <div class="brand__item">
+                                    <img src="<?php echo $base_url; ?>assets/media/clients/client05.webp"
+                                        alt="Client 5 Logo | Trusted by DZ Cargo Packers and Movers"
+                                        title="Client 5 | Partner of DZ Cargo Packers and Movers">
+                                </div>
+                            </div>
+                                                    <div class="swiper-slide">
+                                <div class="brand__item">
+                                    <img src="<?php echo $base_url; ?>assets/media/clients/client06.webp"
+                                        alt="Client 6 Logo | Trusted by DZ Cargo Packers and Movers"
+                                        title="Client 6 | Partner of DZ Cargo Packers and Movers">
+                                </div>
+                            </div>
+                                                    <div class="swiper-slide">
+                                <div class="brand__item">
+                                    <img src="<?php echo $base_url; ?>assets/media/clients/client07.webp"
+                                        alt="Client 7 Logo | Trusted by DZ Cargo Packers and Movers"
+                                        title="Client 7 | Partner of DZ Cargo Packers and Movers">
+                                </div>
+                            </div>
+                                                    <div class="swiper-slide">
+                                <div class="brand__item">
+                                    <img src="<?php echo $base_url; ?>assets/media/clients/client08.webp"
+                                        alt="Client 8 Logo | Trusted by DZ Cargo Packers and Movers"
+                                        title="Client 8 | Partner of DZ Cargo Packers and Movers">
+                                </div>
+                            </div>
+                                                    <div class="swiper-slide">
+                                <div class="brand__item">
+                                    <img src="<?php echo $base_url; ?>assets/media/clients/client09.webp"
+                                        alt="Client 9 Logo | Trusted by DZ Cargo Packers and Movers"
+                                        title="Client 9 | Partner of DZ Cargo Packers and Movers">
+                                </div>
+                            </div>
+                                                    <div class="swiper-slide">
+                                <div class="brand__item">
+                                    <img src="<?php echo $base_url; ?>assets/media/clients/client10.webp"
+                                        alt="Client 10 Logo | Trusted by DZ Cargo Packers and Movers"
+                                        title="Client 10 | Partner of DZ Cargo Packers and Movers">
+                                </div>
+                            </div>
+                                                    <div class="swiper-slide">
+                                <div class="brand__item">
+                                    <img src="<?php echo $base_url; ?>assets/media/clients/client11.webp"
+                                        alt="Client 11 Logo | Trusted by DZ Cargo Packers and Movers"
+                                        title="Client 11 | Partner of DZ Cargo Packers and Movers">
+                                </div>
+                            </div>
+                                                    <div class="swiper-slide">
+                                <div class="brand__item">
+                                    <img src="<?php echo $base_url; ?>assets/media/clients/client12.webp"
+                                        alt="Client 12 Logo | Trusted by DZ Cargo Packers and Movers"
+                                        title="Client 12 | Partner of DZ Cargo Packers and Movers">
+                                </div>
+                            </div>
+                                                    <div class="swiper-slide">
+                                <div class="brand__item">
+                                    <img src="<?php echo $base_url; ?>assets/media/clients/client13.webp"
+                                        alt="Client 13 Logo | Trusted by DZ Cargo Packers and Movers"
+                                        title="Client 13 | Partner of DZ Cargo Packers and Movers">
+                                </div>
+                            </div>
+                                            </div>
+                </div>
+            </div>
+        </section>
+        <!-- client area end -->
+        <article class="main-container__marquee">
+            <div class="main-container__marquee-track">
+                <div class="main-container__marquee-items">
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 11+ Years of Trusted Service</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Pan-India Relocation Experts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Home & Office Relocation Made Easy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Car & Bike Safe Transport</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> International Relocation Specialists</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Licensed & Certified Movers</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Advanced Tracking Technology</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Custom Packing for Fragile Items</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Transparent Pricing Policy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Fast & Secure Deliveries</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Personalized Moving Solutions</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Corporate Relocation Discounts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Comprehensive Goods Insurance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Hassle-Free Pet Relocation</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Experienced Packing Team</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 24/7 Customer Assistance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Modern & Reliable Fleet</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Flexible Scheduling Options</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Satisfaction Guaranteed</span>
+                </div>
+
+                <!-- Duplicate for Smooth Marquee Scroll -->
+                <div aria-hidden="true" class="main-container__marquee-items">
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 11+ Years of Trusted Service</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Pan-India Relocation Experts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Home & Office Relocation Made Easy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Car & Bike Safe Transport</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> International Relocation Specialists</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Licensed & Certified Movers</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Advanced Tracking Technology</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Custom Packing for Fragile Items</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Transparent Pricing Policy</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Fast & Secure Deliveries</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Personalized Moving Solutions</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Corporate Relocation Discounts</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Comprehensive Goods Insurance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Hassle-Free Pet Relocation</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Experienced Packing Team</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> 24/7 Customer Assistance</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Modern & Reliable Fleet</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Flexible Scheduling Options</span>
+                    <span class="main-container__marquee-item"><i class="fas fa-star"></i> Satisfaction Guaranteed</span>
+                </div>
+            </div>
+        </article>
+    </main>
+
+    <!-- footer-area -->

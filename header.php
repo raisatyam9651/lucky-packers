@@ -1,0 +1,359 @@
+<?php $base_url = isset($base_url) ? $base_url : './'; ?>
+<!doctype html>
+<html class="no-js" lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>DZ Cargo Packers and Movers PVT. LTD. - Trusted Relocation Services</title>
+    <meta name="description" content="Reliable packers and movers with 11+ years of experience. DZ Cargo Packers and Movers PVT. LTD. offers home, office, and vehicle relocation services across India. Get a free quote today!">
+    <meta name="keywords" content="packers and movers, relocation services, home shifting, office relocation, car transportation, warehouse storage, DZ Cargo Packers and Movers, trusted packers in India">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/media/favicon/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="<?php echo $base_url; ?>assets/media/favicon/favicon.svg" />
+    <link rel="shortcut icon" href="<?php echo $base_url; ?>assets/media/favicon/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="<?php echo $base_url; ?>assets/media/favicon/apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-title" content="DZ Cargo Packers and Movers" />
+    <link rel="manifest" href="<?php echo $base_url; ?>assets/media/favicon/site.webmanifest" />
+
+    <!-- Twitter Card data -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@DzCargo">
+    <meta name="twitter:title" content="DZ Cargo Packers and Movers PVT. LTD. - Trusted Relocation Services">
+    <meta name="twitter:description" content="Explore our Home Relocation, Office Relocation, and Vehicle Moving Services. Reliable, secure, and available all over India.">
+    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/media/card/twitter-card.webp">
+
+    <!-- Open Graph data -->
+    <meta property="og:title" content="DZ Cargo Packers and Movers PVT. LTD. - Trusted Relocation Services" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="<?php echo $base_url; ?>" />
+    <meta property="og:image" content="<?php echo $base_url; ?>assets/media/card/facebook-open-graph-card.webp" />
+    <meta property="og:description" content="Relocation made easy with our reliable services – Home, Office, International, and Vehicle Moving Solutions." />
+    <meta property="og:site_name" content="DZ Cargo Packers and Movers PVT. LTD." />
+
+    <!-- CSS here -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>assets/css01/bootstrap.min.css">
+    <link rel="stylesheet" href="<?php echo $base_url; ?>assets/css01/animate.min.css">
+    <link rel="stylesheet" href="<?php echo $base_url; ?>assets/css01/magnific-popup.min.css">
+    <link rel="stylesheet" href="<?php echo $base_url; ?>assets/css01/fontawesome-all.min.css">
+    <link rel="stylesheet" href="<?php echo $base_url; ?>assets/css01/flaticon.min.css">
+    <link rel="stylesheet" href="<?php echo $base_url; ?>assets/css01/odometer.min.css">
+    <link rel="stylesheet" href="<?php echo $base_url; ?>assets/css01/swiper-bundle.min.css">
+    <link rel="stylesheet" href="<?php echo $base_url; ?>assets/css01/jquery-ui.min.css">
+    <link rel="stylesheet" href="<?php echo $base_url; ?>assets/css01/aos.min.css">
+    <link rel="stylesheet" href="<?php echo $base_url; ?>assets/css01/default.min.css">
+    <link rel="stylesheet" href="<?php echo $base_url; ?>assets/css01/default-icons.min.css">
+    <link rel="stylesheet" href="<?php echo $base_url; ?>assets/css01/main.min.css">
+
+    <meta name="robots" content="index, follow">
+    <meta name="googlebot" content="index, follow">
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-LWSKXEW7LT"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-LWSKXEW7LT');
+    </script>
+
+    <!-- Event snippet for Submit Lead Form conversion page
+In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
+    <script>
+        function gtag_report_conversion_submit_lead_form(url) {
+            var callback = function() {
+                if (typeof(url) != 'undefined') {
+                    window.location = url;
+                }
+            };
+            gtag('event', 'conversion', {
+                'send_to': 'AW-11548299495/aSGGCK_xhIMaEOeh1IIr',
+                'event_callback': callback
+            });
+            return false;
+        }
+    </script>
+
+    <!-- Event snippet for Call Button Click conversion page
+In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
+    <script>
+        function gtag_report_conversion_call_button(url) {
+            var callback = function() {
+                if (typeof(url) != 'undefined') {
+                    window.location = url;
+                }
+            };
+            gtag('event', 'conversion', {
+                'send_to': 'AW-11548299495/_nnDCJC09IIaEOeh1IIr',
+                'event_callback': callback
+            });
+            return false;
+        }
+    </script>
+    <!-- Event snippet for Whatsapp Button conversion page
+In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
+    <script>
+        function gtag_report_conversion_whatsapp_button(url) {
+            var callback = function() {
+                if (typeof(url) != 'undefined') {
+                    window.location = url;
+                }
+            };
+            gtag('event', 'conversion', {
+                'send_to': 'AW-11548299495/ezCoCNXNhYMaEOeh1IIr',
+                'event_callback': callback
+            });
+            return false;
+        }
+    </script>
+
+
+</head>
+<body class="theme-red">
+
+    <!-- header-area -->
+<header>
+    <div id="header-fixed-height"></div>
+    <!-- top baar -->
+    <div class="top-header-01-main" role="banner">
+        <div class="container">
+            <div class="top-header-01">
+                <!-- Left Section -->
+                <div class="top-header-01-left-section" role="contentinfo">
+                    <div>
+                        <i class="fas fa-map-marker-alt" aria-hidden="true"></i>
+                        <span>Welcome to <strong>DZ Cargo Packer PVT. LTD.</strong></span>
+                    </div>
+                    <div>
+                        <i class="fa-regular fa-phone" aria-hidden="true"></i>
+                        <span>
+                            <a href="tel:+91 8003600809" onclick="gtag_report_conversion_call_button();" title="Call DZ Cargo Packers and Movers PVT. LTD.">
+                                +91 8003600809                            </a>
+                        </span>
+                    </div>
+                </div>
+
+                <!-- Right Section -->
+                <div class="top-header-01-right-section">
+                    <a href="javascript:void(0);" class="get_a_free_quote" title="Get a Free Quote from DZ Cargo Packers and Movers PVT. LTD.">
+                        <i class="fa-regular fa-paper-plane" aria-hidden="true"></i>Get Free Quote
+                    </a>
+                    <a href="javascript:void(0);" class="make_payment_btn_pop" title="Make a Payment to DZ Cargo Packers and Movers PVT. LTD.">
+                        <i class="fa-regular fa-receipt" aria-hidden="true"></i>Make A Payment
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- header menu baar -->
+
+    <div id="sticky-header" class="tg-header__area tg-header__area-two" role="banner">
+        <div class="container">
+            <div class="container-fluid p-0">
+                <div class="row gx-0">
+                    <div class="col-12">
+                        <div class="tgmenu__wrap">
+                            <!-- Logo -->
+                            <div class="logo">
+                                <a href="<?php echo $base_url; ?>" title="DZ Cargo Packers and Movers - Home">
+                                    <img src="<?php echo $base_url; ?>assets/media/logo/dz-cargo-packers-and-movers-pvt-ltd-logo.webp" alt="DZ Cargo Packers and Movers Logo" loading="lazy">
+                                </a>
+                            </div>
+
+                            <!-- Navigation Menu -->
+                            <div class="tgmenu__navbar-wrap tgmenu__main-menu d-none d-xl-flex" role="navigation" aria-label="Main Navigation">
+                                <ul class="navigation">
+                                    <!-- Home Page -->
+                                    <li>
+                                        <a class="active" href="<?php echo $base_url; ?>" title="Go to Home Page">Home</a>
+                                    </li>
+
+                                    <!-- About Us -->
+                                    <li>
+                                        <a class="" href="<?php echo $base_url; ?>about-us.php" title="Learn more About Us">About Us</a>
+                                    </li>
+
+                                    <!-- Our Work -->
+                                    <li>
+                                        <a class="" href="<?php echo $base_url; ?>our-work.php" title="Explore Our Work">Our Work</a>
+                                    </li>
+
+                                    <!-- Our Services -->
+                                    <li class="menu-item-has-children">
+                                        <a class="" href="javascript:void(0);" title="Explore Our Services">Our Services</a>
+                                        <ul class="sub-menu">
+                                            <li>
+                                                <a class="" href="<?php echo $base_url; ?>our-services/" title="View All Services">All Services</a>
+                                            </li>
+                                            <li>
+                                                <a class="" href="<?php echo $base_url; ?>our-services/transportation.php" title="Transportation Services">Transportation</a>
+                                            </li>
+                                            <li>
+                                                <a class="" href="<?php echo $base_url; ?>our-services/packing-and-moving.php" title="Packing and Moving Services">Packing and Moving</a>
+                                            </li>
+                                            <li>
+                                                <a class="" href="<?php echo $base_url; ?>our-services/loading-and-unloading.php" title="Loading and Unloading Services">Loading and Unloading</a>
+                                            </li>
+                                            <li>
+                                                <a class="" href="<?php echo $base_url; ?>our-services/unpacking-and-escort.php" title="Unpacking and Escort Services">Unpacking and Escort</a>
+                                            </li>
+                                            <li>
+                                                <a class="" href="<?php echo $base_url; ?>our-services/home-shifting.php" title="Home Shifting Services">Home Shifting</a>
+                                            </li>
+                                            <li>
+                                                <a class="" href="<?php echo $base_url; ?>our-services/domestic-relocation.php" title="Domestic Relocation Services">Domestic Relocation</a>
+                                            </li>
+                                            <li>
+                                                <a class="" href="<?php echo $base_url; ?>our-services/international-relocation.php" title="International Relocation Services">International Relocation</a>
+                                            </li>
+                                            <li>
+                                                <a class="" href="<?php echo $base_url; ?>our-services/warehouse-services.php" title="Warehouse Services">Warehouse Services</a>
+                                            </li>
+                                            <li>
+                                                <a class="" href="<?php echo $base_url; ?>our-services/car-and-bike-transportation.php" title="Car and Bike Transportation Services">Car and Bike Transportation</a>
+                                            </li>
+                                            <li>
+                                                <a class="" href="<?php echo $base_url; ?>our-services/office-shifting.php" title="Office Shifting Services">Office Shifting</a>
+                                            </li>
+                                            <li>
+                                                <a class="" href="<?php echo $base_url; ?>our-services/hotel-shifting.php" title="Hotel Shifting Services">Hotel Shifting</a>
+                                            </li>
+                                            <li>
+                                                <a class="" href="<?php echo $base_url; ?>our-services/factory-shifting.php" title="Factory Shifting Services">Factory Shifting</a>
+                                            </li>
+                                            <li>
+                                                <a class="" href="<?php echo $base_url; ?>our-services/pet-moving.php" title="Pet Moving Services">Pet Moving</a>
+                                            </li>
+                                            <li>
+                                                <a class="" href="<?php echo $base_url; ?>our-services/custom-clearance.php" title="Custom Clearance Services">Custom Clearance</a>
+                                            </li>
+                                            <li>
+                                                <a class="" href="<?php echo $base_url; ?>our-services/painting-moving-services.php" title="Painting Moving Services">Painting Moving Services</a>
+                                            </li>
+                                            <li>
+                                                <a class="" href="<?php echo $base_url; ?>our-services/goods-insurance.php" title="Goods Insurance Services">Goods Insurance</a>
+                                            </li>
+                                            <li>
+                                                <a class="" href="<?php echo $base_url; ?>corporate-relocation.php" title="Corporate Relocation Services">Corporate Relocation</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+
+                                    <!-- FAQs -->
+                                    <li>
+                                        <a class="" href="<?php echo $base_url; ?>faq.php" title="Frequently Asked Questions">FAQs</a>
+                                    </li>
+
+                                    <!-- Reviews -->
+                                    <li>
+                                        <a class="" href="<?php echo $base_url; ?>client-reviews.php" title="See What Our Clients Say">Client Reviews</a>
+                                    </li>
+
+                                    <!-- Our Network -->
+                                    <li>
+                                        <a class="" href="<?php echo $base_url; ?>our-network.php" title="Our Network Coverage">Our Network</a>
+                                    </li>
+
+                                    <!-- Blogs-->
+                                    <li>
+                                        <a class="" href="<?php echo $base_url; ?>blogs/" title="Read Our Blogs">Blogs</a>
+                                    </li>
+
+                                    <!-- Contact Us -->
+                                    <li>
+                                        <a class="" href="<?php echo $base_url; ?>contact-us.php" title="Get in Touch With Us">Contact Us</a>
+                                    </li>
+
+                                    <!-- Track Shipment -->
+                                    <li style="display:flex;align-items:center;">
+                                        <a href="<?php echo $base_url; ?>tracking.php"
+                                            class=" d-inline-flex align-items-center gap-2"
+                                            style="background:#d00729;color:#fff !important;border-radius:8px;font-size:12px;font-weight:700;padding:7px 14px;white-space:nowrap;line-height:1.4;"
+                                            title="Track Your Shipment">
+                                            <i class="fas fa-map-marker-alt" style="font-size:11px;"></i> Track Shipment
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="tgmenu__action tgmenu__action-two d-none d-md-flex">
+                                <ul class="list-wrap">
+                                    <li class="header-search"></li>
+                                </ul>
+                            </div>
+                            <!-- Mobile Navigation -->
+                            <div class="mobile-nav-toggler" title="Open Mobile Navigation">
+                                <i class="tg-flaticon-menu-1"></i>
+                            </div>
+                        </div>
+
+                        <!-- Mobile Menu -->
+                        <div class="tgmobile__menu">
+                            <nav class="tgmobile__menu-box">
+                                <div class="close-btn" title="Close Mobile Menu"><i class="tg-flaticon-close"></i></div>
+                                <div class="nav-logo">
+                                    <a href="<?php echo $base_url; ?>" title="DZ Cargo Packers and Movers - Home">
+                                        <img src="<?php echo $base_url; ?>assets/media/logo/dz-cargo-packers-and-movers-pvt-ltd-logo.webp" alt="DZ Cargo Packers and Movers Logo" loading="lazy">
+                                    </a>
+                                </div>
+                                <div class="tgmobile__track-btn" style="padding:14px 20px 6px;">
+                                    <a href="<?php echo $base_url; ?>tracking.php" class="d-flex align-items-center justify-content-center gap-2 w-100" style="background:#d00729;color:#fff;border-radius:10px;font-size:14px;font-weight:600;padding:11px 18px;text-decoration:none;" title="Track Your Shipment">
+                                        <i class="fas fa-map-marker-alt"></i> Track Your Shipment
+                                    </a>
+                                </div>
+                                <div class="tgmobile__menu-outer">
+                                    <!-- Menu Injected by JavaScript -->
+                                </div>
+                                <div class="social-links">
+                                    <ul class="list-wrap">
+                                        <li>
+                                            <a href="https://www.facebook.com/profile.php?id=61571732304929" target="_blank" rel="noopener noreferrer" title="Follow us on Facebook">
+                                                <i class="fab fa-facebook-f"></i>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="https://x.com/DzCargo" target="_blank" rel="noopener noreferrer" title="Follow us on Twitter">
+                                                <i class="fab fa-twitter"></i>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.instagram.com/dz_cargo_packers?igsh=cnJlYmZ0amZldmIz" target="_blank" rel="noopener noreferrer" title="Follow us on Instagram">
+                                                <i class="fab fa-instagram"></i>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="javascript:void(0);" target="_blank" rel="noopener noreferrer" title="Connect with us on LinkedIn">
+                                                <i class="fab fa-linkedin-in"></i>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.youtube.com/channel/UCWIHCiznHKhWh5_pplTBFvQ" target="_blank" rel="noopener noreferrer" title="Subscribe to our YouTube Channel">
+                                                <i class="fab fa-youtube"></i>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </nav>
+                        </div>
+                        <div class="tgmobile__menu-backdrop"></div>
+                        <!-- End Mobile Menu -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div style="text-align: center; font-size: 15px; color: #fff; line-height: 2.8rem;background-color: var(--tg-theme-primary);font-weight: 600;">
+        <i class="fas fa-handshake"></i>
+        <span style="font-weight: bold;">आपके भरोसे का साथी</span>,
+        <i class="fas fa-shoe-prints"></i>
+        <span style="font-weight: bold;">हर कदम पर !</span>
+    </div>
+
+</header>
+<?php include 'modals.php'; ?>
