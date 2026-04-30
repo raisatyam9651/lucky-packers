@@ -36,7 +36,9 @@
     <link rel="stylesheet" href="<?php echo $base_url; ?>assets/css01/bootstrap.min.css">
     <link rel="stylesheet" href="<?php echo $base_url; ?>assets/css01/animate.min.css">
     <link rel="stylesheet" href="<?php echo $base_url; ?>assets/css01/magnific-popup.min.css">
-    <link rel="stylesheet" href="<?php echo $base_url; ?>assets/css01/fontawesome-all.min.css">
+    <!-- FontAwesome 6 CDN (Free) -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- <link rel="stylesheet" href="<?php echo $base_url; ?>assets/css01/fontawesome-all.min.css"> -->
     <link rel="stylesheet" href="<?php echo $base_url; ?>assets/css01/flaticon.min.css">
     <link rel="stylesheet" href="<?php echo $base_url; ?>assets/css01/odometer.min.css">
     <link rel="stylesheet" href="<?php echo $base_url; ?>assets/css01/swiper-bundle.min.css">
@@ -45,6 +47,76 @@
     <link rel="stylesheet" href="<?php echo $base_url; ?>assets/css01/default.min.css">
     <link rel="stylesheet" href="<?php echo $base_url; ?>assets/css01/default-icons.min.css">
     <link rel="stylesheet" href="<?php echo $base_url; ?>assets/css01/main.min.css">
+
+    <style>
+        /* Fallback for FontAwesome Pro classes to Free Solid/Regular */
+        .fa-light, .fa-thin, .fa-duotone {
+            font-family: "Font Awesome 6 Free" !important;
+            font-weight: 900 !important; /* Fallback to Solid */
+        }
+        .fa-light.fa-brands, .fa-thin.fa-brands {
+            font-family: "Font Awesome 6 Brands" !important;
+        }
+
+        /* Map specific Pro-only icons to closest Free equivalents */
+        .fa-person-dolly:before { content: "\f472"; } /* fa-dolly */
+        .fa-shield-check:before { content: "\f3ed"; } /* fa-shield */
+        .fa-cart-flatbed-boxes:before { content: "\f474"; } /* fa-cart-flatbed */
+        .fa-person-carry-box:before { content: "\f4de"; } /* fa-truck-loading */
+        .fa-messages:before { content: "\f086"; } /* fa-comments */
+
+        /* Alignment Fix for Feature & Service Icons */
+        .features__icon, .services__icon-three, .counter__icon, .counter__icon-two, .services__icon-two, .about__list-item-two .icon {
+            display: flex !important;
+            align-items: center !important;
+            justify-content: center !important;
+            line-height: 1 !important;
+        }
+        .features__icon i, .services__icon-three i, .counter__icon i, .counter__icon-two i, .services__icon-two i, .about__list-item-two .icon i {
+            margin: 0 !important;
+            display: inline-block !important;
+        }
+
+        /* Fallback for broken Flaticons to FontAwesome */
+        i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before,
+        i[class^="tg-flaticon-"]:before, i[class*=" tg-flaticon-"]:before {
+            font-family: "Font Awesome 6 Free" !important;
+            font-weight: 900 !important;
+            font-style: normal;
+        }
+
+        .flaticon-telephone:before, .flaticon-support:before { content: "\f095"; } /* fa-phone */
+        .flaticon-envelope:before { content: "\f0e0"; } /* fa-envelope */
+        .flaticon-time:before { content: "\f017"; } /* fa-clock */
+        .flaticon-placeholder:before, .flaticon-location:before, .flaticon-location-1:before { content: "\f3c5"; } /* fa-location-dot */
+        .flaticon-right-arrow:before { content: "\f061"; } /* fa-arrow-right */
+        .flaticon-left-arrow:before { content: "\f060"; } /* fa-arrow-left */
+        .flaticon-check:before { content: "\f00c"; } /* fa-check */
+        .flaticon-truck:before { content: "\f0d1"; } /* fa-truck */
+        .flaticon-warehouse:before, .flaticon-warehouse-1:before { content: "\f494"; } /* fa-warehouse */
+        .flaticon-box:before, .flaticon-package:before { content: "\f466"; } /* fa-box */
+        .flaticon-global-distribution:before, .flaticon-planet-earth:before { content: "\f0ac"; } /* fa-earth-americas */
+        .flaticon-calendar:before, .flaticon-calendar-1:before { content: "\f133"; } /* fa-calendar-days */
+        .flaticon-search:before { content: "\f002"; } /* fa-magnifying-glass */
+        
+        .tg-flaticon-menu:before, .tg-flaticon-menu-1:before, .tg-flaticon-menu-2:before { content: "\f0c9"; } /* fa-bars */
+        .tg-flaticon-close:before, .tg-flaticon-close-1:before { content: "\f00d"; } /* fa-xmark */
+        .tg-flaticon-arrow-up:before, .tg-flaticon-arrowhead-up:before { content: "\f062"; } /* fa-arrow-up */
+
+        /* Accordion / FAQ Icons fallback */
+        .accordion-button:not(.collapsed)::after {
+            background-image: none !important;
+            content: "\f077" !important; /* fa-chevron-up */
+            font-family: "Font Awesome 6 Free";
+            font-weight: 900;
+        }
+        .accordion-button::after {
+            background-image: none !important;
+            content: "\f078" !important; /* fa-chevron-down */
+            font-family: "Font Awesome 6 Free";
+            font-weight: 900;
+        }
+    </style>
 
     <meta name="robots" content="index, follow">
     <meta name="googlebot" content="index, follow">
@@ -275,7 +347,7 @@ In your html page, add the snippet and call gtag_report_conversion when someone 
                                     <li style="display:flex;align-items:center;">
                                         <a href="<?php echo $base_url; ?>tracking.php"
                                             class=" d-inline-flex align-items-center gap-2"
-                                            style="background:#E8811A;color:#fff !important;border-radius:8px;font-size:12px;font-weight:700;padding:7px 14px;white-space:nowrap;line-height:1.4;"
+                                            style="background:#FF7A00;color:#fff !important;border-radius:8px;font-size:12px;font-weight:700;padding:7px 14px;white-space:nowrap;line-height:1.4;"
                                             title="Track Your Shipment">
                                             <i class="fas fa-map-marker-alt" style="font-size:11px;"></i> Track Shipment
                                         </a>
@@ -303,7 +375,7 @@ In your html page, add the snippet and call gtag_report_conversion when someone 
                                     </a>
                                 </div>
                                 <div class="tgmobile__track-btn" style="padding:14px 20px 6px;">
-                                    <a href="<?php echo $base_url; ?>tracking.php" class="d-flex align-items-center justify-content-center gap-2 w-100" style="background:#E8811A;color:#fff;border-radius:10px;font-size:14px;font-weight:600;padding:11px 18px;text-decoration:none;" title="Track Your Shipment">
+                                    <a href="<?php echo $base_url; ?>tracking.php" class="d-flex align-items-center justify-content-center gap-2 w-100" style="background:#FF7A00;color:#fff;border-radius:10px;font-size:14px;font-weight:600;padding:11px 18px;text-decoration:none;" title="Track Your Shipment">
                                         <i class="fas fa-map-marker-alt"></i> Track Your Shipment
                                     </a>
                                 </div>

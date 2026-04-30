@@ -132,19 +132,7 @@
                             </div>
                         </div>
 
-                        <!-- Feature 4: Quick Messaging -->
-                        <div class="col-lg-4 col-md-6">
-                            <div class="features__item">
-                                <div class="features__icon">
-                                    <i class="fa-light fa-messages"></i>
-                                </div>
-                                <div class="features__content">
-                                    <h2 class="title">Quick Messaging</h2>
-                                    <p>Get instant responses via WhatsApp and chat support.</p>
-                                    <h2 class="number">04</h2>
-                                </div>
-                            </div>
-                        </div>
+
                     </div>
                 </div>
             </div>
