@@ -827,7 +827,7 @@
                         <article class="project__item-three">
                             <figure class="project__thumb-three">
                                 <a href="./our-work.php" title="Explore our work at LC Packers">
-                                    <img src="<?php echo $base_url; ?>assets/media/our-work/dz-cargo-packers-pvt-ltd-work01.webp" alt="LC Packers Work Image 1">
+                                    <img src="<?php echo $base_url; ?>assets/media/our-work/lc-packers-work-01.png" alt="LC Packers Work Image 1">
                                 </a>
                             </figure>
                             <div class="project__content-three">
@@ -848,7 +848,7 @@
                         <article class="project__item-three">
                             <figure class="project__thumb-three">
                                 <a href="./our-work.php" title="Explore our work at LC Packers">
-                                    <img src="<?php echo $base_url; ?>assets/media/our-work/dz-cargo-packers-pvt-ltd-work02.webp" alt="LC Packers Work Image 2">
+                                    <img src="<?php echo $base_url; ?>assets/media/our-work/lc-packers-work-02.png" alt="LC Packers Work Image 2">
                                 </a>
                             </figure>
                             <div class="project__content-three">
@@ -869,7 +869,7 @@
                         <article class="project__item-three">
                             <figure class="project__thumb-three">
                                 <a href="./our-work.php" title="Explore our work at LC Packers">
-                                    <img src="<?php echo $base_url; ?>assets/media/our-work/dz-cargo-packers-pvt-ltd-work03.webp" alt="LC Packers Work Image 3">
+                                    <img src="<?php echo $base_url; ?>assets/media/our-work/lc-packers-work-03.png" alt="LC Packers Work Image 3">
                                 </a>
                             </figure>
                             <div class="project__content-three">
@@ -890,7 +890,7 @@
                         <article class="project__item-three">
                             <figure class="project__thumb-three">
                                 <a href="./our-work.php" title="Explore our work at LC Packers">
-                                    <img src="<?php echo $base_url; ?>assets/media/our-work/dz-cargo-packers-pvt-ltd-work04.webp" alt="LC Packers Work Image 4">
+                                    <img src="<?php echo $base_url; ?>assets/media/our-work/lc-packers-work-04.png" alt="LC Packers Work Image 4">
                                 </a>
                             </figure>
                             <div class="project__content-three">
@@ -912,7 +912,7 @@
                         <article class="project__item-three">
                             <figure class="project__thumb-three">
                                 <a href="./our-work.php" title="Explore our work at LC Packers">
-                                    <img src="<?php echo $base_url; ?>assets/media/our-work/dz-cargo-packers-pvt-ltd-work05.webp" alt="LC Packers Work Image 5">
+                                    <img src="<?php echo $base_url; ?>assets/media/our-work/lc-packers-work-05.png" alt="LC Packers Work Image 5">
                                 </a>
                             </figure>
                             <div class="project__content-three">
@@ -933,7 +933,7 @@
                         <article class="project__item-three">
                             <figure class="project__thumb-three">
                                 <a href="./our-work.php" title="Explore our work at LC Packers">
-                                    <img src="<?php echo $base_url; ?>assets/media/our-work/dz-cargo-packers-pvt-ltd-work06.webp" alt="LC Packers Work Image 6">
+                                    <img src="<?php echo $base_url; ?>assets/media/our-work/lc-packers-work-06.png" alt="LC Packers Work Image 6">
                                 </a>
                             </figure>
                             <div class="project__content-three">
@@ -954,7 +954,7 @@
                         <article class="project__item-three">
                             <figure class="project__thumb-three">
                                 <a href="./our-work.php" title="Explore our work at LC Packers">
-                                    <img src="<?php echo $base_url; ?>assets/media/our-work/dz-cargo-packers-pvt-ltd-work07.webp" alt="LC Packers Work Image 7">
+                                    <img src="<?php echo $base_url; ?>assets/media/our-work/lc-packers-work-07.png" alt="LC Packers Work Image 7">
                                 </a>
                             </figure>
                             <div class="project__content-three">
@@ -975,7 +975,7 @@
                         <article class="project__item-three">
                             <figure class="project__thumb-three">
                                 <a href="./our-work.php" title="Explore our work at LC Packers">
-                                    <img src="<?php echo $base_url; ?>assets/media/our-work/dz-cargo-packers-pvt-ltd-work08.webp" alt="LC Packers Work Image 8">
+                                    <img src="<?php echo $base_url; ?>assets/media/our-work/lc-packers-work-08.png" alt="LC Packers Work Image 8">
                                 </a>
                             </figure>
                             <div class="project__content-three">
@@ -1750,7 +1750,7 @@
                             <div class="blog__post-item shine__animate-item">
                                 <div class="blog__post-thumb">
                                     <a href="blogs/10-packing-tips-for-hassle-free-relocation.php" class="shine__animate-link">
-                                        <img src="<?php echo $base_url; ?>assets/media/blogs/dz-cargo-packers-packing-tips.webp" alt="10 Essential Packing Tips for a Hassle-Free Relocation" loading="lazy">
+                                        <img src="<?php echo $base_url; ?>assets/media/blogs/lc-packers-blog-tips.webp" alt="10 Essential Packing Tips for a Hassle-Free Relocation" loading="lazy">
                                     </a>
                                 </div>
                                 <div class="blog__post-content">
@@ -1774,7 +1774,7 @@
                             <div class="blog__post-item shine__animate-item">
                                 <div class="blog__post-thumb">
                                     <a href="blogs/the-ultimate-guide-to-choosing-the-best-packers-and-movers.php" class="shine__animate-link">
-                                        <img src="<?php echo $base_url; ?>assets/media/blogs/dz-cargo-packers-choose-best.webp" alt="The Ultimate Guide to Choosing the Best Packers and Movers" loading="lazy">
+                                        <img src="<?php echo $base_url; ?>assets/media/blogs/lc-packers-blog-best-movers.webp" alt="The Ultimate Guide to Choosing the Best Packers and Movers" loading="lazy">
                                     </a>
                                 </div>
                                 <div class="blog__post-content">
@@ -1798,7 +1798,7 @@
                             <div class="blog__post-item shine__animate-item">
                                 <div class="blog__post-thumb">
                                     <a href="blogs/why-goods-insurance-is-a-must-for-every-move.php" class="shine__animate-link">
-                                        <img src="<?php echo $base_url; ?>assets/media/blogs/dz-cargo-packers-goods-insurance.webp" alt="Why Goods Insurance Is a Must for Every Move" loading="lazy">
+                                        <img src="<?php echo $base_url; ?>assets/media/blogs/lc-packers-blog-insurance.webp" alt="Why Goods Insurance Is a Must for Every Move" loading="lazy">
                                     </a>
                                 </div>
                                 <div class="blog__post-content">
@@ -1990,6 +1990,15 @@
         <!-- client area -->
         <section class="brand__area section-p-60">
             <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-8">
+                        <div class="section__title text-center mb-50">
+                            <span class="sub-title">// Our Partners</span>
+                            <h2 class="title">Trusted by Leading Companies</h2>
+                            <p>We are proud to be the trusted relocation partner for thousands of households and businesses across India.</p>
+                        </div>
+                    </div>
+                </div>
                 <div class="swiper brand-active fix">
                     <div class="swiper-wrapper">
                         <!-- Client 1 to 13 -->

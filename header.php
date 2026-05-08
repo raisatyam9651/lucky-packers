@@ -19,7 +19,7 @@
 
     <!-- Twitter Card data -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="@DzCargo">
+
     <meta name="twitter:title" content="LC Packers and Movers PVT. LTD. - Trusted Relocation Services">
     <meta name="twitter:description" content="Explore our Home Relocation, Office Relocation, and Vehicle Moving Services. Reliable, secure, and available all over India.">
     <meta name="twitter:image" content="<?php echo $base_url; ?>assets/media/card/twitter-card.webp">
@@ -390,14 +390,10 @@ In your html page, add the snippet and call gtag_report_conversion when someone 
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="https://x.com/DzCargo" target="_blank" rel="noopener noreferrer" title="Follow us on Twitter">
-                                                <i class="fab fa-twitter"></i>
-                                            </a>
+
                                         </li>
                                         <li>
-                                            <a href="https://www.instagram.com/dz_cargo_packers?igsh=cnJlYmZ0amZldmIz" target="_blank" rel="noopener noreferrer" title="Follow us on Instagram">
-                                                <i class="fab fa-instagram"></i>
-                                            </a>
+
                                         </li>
                                         <li>
                                             <a href="javascript:void(0);" target="_blank" rel="noopener noreferrer" title="Connect with us on LinkedIn">

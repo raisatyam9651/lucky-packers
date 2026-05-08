@@ -17,9 +17,9 @@
                         <div class="footer__social footer__social-two">
                             <ul class="list-wrap">
                                 <li><a href="https://www.facebook.com/profile.php?id=61571732304929" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="https://x.com/DzCargo" target="_blank"><i class="fab fa-twitter"></i></a></li>
+
                                 <li><a href="javascript:void(0);" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a></li>
-                                <li><a href="https://www.instagram.com/dz_cargo_packers?igsh=cnJlYmZ0amZldmIz" target="_blank"><i class="fab fa-instagram"></i></a></li>
+
                                 <li><a href="https://www.youtube.com/channel/UCWIHCiznHKhWh5_pplTBFvQ" target="_blank"><i class="fab fa-youtube"></i></a></li>
                             </ul>
                         </div>

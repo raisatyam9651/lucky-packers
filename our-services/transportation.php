@@ -3,7 +3,7 @@
     <main class="fix">
 
         <!-- breadcrumb-area -->
-        <section class="breadcrumb__area breadcrumb__bg" data-background="<?php echo $base_url; ?>assets/media/bg/dz-cargo-packers-breadcrumb.webp">
+        <section class="breadcrumb__area breadcrumb__bg" data-background="<?php echo $base_url; ?>assets/media/bg/lc-packers-breadcrumb-transport.png">
             <div class="container">
                 <div class="row">
                     <div class="col-12">
@@ -33,7 +33,7 @@
                     <div class="row">
                         <div class="col-70 order-0 order-lg-2">
                             <div class="services__details-thumb">
-                                <img src="<?php echo $base_url; ?>assets/media/services/dz-cargo-packers-transportation-details-main.webp"
+                                <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-transport-main.png"
                                     alt="Reliable Transportation Services by LC Packers and Movers"
                                     title="Reliable and Efficient Transportation Services">
                             </div>
@@ -95,7 +95,7 @@
                                         <!-- Image 1 -->
                                         <div class="col-lg-6 col-md-6">
                                             <div class="services__details-inner-img">
-                                                <img src="<?php echo $base_url; ?>assets/media/services/dz-cargo-packers-transportation-details-main-01.webp"
+                                                <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-transport-01.png"
                                                     alt="Reliable Transportation Services by LC Packers and Movers"
                                                     title="Reliable Transportation Services">
                                             </div>
@@ -103,7 +103,7 @@
                                         <!-- Image 2 -->
                                         <div class="col-lg-6 col-md-6">
                                             <div class="services__details-inner-img">
-                                                <img src="<?php echo $base_url; ?>assets/media/services/dz-cargo-packers-transportation-details-main-02.webp"
+                                                <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-transport-02.png"
                                                     alt="Efficient and Secure Transport Solutions for All Your Needs"
                                                     title="Efficient and Secure Transport Solutions">
                                             </div>
@@ -771,7 +771,7 @@
                             <div class="blog__post-item shine__animate-item">
                                 <div class="blog__post-thumb">
                                     <a href="blogs/10-packing-tips-for-hassle-free-relocation.php" class="shine__animate-link">
-                                        <img src="<?php echo $base_url; ?>assets/media/blogs/dz-cargo-packers-packing-tips.webp" alt="10 Essential Packing Tips for a Hassle-Free Relocation" loading="lazy">
+                                        <img src="<?php echo $base_url; ?>assets/media/blogs/lc-packers-blog-tips.webp" alt="10 Essential Packing Tips for a Hassle-Free Relocation" loading="lazy">
                                     </a>
                                 </div>
                                 <div class="blog__post-content">
@@ -795,7 +795,7 @@
                             <div class="blog__post-item shine__animate-item">
                                 <div class="blog__post-thumb">
                                     <a href="blogs/the-ultimate-guide-to-choosing-the-best-packers-and-movers.php" class="shine__animate-link">
-                                        <img src="<?php echo $base_url; ?>assets/media/blogs/dz-cargo-packers-choose-best.webp" alt="The Ultimate Guide to Choosing the Best Packers and Movers" loading="lazy">
+                                        <img src="<?php echo $base_url; ?>assets/media/blogs/lc-packers-blog-best-movers.webp" alt="The Ultimate Guide to Choosing the Best Packers and Movers" loading="lazy">
                                     </a>
                                 </div>
                                 <div class="blog__post-content">
@@ -898,6 +898,15 @@
         <!-- client area -->
         <section class="brand__area section-p-60">
             <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-8">
+                        <div class="section__title text-center mb-50">
+                            <span class="sub-title">// Our Partners</span>
+                            <h2 class="title">Trusted by Leading Companies</h2>
+                            <p>We are proud to be the trusted relocation partner for thousands of households and businesses across India.</p>
+                        </div>
+                    </div>
+                </div>
                 <div class="swiper brand-active fix">
                     <div class="swiper-wrapper">
                         <!-- Client 1 to 13 -->
@@ -1066,9 +1075,9 @@
                         <div class="footer__social footer__social-two">
                             <ul class="list-wrap">
                                 <li><a href="https://www.facebook.com/profile.php?id=61571732304929" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="https://x.com/DzCargo" target="_blank"><i class="fab fa-twitter"></i></a></li>
+
                                 <li><a href="javascript:void(0);" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a></li>
-                                <li><a href="https://www.instagram.com/dz_cargo_packers?igsh=cnJlYmZ0amZldmIz" target="_blank"><i class="fab fa-instagram"></i></a></li>
+
                                 <li><a href="https://www.youtube.com/channel/UCWIHCiznHKhWh5_pplTBFvQ" target="_blank"><i class="fab fa-youtube"></i></a></li>
                             </ul>
                         </div>
