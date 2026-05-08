@@ -36,7 +36,7 @@
                 transform: translateY(-50%);
                 transition: all 0.3s ease;
                 font-size: 18px;
-                color: #FF7A00; /* Using brand orange */
+                color: #0A4D68; /* Using brand orange */
                 background-image: none !important;
             }
             .faq__wrap .accordion-button:not(.collapsed)::before {
@@ -296,7 +296,7 @@
                             </div>
                         </div>
                         <div class="col-lg-4 text-lg-end mt-4 mt-lg-0">
-                            <a href="tel:+91 8003600809" class="btn" style="background-color: #FF7A00; color: #fff; padding: 15px 30px; border-radius: 5px; text-decoration: none; font-weight: bold;">
+                            <a href="tel:+91 8003600809" class="btn" style="background-color: #0A4D68; color: #fff; padding: 15px 30px; border-radius: 5px; text-decoration: none; font-weight: bold;">
                                 Call Us Now <i class="fas fa-phone"></i>
                             </a>
                         </div>

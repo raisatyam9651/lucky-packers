@@ -29,282 +29,282 @@
                 <div class="row justify-content-center">
                     <div class="col-xl-10">
                         <div class="section__title text-center mb-50">
-                            <span class="sub-title">// What We Offer</span>
-                            <h1 class="title">Complete Relocation Solutions for Every Requirement</h1>
+                            <span class="sub-title" style="color: #0A4D68; font-weight: 700;">// What We Offer</span>
+                            <h1 class="title" style="font-weight: 800; color: #0A4D68;">Complete Relocation Solutions for Every Requirement</h1>
                             <p>At <strong>LC Packers and Movers PVT. LTD.</strong>, we provide a wide range of professional packing and moving services tailored to meet your unique needs. From local home shifting to international corporate relocations, our expert team ensures your belongings are handled with care and delivered on time.</p>
                         </div>
                     </div>
                 </div>
 
-                <div class="row gutter-24 justify-content-center">
+                <div class="row gutter-24">
                     <!-- 1. Transportation -->
-                    <div class="col-lg-4 col-md-6">
-                        <div class="services__item-three">
+                    <div class="col-lg-4 col-md-6 mb-30">
+                        <div class="services__item-three" style="height: 100%; display: flex; flex-direction: column; background: #fff; border-radius: 10px; overflow: hidden; border: 1px solid #eee; transition: all 0.3s ease;">
                             <div class="services__thumb-three">
-                                <a href="<?php echo $base_url; ?>our-services/transportation.php" title="Transportation Services">
-                                    <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-transportation-main.png" alt="Transportation Services">
+                                <a href="<?php echo $base_url; ?>our-services/transportation.php">
+                                    <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-transport-main.png" alt="Transportation" style="width: 100%; height: 220px; object-fit: cover;">
                                 </a>
                             </div>
-                            <div class="services__content-three">
-                                <div class="services__icon-three"><i class="fa-thin fa-truck-fast"></i></div>
-                                <h4 class="title"><a href="<?php echo $base_url; ?>our-services/transportation.php">Transportation</a></h4>
-                                <p>Reliable and efficient logistics solutions for moving your goods safely across any distance with our modern fleet.</p>
-                                <p style="margin-top: 10px;"><a href="<?php echo $base_url; ?>our-services/transportation.php">Read More >></a></p>
+                            <div class="services__content-three" style="padding: 30px; flex-grow: 1; display: flex; flex-direction: column;">
+                                <div class="services__icon-three" style="color: #0A4D68;"><i class="fa-thin fa-truck-fast"></i></div>
+                                <h4 class="title" style="font-weight: 700; margin-bottom: 15px;"><a href="<?php echo $base_url; ?>our-services/transportation.php">Transportation</a></h4>
+                                <p style="flex-grow: 1; font-size: 14px; color: #666;">Reliable and efficient logistics solutions for moving your goods safely across any distance with our modern fleet.</p>
+                                <a href="<?php echo $base_url; ?>our-services/transportation.php" class="btn btn-two" style="margin-top: 20px; font-size: 13px; font-weight: 700; color: #0A4D68;">Read More >></a>
                             </div>
                         </div>
                     </div>
 
                     <!-- 2. Packing and Moving -->
-                    <div class="col-lg-4 col-md-6">
-                        <div class="services__item-three">
+                    <div class="col-lg-4 col-md-6 mb-30">
+                        <div class="services__item-three" style="height: 100%; display: flex; flex-direction: column; background: #fff; border-radius: 10px; overflow: hidden; border: 1px solid #eee;">
                             <div class="services__thumb-three">
-                                <a href="<?php echo $base_url; ?>our-services/packing-and-moving.php" title="Packing and Moving Services">
-                                    <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-packing-main.png" alt="Packing and Moving Services">
+                                <a href="<?php echo $base_url; ?>our-services/packing-and-moving.php">
+                                    <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-packing-main.png" alt="Packing" style="width: 100%; height: 220px; object-fit: cover;">
                                 </a>
                             </div>
-                            <div class="services__content-three">
-                                <div class="services__icon-three"><i class="fa-thin fa-box-check"></i></div>
-                                <h4 class="title"><a href="<?php echo $base_url; ?>our-services/packing-and-moving.php">Packing and Moving</a></h4>
-                                <p>Expert packing using premium materials to ensure the maximum safety of your belongings during the entire move.</p>
-                                <p style="margin-top: 10px;"><a href="<?php echo $base_url; ?>our-services/packing-and-moving.php">Read More >></a></p>
+                            <div class="services__content-three" style="padding: 30px; flex-grow: 1; display: flex; flex-direction: column;">
+                                <div class="services__icon-three" style="color: #0A4D68;"><i class="fa-thin fa-box-check"></i></div>
+                                <h4 class="title" style="font-weight: 700; margin-bottom: 15px;"><a href="<?php echo $base_url; ?>our-services/packing-and-moving.php">Packing and Moving</a></h4>
+                                <p style="flex-grow: 1; font-size: 14px; color: #666;">Expert packing using premium materials to ensure the maximum safety of your belongings during the entire move.</p>
+                                <a href="<?php echo $base_url; ?>our-services/packing-and-moving.php" class="btn btn-two" style="margin-top: 20px; font-size: 13px; font-weight: 700; color: #0A4D68;">Read More >></a>
                             </div>
                         </div>
                     </div>
 
                     <!-- 3. Loading and Unloading -->
-                    <div class="col-lg-4 col-md-6">
-                        <div class="services__item-three">
+                    <div class="col-lg-4 col-md-6 mb-30">
+                        <div class="services__item-three" style="height: 100%; display: flex; flex-direction: column; background: #fff; border-radius: 10px; overflow: hidden; border: 1px solid #eee;">
                             <div class="services__thumb-three">
-                                <a href="<?php echo $base_url; ?>our-services/loading-and-unloading.php" title="Loading and Unloading Services">
-                                    <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-loading-main.png" alt="Loading and Unloading Services">
+                                <a href="<?php echo $base_url; ?>our-services/loading-and-unloading.php">
+                                    <img src="<?php echo $base_url; ?>assets/media/services/loading-and-unloading.png" alt="Loading" style="width: 100%; height: 220px; object-fit: cover;">
                                 </a>
                             </div>
-                            <div class="services__content-three">
-                                <div class="services__icon-three"><i class="fa-thin fa-person-carry-box"></i></div>
-                                <h4 class="title"><a href="<?php echo $base_url; ?>our-services/loading-and-unloading.php">Loading and Unloading</a></h4>
-                                <p>Professional handling of your heavy and delicate items during the loading and unloading process to prevent damage.</p>
-                                <p style="margin-top: 10px;"><a href="<?php echo $base_url; ?>our-services/loading-and-unloading.php">Read More >></a></p>
+                            <div class="services__content-three" style="padding: 30px; flex-grow: 1; display: flex; flex-direction: column;">
+                                <div class="services__icon-three" style="color: #0A4D68;"><i class="fa-thin fa-person-carry-box"></i></div>
+                                <h4 class="title" style="font-weight: 700; margin-bottom: 15px;"><a href="<?php echo $base_url; ?>our-services/loading-and-unloading.php">Loading and Unloading</a></h4>
+                                <p style="flex-grow: 1; font-size: 14px; color: #666;">Professional handling of your heavy and delicate items during the loading and unloading process to prevent damage.</p>
+                                <a href="<?php echo $base_url; ?>our-services/loading-and-unloading.php" class="btn btn-two" style="margin-top: 20px; font-size: 13px; font-weight: 700; color: #0A4D68;">Read More >></a>
                             </div>
                         </div>
                     </div>
 
                     <!-- 4. Unpacking and Escort -->
-                    <div class="col-lg-4 col-md-6">
-                        <div class="services__item-three">
+                    <div class="col-lg-4 col-md-6 mb-30">
+                        <div class="services__item-three" style="height: 100%; display: flex; flex-direction: column; background: #fff; border-radius: 10px; overflow: hidden; border: 1px solid #eee;">
                             <div class="services__thumb-three">
-                                <a href="<?php echo $base_url; ?>our-services/unpacking-and-escort.php" title="Unpacking and Escort Services">
-                                    <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-packing-01.png" alt="Unpacking and Escort Services">
+                                <a href="<?php echo $base_url; ?>our-services/unpacking-and-escort.php">
+                                    <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-packing-01.png" alt="Unpacking" style="width: 100%; height: 220px; object-fit: cover;">
                                 </a>
                             </div>
-                            <div class="services__content-three">
-                                <div class="services__icon-three"><i class="fa-thin fa-box-open"></i></div>
-                                <h4 class="title"><a href="<?php echo $base_url; ?>our-services/unpacking-and-escort.php">Unpacking and Escort</a></h4>
-                                <p>We help you settle into your new home by unpacking your belongings and providing escort services for safe transit.</p>
-                                <p style="margin-top: 10px;"><a href="<?php echo $base_url; ?>our-services/unpacking-and-escort.php">Read More >></a></p>
+                            <div class="services__content-three" style="padding: 30px; flex-grow: 1; display: flex; flex-direction: column;">
+                                <div class="services__icon-three" style="color: #0A4D68;"><i class="fa-thin fa-box-open"></i></div>
+                                <h4 class="title" style="font-weight: 700; margin-bottom: 15px;"><a href="<?php echo $base_url; ?>our-services/unpacking-and-escort.php">Unpacking and Escort</a></h4>
+                                <p style="flex-grow: 1; font-size: 14px; color: #666;">We help you settle into your new home by unpacking your belongings and providing escort services for safe transit.</p>
+                                <a href="<?php echo $base_url; ?>our-services/unpacking-and-escort.php" class="btn btn-two" style="margin-top: 20px; font-size: 13px; font-weight: 700; color: #0A4D68;">Read More >></a>
                             </div>
                         </div>
                     </div>
 
                     <!-- 5. Home Shifting -->
-                    <div class="col-lg-4 col-md-6">
-                        <div class="services__item-three">
+                    <div class="col-lg-4 col-md-6 mb-30">
+                        <div class="services__item-three" style="height: 100%; display: flex; flex-direction: column; background: #fff; border-radius: 10px; overflow: hidden; border: 1px solid #eee;">
                             <div class="services__thumb-three">
-                                <a href="<?php echo $base_url; ?>our-services/home-shifting.php" title="Home Shifting Services">
-                                    <img src="<?php echo $base_url; ?>assets/media/services/household-relocation.jpg" alt="Home Shifting Services">
+                                <a href="<?php echo $base_url; ?>our-services/home-shifting.php">
+                                    <img src="<?php echo $base_url; ?>assets/media/services/household-relocation.jpg" alt="Home Shifting" style="width: 100%; height: 220px; object-fit: cover;">
                                 </a>
                             </div>
-                            <div class="services__content-three">
-                                <div class="services__icon-three"><i class="fa-thin fa-house-chimney-window"></i></div>
-                                <h4 class="title"><a href="<?php echo $base_url; ?>our-services/home-shifting.php">Home Shifting</a></h4>
-                                <p>Complete household relocation solutions designed to make your move to a new home as smooth and stress-free as possible.</p>
-                                <p style="margin-top: 10px;"><a href="<?php echo $base_url; ?>our-services/home-shifting.php">Read More >></a></p>
+                            <div class="services__content-three" style="padding: 30px; flex-grow: 1; display: flex; flex-direction: column;">
+                                <div class="services__icon-three" style="color: #0A4D68;"><i class="fa-thin fa-house-chimney-window"></i></div>
+                                <h4 class="title" style="font-weight: 700; margin-bottom: 15px;"><a href="<?php echo $base_url; ?>our-services/home-shifting.php">Home Shifting</a></h4>
+                                <p style="flex-grow: 1; font-size: 14px; color: #666;">Complete household relocation solutions designed to make your move to a new home as smooth and stress-free as possible.</p>
+                                <a href="<?php echo $base_url; ?>our-services/home-shifting.php" class="btn btn-two" style="margin-top: 20px; font-size: 13px; font-weight: 700; color: #0A4D68;">Read More >></a>
                             </div>
                         </div>
                     </div>
 
                     <!-- 6. Domestic Relocation -->
-                    <div class="col-lg-4 col-md-6">
-                        <div class="services__item-three">
+                    <div class="col-lg-4 col-md-6 mb-30">
+                        <div class="services__item-three" style="height: 100%; display: flex; flex-direction: column; background: #fff; border-radius: 10px; overflow: hidden; border: 1px solid #eee;">
                             <div class="services__thumb-three">
-                                <a href="<?php echo $base_url; ?>our-services/domestic-relocation.php" title="Domestic Relocation Services">
-                                    <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-transportation-main.png" alt="Domestic Relocation Services">
+                                <a href="<?php echo $base_url; ?>our-services/domestic-relocation.php">
+                                    <img src="<?php echo $base_url; ?>assets/media/services/dz-cargo-packers-domestic-relocation.webp" alt="Domestic Move" style="width: 100%; height: 220px; object-fit: cover;">
                                 </a>
                             </div>
-                            <div class="services__content-three">
-                                <div class="services__icon-three"><i class="fa-thin fa-map-location-dot"></i></div>
-                                <h4 class="title"><a href="<?php echo $base_url; ?>our-services/domestic-relocation.php">Domestic Relocation</a></h4>
-                                <p>Reliable long-distance relocation services across India, ensuring your goods reach any city safely and on schedule.</p>
-                                <p style="margin-top: 10px;"><a href="<?php echo $base_url; ?>our-services/domestic-relocation.php">Read More >></a></p>
+                            <div class="services__content-three" style="padding: 30px; flex-grow: 1; display: flex; flex-direction: column;">
+                                <div class="services__icon-three" style="color: #0A4D68;"><i class="fa-thin fa-map-location-dot"></i></div>
+                                <h4 class="title" style="font-weight: 700; margin-bottom: 15px;"><a href="<?php echo $base_url; ?>our-services/domestic-relocation.php">Domestic Relocation</a></h4>
+                                <p style="flex-grow: 1; font-size: 14px; color: #666;">Reliable long-distance relocation services across India, ensuring your goods reach any city safely and on schedule.</p>
+                                <a href="<?php echo $base_url; ?>our-services/domestic-relocation.php" class="btn btn-two" style="margin-top: 20px; font-size: 13px; font-weight: 700; color: #0A4D68;">Read More >></a>
                             </div>
                         </div>
                     </div>
 
                     <!-- 7. International Relocation -->
-                    <div class="col-lg-4 col-md-6">
-                        <div class="services__item-three">
+                    <div class="col-lg-4 col-md-6 mb-30">
+                        <div class="services__item-three" style="height: 100%; display: flex; flex-direction: column; background: #fff; border-radius: 10px; overflow: hidden; border: 1px solid #eee;">
                             <div class="services__thumb-three">
-                                <a href="<?php echo $base_url; ?>our-services/international-relocation.php" title="International Relocation Services">
-                                    <img src="<?php echo $base_url; ?>assets/media/services/international-relocation.jpg" alt="International Relocation Services">
+                                <a href="<?php echo $base_url; ?>our-services/international-relocation.php">
+                                    <img src="<?php echo $base_url; ?>assets/media/services/international-relocation.jpg" alt="International Move" style="width: 100%; height: 220px; object-fit: cover;">
                                 </a>
                             </div>
-                            <div class="services__content-three">
-                                <div class="services__icon-three"><i class="fa-thin fa-plane-up"></i></div>
-                                <h4 class="title"><a href="<?php echo $base_url; ?>our-services/international-relocation.php">International Relocation</a></h4>
-                                <p>Expert global logistics and customs handling for a seamless move to or from any country across the world.</p>
-                                <p style="margin-top: 10px;"><a href="<?php echo $base_url; ?>our-services/international-relocation.php">Read More >></a></p>
+                            <div class="services__content-three" style="padding: 30px; flex-grow: 1; display: flex; flex-direction: column;">
+                                <div class="services__icon-three" style="color: #0A4D68;"><i class="fa-thin fa-plane-up"></i></div>
+                                <h4 class="title" style="font-weight: 700; margin-bottom: 15px;"><a href="<?php echo $base_url; ?>our-services/international-relocation.php">International Relocation</a></h4>
+                                <p style="flex-grow: 1; font-size: 14px; color: #666;">Expert global logistics and customs handling for a seamless move to or from any country across the world.</p>
+                                <a href="<?php echo $base_url; ?>our-services/international-relocation.php" class="btn btn-two" style="margin-top: 20px; font-size: 13px; font-weight: 700; color: #0A4D68;">Read More >></a>
                             </div>
                         </div>
                     </div>
 
                     <!-- 8. Warehouse Services -->
-                    <div class="col-lg-4 col-md-6">
-                        <div class="services__item-three">
+                    <div class="col-lg-4 col-md-6 mb-30">
+                        <div class="services__item-three" style="height: 100%; display: flex; flex-direction: column; background: #fff; border-radius: 10px; overflow: hidden; border: 1px solid #eee;">
                             <div class="services__thumb-three">
-                                <a href="<?php echo $base_url; ?>our-services/warehouse-services.php" title="Warehouse Services">
-                                    <img src="<?php echo $base_url; ?>assets/media/services/warehousing.jpg" alt="Warehouse Services">
+                                <a href="<?php echo $base_url; ?>our-services/warehouse-services.php">
+                                    <img src="<?php echo $base_url; ?>assets/media/services/warehousing.jpg" alt="Warehousing" style="width: 100%; height: 220px; object-fit: cover;">
                                 </a>
                             </div>
-                            <div class="services__content-three">
-                                <div class="services__icon-three"><i class="fa-thin fa-warehouse"></i></div>
-                                <h4 class="title"><a href="<?php echo $base_url; ?>our-services/warehouse-services.php">Warehouse Services</a></h4>
-                                <p>Secure and climate-controlled storage solutions for your short-term or long-term warehousing needs in India.</p>
-                                <p style="margin-top: 10px;"><a href="<?php echo $base_url; ?>our-services/warehouse-services.php">Read More >></a></p>
+                            <div class="services__content-three" style="padding: 30px; flex-grow: 1; display: flex; flex-direction: column;">
+                                <div class="services__icon-three" style="color: #0A4D68;"><i class="fa-thin fa-warehouse"></i></div>
+                                <h4 class="title" style="font-weight: 700; margin-bottom: 15px;"><a href="<?php echo $base_url; ?>our-services/warehouse-services.php">Warehouse Services</a></h4>
+                                <p style="flex-grow: 1; font-size: 14px; color: #666;">Secure and climate-controlled storage solutions for your short-term or long-term warehousing needs in India.</p>
+                                <a href="<?php echo $base_url; ?>our-services/warehouse-services.php" class="btn btn-two" style="margin-top: 20px; font-size: 13px; font-weight: 700; color: #0A4D68;">Read More >></a>
                             </div>
                         </div>
                     </div>
 
                     <!-- 9. Car and Bike Transportation -->
-                    <div class="col-lg-4 col-md-6">
-                        <div class="services__item-three">
+                    <div class="col-lg-4 col-md-6 mb-30">
+                        <div class="services__item-three" style="height: 100%; display: flex; flex-direction: column; background: #fff; border-radius: 10px; overflow: hidden; border: 1px solid #eee;">
                             <div class="services__thumb-three">
-                                <a href="<?php echo $base_url; ?>our-services/car-and-bike-transportation.php" title="Car and Bike Transportation Services">
-                                    <img src="<?php echo $base_url; ?>assets/media/services/car-bike-moving.jpg" alt="Car and Bike Transportation Services">
+                                <a href="<?php echo $base_url; ?>our-services/car-and-bike-transportation.php">
+                                    <img src="<?php echo $base_url; ?>assets/media/services/car-bike-moving.jpg" alt="Vehicle Moving" style="width: 100%; height: 220px; object-fit: cover;">
                                 </a>
                             </div>
-                            <div class="services__content-three">
-                                <div class="services__icon-three"><i class="fa-thin fa-car-side"></i></div>
-                                <h4 class="title"><a href="<?php echo $base_url; ?>our-services/car-and-bike-transportation.php">Car & Bike Moving</a></h4>
-                                <p>Specialized vehicle carriers and expert handling to ensure your car or bike is delivered scratch-free to its destination.</p>
-                                <p style="margin-top: 10px;"><a href="<?php echo $base_url; ?>our-services/car-and-bike-transportation.php">Read More >></a></p>
+                            <div class="services__content-three" style="padding: 30px; flex-grow: 1; display: flex; flex-direction: column;">
+                                <div class="services__icon-three" style="color: #0A4D68;"><i class="fa-thin fa-car-side"></i></div>
+                                <h4 class="title" style="font-weight: 700; margin-bottom: 15px;"><a href="<?php echo $base_url; ?>our-services/car-and-bike-transportation.php">Car & Bike Moving</a></h4>
+                                <p style="flex-grow: 1; font-size: 14px; color: #666;">Specialized vehicle carriers and expert handling to ensure your car or bike is delivered scratch-free to its destination.</p>
+                                <a href="<?php echo $base_url; ?>our-services/car-and-bike-transportation.php" class="btn btn-two" style="margin-top: 20px; font-size: 13px; font-weight: 700; color: #0A4D68;">Read More >></a>
                             </div>
                         </div>
                     </div>
 
                     <!-- 10. Office Shifting -->
-                    <div class="col-lg-4 col-md-6">
-                        <div class="services__item-three">
+                    <div class="col-lg-4 col-md-6 mb-30">
+                        <div class="services__item-three" style="height: 100%; display: flex; flex-direction: column; background: #fff; border-radius: 10px; overflow: hidden; border: 1px solid #eee;">
                             <div class="services__thumb-three">
-                                <a href="<?php echo $base_url; ?>our-services/office-shifting.php" title="Office Shifting Services">
-                                    <img src="<?php echo $base_url; ?>assets/media/services/office-shifting.jpg" alt="Office Shifting Services">
+                                <a href="<?php echo $base_url; ?>our-services/office-shifting.php">
+                                    <img src="<?php echo $base_url; ?>assets/media/services/office-shifting.jpg" alt="Office Shifting" style="width: 100%; height: 220px; object-fit: cover;">
                                 </a>
                             </div>
-                            <div class="services__content-three">
-                                <div class="services__icon-three"><i class="fa-thin fa-building-user"></i></div>
-                                <h4 class="title"><a href="<?php echo $base_url; ?>our-services/office-shifting.php">Office Shifting</a></h4>
-                                <p>Professional office relocation services focusing on minimizing downtime and ensuring the safety of your IT assets.</p>
-                                <p style="margin-top: 10px;"><a href="<?php echo $base_url; ?>our-services/office-shifting.php">Read More >></a></p>
+                            <div class="services__content-three" style="padding: 30px; flex-grow: 1; display: flex; flex-direction: column;">
+                                <div class="services__icon-three" style="color: #0A4D68;"><i class="fa-thin fa-building-user"></i></div>
+                                <h4 class="title" style="font-weight: 700; margin-bottom: 15px;"><a href="<?php echo $base_url; ?>our-services/office-shifting.php">Office Shifting</a></h4>
+                                <p style="flex-grow: 1; font-size: 14px; color: #666;">Professional office relocation services focusing on minimizing downtime and ensuring the safety of your IT assets.</p>
+                                <a href="<?php echo $base_url; ?>our-services/office-shifting.php" class="btn btn-two" style="margin-top: 20px; font-size: 13px; font-weight: 700; color: #0A4D68;">Read More >></a>
                             </div>
                         </div>
                     </div>
 
-                    <!-- 11. Hotel Shifting -->
-                    <div class="col-lg-4 col-md-6">
-                        <div class="services__item-three">
+                    <!-- 11. Hotel Shifting (Generated) -->
+                    <div class="col-lg-4 col-md-6 mb-30">
+                        <div class="services__item-three" style="height: 100%; display: flex; flex-direction: column; background: #fff; border-radius: 10px; overflow: hidden; border: 1px solid #eee;">
                             <div class="services__thumb-three">
-                                <a href="<?php echo $base_url; ?>our-services/hotel-shifting.php" title="Hotel Shifting Services">
-                                    <img src="<?php echo $base_url; ?>assets/media/services/office-shifting.jpg" alt="Hotel Shifting Services">
+                                <a href="<?php echo $base_url; ?>our-services/hotel-shifting.php">
+                                    <img src="<?php echo $base_url; ?>assets/media/services/hotel-shifting.png" alt="Hotel Shifting" style="width: 100%; height: 220px; object-fit: cover;">
                                 </a>
                             </div>
-                            <div class="services__content-three">
-                                <div class="services__icon-three"><i class="fa-thin fa-hotel"></i></div>
-                                <h4 class="title"><a href="<?php echo $base_url; ?>our-services/hotel-shifting.php">Hotel Shifting</a></h4>
-                                <p>Specialized logistics for hotels and hospitality businesses, ensuring the safe movement of premium furniture and equipment.</p>
-                                <p style="margin-top: 10px;"><a href="<?php echo $base_url; ?>our-services/hotel-shifting.php">Read More >></a></p>
+                            <div class="services__content-three" style="padding: 30px; flex-grow: 1; display: flex; flex-direction: column;">
+                                <div class="services__icon-three" style="color: #0A4D68;"><i class="fa-thin fa-hotel"></i></div>
+                                <h4 class="title" style="font-weight: 700; margin-bottom: 15px;"><a href="<?php echo $base_url; ?>our-services/hotel-shifting.php">Hotel Shifting</a></h4>
+                                <p style="flex-grow: 1; font-size: 14px; color: #666;">Specialized logistics for hotels and hospitality businesses, ensuring the safe movement of premium furniture and equipment.</p>
+                                <a href="<?php echo $base_url; ?>our-services/hotel-shifting.php" class="btn btn-two" style="margin-top: 20px; font-size: 13px; font-weight: 700; color: #0A4D68;">Read More >></a>
                             </div>
                         </div>
                     </div>
 
-                    <!-- 12. Factory Shifting -->
-                    <div class="col-lg-4 col-md-6">
-                        <div class="services__item-three">
+                    <!-- 12. Factory Shifting (Generated) -->
+                    <div class="col-lg-4 col-md-6 mb-30">
+                        <div class="services__item-three" style="height: 100%; display: flex; flex-direction: column; background: #fff; border-radius: 10px; overflow: hidden; border: 1px solid #eee;">
                             <div class="services__thumb-three">
-                                <a href="<?php echo $base_url; ?>our-services/factory-shifting.php" title="Factory Shifting Services">
-                                    <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-transportation-main.png" alt="Factory Shifting Services">
+                                <a href="<?php echo $base_url; ?>our-services/factory-shifting.php">
+                                    <img src="<?php echo $base_url; ?>assets/media/services/factory-shifting.png" alt="Factory Shifting" style="width: 100%; height: 220px; object-fit: cover;">
                                 </a>
                             </div>
-                            <div class="services__content-three">
-                                <div class="services__icon-three"><i class="fa-thin fa-industry"></i></div>
-                                <h4 class="title"><a href="<?php echo $base_url; ?>our-services/factory-shifting.php">Factory Shifting</a></h4>
-                                <p>Heavy machinery and industrial equipment relocation services with precision handling and specialized lifting tools.</p>
-                                <p style="margin-top: 10px;"><a href="<?php echo $base_url; ?>our-services/factory-shifting.php">Read More >></a></p>
+                            <div class="services__content-three" style="padding: 30px; flex-grow: 1; display: flex; flex-direction: column;">
+                                <div class="services__icon-three" style="color: #0A4D68;"><i class="fa-thin fa-industry"></i></div>
+                                <h4 class="title" style="font-weight: 700; margin-bottom: 15px;"><a href="<?php echo $base_url; ?>our-services/factory-shifting.php">Factory Shifting</a></h4>
+                                <p style="flex-grow: 1; font-size: 14px; color: #666;">Heavy machinery and industrial equipment relocation services with precision handling and specialized lifting tools.</p>
+                                <a href="<?php echo $base_url; ?>our-services/factory-shifting.php" class="btn btn-two" style="margin-top: 20px; font-size: 13px; font-weight: 700; color: #0A4D68;">Read More >></a>
                             </div>
                         </div>
                     </div>
 
-                    <!-- 13. Pet Moving -->
-                    <div class="col-lg-4 col-md-6">
-                        <div class="services__item-three">
+                    <!-- 13. Pet Moving (Generated) -->
+                    <div class="col-lg-4 col-md-6 mb-30">
+                        <div class="services__item-three" style="height: 100%; display: flex; flex-direction: column; background: #fff; border-radius: 10px; overflow: hidden; border: 1px solid #eee;">
                             <div class="services__thumb-three">
-                                <a href="<?php echo $base_url; ?>our-services/pet-moving.php" title="Pet Moving Services">
-                                    <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-transportation-main.png" alt="Pet Moving Services">
+                                <a href="<?php echo $base_url; ?>our-services/pet-moving.php">
+                                    <img src="<?php echo $base_url; ?>assets/media/services/pet-moving.png" alt="Pet Moving" style="width: 100%; height: 220px; object-fit: cover;">
                                 </a>
                             </div>
-                            <div class="services__content-three">
-                                <div class="services__icon-three"><i class="fa-thin fa-paw"></i></div>
-                                <h4 class="title"><a href="<?php echo $base_url; ?>our-services/pet-moving.php">Pet Moving</a></h4>
-                                <p>Stress-free pet relocation services with specialized climate-controlled carriers and professional animal care.</p>
-                                <p style="margin-top: 10px;"><a href="<?php echo $base_url; ?>our-services/pet-moving.php">Read More >></a></p>
+                            <div class="services__content-three" style="padding: 30px; flex-grow: 1; display: flex; flex-direction: column;">
+                                <div class="services__icon-three" style="color: #0A4D68;"><i class="fa-thin fa-paw"></i></div>
+                                <h4 class="title" style="font-weight: 700; margin-bottom: 15px;"><a href="<?php echo $base_url; ?>our-services/pet-moving.php">Pet Moving</a></h4>
+                                <p style="flex-grow: 1; font-size: 14px; color: #666;">Stress-free pet relocation services with specialized climate-controlled carriers and professional animal care.</p>
+                                <a href="<?php echo $base_url; ?>our-services/pet-moving.php" class="btn btn-two" style="margin-top: 20px; font-size: 13px; font-weight: 700; color: #0A4D68;">Read More >></a>
                             </div>
                         </div>
                     </div>
 
-                    <!-- 14. Custom Clearance -->
-                    <div class="col-lg-4 col-md-6">
-                        <div class="services__item-three">
+                    <!-- 14. Custom Clearance (Generated) -->
+                    <div class="col-lg-4 col-md-6 mb-30">
+                        <div class="services__item-three" style="height: 100%; display: flex; flex-direction: column; background: #fff; border-radius: 10px; overflow: hidden; border: 1px solid #eee;">
                             <div class="services__thumb-three">
-                                <a href="<?php echo $base_url; ?>our-services/custom-clearance.php" title="Custom Clearance Services">
-                                    <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-transportation-main.png" alt="Custom Clearance Services">
+                                <a href="<?php echo $base_url; ?>our-services/custom-clearance.php">
+                                    <img src="<?php echo $base_url; ?>assets/media/services/custom-clearance.png" alt="Custom Clearance" style="width: 100%; height: 220px; object-fit: cover;">
                                 </a>
                             </div>
-                            <div class="services__content-three">
-                                <div class="services__icon-three"><i class="fa-thin fa-file-invoice"></i></div>
-                                <h4 class="title"><a href="<?php echo $base_url; ?>our-services/custom-clearance.php">Custom Clearance</a></h4>
-                                <p>Professional documentation and customs handling for international shipments, ensuring hassle-free cross-border moving.</p>
-                                <p style="margin-top: 10px;"><a href="<?php echo $base_url; ?>our-services/custom-clearance.php">Read More >></a></p>
+                            <div class="services__content-three" style="padding: 30px; flex-grow: 1; display: flex; flex-direction: column;">
+                                <div class="services__icon-three" style="color: #0A4D68;"><i class="fa-thin fa-file-invoice"></i></div>
+                                <h4 class="title" style="font-weight: 700; margin-bottom: 15px;"><a href="<?php echo $base_url; ?>our-services/custom-clearance.php">Custom Clearance</a></h4>
+                                <p style="flex-grow: 1; font-size: 14px; color: #666;">Professional documentation and customs handling for international shipments, ensuring hassle-free cross-border moving.</p>
+                                <a href="<?php echo $base_url; ?>our-services/custom-clearance.php" class="btn btn-two" style="margin-top: 20px; font-size: 13px; font-weight: 700; color: #0A4D68;">Read More >></a>
                             </div>
                         </div>
                     </div>
 
-                    <!-- 15. Painting Moving -->
-                    <div class="col-lg-4 col-md-6">
-                        <div class="services__item-three">
+                    <!-- 15. Painting Moving (Generated) -->
+                    <div class="col-lg-4 col-md-6 mb-30">
+                        <div class="services__item-three" style="height: 100%; display: flex; flex-direction: column; background: #fff; border-radius: 10px; overflow: hidden; border: 1px solid #eee;">
                             <div class="services__thumb-three">
-                                <a href="<?php echo $base_url; ?>our-services/painting-moving-services.php" title="Painting Moving Services">
-                                    <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-packing-main.png" alt="Painting Moving Services">
+                                <a href="<?php echo $base_url; ?>our-services/painting-moving-services.php">
+                                    <img src="<?php echo $base_url; ?>assets/media/services/painting-moving.png" alt="Painting Moving" style="width: 100%; height: 220px; object-fit: cover;">
                                 </a>
                             </div>
-                            <div class="services__content-three">
-                                <div class="services__icon-three"><i class="fa-thin fa-palette"></i></div>
-                                <h4 class="title"><a href="<?php echo $base_url; ?>our-services/painting-moving-services.php">Painting Moving</a></h4>
-                                <p>Expert fine art and painting relocation services using museum-grade packing and custom-built protective crates.</p>
-                                <p style="margin-top: 10px;"><a href="<?php echo $base_url; ?>our-services/painting-moving-services.php">Read More >></a></p>
+                            <div class="services__content-three" style="padding: 30px; flex-grow: 1; display: flex; flex-direction: column;">
+                                <div class="services__icon-three" style="color: #0A4D68;"><i class="fa-thin fa-palette"></i></div>
+                                <h4 class="title" style="font-weight: 700; margin-bottom: 15px;"><a href="<?php echo $base_url; ?>our-services/painting-moving-services.php">Painting Moving</a></h4>
+                                <p style="flex-grow: 1; font-size: 14px; color: #666;">Expert fine art and painting relocation services using museum-grade packing and custom-built protective crates.</p>
+                                <a href="<?php echo $base_url; ?>our-services/painting-moving-services.php" class="btn btn-two" style="margin-top: 20px; font-size: 13px; font-weight: 700; color: #0A4D68;">Read More >></a>
                             </div>
                         </div>
                     </div>
 
                     <!-- 16. Goods Insurance -->
-                    <div class="col-lg-4 col-md-6">
-                        <div class="services__item-three">
+                    <div class="col-lg-4 col-md-6 mb-30">
+                        <div class="services__item-three" style="height: 100%; display: flex; flex-direction: column; background: #fff; border-radius: 10px; overflow: hidden; border: 1px solid #eee;">
                             <div class="services__thumb-three">
-                                <a href="<?php echo $base_url; ?>our-services/goods-insurance.php" title="Goods Insurance Services">
-                                    <img src="<?php echo $base_url; ?>assets/media/services/goods-insurance.jpg" alt="Goods Insurance Services">
+                                <a href="<?php echo $base_url; ?>our-services/goods-insurance.php">
+                                    <img src="<?php echo $base_url; ?>assets/media/services/goods-insurance.jpg" alt="Goods Insurance" style="width: 100%; height: 220px; object-fit: cover;">
                                 </a>
                             </div>
-                            <div class="services__content-three">
-                                <div class="services__icon-three"><i class="fa-thin fa-shield-check"></i></div>
-                                <h4 class="title"><a href="<?php echo $base_url; ?>our-services/goods-insurance.php">Goods Insurance</a></h4>
-                                <p>Comprehensive insurance coverage to protect your belongings against unforeseen events during transit and storage.</p>
-                                <p style="margin-top: 10px;"><a href="<?php echo $base_url; ?>our-services/goods-insurance.php">Read More >></a></p>
+                            <div class="services__content-three" style="padding: 30px; flex-grow: 1; display: flex; flex-direction: column;">
+                                <div class="services__icon-three" style="color: #0A4D68;"><i class="fa-thin fa-shield-check"></i></div>
+                                <h4 class="title" style="font-weight: 700; margin-bottom: 15px;"><a href="<?php echo $base_url; ?>our-services/goods-insurance.php">Goods Insurance</a></h4>
+                                <p style="flex-grow: 1; font-size: 14px; color: #666;">Comprehensive insurance coverage to protect your belongings against unforeseen events during transit and storage.</p>
+                                <a href="<?php echo $base_url; ?>our-services/goods-insurance.php" class="btn btn-two" style="margin-top: 20px; font-size: 13px; font-weight: 700; color: #0A4D68;">Read More >></a>
                             </div>
                         </div>
                     </div>
@@ -313,19 +313,27 @@
         </section>
         <!-- services-area-end -->
 
+        <style>
+            .services__item-three:hover {
+                box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+                transform: translateY(-5px);
+                border-color: #0A4D68 !important;
+            }
+        </style>
+
         <!-- CTA Area -->
-        <section class="cta__area section-p-60" data-background="<?php echo $base_url; ?>assets/media/bg/cta_bg.jpg">
+        <section class="cta__area section-p-60" style="background: #0A4D68;">
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-8">
                         <div class="cta__content">
-                            <h2 class="title">Ready to Move Your World?</h2>
-                            <p>Get a personalized relocation estimate today and experience the professional excellence of LC Packers and Movers.</p>
+                            <h2 class="title" style="color: #fff; font-weight: 800;">Ready to Move Your World?</h2>
+                            <p style="color: #fff; opacity: 0.8;">Get a personalized relocation estimate today and experience the professional excellence of LC Packers and Movers.</p>
                         </div>
                     </div>
                     <div class="col-lg-4">
                         <div class="cta__btn text-end">
-                            <a href="tel:+91 8003600809" class="btn" title="Call Us for a Free Quote">Call Now: +91 8003600809</a>
+                            <a href="tel:+91 8003600809" class="btn" style="background: #fff; color: #0A4D68; font-weight: 800; border-radius: 5px; padding: 15px 30px;">Call Now: +91 8003600809</a>
                         </div>
                     </div>
                 </div>

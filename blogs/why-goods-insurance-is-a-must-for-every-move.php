@@ -19,7 +19,7 @@
                                     <a href="<?php echo $base_url; ?>blogs/">Blogs</a>
                                 </span>
                                 <span class="breadcrumb-separator"><i class="flaticon-right-arrow"></i></span>
-                                <span property="itemListElement" typeof="ListItem" class="active_page">Insurance</span>
+                                <span property="itemListElement" typeof="ListItem" class="active_page">Goods Insurance</span>
                             </nav>
                         </div>
                     </div>
@@ -34,74 +34,73 @@
                 <div class="row">
                     <div class="col-lg-8">
                         <div class="blog__details-content">
-                            <div class="blog__details-thumb">
-                                <img src="<?php echo $base_url; ?>assets/media/blogs/lc-packers-blog-insurance.webp" alt="Why Goods Insurance Is a Must for Every Move">
-                            </div>
-                            <div class="blog__meta">
-                                <ul class="list-wrap">
-                                    <li><i class="flaticon-calendar"></i>15 Nov, 2024</li>
-                                    <li><i class="flaticon-user"></i>By Admin</li>
-                                </ul>
-                            </div>
-                            <h1 class="title">Why Goods Insurance Is a Must for Every Move</h1>
-                            <p>When you're planning a relocation, you're focused on packing, scheduling, and settling in. However, one often-overlooked aspect of a successful move is protection. No matter how professional the movers are, transit involves risks—from road accidents to unpredictable weather. At <strong>LC Packers and Movers PVT. LTD.</strong>, we always recommend comprehensive goods insurance to ensure complete peace of mind.</p>
-
-                            <h2>The Reality of Moving Risks</h2>
-                            <p>Even with the most meticulous packing and experienced drivers, certain factors are beyond human control. Transit insurance acts as a safety net against:</p>
-                            <ul>
-                                <li><strong>Road Accidents:</strong> Unforeseen collisions or vehicle issues during long-haul transport.</li>
-                                <li><strong>Natural Calamities:</strong> Heavy rains, floods, or storms that might affect the cargo.</li>
-                                <li><strong>Theft or Vandalism:</strong> Rare but possible risks during overnight stops or in warehousing.</li>
-                                <li><strong>Handling Damages:</strong> Accidental drops or shifts in the truck during bumpy journeys.</li>
-                            </ul>
-
-                            <h3>Types of Moving Insurance</h3>
-                            <p>Most reputable packers and movers offer two main types of insurance:</p>
-                            
-                            <h4>1. Transit Insurance</h4>
-                            <p>This covers damages that occur specifically while the goods are in the moving vehicle. It is the most basic form of protection and is essential for inter-city moves.</p>
-
-                            <h4>2. Comprehensive (All-Inclusive) Insurance</h4>
-                            <p>This covers the entire process—from packing at the source to unpacking at the destination. It is the gold standard for protection, covering even the risks associated with loading and unloading.</p>
-
-                            <h3>How Insurance Saves You Money</h3>
-                            <p>Many people view insurance as an "extra cost." However, consider the replacement value of your electronics, furniture, and personal items. The premium (usually a small percentage of the declared value) is a fraction of the cost of replacing even one major item like a refrigerator or a sofa.</p>
-
-                            <h2>How to Declare Value Correctly</h2>
-                            <p>To ensure a smooth claim process if something goes wrong:</p>
-                            <ol>
-                                <li><strong>Be Honest:</strong> Declare the actual current value of your items, not just a random figure.</li>
-                                <li><strong>Keep Documentation:</strong> Have a list of high-value items and their approximate age.</li>
-                                <li><strong>Inspect on Arrival:</strong> Check your goods immediately upon delivery and report any issues before the movers leave.</li>
-                            </ol>
-
-                            <h2>Our Commitment to Safety</h2>
-                            <p>While we use the highest grade packing materials and have a track record of safe deliveries, LC Packers and Movers PVT. LTD. facilitates easy insurance documentation for every client. We believe in being prepared for the unexpected, ensuring that your transition to a new home is truly worry-free.</p>
-
-                            <div class="blog__details-bottom">
-                                <div class="row align-items-center">
-                                    <div class="col-md-7">
-                                        <div class="post-tags">
-                                            <h5 class="title">Tags:</h5>
-                                            <ul class="list-wrap">
-                                                <li><a href="javascript:void(0);">Insurance</a></li>
-                                                <li><a href="javascript:void(0);">Moving Safety</a></li>
-                                                <li><a href="javascript:void(0);">Relocation Advice</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-5">
-                                        <div class="blog-post-share text-end">
-                                            <h5 class="title">Share:</h5>
-                                            <ul class="list-wrap">
-                                                <li><a href="javascript:void(0);"><i class="fab fa-facebook-f"></i></a></li>
-                                                <li><a href="javascript:void(0);"><i class="fab fa-twitter"></i></a></li>
-                                                <li><a href="javascript:void(0);"><i class="fab fa-linkedin-in"></i></a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
+                            <div class="blog__details-thumb" style="border: 1px solid #eee; border-radius: 10px; overflow: hidden; margin-bottom: 30px;">
+                                <div class="thumb-header" style="background: #0A4D68; color: #fff; padding: 10px 20px; text-align: center; font-weight: 700; font-size: 14px;">
+                                    LC PACKERS AND MOVERS PVT. LTD.
+                                </div>
+                                <img src="<?php echo $base_url; ?>assets/media/blogs/lc-packers-blog-insurance.webp" alt="Why Goods Insurance is a Must for Every Move" style="width: 100%;">
+                                <div class="thumb-footer" style="background: #0A4D68; color: #fff; padding: 10px 20px; text-align: center; font-weight: 700; font-size: 16px;">
+                                    Why Goods Insurance is a Must for Every Move
                                 </div>
                             </div>
+                            
+                            <h1 class="title" style="font-size: 32px; font-weight: 800; color: #0A4D68; margin-bottom: 20px;">Protecting Your Belongings: The Vital Role of Goods Insurance</h1>
+                            
+                            <p>Moving is a complex process, and while we take every precaution at <strong>LC Packers and Movers PVT. LTD.</strong>, the reality is that long-distance transit involves risks. Goods insurance isn't just an extra cost; it's your primary safety net. Whether you're moving across the street or across the country, understanding the importance of insurance can save you from significant financial loss.</p>
+                            
+                            <h3 style="color: #0A4D68; font-weight: 700; margin-top: 30px;">Why is Insurance Necessary?</h3>
+                            <p>Despite professional packing and careful handling, certain factors are beyond human control. Insurance provides coverage for:</p>
+                            <ul class="list-wrap" style="margin-bottom: 30px;">
+                                <li style="margin-bottom: 8px;"><i class="fa-solid fa-check" style="color: #0A4D68; margin-right: 10px;"></i> Natural disasters like floods or earthquakes during transit.</li>
+                                <li style="margin-bottom: 8px;"><i class="fa-solid fa-check" style="color: #0A4D68; margin-right: 10px;"></i> Accidental fire or vehicle collisions.</li>
+                                <li style="margin-bottom: 8px;"><i class="fa-solid fa-check" style="color: #0A4D68; margin-right: 10px;"></i> Unforeseen theft or vandalism.</li>
+                            </ul>
+
+                            <h3 style="color: #0A4D68; font-weight: 700; margin-bottom: 20px;">Top 5 Reasons to Choose Goods Insurance</h3>
+                            
+                            <div class="packing-tip mb-25">
+                                <h4 style="font-size: 18px; font-weight: 700; color: #111;">1. Financial Protection</h4>
+                                <p>Insurance covers the financial value of your items, ensuring that if anything is damaged, you aren't left with the full replacement cost.</p>
+                            </div>
+
+                            <div class="packing-tip mb-25">
+                                <h4 style="font-size: 18px; font-weight: 700; color: #111;">2. Peace of Mind</h4>
+                                <p>Knowing that your valuables—from electronics to heirlooms—are protected allows you to focus on settling into your new home rather than worrying about the truck.</p>
+                            </div>
+
+                            <div class="packing-tip mb-25">
+                                <h4 style="font-size: 18px; font-weight: 700; color: #111;">3. Coverage for All Items</h4>
+                                <p>Comprehensive policies cover everything from large furniture to small delicate items, providing holistic protection for your entire household.</p>
+                            </div>
+
+                            <div class="packing-tip mb-25">
+                                <h4 style="font-size: 18px; font-weight: 700; color: #111;">4. Transit Risk Mitigation</h4>
+                                <p>Long journeys on Indian roads can be unpredictable. Insurance is the only way to mitigate the inherent risks of long-haul transportation.</p>
+                            </div>
+
+                            <div class="packing-tip mb-25">
+                                <h4 style="font-size: 18px; font-weight: 700; color: #111;">5. Professional Accountability</h4>
+                                <p>A mover that offers insurance is one that takes accountability for their service. It's a hallmark of a professional relocation company.</p>
+                            </div>
+
+                            <h3 style="color: #0A4D68; font-weight: 700; margin-top: 40px;">Common Insurance Mistakes</h3>
+                            <ol style="padding-left: 20px; margin-bottom: 40px;">
+                                <li style="margin-bottom: 10px;"><strong>Under-valuing Items:</strong> Not declaring the full value of goods can lead to lower claim settlements.</li>
+                                <li style="margin-bottom: 10px;"><strong>Skipping the Policy:</strong> Thinking "it won't happen to me" is the biggest mistake you can make.</li>
+                                <li style="margin-bottom: 10px;"><strong>Not Checking the Fine Print:</strong> Always understand what is and isn't covered in your policy.</li>
+                            </ol>
+
+                            <h3 style="color: #0A4D68; font-weight: 700;">How LC Packers and Movers PVT. LTD. Assists You</h3>
+                            <p>We believe in total transparency. When you choose <strong>LC Packers and Movers PVT. LTD.</strong>, we help you with:</p>
+                            <ul class="list-wrap" style="margin-bottom: 30px;">
+                                <li style="margin-bottom: 8px;"><i class="fa-solid fa-circle-check" style="color: #0A4D68; margin-right: 10px;"></i> Accurate valuation of your household goods.</li>
+                                <li style="margin-bottom: 8px;"><i class="fa-solid fa-circle-check" style="color: #0A4D68; margin-right: 10px;"></i> Assistance with insurance documentation.</li>
+                                <li style="margin-bottom: 8px;"><i class="fa-solid fa-circle-check" style="color: #0A4D68; margin-right: 10px;"></i> Guidance through the claim process if necessary.</li>
+                            </ul>
+
+                            <h3 style="color: #0A4D68; font-weight: 700;">Conclusion</h3>
+                            <p>Your belongings are more than just items; they are a part of your life. Protecting them with goods insurance is the smartest decision you can make during a move. Don't leave your relocation to chance. Partner with <strong>LC Packers and Movers PVT. LTD.</strong> and enjoy a fully insured, worry-free move today!</p>
+
                         </div>
                     </div>
                     <div class="col-lg-4">

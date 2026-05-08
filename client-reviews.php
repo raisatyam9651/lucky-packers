@@ -45,7 +45,7 @@
                                 <h2 class="name">Rajat Sharma</h2>
                                 <span>Delhi, India</span>
                             </div>
-                            <div class="testimonial__rating" style="color: #FF7A00; margin-bottom: 15px;">
+                            <div class="testimonial__rating" style="color: #0A4D68; margin-bottom: 15px;">
                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                             </div>
                             <div class="testimonial__content">
@@ -61,7 +61,7 @@
                                 <h2 class="name">Priya Mehta</h2>
                                 <span>Mumbai, India</span>
                             </div>
-                            <div class="testimonial__rating" style="color: #FF7A00; margin-bottom: 15px;">
+                            <div class="testimonial__rating" style="color: #0A4D68; margin-bottom: 15px;">
                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half-alt"></i>
                             </div>
                             <div class="testimonial__content">
@@ -77,7 +77,7 @@
                                 <h2 class="name">Anjali Gupta</h2>
                                 <span>Pune, India</span>
                             </div>
-                            <div class="testimonial__rating" style="color: #FF7A00; margin-bottom: 15px;">
+                            <div class="testimonial__rating" style="color: #0A4D68; margin-bottom: 15px;">
                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                             </div>
                             <div class="testimonial__content">
@@ -93,7 +93,7 @@
                                 <h2 class="name">Ramesh Verma</h2>
                                 <span>Hyderabad, India</span>
                             </div>
-                            <div class="testimonial__rating" style="color: #FF7A00; margin-bottom: 15px;">
+                            <div class="testimonial__rating" style="color: #0A4D68; margin-bottom: 15px;">
                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half-alt"></i>
                             </div>
                             <div class="testimonial__content">
@@ -109,7 +109,7 @@
                                 <h2 class="name">Sneha Rajput</h2>
                                 <span>Chennai, India</span>
                             </div>
-                            <div class="testimonial__rating" style="color: #FF7A00; margin-bottom: 15px;">
+                            <div class="testimonial__rating" style="color: #0A4D68; margin-bottom: 15px;">
                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                             </div>
                             <div class="testimonial__content">
@@ -125,7 +125,7 @@
                                 <h2 class="name">Vivek Mishra</h2>
                                 <span>Kolkata, India</span>
                             </div>
-                            <div class="testimonial__rating" style="color: #FF7A00; margin-bottom: 15px;">
+                            <div class="testimonial__rating" style="color: #0A4D68; margin-bottom: 15px;">
                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                             </div>
                             <div class="testimonial__content">
@@ -150,7 +150,7 @@
                             </div>
                         </div>
                         <div class="col-lg-4 text-lg-end mt-4 mt-lg-0">
-                            <a href="tel:+91 8003600809" class="btn" style="background-color: #FF7A00; color: #fff; padding: 15px 30px; border-radius: 5px; text-decoration: none; font-weight: bold;">
+                            <a href="tel:+91 8003600809" class="btn" style="background-color: #0A4D68; color: #fff; padding: 15px 30px; border-radius: 5px; text-decoration: none; font-weight: bold;">
                                 Get A Quote <i class="fas fa-paper-plane"></i>
                             </a>
                         </div>

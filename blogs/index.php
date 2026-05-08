@@ -30,7 +30,7 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-10">
                         <div class="section__title text-center mb-50">
-                            <span class="sub-title" style="color: #FF0000; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">// DISCOVER EXPERT RELOCATION INSIGHTS</span>
+                            <span class="sub-title" style="color: #0A4D68; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">// DISCOVER EXPERT RELOCATION INSIGHTS</span>
                             <h2 class="title" style="font-weight: 800; font-size: 36px; margin-top: 10px;">Your Trusted Resource For Moving Tips And Industry Updates</h2>
                             <p style="max-width: 900px; margin: 20px auto 0;">Welcome to <strong>LC Packers and Movers Pvt. Ltd.</strong> blog – here is your resource for the relocation and logistics tips from professionals. We have more than 11 years experience and we can provide you with helpful tips, instructions, and news on how to move efficiently. From packing tips and selecting good movers to learning about international moving tips, you’ll find everything in our blogs. Stay updated, save money, and ensure an effortless move with help from the professionals. Start exploring today!</p>
                         </div>
@@ -54,7 +54,7 @@
                                     <a href="10-packing-tips-for-hassle-free-relocation.php" style="color: #000;">10 Essential Packing Tips for a Hassle-Free Relocation</a>
                                 </h3>
                                 <p style="font-size: 14px; line-height: 1.6; color: #555; flex-grow: 1; margin-bottom: 20px;">Learn how to pack like a pro with our expert tips to ensure your belongings stay safe during the move.</p>
-                                <a href="10-packing-tips-for-hassle-free-relocation.php" class="btn" style="border: 1px solid #ddd; padding: 8px 20px; border-radius: 5px; font-size: 14px; font-weight: 600; color: #FF0000; width: fit-content;">
+                                <a href="10-packing-tips-for-hassle-free-relocation.php" class="btn" style="border: 1px solid #ddd; padding: 8px 20px; border-radius: 5px; font-size: 14px; font-weight: 600; color: #0A4D68; width: fit-content;">
                                     Read More <i class="fa-solid fa-arrow-up-right" style="margin-left: 5px; font-size: 12px;"></i>
                                 </a>
                             </div>
@@ -77,7 +77,7 @@
                                     <a href="the-ultimate-guide-to-choosing-the-best-packers-and-movers.php" style="color: #000;">The Ultimate Guide to Choosing the Best Packers and Movers</a>
                                 </h3>
                                 <p style="font-size: 14px; color: #555; flex-grow: 1; margin-bottom: 20px;">Explore key factors to consider when selecting a reliable relocation partner for your next move.</p>
-                                <a href="the-ultimate-guide-to-choosing-the-best-packers-and-movers.php" class="btn" style="border: 1px solid #ddd; padding: 8px 20px; border-radius: 5px; font-size: 14px; font-weight: 600; color: #FF0000; width: fit-content;">
+                                <a href="the-ultimate-guide-to-choosing-the-best-packers-and-movers.php" class="btn" style="border: 1px solid #ddd; padding: 8px 20px; border-radius: 5px; font-size: 14px; font-weight: 600; color: #0A4D68; width: fit-content;">
                                     Read More <i class="fa-solid fa-arrow-up-right" style="margin-left: 5px; font-size: 12px;"></i>
                                 </a>
                             </div>
@@ -100,7 +100,7 @@
                                     <a href="why-goods-insurance-is-a-must-for-every-move.php" style="color: #000;">Why Goods Insurance Is a Must for Every Move</a>
                                 </h3>
                                 <p style="font-size: 14px; color: #555; flex-grow: 1; margin-bottom: 20px;">Protect your valuables with comprehensive insurance coverage. Learn why it's vital for peace of mind.</p>
-                                <a href="why-goods-insurance-is-a-must-for-every-move.php" class="btn" style="border: 1px solid #ddd; padding: 8px 20px; border-radius: 5px; font-size: 14px; font-weight: 600; color: #FF0000; width: fit-content;">
+                                <a href="why-goods-insurance-is-a-must-for-every-move.php" class="btn" style="border: 1px solid #ddd; padding: 8px 20px; border-radius: 5px; font-size: 14px; font-weight: 600; color: #0A4D68; width: fit-content;">
                                     Read More <i class="fa-solid fa-arrow-up-right" style="margin-left: 5px; font-size: 12px;"></i>
                                 </a>
                             </div>
@@ -123,7 +123,7 @@
                                     <a href="top-5-benefits-of-hiring-professional-packers-and-movers.php" style="color: #000;">Top 5 Benefits of Hiring Professional Packers and Movers</a>
                                 </h3>
                                 <p style="font-size: 14px; color: #555; flex-grow: 1; margin-bottom: 20px;">Discover how professional movers make the relocation process seamless, efficient, and stress-free.</p>
-                                <a href="top-5-benefits-of-hiring-professional-packers-and-movers.php" class="btn" style="border: 1px solid #ddd; padding: 8px 20px; border-radius: 5px; font-size: 14px; font-weight: 600; color: #FF0000; width: fit-content;">
+                                <a href="top-5-benefits-of-hiring-professional-packers-and-movers.php" class="btn" style="border: 1px solid #ddd; padding: 8px 20px; border-radius: 5px; font-size: 14px; font-weight: 600; color: #0A4D68; width: fit-content;">
                                     Read More <i class="fa-solid fa-arrow-up-right" style="margin-left: 5px; font-size: 12px;"></i>
                                 </a>
                             </div>
@@ -146,7 +146,7 @@
                                     <a href="how-to-relocate-your-office-without-interrupting-business.php" style="color: #000;">How to Relocate Your Office Without Interrupting Business</a>
                                 </h3>
                                 <p style="font-size: 14px; color: #555; flex-grow: 1; margin-bottom: 20px;">Follow these expert tips to minimize downtime and ensure a smooth office move for your business.</p>
-                                <a href="how-to-relocate-your-office-without-interrupting-business.php" class="btn" style="border: 1px solid #ddd; padding: 8px 20px; border-radius: 5px; font-size: 14px; font-weight: 600; color: #FF0000; width: fit-content;">
+                                <a href="how-to-relocate-your-office-without-interrupting-business.php" class="btn" style="border: 1px solid #ddd; padding: 8px 20px; border-radius: 5px; font-size: 14px; font-weight: 600; color: #0A4D68; width: fit-content;">
                                     Read More <i class="fa-solid fa-arrow-up-right" style="margin-left: 5px; font-size: 12px;"></i>
                                 </a>
                             </div>
@@ -169,7 +169,7 @@
                                     <a href="car-and-bike-moving-ensuring-your-vehicles-safety.php" style="color: #000;">Car and Bike Moving: Ensuring Your Vehicle’s Safety</a>
                                 </h3>
                                 <p style="font-size: 14px; color: #555; flex-grow: 1; margin-bottom: 20px;">Find out how to transport your car or bike safely and securely with expert relocation services.</p>
-                                <a href="car-and-bike-moving-ensuring-your-vehicles-safety.php" class="btn" style="border: 1px solid #ddd; padding: 8px 20px; border-radius: 5px; font-size: 14px; font-weight: 600; color: #FF0000; width: fit-content;">
+                                <a href="car-and-bike-moving-ensuring-your-vehicles-safety.php" class="btn" style="border: 1px solid #ddd; padding: 8px 20px; border-radius: 5px; font-size: 14px; font-weight: 600; color: #0A4D68; width: fit-content;">
                                     Read More <i class="fa-solid fa-arrow-up-right" style="margin-left: 5px; font-size: 12px;"></i>
                                 </a>
                             </div>
@@ -192,7 +192,7 @@
                                     <a href="tips-for-stress-free-international-relocation.php" style="color: #000;">Tips for Stress-Free International Relocation</a>
                                 </h3>
                                 <p style="font-size: 14px; color: #555; flex-grow: 1; margin-bottom: 20px;">Moving abroad? Discover essential tips for a smooth and hassle-free international relocation.</p>
-                                <a href="tips-for-stress-free-international-relocation.php" class="btn" style="border: 1px solid #ddd; padding: 8px 20px; border-radius: 5px; font-size: 14px; font-weight: 600; color: #FF0000; width: fit-content;">
+                                <a href="tips-for-stress-free-international-relocation.php" class="btn" style="border: 1px solid #ddd; padding: 8px 20px; border-radius: 5px; font-size: 14px; font-weight: 600; color: #0A4D68; width: fit-content;">
                                     Read More <i class="fa-solid fa-arrow-up-right" style="margin-left: 5px; font-size: 12px;"></i>
                                 </a>
                             </div>
@@ -215,7 +215,7 @@
                                     <a href="warehouse-storage-solutions-keeping-your-goods-safe.php" style="color: #000;">Warehouse Storage Solutions: Keeping Your Goods Safe</a>
                                 </h3>
                                 <p style="font-size: 14px; color: #555; flex-grow: 1; margin-bottom: 20px;">Learn about secure and efficient warehousing solutions for all your storage needs.</p>
-                                <a href="warehouse-storage-solutions-keeping-your-goods-safe.php" class="btn" style="border: 1px solid #ddd; padding: 8px 20px; border-radius: 5px; font-size: 14px; font-weight: 600; color: #FF0000; width: fit-content;">
+                                <a href="warehouse-storage-solutions-keeping-your-goods-safe.php" class="btn" style="border: 1px solid #ddd; padding: 8px 20px; border-radius: 5px; font-size: 14px; font-weight: 600; color: #0A4D68; width: fit-content;">
                                     Read More <i class="fa-solid fa-arrow-up-right" style="margin-left: 5px; font-size: 12px;"></i>
                                 </a>
                             </div>
@@ -238,7 +238,7 @@
                                     <a href="relocation-costs-explained-what-to-expect.php" style="color: #000;">Relocation Costs Explained: What to Expect</a>
                                 </h3>
                                 <p style="font-size: 14px; color: #555; flex-grow: 1; margin-bottom: 20px;">Understand the factors that influence relocation costs and how to plan your budget effectively.</p>
-                                <a href="relocation-costs-explained-what-to-expect.php" class="btn" style="border: 1px solid #ddd; padding: 8px 20px; border-radius: 5px; font-size: 14px; font-weight: 600; color: #FF0000; width: fit-content;">
+                                <a href="relocation-costs-explained-what-to-expect.php" class="btn" style="border: 1px solid #ddd; padding: 8px 20px; border-radius: 5px; font-size: 14px; font-weight: 600; color: #0A4D68; width: fit-content;">
                                     Read More <i class="fa-solid fa-arrow-up-right" style="margin-left: 5px; font-size: 12px;"></i>
                                 </a>
                             </div>
@@ -250,7 +250,7 @@
                 <div class="pagination-wrap mt-50 text-center">
                     <nav aria-label="Page navigation example">
                         <ul class="pagination list-wrap justify-content-center">
-                            <li class="page-item active"><a class="page-link" href="javascript:void(0);" style="background: #FF0000; border-color: #FF0000; width: 40px; height: 40px; border-radius: 50%; display: flex; align-items:center; justify-content:center; color: #fff;">1</a></li>
+                            <li class="page-item active"><a class="page-link" href="javascript:void(0);" style="background: #0A4D68; border-color: #0A4D68; width: 40px; height: 40px; border-radius: 50%; display: flex; align-items:center; justify-content:center; color: #fff;">1</a></li>
                         </ul>
                     </nav>
                 </div>
@@ -259,7 +259,7 @@
         <!-- blog-area-end -->
 
         <!-- marquee-area -->
-        <section class="marquee__area" style="background: #FF0000; padding: 15px 0; overflow: hidden;">
+        <section class="marquee__area" style="background: #0A4D68; padding: 15px 0; overflow: hidden;">
             <div class="container-fluid p-0">
                 <div class="marquee__wrapper" style="display: flex; white-space: nowrap; animation: marquee 30s linear infinite;">
                     <div class="marquee__item" style="color: #fff; font-weight: 700; font-size: 14px; margin-right: 50px; display: flex; align-items: center; gap: 10px;">

@@ -41,7 +41,7 @@
                     <!-- Call Us -->
                     <div class="col-lg-4 col-md-6 mb-30">
                         <div class="contact__info-item text-center" style="padding: 40px; background: #f9f9f9; border-radius: 10px; height: 100%;">
-                            <div class="icon" style="font-size: 40px; color: #FF7A00; margin-bottom: 20px;">
+                            <div class="icon" style="font-size: 40px; color: #0A4D68; margin-bottom: 20px;">
                                 <i class="fas fa-phone-alt"></i>
                             </div>
                             <div class="content">
@@ -55,7 +55,7 @@
                     <!-- Mail Us -->
                     <div class="col-lg-4 col-md-6 mb-30">
                         <div class="contact__info-item text-center" style="padding: 40px; background: #f9f9f9; border-radius: 10px; height: 100%;">
-                            <div class="icon" style="font-size: 40px; color: #FF7A00; margin-bottom: 20px;">
+                            <div class="icon" style="font-size: 40px; color: #0A4D68; margin-bottom: 20px;">
                                 <i class="fas fa-envelope"></i>
                             </div>
                             <div class="content">
@@ -69,7 +69,7 @@
                     <!-- Address -->
                     <div class="col-lg-4 col-md-6 mb-30">
                         <div class="contact__info-item text-center" style="padding: 40px; background: #f9f9f9; border-radius: 10px; height: 100%;">
-                            <div class="icon" style="font-size: 40px; color: #FF7A00; margin-bottom: 20px;">
+                            <div class="icon" style="font-size: 40px; color: #0A4D68; margin-bottom: 20px;">
                                 <i class="fas fa-map-marker-alt"></i>
                             </div>
                             <div class="content">
@@ -118,7 +118,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <button type="submit" class="btn" style="width: 100%; background: #FF7A00; color: #fff; padding: 15px; border-radius: 5px; border: none; font-weight: 700;">Submit Now</button>
+                                    <button type="submit" class="btn" style="width: 100%; background: #0A4D68; color: #fff; padding: 15px; border-radius: 5px; border: none; font-weight: 700;">Submit Now</button>
                                     <div class="contact-form05_result mt-3"></div>
                                 </form>
                             </div>

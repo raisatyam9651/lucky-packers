@@ -6,7 +6,7 @@
  */
 
 $distDir = __DIR__ . '/dist';
-$baseUrl = 'http://localhost:8000'; // The local server must be running
+$baseUrl = 'http://localhost:8111'; // The local server must be running
 
 // 1. Create or clean the distribution directory
 if (!is_dir($distDir)) {
