@@ -95,7 +95,7 @@
                         <div class="col-lg-4 col-md-6">
                             <div class="features__item">
                                 <div class="features__icon">
-                                    <i class="fa-light fa-headset"></i>
+                                    <i class="fa-solid fa-headset"></i>
                                 </div>
                                 <div class="features__content">
                                     <h2 class="title">24/7 Customer Support</h2>
@@ -109,7 +109,7 @@
                         <div class="col-lg-4 col-md-6">
                             <div class="features__item">
                                 <div class="features__icon">
-                                    <i class="fa-light fa-map"></i>
+                                    <i class="fa-solid fa-map"></i>
                                 </div>
                                 <div class="features__content">
                                     <h2 class="title">Nationwide Coverage</h2>
@@ -123,7 +123,7 @@
                         <div class="col-lg-4 col-md-6">
                             <div class="features__item">
                                 <div class="features__icon">
-                                    <i class="fa-light fa-location-dot"></i>
+                                    <i class="fa-solid fa-location-dot"></i>
                                 </div>
                                 <div class="features__content">
                                     <h2 class="title">Real-Time Tracking</h2>
@@ -153,7 +153,7 @@
                                 <span class="title">Committed to Safe & Reliable Relocation</span>
                                 <div class="counter__item">
                                     <div class="counter__icon">
-                                        <i class="fa-thin fa-award"></i>
+                                        <i class="fa-solid fa-award"></i>
                                     </div>
                                     <div class="counter__content">
                                         <h2 class="count"><span class="counter-number">11</span>+ Years</h2>
@@ -162,7 +162,7 @@
                                 </div>
                                 <div class="counter__item">
                                     <div class="counter__icon">
-                                        <i class="fa-thin fa-person-dolly"></i>
+                                        <i class="fa-solid fa-person-dolly"></i>
                                     </div>
                                     <div class="counter__content">
                                         <h2 class="count"><span class="counter-number">22</span>K+</h2>
@@ -198,7 +198,7 @@
                                 <div class="about__list-wrap-two">
                                     <div class="about__list-item-two">
                                         <div class="icon">
-                                            <i class="fa-thin fa-cart-flatbed-boxes"></i>
+                                            <i class="fa-solid fa-cart-flatbed-boxes"></i>
                                         </div>
                                         <div class="content">
                                             <h4 class="title">Tailored Services</h4>
@@ -207,7 +207,7 @@
                                     </div>
                                     <div class="about__list-item-two">
                                         <div class="icon">
-                                            <i class="fa-thin fa-person-carry-box"></i>
+                                            <i class="fa-solid fa-person-carry-box"></i>
                                         </div>
                                         <div class="content">
                                             <h4 class="title">Secure Handling</h4>
@@ -320,7 +320,7 @@
                             </div>
                             <div class="services__content-three">
                                 <div class="services__icon-three">
-                                    <i class="fa-thin fa-person-dolly"></i>
+                                    <i class="fa-solid fa-person-dolly"></i>
                                 </div>
                                 <h4 class="title">
                                     <a href="./our-services/home-shifting.php" title="Learn more about Household Relocation">Household Relocation</a>
@@ -341,7 +341,7 @@
                             </div>
                             <div class="services__content-three">
                                 <div class="services__icon-three">
-                                    <i class="fa-thin fa-building"></i>
+                                    <i class="fa-solid fa-building"></i>
                                 </div>
                                 <h4 class="title">
                                     <a href="./our-services/office-shifting.php" title="Learn more about Office Shifting">Office Shifting</a>
@@ -362,7 +362,7 @@
                             </div>
                             <div class="services__content-three">
                                 <div class="services__icon-three">
-                                    <i class="fa-thin fa-plane-circle-check"></i>
+                                    <i class="fa-solid fa-plane-circle-check"></i>
                                 </div>
                                 <h4 class="title">
                                     <a href="./our-services/international-relocation.php" title="Learn more about International Relocation">International Relocation</a>
@@ -383,7 +383,7 @@
                             </div>
                             <div class="services__content-three">
                                 <div class="services__icon-three">
-                                    <i class="fa-thin fa-car"></i>
+                                    <i class="fa-solid fa-car"></i>
                                 </div>
                                 <h4 class="title">
                                     <a href="./our-services/car-and-bike-transportation.php" title="Learn more about Car and Bike Moving">Car & Bike Moving</a>
@@ -404,7 +404,7 @@
                             </div>
                             <div class="services__content-three">
                                 <div class="services__icon-three">
-                                    <i class="fa-thin fa-warehouse"></i>
+                                    <i class="fa-solid fa-warehouse"></i>
                                 </div>
                                 <h4 class="title">
                                     <a href="./our-services/warehouse-services.php" title="Learn more about Warehousing">Warehousing</a>
@@ -425,7 +425,7 @@
                             </div>
                             <div class="services__content-three">
                                 <div class="services__icon-three">
-                                    <i class="fa-thin fa-shield-check"></i>
+                                    <i class="fa-solid fa-shield-check"></i>
                                 </div>
                                 <h4 class="title">
                                     <a href="./our-services/goods-insurance.php" title="Learn more about Goods Insurance">Goods Insurance</a>
@@ -508,7 +508,7 @@
                     <div class="col-lg-3 col-sm-6">
                         <div class="counter__item-two">
                             <div class="counter__icon-two">
-                                <i class="fa-thin fa-box-check"></i>
+                                <i class="fa-solid fa-box-check"></i>
                             </div>
                             <div class="counter__content-two">
                                 <h2 class="count"><span class="counter-number">26</span>K+</h2>
@@ -519,7 +519,7 @@
                     <div class="col-lg-3 col-sm-6">
                         <div class="counter__item-two">
                             <div class="counter__icon-two">
-                                <i class="fa-thin fa-face-smile"></i>
+                                <i class="fa-solid fa-face-smile"></i>
                             </div>
                             <div class="counter__content-two">
                                 <h2 class="count"><span class="counter-number">21</span>K+</h2>
@@ -530,7 +530,7 @@
                     <div class="col-lg-3 col-sm-6">
                         <div class="counter__item-two">
                             <div class="counter__icon-two">
-                                <i class="fa-thin fa-people-group"></i>
+                                <i class="fa-solid fa-people-group"></i>
                             </div>
                             <div class="counter__content-two">
                                 <h2 class="count"><span class="counter-number">82</span>+</h2>
@@ -541,7 +541,7 @@
                     <div class="col-lg-3 col-sm-6">
                         <div class="counter__item-two">
                             <div class="counter__icon-two">
-                                <i class="fa-thin fa-earth-americas"></i>
+                                <i class="fa-solid fa-earth-americas"></i>
                             </div>
                             <div class="counter__content-two">
                                 <h2 class="count"><span class="counter-number">40</span>+</h2>
@@ -622,7 +622,7 @@
                         <div class="services__item-two">
                             <div class="services__item-top">
                                 <div class="services__icon-two">
-                                    <i class="fa-thin fa-truck-fast" aria-hidden="true"></i>
+                                    <i class="fa-solid fa-truck-fast" aria-hidden="true"></i>
                                 </div>
                             </div>
                             <h2 class="services__item-top_title">
@@ -639,7 +639,7 @@
                         <div class="services__item-two">
                             <div class="services__item-top">
                                 <div class="services__icon-two">
-                                    <i class="fa-thin fa-award" aria-hidden="true"></i>
+                                    <i class="fa-solid fa-award" aria-hidden="true"></i>
                                 </div>
                             </div>
                             <h2 class="services__item-top_title">
@@ -656,7 +656,7 @@
                         <div class="services__item-two">
                             <div class="services__item-top">
                                 <div class="services__icon-two">
-                                    <i class="fa-thin fa-box-open" aria-hidden="true"></i>
+                                    <i class="fa-solid fa-box-open" aria-hidden="true"></i>
                                 </div>
                             </div>
                             <h2 class="services__item-top_title">
@@ -673,7 +673,7 @@
                         <div class="services__item-two">
                             <div class="services__item-top">
                                 <div class="services__icon-two">
-                                    <i class="fa-thin fa-map-location-dot" aria-hidden="true"></i>
+                                    <i class="fa-solid fa-map-location-dot" aria-hidden="true"></i>
                                 </div>
                             </div>
                             <h2 class="services__item-top_title">
@@ -690,7 +690,7 @@
                         <div class="services__item-two">
                             <div class="services__item-top">
                                 <div class="services__icon-two">
-                                    <i class="fa-thin fa-shield-check" aria-hidden="true"></i>
+                                    <i class="fa-solid fa-shield-check" aria-hidden="true"></i>
                                 </div>
                             </div>
                             <h2 class="services__item-top_title">
@@ -707,7 +707,7 @@
                         <div class="services__item-two">
                             <div class="services__item-top">
                                 <div class="services__icon-two">
-                                    <i class="fa-thin fa-headset" aria-hidden="true"></i>
+                                    <i class="fa-solid fa-headset" aria-hidden="true"></i>
                                 </div>
                             </div>
                             <h2 class="services__item-top_title">
@@ -724,7 +724,7 @@
                         <div class="services__item-two">
                             <div class="services__item-top">
                                 <div class="services__icon-two">
-                                    <i class="fa-thin fa-truck" aria-hidden="true"></i>
+                                    <i class="fa-solid fa-truck" aria-hidden="true"></i>
                                 </div>
                             </div>
                             <h2 class="services__item-top_title">
@@ -741,7 +741,7 @@
                         <div class="services__item-two">
                             <div class="services__item-top">
                                 <div class="services__icon-two">
-                                    <i class="fa-thin fa-star" aria-hidden="true"></i>
+                                    <i class="fa-solid fa-star" aria-hidden="true"></i>
                                 </div>
                             </div>
                             <h2 class="services__item-top_title">
@@ -1071,7 +1071,7 @@
                         <div class="col-lg-3 col-sm-6">
                             <div class="work__item work__item-two">
                                 <div class="work__icon work__icon-two">
-                                    <i class="fa-thin fa-calendar-check" title="Planning & Scheduling Icon"></i>
+                                    <i class="fa-solid fa-calendar-check" title="Planning & Scheduling Icon"></i>
                                     <span class="number">01</span>
                                 </div>
                                 <div class="work__content work__content-two">
@@ -1088,7 +1088,7 @@
                         <div class="col-lg-3 col-sm-6">
                             <div class="work__item work__item-two">
                                 <div class="work__icon work__icon-two">
-                                    <i class="fa-thin fa-box-open" title="Professional Packing Icon"></i>
+                                    <i class="fa-solid fa-box-open" title="Professional Packing Icon"></i>
                                     <span class="number">02</span>
                                 </div>
                                 <div class="work__content work__content-two">
@@ -1105,7 +1105,7 @@
                         <div class="col-lg-3 col-sm-6">
                             <div class="work__item work__item-two">
                                 <div class="work__icon work__icon-two">
-                                    <i class="fa-thin fa-truck" title="Safe Transportation Icon"></i>
+                                    <i class="fa-solid fa-truck" title="Safe Transportation Icon"></i>
                                     <span class="number">03</span>
                                 </div>
                                 <div class="work__content work__content-two">
@@ -1122,7 +1122,7 @@
                         <div class="col-lg-3 col-sm-6">
                             <div class="work__item work__item-two">
                                 <div class="work__icon work__icon-two">
-                                    <i class="fa-thin fa-people-carry-box" title="Unloading & Setup Icon"></i>
+                                    <i class="fa-solid fa-people-carry-box" title="Unloading & Setup Icon"></i>
                                     <span class="number">04</span>
                                 </div>
                                 <div class="work__content work__content-two">

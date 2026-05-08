@@ -77,7 +77,7 @@
                                     <a href="tel:+91 8003600809" onclick="gtag_report_conversion_call_button();">+91 8003600809</a>
                                 </li>
                                 <li>
-                                    <i class="fa-light fa-envelope"></i>
+                                    <i class="fa-solid fa-envelope"></i>
                                     <a href="mailto:info@dzcargopackers.com">info@dzcargopackers.com</a>
                                 </li>
                                 <li>

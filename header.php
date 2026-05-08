@@ -50,11 +50,11 @@
 
     <style>
         /* Fallback for FontAwesome Pro classes to Free Solid/Regular */
-        .fa-light, .fa-thin, .fa-duotone {
+        .fa-solid, .fa-solid, .fa-duotone {
             font-family: "Font Awesome 6 Free" !important;
             font-weight: 900 !important; /* Fallback to Solid */
         }
-        .fa-light.fa-brands, .fa-thin.fa-brands {
+        .fa-solid.fa-brands, .fa-solid.fa-brands {
             font-family: "Font Awesome 6 Brands" !important;
         }
 
