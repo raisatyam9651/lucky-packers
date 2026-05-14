@@ -34,13 +34,13 @@
                         <div class="col-70 order-0 order-lg-2">
                             <div class="services__details-thumb">
                                 <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-transport-main.png"
-                                    alt="Reliable Transportation Services by LC Packers and Movers"
+                                    alt="Reliable Transportation Services by Lucky Transporter"
                                     title="Reliable and Efficient Transportation Services">
                             </div>
 
                             <div class="services__details-content">
                                 <h1 class="title">Smooth Transport Solutions for All Your Needs</h1>
-                                <p>In the contemporary world with all its speedy activities, the efficient transport services make the life of men and households to run business and stay connected. LC Packers and Movers PVT. LTD. helps you to come up with complete and reliable solutions in transport which are designed specifically for you. We have more than 11 years of experience in the industry, we guarantee the timely delivery of the goods and services of both individuals and businesses.</p>
+                                <p>In the contemporary world with all its speedy activities, the efficient transport services make the life of men and households to run business and stay connected. Lucky Transporter helps you to come up with complete and reliable solutions in transport which are designed specifically for you. We have more than 11 years of experience in the industry, we guarantee the timely delivery of the goods and services of both individuals and businesses.</p>
                                 <p>Our transport services deliver more than just household and commercial transport as we also transport vehicles and special consignments. A modern fleet, tracking systems enable us to place the customer at the forefront of our every goal to ensure expedited and secured deliveries.</p>
                                 <h2>What Makes Our Transport Services Stand Out?</h2>
                                 <ol>
@@ -96,7 +96,7 @@
                                         <div class="col-lg-6 col-md-6">
                                             <div class="services__details-inner-img">
                                                 <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-transport-01.png"
-                                                    alt="Reliable Transportation Services by LC Packers and Movers"
+                                                    alt="Reliable Transportation Services by Lucky Transporter"
                                                     title="Reliable Transportation Services">
                                             </div>
                                         </div>
@@ -272,7 +272,7 @@
                                     </div>
                                 </div>
                                 <h2>Conclusion</h2>
-                                <p>As for transport services, LC Packers and Movers PVT. LTD. comes out as a partner one can depend on. We are fully committed to ensuring the safe delivery of your goods while putting emphasis on efficacy and customer satisfaction. The process of moving house, a business, or a vehicle becomes effortless as our professionals take charge of the task. Reach out to us now for obtain superior transport services at reasonable costs.</p>
+                                <p>As for transport services, Lucky Transporter comes out as a partner one can depend on. We are fully committed to ensuring the safe delivery of your goods while putting emphasis on efficacy and customer satisfaction. The process of moving house, a business, or a vehicle becomes effortless as our professionals take charge of the task. Reach out to us now for obtain superior transport services at reasonable costs.</p>
                             </div>
                         </div>
                         <div class="col-30">
@@ -336,7 +336,7 @@
                                     <div class="sidebar__logo">
                                         <!-- Dynamic Logo -->
                                         <a href="<?php echo $base_url; ?>">
-                                            <img src="<?php echo $base_url; ?>assets/media/logo/lc-packers-and-movers-logo.png" alt="LC Packers and Movers Pvt. Ltd. Logo" style="width: 80%;" title="LC Packers and Movers Pvt. Ltd.">
+                                            <img src="<?php echo $base_url; ?>assets/media/logo/logo.jpeg" alt="Lucky Transporter Pvt. Ltd. Logo" style="width: 80%;" title="Lucky Transporter Pvt. Ltd.">
                                         </a>
                                     </div>
                                     <div class="sidebar__contact">
@@ -344,8 +344,8 @@
                                         <h2 class="title">Tailored Relocation Solutions for You</h2>
 
                                         <!-- Dynamic Contact Information -->
-                                        <a href="tel:+91 8003600809" class="sidebar__phone">
-                                            <i class="flaticon-telephone"></i> +91 8003600809                                        </a>
+                                        <a href="tel:+91 8003966646" class="sidebar__phone">
+                                            <i class="flaticon-telephone"></i> +91 8003966646                                        </a>
 
                                         <!-- Call-to-Action Button -->
                                         <a href="javascript:void(0);" class="btn get_a_free_quote" title="Get a Free Quote">
@@ -578,7 +578,7 @@
                                                 <i class="fas fa-star"></i>
                                             </div>
                                             <div class="testimonial__content">
-                                                <p>“LC Packers and Movers made my home relocation completely hassle-free. Their team was professional, on-time, and handled my belongings with utmost care. Highly recommended!”</p>
+                                                <p>“Lucky Transporter made my home relocation completely hassle-free. Their team was professional, on-time, and handled my belongings with utmost care. Highly recommended!”</p>
                                             </div>
                                         </div>
                                     </div>
@@ -616,7 +616,7 @@
                                                 <i class="fas fa-star"></i>
                                             </div>
                                             <div class="testimonial__content">
-                                                <p>“I was nervous about relocating my office, but LC Packers and Movers handled everything smoothly. The team was efficient, and they ensured minimal downtime for my business.”</p>
+                                                <p>“I was nervous about relocating my office, but Lucky Transporter handled everything smoothly. The team was efficient, and they ensured minimal downtime for my business.”</p>
                                             </div>
                                         </div>
                                     </div>
@@ -746,104 +746,7 @@
         </article>
 
 
-        <!-- blog-post-area -->
-        <section class="blog__post-area-three section-p-60">
-            <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-lg-8 col-md-8">
-                        <div class="section__title mb-30">
-                            <span class="sub-title" title="Explore Recent Blogs by LC Packers and Movers">// Recent Blogs</span>
-                            <h2 class="title">Our Latest Insights</h2>
-                            <p class="description">Discover expert tips, relocation advice, and industry insights to make your move seamless and hassle-free.</p>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4">
-                        <div class="view-all-btn text-end mb-30">
-                            <a href="<?php echo $base_url; ?>blogs/" class="btn" title="Explore All Blogs by LC Packers and Movers">See All Blogs
-                                <img src="<?php echo $base_url; ?>assets/media/svg/right-arrow-white.svg" alt="View All Blogs" class="injectable">
-                            </a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="row justify-content-center gutter-24">
-                                            <div class="col-lg-4 col-md-6">
-                            <div class="blog__post-item shine__animate-item">
-                                <div class="blog__post-thumb">
-                                    <a href="blogs/10-packing-tips-for-hassle-free-relocation.php" class="shine__animate-link">
-                                        <img src="<?php echo $base_url; ?>assets/media/blogs/lc-packers-blog-tips.webp" alt="10 Essential Packing Tips for a Hassle-Free Relocation" loading="lazy">
-                                    </a>
-                                </div>
-                                <div class="blog__post-content">
-                                    <div class="blog__meta">
-                                        <ul class="list-wrap">
-                                            <li><i class="flaticon-calendar"></i>22 Nov, 2024</li>
-                                        </ul>
-                                    </div>
-                                    <h3 class="title">
-                                        <a href="blogs/10-packing-tips-for-hassle-free-relocation.php" title="10 Essential Packing Tips for a Hassle-Free Relocation">
-                                            10 Essential Packing Tips for a Hassle-Free Relocation                                        </a>
-                                    </h3>
-                                    <p>Learn how to pack like a pro with our expert tips to ensure your belongings stay safe during the move.</p>
-                                    <a href="blogs/10-packing-tips-for-hassle-free-relocation.php" class="btn btn-two">Read More
-                                        <img src="<?php echo $base_url; ?>assets/media/svg/right-arrow-red.svg" alt="Read More" class="injectable">
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                                            <div class="col-lg-4 col-md-6">
-                            <div class="blog__post-item shine__animate-item">
-                                <div class="blog__post-thumb">
-                                    <a href="blogs/the-ultimate-guide-to-choosing-the-best-packers-and-movers.php" class="shine__animate-link">
-                                        <img src="<?php echo $base_url; ?>assets/media/blogs/lc-packers-blog-best-movers.webp" alt="The Ultimate Guide to Choosing the Best Packers and Movers" loading="lazy">
-                                    </a>
-                                </div>
-                                <div class="blog__post-content">
-                                    <div class="blog__meta">
-                                        <ul class="list-wrap">
-                                            <li><i class="flaticon-calendar"></i>18 Nov, 2024</li>
-                                        </ul>
-                                    </div>
-                                    <h3 class="title">
-                                        <a href="blogs/the-ultimate-guide-to-choosing-the-best-packers-and-movers.php" title="The Ultimate Guide to Choosing the Best Packers and Movers">
-                                            The Ultimate Guide to Choosing the Best Packers and Movers                                        </a>
-                                    </h3>
-                                    <p>Explore key factors to consider when selecting a reliable relocation partner for your next move.</p>
-                                    <a href="blogs/the-ultimate-guide-to-choosing-the-best-packers-and-movers.php" class="btn btn-two">Read More
-                                        <img src="<?php echo $base_url; ?>assets/media/svg/right-arrow-red.svg" alt="Read More" class="injectable">
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                                            <div class="col-lg-4 col-md-6">
-                            <div class="blog__post-item shine__animate-item">
-                                <div class="blog__post-thumb">
-                                    <a href="blogs/why-goods-insurance-is-a-must-for-every-move.php" class="shine__animate-link">
-                                        <img src="<?php echo $base_url; ?>assets/media/blogs/dz-cargo-packers-goods-insurance.webp" alt="Why Goods Insurance Is a Must for Every Move" loading="lazy">
-                                    </a>
-                                </div>
-                                <div class="blog__post-content">
-                                    <div class="blog__meta">
-                                        <ul class="list-wrap">
-                                            <li><i class="flaticon-calendar"></i>15 Nov, 2024</li>
-                                        </ul>
-                                    </div>
-                                    <h3 class="title">
-                                        <a href="blogs/why-goods-insurance-is-a-must-for-every-move.php" title="Why Goods Insurance Is a Must for Every Move">
-                                            Why Goods Insurance Is a Must for Every Move                                        </a>
-                                    </h3>
-                                    <p>Protect your valuables with comprehensive insurance coverage. Learn why it&#039;s vital for peace of mind.</p>
-                                    <a href="blogs/why-goods-insurance-is-a-must-for-every-move.php" class="btn btn-two">Read More
-                                        <img src="<?php echo $base_url; ?>assets/media/svg/right-arrow-red.svg" alt="Read More" class="injectable">
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    
-                </div>
-            </div>
-        </section>
-        <!-- blog-post-area-end -->
+        <?php include "../recent_blogs_section.php"; ?>
         <!-- main-area-end -->
         <article class="main-container__marquee">
             <div class="main-container__marquee-track">
@@ -913,92 +816,92 @@
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client01.webp"
-                                        alt="Client 1 Logo | Trusted by LC Packers and Movers"
-                                        title="Client 1 | Partner of LC Packers and Movers">
+                                        alt="Client 1 Logo | Trusted by Lucky Transporter"
+                                        title="Client 1 | Partner of Lucky Transporter">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client02.webp"
-                                        alt="Client 2 Logo | Trusted by LC Packers and Movers"
-                                        title="Client 2 | Partner of LC Packers and Movers">
+                                        alt="Client 2 Logo | Trusted by Lucky Transporter"
+                                        title="Client 2 | Partner of Lucky Transporter">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client03.webp"
-                                        alt="Client 3 Logo | Trusted by LC Packers and Movers"
-                                        title="Client 3 | Partner of LC Packers and Movers">
+                                        alt="Client 3 Logo | Trusted by Lucky Transporter"
+                                        title="Client 3 | Partner of Lucky Transporter">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client04.webp"
-                                        alt="Client 4 Logo | Trusted by LC Packers and Movers"
-                                        title="Client 4 | Partner of LC Packers and Movers">
+                                        alt="Client 4 Logo | Trusted by Lucky Transporter"
+                                        title="Client 4 | Partner of Lucky Transporter">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client05.webp"
-                                        alt="Client 5 Logo | Trusted by LC Packers and Movers"
-                                        title="Client 5 | Partner of LC Packers and Movers">
+                                        alt="Client 5 Logo | Trusted by Lucky Transporter"
+                                        title="Client 5 | Partner of Lucky Transporter">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client06.webp"
-                                        alt="Client 6 Logo | Trusted by LC Packers and Movers"
-                                        title="Client 6 | Partner of LC Packers and Movers">
+                                        alt="Client 6 Logo | Trusted by Lucky Transporter"
+                                        title="Client 6 | Partner of Lucky Transporter">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client07.webp"
-                                        alt="Client 7 Logo | Trusted by LC Packers and Movers"
-                                        title="Client 7 | Partner of LC Packers and Movers">
+                                        alt="Client 7 Logo | Trusted by Lucky Transporter"
+                                        title="Client 7 | Partner of Lucky Transporter">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client08.webp"
-                                        alt="Client 8 Logo | Trusted by LC Packers and Movers"
-                                        title="Client 8 | Partner of LC Packers and Movers">
+                                        alt="Client 8 Logo | Trusted by Lucky Transporter"
+                                        title="Client 8 | Partner of Lucky Transporter">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client09.webp"
-                                        alt="Client 9 Logo | Trusted by LC Packers and Movers"
-                                        title="Client 9 | Partner of LC Packers and Movers">
+                                        alt="Client 9 Logo | Trusted by Lucky Transporter"
+                                        title="Client 9 | Partner of Lucky Transporter">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client10.webp"
-                                        alt="Client 10 Logo | Trusted by LC Packers and Movers"
-                                        title="Client 10 | Partner of LC Packers and Movers">
+                                        alt="Client 10 Logo | Trusted by Lucky Transporter"
+                                        title="Client 10 | Partner of Lucky Transporter">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client11.webp"
-                                        alt="Client 11 Logo | Trusted by LC Packers and Movers"
-                                        title="Client 11 | Partner of LC Packers and Movers">
+                                        alt="Client 11 Logo | Trusted by Lucky Transporter"
+                                        title="Client 11 | Partner of Lucky Transporter">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client12.webp"
-                                        alt="Client 12 Logo | Trusted by LC Packers and Movers"
-                                        title="Client 12 | Partner of LC Packers and Movers">
+                                        alt="Client 12 Logo | Trusted by Lucky Transporter"
+                                        title="Client 12 | Partner of Lucky Transporter">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client13.webp"
-                                        alt="Client 13 Logo | Trusted by LC Packers and Movers"
-                                        title="Client 13 | Partner of LC Packers and Movers">
+                                        alt="Client 13 Logo | Trusted by Lucky Transporter"
+                                        title="Client 13 | Partner of Lucky Transporter">
                                 </div>
                             </div>
                                             </div>
@@ -1065,11 +968,11 @@
                 <div class="col-xl-4 col-lg-5 col-md-6">
                     <div class="footer__widget">
                         <div class="footer__logo">
-                            <a href="<?php echo $base_url; ?>"><img src="<?php echo $base_url; ?>assets/media/logo/lc-packers-and-movers-logo.png" alt="LC Packers and Movers Logo"></a>
+                            <a href="<?php echo $base_url; ?>"><img src="<?php echo $base_url; ?>assets/media/logo/logo.jpeg" alt="Lucky Transporter Logo"></a>
                         </div>
                         <div class="footer__content footer__content-two">
                             <p>
-                                LC Packers and Movers PVT. LTD. offers professional packing and moving services across India. With over 11 years of experience, we ensure a seamless relocation for homes, offices, and vehicles.
+                                Lucky Transporter offers professional packing and moving services across India. With over 11 years of experience, we ensure a seamless relocation for homes, offices, and vehicles.
                             </p>
                         </div>
                         <div class="footer__social footer__social-two">
@@ -1132,11 +1035,11 @@
                             <ul class="list-wrap">
                                 <li>
                                     <i class="flaticon-telephone"></i>
-                                    <a href="tel:+91 8003600809" onclick="gtag_report_conversion_call_button();">+91 8003600809</a>
+                                    <a href="tel:+91 8003966646" onclick="gtag_report_conversion_call_button();">+91 8003966646</a>
                                 </li>
                                 <li>
                                     <i class="fa-solid fa-envelope"></i>
-                                    <a href="mailto:info@dzcargopackers.com">info@dzcargopackers.com</a>
+                                    <a href="mailto:info@luckycarepackers.com">info@luckycarepackers.com</a>
                                 </li>
                                 <li>
                                     <i class="flaticon-time"></i>
@@ -1154,7 +1057,7 @@
             <div class="row align-items-center">
                 <div class="col-md-6">
                     <div class="copyright-text">
-                        <p>Copyright <a href="<?php echo $base_url; ?>">© 2026 LC Packers and Movers PVT. LTD.</a> | All Rights Reserved</p>
+                        <p>Copyright <a href="<?php echo $base_url; ?>">© 2026 Lucky Transporter</a> | All Rights Reserved</p>
                     </div>
                 </div>
                 <div class="col-md-6">
@@ -1184,34 +1087,34 @@
 <div class="gocube_bottom_bar01">
 
     <!-- Call Button -->
-    <a class="botbtn" href="tel:+91 8003600809" onclick="gtag_report_conversion_call_button();" title="Call LC Packers and Movers PVT. LTD. at +91 8003600809">
+    <a class="botbtn" href="tel:+91 8003966646" onclick="gtag_report_conversion_call_button();" title="Call Lucky Transporter at +91 8003966646">
         <i class="fa-regular fa-phone"></i>
         <br><span>CALL</span>
     </a>
 
     <!-- Email Button -->
-    <a class="botbtn" href="mailto:info@dzcargopackers.com?cc=info@dzcargopackers.com&amp;subject=Looking for Packers and Movers with LC Packers and Movers PVT. LTD."
-        title="Send an Email to LC Packers and Movers PVT. LTD.">
+    <a class="botbtn" href="mailto:info@luckycarepackers.com?cc=info@luckycarepackers.com&amp;subject=Looking for Packers and Movers with Lucky Transporter"
+        title="Send an Email to Lucky Transporter">
         <i class="fa-regular fa-envelope"></i>
         <br><span>E-MAIL</span>
     </a>
 
     <!-- WhatsApp Button -->
-    <a class="botbtn" href="https://api.whatsapp.com/send?phone=+918003600809&amp;text=I%20am%20Looking%20for%20Packers%20and%20Movers%20with%20LC%20Packers%20and%20Movers%20PVT.%20LTD."
-        target="_blank" onclick="gtag_report_conversion_whatsapp_button();" title="Chat with LC Packers and Movers PVT. LTD. on WhatsApp">
+    <a class="botbtn" href="https://api.whatsapp.com/send?phone=+918003966646&amp;text=I%20am%20Looking%20for%20Packers%20and%20Movers%20with%20LC%20Packers%20and%20Movers%20PVT.%20LTD."
+        target="_blank" onclick="gtag_report_conversion_whatsapp_button();" title="Chat with Lucky Transporter on WhatsApp">
         <i class="fa-brands fa-whatsapp"></i>
         <br><span>WHATSAPP</span>
     </a>
 
     <!-- Enquiry Button -->
-    <a class="botbtn get_a_free_quote" href="javascript:void(0);" title="Submit Your Enquiry to LC Packers and Movers PVT. LTD.">
+    <a class="botbtn get_a_free_quote" href="javascript:void(0);" title="Submit Your Enquiry to Lucky Transporter">
         <i class="fa-regular fa-square-pen"></i>
         <br><span>ENQUIRY</span>
     </a>
 
     <!-- SMS Button -->
-    <a class="botbtn" href="sms:+91 8003600809?body=I%20am%20Looking%20for%20Packers%20and%20Movers%20with%20LC%20Packers%20and%20Movers%20PVT.%20LTD."
-        title="Send a Text Message to LC Packers and Movers PVT. LTD.">
+    <a class="botbtn" href="sms:+91 8003966646?body=I%20am%20Looking%20for%20Packers%20and%20Movers%20with%20LC%20Packers%20and%20Movers%20PVT.%20LTD."
+        title="Send a Text Message to Lucky Transporter">
         <i class="fa-regular fa-comment-sms"></i>
         <br><span>MESSAGE</span>
     </a>

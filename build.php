@@ -1,7 +1,7 @@
 <?php
 
 /**
- * LC Packers and Movers - Static Site Generator for Netlify
+ * Lucky Transporter - Static Site Generator for Netlify
  * This script crawls the local PHP server and generates static HTML files.
  */
 

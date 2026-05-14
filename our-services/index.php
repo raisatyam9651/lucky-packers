@@ -31,7 +31,7 @@
                         <div class="section__title text-center mb-50">
                             <span class="sub-title" style="color: #0A4D68; font-weight: 700;">// What We Offer</span>
                             <h1 class="title" style="font-weight: 800; color: #0A4D68;">Complete Relocation Solutions for Every Requirement</h1>
-                            <p>At <strong>LC Packers and Movers PVT. LTD.</strong>, we provide a wide range of professional packing and moving services tailored to meet your unique needs. From local home shifting to international corporate relocations, our expert team ensures your belongings are handled with care and delivered on time.</p>
+                            <p>At <strong>Lucky Transporter</strong>, we provide a wide range of professional packing and moving services tailored to meet your unique needs. From local home shifting to international corporate relocations, our expert team ensures your belongings are handled with care and delivered on time.</p>
                         </div>
                     </div>
                 </div>
@@ -328,12 +328,12 @@
                     <div class="col-lg-8">
                         <div class="cta__content">
                             <h2 class="title" style="color: #fff; font-weight: 800;">Ready to Move Your World?</h2>
-                            <p style="color: #fff; opacity: 0.8;">Get a personalized relocation estimate today and experience the professional excellence of LC Packers and Movers.</p>
+                            <p style="color: #fff; opacity: 0.8;">Get a personalized relocation estimate today and experience the professional excellence of Lucky Transporter.</p>
                         </div>
                     </div>
                     <div class="col-lg-4">
                         <div class="cta__btn text-end">
-                            <a href="tel:+91 8003600809" class="btn" style="background: #fff; color: #0A4D68; font-weight: 800; border-radius: 5px; padding: 15px 30px;">Call Now: +91 8003600809</a>
+                            <a href="tel:+91 8003966646" class="btn" style="background: #fff; color: #0A4D68; font-weight: 800; border-radius: 5px; padding: 15px 30px;">Call Now: +91 8003966646</a>
                         </div>
                     </div>
                 </div>

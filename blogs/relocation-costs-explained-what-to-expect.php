@@ -35,7 +35,7 @@
                     <div class="col-lg-8">
                         <div class="blog__details-content">
                             <div class="blog__details-thumb">
-                                <img src="<?php echo $base_url; ?>assets/media/blogs/lc-packers-blog-insurance.webp" alt="Relocation Costs Explained: What to Expect">
+                                <img src="<?php echo $base_url; ?>assets/media/blogs/blog9.png" alt="Relocation Costs Explained: What to Expect">
                             </div>
                             <div class="blog__meta">
                                 <ul class="list-wrap">
@@ -44,7 +44,7 @@
                                 </ul>
                             </div>
                             <h1 class="title">Relocation Costs Explained: What to Expect</h1>
-                            <p>One of the first questions everyone asks when planning a move is: "How much will it cost?" While every move is unique, understanding the factors that influence pricing can help you budget effectively and avoid surprises. At <strong>LC Packers and Movers PVT. LTD.</strong>, we believe in 100% pricing transparency. Here’s a breakdown of what determines your relocation costs.</p>
+                            <p>One of the first questions everyone asks when planning a move is: "How much will it cost?" While every move is unique, understanding the factors that influence pricing can help you budget effectively and avoid surprises. At <strong>Lucky Transporter</strong>, we believe in 100% pricing transparency. Here’s a breakdown of what determines your relocation costs.</p>
 
                             <h2>1. Volume and Weight of Goods</h2>
                             <p>The most significant factor is how much stuff you're moving. A 1-BHK apartment will cost less than a 4-BHK villa because it requires fewer packing materials, a smaller truck, and less labor. We recommend a pre-move survey to get an accurate estimate of your cargo volume.</p>
@@ -64,7 +64,7 @@
                             <h3>How to Get an Accurate Quote</h3>
                             <p>To get a quote that sticks, avoid over-the-phone estimates for large moves. Request a virtual or physical survey of your home. This allows our experts to see exactly what needs to be moved and identify any potential challenges beforehand.</p>
 
-                            <h3>Transparent Pricing with LC Packers and Movers</h3>
+                            <h3>Transparent Pricing with Lucky Transporter</h3>
                             <p>We pride ourselves on providing comprehensive quotes with no hidden charges. Our team will explain every line item so you know exactly what you're paying for. Contact us today for a free, no-obligation relocation estimate!</p>
 
                             <div class="blog__details-bottom">

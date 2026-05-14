@@ -32,7 +32,7 @@
                         <div class="section__title text-center mb-50">
                             <span class="sub-title">// Get In Touch</span>
                             <h2 class="title">We're Here to Assist You</h2>
-                            <p>Have questions about your relocation? Need a custom moving solution? We're here to help! At <strong>LC Packers and Movers PVT. LTD.</strong>, we’ll provide smooth assistance for all of your moving needs. You can rely on us whether you’re moving within or outside the country. Contact us today and let us make your move easy.</p>
+                            <p>Have questions about your relocation? Need a custom moving solution? We're here to help! At <strong>Lucky Transporter</strong>, we’ll provide smooth assistance for all of your moving needs. You can rely on us whether you’re moving within or outside the country. Contact us today and let us make your move easy.</p>
                         </div>
                     </div>
                 </div>
@@ -46,7 +46,7 @@
                             </div>
                             <div class="content">
                                 <h4 class="title">Call Us</h4>
-                                <p><a href="tel:+91 8003600809" style="font-weight: 700; color: #333;">+91 8003600809</a></p>
+                                <p><a href="tel:+91 8003966646" style="font-weight: 700; color: #333;">+91 8003966646</a></p>
                                 <p>Available 24/7 for Your Support</p>
                             </div>
                         </div>
@@ -60,7 +60,7 @@
                             </div>
                             <div class="content">
                                 <h4 class="title">Mail Us</h4>
-                                <p><a href="mailto:info@dzcargopackers.com" style="font-weight: 700; color: #333;">info@dzcargopackers.com</a></p>
+                                <p><a href="mailto:info@luckycarepackers.com" style="font-weight: 700; color: #333;">info@luckycarepackers.com</a></p>
                                 <p>Email Us for Detailed Queries</p>
                             </div>
                         </div>
@@ -74,7 +74,7 @@
                             </div>
                             <div class="content">
                                 <h4 class="title">Head Office</h4>
-                                <p>174, ASHOK VIHAR, PHASE-3, EXTENSION, GURUGRAM (HR) 122006 INDIA</p>
+                                <p>G-65, Sector-110, New Palam Vihar, Phase-1, Gurugram, Haryana - 122017</p>
                             </div>
                         </div>
                     </div>

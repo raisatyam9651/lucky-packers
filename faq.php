@@ -61,7 +61,7 @@
                         <div class="section__title text-center mb-50">
                             <span class="sub-title">// Common Queries</span>
                             <h2 class="title">Everything You Need to Know</h2>
-                            <p>At <strong>LC Packers and Movers PVT. LTD.</strong>, we aim to make your relocation journey transparent and stress-free. Here are some of the most frequently asked questions to help you prepare for your move.</p>
+                            <p>At <strong>Lucky Transporter</strong>, we aim to make your relocation journey transparent and stress-free. Here are some of the most frequently asked questions to help you prepare for your move.</p>
                         </div>
                         <div class="faq__wrap">
                             <div class="accordion" id="accordionExample">
@@ -70,7 +70,7 @@
                                 <div class="accordion-item">
                                     <h2 class="accordion-header">
                                         <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                            Q1: What services does LC Packers and Movers PVT. LTD. provide?
+                                            Q1: What services does Lucky Transporter provide?
                                         </button>
                                     </h2>
                                     <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
@@ -89,7 +89,7 @@
                                     </h2>
                                     <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            <p>You can easily book our services by calling our hotline at +91 8003600809, submitting the "Get a Free Quote" form on our website, or messaging us directly on WhatsApp for an instant response.</p>
+                                            <p>You can easily book our services by calling our hotline at +91 8003966646, submitting the "Get a Free Quote" form on our website, or messaging us directly on WhatsApp for an instant response.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -266,7 +266,7 @@
                                 <div class="accordion-item">
                                     <h2 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFifteen" aria-expanded="false" aria-controls="collapseFifteen">
-                                            Q15: Why should I choose LC Packers and Movers PVT. LTD.?
+                                            Q15: Why should I choose Lucky Transporter?
                                         </button>
                                     </h2>
                                     <div id="collapseFifteen" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
@@ -296,7 +296,7 @@
                             </div>
                         </div>
                         <div class="col-lg-4 text-lg-end mt-4 mt-lg-0">
-                            <a href="tel:+91 8003600809" class="btn" style="background-color: #0A4D68; color: #fff; padding: 15px 30px; border-radius: 5px; text-decoration: none; font-weight: bold;">
+                            <a href="tel:+91 8003966646" class="btn" style="background-color: #0A4D68; color: #fff; padding: 15px 30px; border-radius: 5px; text-decoration: none; font-weight: bold;">
                                 Call Us Now <i class="fas fa-phone"></i>
                             </a>
                         </div>

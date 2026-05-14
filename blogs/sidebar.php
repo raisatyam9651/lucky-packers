@@ -29,33 +29,27 @@
                             <div class="blog-widget">
                                 <h4 class="widget-title" style="border-bottom: 2px solid #0A4D68; padding-bottom: 10px; margin-bottom: 20px;">Latest Post</h4>
                                 <div class="rc__post-wrapper">
+                                    <?php 
+                                    if (!isset($blogs)) {
+                                        include __DIR__ . '/../blogs_data.php'; 
+                                    }
+                                    $latest_posts = array_slice($blogs, 0, 3);
+                                    foreach ($latest_posts as $post): 
+                                    ?>
                                     <div class="rc__post-item" style="display: flex; gap: 15px; margin-bottom: 20px;">
                                         <div class="rc__post-thumb" style="width: 80px; height: 60px; overflow: hidden; border-radius: 5px;">
-                                            <a href="<?php echo $base_url; ?>blogs/10-packing-tips-for-hassle-free-relocation.php"><img src="<?php echo $base_url; ?>assets/media/blogs/lc-packers-blog-tips.webp" alt="10 Essential Packing Tips" style="width: 100%; height: 100%; object-fit: cover;"></a>
+                                            <a href="<?php echo $base_url; ?>blogs/<?php echo $post['slug']; ?>">
+                                                <img src="<?php echo $base_url . $post['image']; ?>" alt="<?php echo $post['title']; ?>" style="width: 100%; height: 100%; object-fit: cover;">
+                                            </a>
                                         </div>
                                         <div class="rc__post-content" style="flex: 1;">
-                                            <span class="date" style="font-size: 12px; color: #666; display: block; margin-bottom: 5px;"><i class="fa-regular fa-calendar-days" style="color: #0A4D68; margin-right: 5px;"></i>22 Nov, 2024</span>
-                                            <h4 class="title" style="font-size: 13px; font-weight: 700; line-height: 1.4;"><a href="<?php echo $base_url; ?>blogs/10-packing-tips-for-hassle-free-relocation.php" style="color: #0A4D68;">10 Essential Packing Tips For A Hassle-Free Relocation</a></h4>
+                                            <span class="date" style="font-size: 12px; color: #666; display: block; margin-bottom: 5px;"><i class="fa-regular fa-calendar-days" style="color: #0A4D68; margin-right: 5px;"></i><?php echo $post['date']; ?></span>
+                                            <h4 class="title" style="font-size: 13px; font-weight: 700; line-height: 1.4;">
+                                                <a href="<?php echo $base_url; ?>blogs/<?php echo $post['slug']; ?>" style="color: #0A4D68;"><?php echo $post['title']; ?></a>
+                                            </h4>
                                         </div>
                                     </div>
-                                    <div class="rc__post-item" style="display: flex; gap: 15px; margin-bottom: 20px;">
-                                        <div class="rc__post-thumb" style="width: 80px; height: 60px; overflow: hidden; border-radius: 5px;">
-                                            <a href="<?php echo $base_url; ?>blogs/the-ultimate-guide-to-choosing-the-best-packers-and-movers.php"><img src="<?php echo $base_url; ?>assets/media/blogs/lc-packers-blog-best-movers.webp" alt="Best Packers" style="width: 100%; height: 100%; object-fit: cover;"></a>
-                                        </div>
-                                        <div class="rc__post-content" style="flex: 1;">
-                                            <span class="date" style="font-size: 12px; color: #666; display: block; margin-bottom: 5px;"><i class="fa-regular fa-calendar-days" style="color: #0A4D68; margin-right: 5px;"></i>18 Nov, 2024</span>
-                                            <h4 class="title" style="font-size: 13px; font-weight: 700; line-height: 1.4;"><a href="<?php echo $base_url; ?>blogs/the-ultimate-guide-to-choosing-the-best-packers-and-movers.php" style="color: #0A4D68;">The Ultimate Guide To Choosing The Best Packers And Movers</a></h4>
-                                        </div>
-                                    </div>
-                                    <div class="rc__post-item" style="display: flex; gap: 15px;">
-                                        <div class="rc__post-thumb" style="width: 80px; height: 60px; overflow: hidden; border-radius: 5px;">
-                                            <a href="<?php echo $base_url; ?>blogs/why-goods-insurance-is-a-must-for-every-move.php"><img src="<?php echo $base_url; ?>assets/media/blogs/lc-packers-blog-insurance.webp" alt="Insurance" style="width: 100%; height: 100%; object-fit: cover;"></a>
-                                        </div>
-                                        <div class="rc__post-content" style="flex: 1;">
-                                            <span class="date" style="font-size: 12px; color: #666; display: block; margin-bottom: 5px;"><i class="fa-regular fa-calendar-days" style="color: #0A4D68; margin-right: 5px;"></i>15 Nov, 2024</span>
-                                            <h4 class="title" style="font-size: 13px; font-weight: 700; line-height: 1.4;"><a href="<?php echo $base_url; ?>blogs/why-goods-insurance-is-a-must-for-every-move.php" style="color: #0A4D68;">Why Goods Insurance Is A Must For Every Move</a></h4>
-                                        </div>
-                                    </div>
+                                    <?php endforeach; ?>
                                 </div>
                             </div>
 
@@ -63,12 +57,12 @@
                             <div class="blog-widget" style="padding: 0; border: none; background: none;">
                                 <div class="sidebar__contact-box" style="padding: 40px 30px; border: 1px solid #eee; border-radius: 10px; text-align: center; background: #fff;">
                                     <div class="logo mb-30">
-                                        <a href="<?php echo $base_url; ?>"><img src="<?php echo $base_url; ?>assets/media/logo/lc-packers-logo.png" alt="LC Packers" style="max-width: 180px;"></a>
+                                        <a href="<?php echo $base_url; ?>"><img src="<?php echo $base_url; ?>assets/media/logo/lc-packers-logo.png" alt="Lucky Transporter" style="max-width: 180px;"></a>
                                     </div>
                                     <h4 class="title" style="font-size: 18px; font-weight: 800; color: #0A4D68; line-height: 1.4; margin-bottom: 20px;">Tailored Relocation Solutions For You</h4>
                                     <div class="phone" style="margin-bottom: 25px;">
-                                        <a href="tel:+918003600809" style="font-size: 20px; font-weight: 800; color: #0A4D68; display: flex; align-items: center; justify-content: center; gap: 10px;">
-                                            <i class="fa-solid fa-phone-volume"></i> +91 8003600809
+                                        <a href="tel:+918003966646" style="font-size: 20px; font-weight: 800; color: #0A4D68; display: flex; align-items: center; justify-content: center; gap: 10px;">
+                                            <i class="fa-solid fa-phone-volume"></i> +91 8003966646
                                         </a>
                                     </div>
                                     <a href="<?php echo $base_url; ?>contact-us.php" class="btn" style="background: #111; color: #fff; width: 100%; border-radius: 5px; padding: 12px; font-weight: 700; display: flex; align-items: center; justify-content: center; gap: 10px; font-size: 14px;">

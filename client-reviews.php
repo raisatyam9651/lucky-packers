@@ -32,7 +32,7 @@
                         <div class="section__title text-center mb-50">
                             <span class="sub-title">// What Our Clients Say</span>
                             <h2 class="title">Voices of Satisfaction</h2>
-                            <p>At <strong>LC Packers and Movers PVT. LTD.</strong>, customer satisfaction is at the center of everything we do. Over the past 11 years, we’ve moved countless people, families, and companies seamlessly and their satisfaction is a testimony to our dedication to excellence. Whether it is house moves or office moves, our clients value the quality, trust and individuality we provide.</p>
+                            <p>At <strong>Lucky Transporter</strong>, customer satisfaction is at the center of everything we do. Over the past 11 years, we’ve moved countless people, families, and companies seamlessly and their satisfaction is a testimony to our dedication to excellence. Whether it is house moves or office moves, our clients value the quality, trust and individuality we provide.</p>
                         </div>
                     </div>
                 </div>
@@ -49,7 +49,7 @@
                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                             </div>
                             <div class="testimonial__content">
-                                <p>“LC Packers and Movers made my home relocation completely hassle-free. Their team was professional, on-time, and handled my belongings with utmost care. Highly recommended!”</p>
+                                <p>“Lucky Transporter made my home relocation completely hassle-free. Their team was professional, on-time, and handled my belongings with utmost care. Highly recommended!”</p>
                             </div>
                         </div>
                     </div>
@@ -81,7 +81,7 @@
                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                             </div>
                             <div class="testimonial__content">
-                                <p>“I was nervous about relocating my office, but LC Packers and Movers handled everything smoothly. The team was efficient, and they ensured minimal downtime for my business.”</p>
+                                <p>“I was nervous about relocating my office, but Lucky Transporter handled everything smoothly. The team was efficient, and they ensured minimal downtime for my business.”</p>
                             </div>
                         </div>
                     </div>
@@ -146,11 +146,11 @@
                         <div class="col-lg-8">
                             <div class="cta__content">
                                 <h2 class="title" style="color: #fff; margin-bottom: 10px;">Experience Stress-Free Shifting!</h2>
-                                <p style="margin-bottom: 0;">Join our thousands of happy customers. Contact LC Packers and Movers for a free quote today.</p>
+                                <p style="margin-bottom: 0;">Join our thousands of happy customers. Contact Lucky Transporter for a free quote today.</p>
                             </div>
                         </div>
                         <div class="col-lg-4 text-lg-end mt-4 mt-lg-0">
-                            <a href="tel:+91 8003600809" class="btn" style="background-color: #0A4D68; color: #fff; padding: 15px 30px; border-radius: 5px; text-decoration: none; font-weight: bold;">
+                            <a href="tel:+91 8003966646" class="btn" style="background-color: #0A4D68; color: #fff; padding: 15px 30px; border-radius: 5px; text-decoration: none; font-weight: bold;">
                                 Get A Quote <i class="fas fa-paper-plane"></i>
                             </a>
                         </div>

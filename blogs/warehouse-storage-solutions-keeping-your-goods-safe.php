@@ -35,7 +35,7 @@
                     <div class="col-lg-8">
                         <div class="blog__details-content">
                             <div class="blog__details-thumb">
-                                <img src="<?php echo $base_url; ?>assets/media/blogs/lc-packers-blog-best-movers.webp" alt="Warehouse Storage Solutions: Keeping Your Goods Safe">
+                                <img src="<?php echo $base_url; ?>assets/media/blogs/blog8.png" alt="Warehouse Storage Solutions: Keeping Your Goods Safe">
                             </div>
                             <div class="blog__meta">
                                 <ul class="list-wrap">
@@ -44,7 +44,7 @@
                                 </ul>
                             </div>
                             <h1 class="title">Warehouse Storage Solutions: Keeping Your Goods Safe</h1>
-                            <p>Sometimes, your move-out date and move-in date don't align perfectly. Or perhaps you're downsizing and need a temporary home for your extra belongings. In these situations, professional warehouse storage is the ideal solution. At <strong>LC Packers and Movers PVT. LTD.</strong>, we provide secure, climate-controlled storage for both short-term and long-term needs.</p>
+                            <p>Sometimes, your move-out date and move-in date don't align perfectly. Or perhaps you're downsizing and need a temporary home for your extra belongings. In these situations, professional warehouse storage is the ideal solution. At <strong>Lucky Transporter</strong>, we provide secure, climate-controlled storage for both short-term and long-term needs.</p>
 
                             <h2>Why Choose Professional Warehousing?</h2>
                             <p>Storing your goods in a professional facility offers several advantages over traditional self-storage:</p>
@@ -67,7 +67,7 @@
                             <h2>Flexible Storage Plans</h2>
                             <p>We offer flexible storage durations, from as little as a week to several months or even years. Whether you're a homeowner between moves or a business looking for extra space for stock, we have a plan that fits your budget.</p>
 
-                            <h3>Safe and Secure with LC Packers and Movers</h3>
+                            <h3>Safe and Secure with Lucky Transporter</h3>
                             <p>Our commitment to safety extends beyond the road. Our warehousing facilities are designed to provide the ultimate protection for your valuables. Contact us today to learn more about our secure storage solutions!</p>
 
                             <div class="blog__details-bottom">

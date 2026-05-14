@@ -36,7 +36,7 @@
                         <div class="blog__details-content">
                             <div class="blog__details-thumb" style="border: 1px solid #eee; border-radius: 10px; overflow: hidden; margin-bottom: 30px;">
                                 <div class="thumb-header" style="background: #0A4D68; color: #fff; padding: 10px 20px; text-align: center; font-weight: 700; font-size: 14px;">
-                                    LC PACKERS AND MOVERS PVT. LTD.
+                                    LUCKY TRANSPORTER
                                 </div>
                                 <img src="<?php echo $base_url; ?>assets/media/blogs/lc-packers-blog-insurance.webp" alt="Why Goods Insurance is a Must for Every Move" style="width: 100%;">
                                 <div class="thumb-footer" style="background: #0A4D68; color: #fff; padding: 10px 20px; text-align: center; font-weight: 700; font-size: 16px;">
@@ -46,7 +46,7 @@
                             
                             <h1 class="title" style="font-size: 32px; font-weight: 800; color: #0A4D68; margin-bottom: 20px;">Protecting Your Belongings: The Vital Role of Goods Insurance</h1>
                             
-                            <p>Moving is a complex process, and while we take every precaution at <strong>LC Packers and Movers PVT. LTD.</strong>, the reality is that long-distance transit involves risks. Goods insurance isn't just an extra cost; it's your primary safety net. Whether you're moving across the street or across the country, understanding the importance of insurance can save you from significant financial loss.</p>
+                            <p>Moving is a complex process, and while we take every precaution at <strong>Lucky Transporter</strong>, the reality is that long-distance transit involves risks. Goods insurance isn't just an extra cost; it's your primary safety net. Whether you're moving across the street or across the country, understanding the importance of insurance can save you from significant financial loss.</p>
                             
                             <h3 style="color: #0A4D68; font-weight: 700; margin-top: 30px;">Why is Insurance Necessary?</h3>
                             <p>Despite professional packing and careful handling, certain factors are beyond human control. Insurance provides coverage for:</p>
@@ -90,8 +90,8 @@
                                 <li style="margin-bottom: 10px;"><strong>Not Checking the Fine Print:</strong> Always understand what is and isn't covered in your policy.</li>
                             </ol>
 
-                            <h3 style="color: #0A4D68; font-weight: 700;">How LC Packers and Movers PVT. LTD. Assists You</h3>
-                            <p>We believe in total transparency. When you choose <strong>LC Packers and Movers PVT. LTD.</strong>, we help you with:</p>
+                            <h3 style="color: #0A4D68; font-weight: 700;">How Lucky Transporter Assists You</h3>
+                            <p>We believe in total transparency. When you choose <strong>Lucky Transporter</strong>, we help you with:</p>
                             <ul class="list-wrap" style="margin-bottom: 30px;">
                                 <li style="margin-bottom: 8px;"><i class="fa-solid fa-circle-check" style="color: #0A4D68; margin-right: 10px;"></i> Accurate valuation of your household goods.</li>
                                 <li style="margin-bottom: 8px;"><i class="fa-solid fa-circle-check" style="color: #0A4D68; margin-right: 10px;"></i> Assistance with insurance documentation.</li>
@@ -99,7 +99,7 @@
                             </ul>
 
                             <h3 style="color: #0A4D68; font-weight: 700;">Conclusion</h3>
-                            <p>Your belongings are more than just items; they are a part of your life. Protecting them with goods insurance is the smartest decision you can make during a move. Don't leave your relocation to chance. Partner with <strong>LC Packers and Movers PVT. LTD.</strong> and enjoy a fully insured, worry-free move today!</p>
+                            <p>Your belongings are more than just items; they are a part of your life. Protecting them with goods insurance is the smartest decision you can make during a move. Don't leave your relocation to chance. Partner with <strong>Lucky Transporter</strong> and enjoy a fully insured, worry-free move today!</p>
 
                         </div>
                     </div>

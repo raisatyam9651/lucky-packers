@@ -35,7 +35,7 @@
                     <div class="col-lg-8">
                         <div class="blog__details-content">
                             <div class="blog__details-thumb">
-                                <img src="<?php echo $base_url; ?>assets/media/blogs/lc-packers-blog-best-movers.webp" alt="How to Relocate Your Office Without Interrupting Business">
+                                <img src="<?php echo $base_url; ?>assets/media/blogs/blog5.png" alt="How to Relocate Your Office Without Interrupting Business">
                             </div>
                             <div class="blog__meta">
                                 <ul class="list-wrap">
@@ -44,7 +44,7 @@
                                 </ul>
                             </div>
                             <h1 class="title">How to Relocate Your Office Without Interrupting Business</h1>
-                            <p>Relocating an office is a complex task that requires careful planning to avoid significant downtime. Every hour your business is offline can lead to lost revenue and productivity. At <strong>LC Packers and Movers PVT. LTD.</strong>, we specialize in corporate relocations that prioritize business continuity. Here are our expert tips for a seamless office move.</p>
+                            <p>Relocating an office is a complex task that requires careful planning to avoid significant downtime. Every hour your business is offline can lead to lost revenue and productivity. At <strong>Lucky Transporter</strong>, we specialize in corporate relocations that prioritize business continuity. Here are our expert tips for a seamless office move.</p>
 
                             <h2>1. Plan Months in Advance</h2>
                             <p>An office relocation shouldn't be rushed. Start planning at least 3-6 months before the move date. Create a timeline that includes hiring movers, notifying clients, and setting up IT infrastructure at the new location.</p>
@@ -61,7 +61,7 @@
                             <h2>5. Clear Communication with Clients</h2>
                             <p>Inform your clients and vendors about the move well in advance. Provide them with the new address, updated contact numbers, and any expected temporary changes in service availability.</p>
 
-                            <h3>Why Choose LC Packers and Movers?</h3>
+                            <h3>Why Choose Lucky Transporter?</h3>
                             <p>We understand the nuances of corporate logistics. From handling sensitive documents to moving modular furniture, our team ensures your office assets reach their destination safely and on time. Contact us today for a professional office relocation strategy!</p>
 
                             <div class="blog__details-bottom">
