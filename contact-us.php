@@ -85,7 +85,7 @@
                     <div class="row gutter-24">
                         <div class="col-lg-6">
                             <div class="contact__map" style="height: 100%; min-height: 400px; border-radius: 10px; overflow: hidden;">
-                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3506.711835973955!2d77.0142998748386!3d28.4882583906323!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d199859f5b61b%3A0xc958925534!2sLucky%20Transporter%20and%20Movers%20Pvt.%20Ltd.!5e0!3m2!1sen!2sin!4v1715104000000!5m2!1sen!2sin" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                <iframe src="https://maps.google.com/maps?q=G-65%2C%20Sector-110%2C%20New%20Palam%20Vihar%2C%20Phase-1%2C%20Gurugram%2C%20Haryana%20-%20122017&t=&z=15&ie=UTF8&iwloc=&output=embed" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                             </div>
                         </div>
                         <div class="col-lg-6">

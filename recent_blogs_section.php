@@ -46,7 +46,7 @@
                             </a>
                         </h3>
                         <p style="font-size: 14px; color: #555; flex-grow: 1; margin-bottom: 20px;"><?php echo $blog['excerpt']; ?></p>
-                        <a href="<?php echo $base_url; ?>blogs/<?php echo $blog['slug']; ?>" class="btn btn-two" style="border: 1px solid #ddd; padding: 8px 20px; border-radius: 5px; font-size: 14px; font-weight: 600; color: #0A4D68; width: fit-content; display: flex; align-items: center; gap: 8px;">Read More
+                        <a href="<?php echo $base_url; ?>blogs/<?php echo $blog['slug']; ?>" class="btn btn-two" style="border: 2px solid #0A4D68; padding: 10px 20px; border-radius: 5px; font-size: 14px; font-weight: 600; color: #0A4D68; background: transparent; width: fit-content; display: inline-flex; align-items: center; gap: 8px; text-decoration: none; transition: all 0.3s ease;">Read More
                             <i class="fa-solid fa-arrow-up-right" style="font-size: 12px;"></i>
                         </a>
                     </div>
