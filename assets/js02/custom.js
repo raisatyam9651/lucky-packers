@@ -97,6 +97,21 @@ $(document).ready(function() {
         }
         return isValid;
     }
+    // Google Sheets Integration
+    function sendToGoogleSheet(formData, source) {
+        const scriptURL = 'https://script.google.com/macros/s/AKfycbz3HI0cjYo7ImoGIuq4Pgh2Tw7vofiTJY9tOEWcKjovdsTW7yYOXbqAVTc3FEO6a78/exec'; // Replace with your Apps Script URL
+        formData.append('source', source);
+        formData.append('date', new Date().toLocaleString());
+        
+        fetch(scriptURL, { 
+            method: 'POST', 
+            body: formData,
+            mode: 'no-cors' // Allows sending without CORS issues with Apps Script
+        })
+        .then(response => console.log('Success!', response))
+        .catch(error => console.error('Error!', error.message));
+    }
+
     $("#get_a_quote_form01 input, #get_a_quote_form01 textarea, #get_a_quote_form01 select").on("keyup", function() {
         quickFormValidatation($(this));
     });
@@ -123,6 +138,10 @@ $(document).ready(function() {
                 color: "#fff"
             });
             submitBtn.html('Submitting... <span class="icon-dubble-arrow-right"></span>');
+            
+            // Send to Google Sheets
+            sendToGoogleSheet(new FormData(this), 'Get A Quote Form 01');
+
             $.ajax({
                 url: "form/quick_form_enq.php",
                 type: "POST",
@@ -242,6 +261,10 @@ $(document).ready(function() {
                 color: "#fff"
             });
             submitBtn.html('Submitting... <span class="icon-dubble-arrow-right"></span>');
+            
+            // Send to Google Sheets
+            sendToGoogleSheet(new FormData(this), 'Get A Quote Form 02');
+
             $.ajax({
                 url: "form/quick_form_enq.php",
                 type: "POST",
@@ -297,6 +320,10 @@ $(document).ready(function() {
                 color: "#fff"
             });
             submitBtn.html('Submitting... <span class="icon-dubble-arrow-right"></span>');
+            
+            // Send to Google Sheets
+            sendToGoogleSheet(new FormData(this), 'Corp Contact Form');
+
             $.ajax({
                 url: "form/quick_form_enq.php",
                 type: "POST",
@@ -352,6 +379,10 @@ $(document).ready(function() {
                 color: "#fff"
             });
             submitBtn.html('Submitting... <span class="icon-dubble-arrow-right"></span>');
+            
+            // Send to Google Sheets
+            sendToGoogleSheet(new FormData(this), 'Corp Hero Form');
+
             $.ajax({
                 url: "form/quick_form_enq.php",
                 type: "POST",
@@ -463,6 +494,10 @@ $(document).ready(function() {
                 color: "#fff"
             });
             submitBtn.html('Submitting... <span class="icon-dubble-arrow-right"></span>');
+            
+            // Send to Google Sheets
+            sendToGoogleSheet(new FormData(this), 'Contact Us Page Form');
+
             $.ajax({
                 url: "form/contact_us.php",
                 type: "POST",

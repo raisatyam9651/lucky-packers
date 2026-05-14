@@ -249,11 +249,6 @@ In your html page, add the snippet and call gtag_report_conversion when someone 
                                         <a class="" href="<?php echo $base_url; ?>about-us.php" title="Learn more About Us">About Us</a>
                                     </li>
 
-                                    <!-- Our Work -->
-                                    <li>
-                                        <a class="" href="<?php echo $base_url; ?>our-work.php" title="Explore Our Work">Our Work</a>
-                                    </li>
-
                                     <!-- Our Services -->
                                     <li class="menu-item-has-children">
                                         <a class="" href="javascript:void(0);" title="Explore Our Services">Our Services</a>
