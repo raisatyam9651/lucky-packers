@@ -99,16 +99,22 @@ $(document).ready(function() {
     }
     // Google Sheets Integration
     function sendToGoogleSheet(formData, source) {
-        const scriptURL = 'https://script.google.com/macros/s/AKfycbz3HI0cjYo7ImoGIuq4Pgh2Tw7vofiTJY9tOEWcKjovdsTW7yYOXbqAVTc3FEO6a78/exec'; // Replace with your Apps Script URL
-        formData.append('source', source);
-        formData.append('date', new Date().toLocaleString());
+        const scriptURL = 'https://script.google.com/macros/s/AKfycbz3HI0cjYo7ImoGIuq4Pgh2Tw7vofiTJY9tOEWcKjovdsTW7yYOXbqAVTc3FEO6a78/exec';
         
+        // Convert FormData to URLSearchParams for better Apps Script compatibility
+        const searchParams = new URLSearchParams();
+        for (const [key, value] of formData.entries()) {
+            searchParams.append(key, value);
+        }
+        searchParams.append('source', source);
+        searchParams.append('date', new Date().toLocaleString());
+
         fetch(scriptURL, { 
             method: 'POST', 
-            body: formData,
-            mode: 'no-cors' // Allows sending without CORS issues with Apps Script
+            body: searchParams,
+            mode: 'no-cors'
         })
-        .then(response => console.log('Success!', response))
+        .then(() => console.log('Success! Lead sent to Google Sheets.'))
         .catch(error => console.error('Error!', error.message));
     }
 
