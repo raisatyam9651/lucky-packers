@@ -39,40 +39,45 @@
                             </div>
 
                             <div class="services__details-content">
-                                <h1 class="title">Expert Hotel Shifting Services for Seamless Hospitality Relocation</h1>
-                                <p>Relocating a hotel's assets is a massive undertaking that requires specialized expertise, precise timing, and extreme care. At <strong>Lucky Transporter</strong>, we are well-versed in the unique requirements of the hospitality industry. Whether it's a boutique hotel relocation or a large-scale resort move, our team has the resources and experience to handle it with absolute perfection.</p>
-                                
-                                <p>We understand that in the hotel business, any downtime translates directly to lost revenue and guest dissatisfaction. Our mission is to provide a comprehensive, end-to-end relocation service that ensures your FF&E (Furniture, Fixtures & Equipment) and other valuable assets are moved and implemented with zero hassle and maximum efficiency.</p>
+                                <h1 class="title">Hotel Shifting That Minimizes Guest Disruption and Property Damage</h1>
+                                <p>Moving a hotel isn’t like moving an office or a home. Every hour of downtime means lost bookings, angry guests, and revenue that doesn’t come back. At <strong>Lucky Transporter</strong>, we’ve handled hotel relocations ranging from 20-room boutique properties to 200-room resort complexes, and we’ve learned that speed and care aren’t opposites—they’re both achievable when you plan properly.</p>
 
-                                <h2>Key Highlights of Our Hotel Shifting Services</h2>
+                                <p>Hospitality relocations require managing hundreds of room items, restaurant equipment, lobby furniture, and operational gear simultaneously. Our team treats each category differently—breakfast area glassware doesn’t travel the same way as heavy kitchen equipment, and guest room mattresses need different protection than lobby artwork. We know the difference, and that attention to detail is what keeps your assets safe.</p>
+
+                                <h2>What Sets Hotel Relocations Apart</h2>
                                 <ul>
-                                    <li><strong>Complete End-to-End Solutions:</strong> We take care of the entire process, including professional packing, secure transportation, organized furniture arrangement, and final setup in the new premises.</li>
-                                    <li><strong>Customized Hospitality Strategies:</strong> No two hotels are alike. We design our relocation services specifically to match your hotel’s brand standards and unique inventory needs.</li>
-                                    <li><strong>Expert FF&E Management:</strong> Our staff are trained professionals who understand how to handle, maintain, and implement hotel assets ranging from delicate décor to heavy commercial kitchen equipment.</li>
-                                    <li><strong>Precision and Minimal Downtime:</strong> We work effectively around the clock to complete the relocation task with high precision, ensuring your new site is guest-ready in the shortest possible time.</li>
-                                    <li><strong>Scalable Infrastructure:</strong> Our fleet and crew can handle large-scale luxury hotel moves involving hundreds of rooms, ensuring consistent quality across all phases.</li>
+                                    <li><strong>Scale and Volume:</strong> A 100-room hotel might mean 500+ pieces of furniture, hundreds of kilograms of kitchen equipment, and thousands of individual items to track. We manage this with detailed inventories, not guesswork.</li>
+                                    <li><strong>Operational Timing:</strong> We work around your check-out schedules, planning packing after rooms are cleared and unpacking in guest-ready order.</li>
+                                    <li><strong>Specialized FF&E Handling:</strong> Furniture, fixtures, and equipment in hospitality settings are often custom-built or high-end. Our teams are trained to handle each type with appropriate techniques and materials.</li>
+                                    <li><strong>Discrete Operations:</strong> Hotel moves often happen while parts of the property are still operating. We work in designated zones to avoid disrupting ongoing guest services.</li>
+                                    <li><strong>Asset Protection:</strong> Your reputation depends on the condition of your property. We carry full insurance coverage for all FF&E items during packing, transit, and setup.</li>
                                 </ul>
 
-                                <h2>Our Proven Hotel Relocation Process</h2>
-                                
+                                <h2>How We Handle Hotel Relocations</h2>
+
                                 <div>
-                                    <h3>1. Initial Site Assessment and Strategic Planning</h3>
-                                    <p>Site preparation is the cornerstone of a successful hotel move. We conduct a detailed survey to assess the volume of assets and form a strategic plan that addresses every logistical challenge.</p>
+                                    <h3>1. Pre-Move Inventory and Categorization</h3>
+                                    <p>Every item is cataloged by location—room number, floor, or functional area. High-value and fragile pieces are flagged for specialized packing. This inventory becomes your delivery checklist, so nothing goes missing between sites.</p>
                                 </div>
 
                                 <div>
-                                    <h3>2. Meticulous Inventory and Asset Gathering</h3>
-                                    <p>Every item—including high-end furniture, commercial electronics, fragile cutlery, and valuable artwork—is inventoried and properly packed using specialized materials to prevent any damage during transit.</p>
+                                    <h3>2. Room-by-Room Packing</h3>
+                                    <p>We pack systematically, starting with back-of-house areas like storage and kitchens before moving to guest floors. Each room’s contents stay grouped so unpacking at the destination follows a logical room-by-room sequence.</p>
                                 </div>
 
                                 <div>
-                                    <h3>3. Secure GPS-Enabled Transportation</h3>
-                                    <p>Our modern, GPS-enabled vehicles ensure the safe and timely delivery of your hotel assets. You can track the progress of your shipment in real-time, ensuring total transparency.</p>
+                                    <h3>3. Commercial Equipment Handling</h3>
+                                    <p>Kitchen gear, refrigeration units, and bar equipment are disconnected by our team, protected with custom padding, and loaded onto heavy-load vehicles. These items travel separately from general furnishings.</p>
                                 </div>
 
                                 <div>
-                                    <h3>4. Rapid Setup and Unpacking</h3>
-                                    <p>Upon reaching the destination, our team immediately proceeds with organized unpacking and setup. We arrange all assets according to your floor plan and instructions, making the transition seamless.</p>
+                                    <h3>4. GPS-Tracked Transportation</h3>
+                                    <p>Your assets move in GPS-equipped vehicles along pre-planned routes. You can check shipment status at any time—a feature hotel managers consistently tell us they appreciate.</p>
+                                </div>
+
+                                <div>
+                                    <h3>5. Installation and Guest-Ready Setup</h3>
+                                    <p>At the destination, furniture is placed per your floor plan, kitchen equipment is reconnected, and rooms are arranged to brand standards. We don’t leave until the property is operational.</p>
                                 </div>
 
                                 <div class="services__details-content-inner-two">
@@ -80,36 +85,35 @@
                                         <div class="col-lg-6 col-md-6">
                                             <div class="services__details-inner-img">
                                                 <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-loading-01.png"
-                                                    alt="Careful handling of hotel furniture during relocation"
-                                                    title="Professional Hotel Asset Moving">
+                                                    alt="Hotel furniture being carefully packed and organized for relocation"
+                                                    title="Hotel Furniture Packing">
                                             </div>
                                         </div>
                                         <div class="col-lg-6 col-md-6">
                                             <div class="services__details-inner-img">
                                                 <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-loading-02.png"
-                                                    alt="Setup of hotel equipment in new premises"
-                                                    title="Efficient Hospitality Setup">
+                                                    alt="Professional hotel equipment setup at new property location"
+                                                    title="Hotel Setup">
                                             </div>
                                         </div>
                                     </div>
                                 </div>
 
-                                <h2>Specialized Handling for Hospitality Assets</h2>
+                                <h2>What We Move</h2>
                                 <ul>
-                                    <li><strong>Fragile Item Care:</strong> Extra protection for glass fixtures, valuable artwork, and antiques.</li>
-                                    <li><strong>Commercial Kitchen Logistics:</strong> Safe transport of heavy-duty ovens, refrigeration units, and bar equipment.</li>
-                                    <li><strong>Electronic & AV Systems:</strong> Secure handling of hotel networking, TVs, and sound systems.</li>
-                                    <li><strong>FF&E Installation:</strong> Professional assembly and placement of room furniture and lobby fixtures.</li>
-                                    <li><strong>Eco-Friendly Packing:</strong> Use of sustainable materials to minimize environmental impact during the move.</li>
+                                    <li><strong>Guest Room Furniture:</strong> Beds, nightstands, wardrobes, desks, TVs, and seating.</li>
+                                    <li><strong>Lobby and Common Areas:</strong> Reception desks, lounge furniture, artwork, signage, and plant displays.</li>
+                                    <li><strong>Kitchen and F&B Equipment:</strong> Commercial ovens, refrigeration, food warmers, dishwashers, and serving counters.</li>
+                                    <li><strong>Back-of-House Items:</strong> Office furniture, linen stores, maintenance equipment, and operational supplies.</li>
+                                    <li><strong>Specialty Items:</strong> Spa equipment, gym gear, pool furniture, and outdoor fixtures.</li>
                                 </ul>
 
-                                <h2>Types of Establishments We Relocate</h2>
+                                <h2>Why Hotel Owners Choose Us</h2>
                                 <ul>
-                                    <li><strong>Luxury Hotels and Resorts:</strong> Comprehensive solutions for large-scale, high-end properties.</li>
-                                    <li><strong>Boutique Hotels:</strong> Personalized relocation services with extreme attention to detail.</li>
-                                    <li><strong>Budget and Business Hotels:</strong> Cost-effective and efficient moving solutions for commercial lodging.</li>
-                                    <li><strong>Serviced Apartments:</strong> Residential-style hospitality units moved with specialized care.</li>
-                                    <li><strong>Restaurants and Cafés:</strong> Moving specialized kitchen gear, furniture, and custom décor.</li>
+                                    <li><strong>Existing Hotel Clients:</strong> We’ve completed hotel moves for properties across India and understand the operational constraints of a live hospitality business.</li>
+                                    <li><strong>No Damage Track Record:</strong> Our FF&E move damage rate is under 0.5%—something we maintain by using proper materials and trained handlers for each asset category.</li>
+                                    <li><strong>Flexible Scheduling:</strong> We work overnight, in phases, or around your seasonal peaks—whatever timeline fits your property’s operating calendar.</li>
+                                    <li><strong>Full Liability Coverage:</strong> Every item is covered under our comprehensive transit policy for its declared replacement value.</li>
                                 </ul>
 
                                 <div class="services__details-benefit">
@@ -120,69 +124,68 @@
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                                        Q1: How much time is required for a complete hotel move?
+                                                        Q1: How long does a complete hotel relocation take?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>The timeline depends on the number of rooms and the distance to the new site. We provide a detailed schedule during the initial planning stage to ensure zero surprises.</p>
+                                                        <p>It depends on the property size and move distance. A 50-room hotel within the same city can often complete in 3-5 days. Larger properties or intercity moves typically run 7-14 days. We provide a detailed phase plan during the initial survey.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                        Q2: Can you relocate commercial-grade kitchen and bar equipment?
+                                                        Q2: Can you handle commercial kitchen equipment?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Yes, we have specialized teams equipped with heavy-duty handling gear to move commercial ovens, walk-in coolers, and bar setups safely.</p>
+                                                        <p>Yes. Our kitchen move teams are experienced with commercial-grade equipment—walk-in coolers, industrial ovens, combi steamers, and bar installations. These require specialized disconnection, crating, and reinstallation support.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                                        Q3: Do you provide insurance for hotel assets?
+                                                        Q3: How is our FF&E insured during the move?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Absolutely. We offer various comprehensive insurance options to cover your hotel's valuable properties throughout the transit and handling phases.</p>
+                                                        <p>Every item is covered under our comprehensive hospitality transit policy based on declared replacement values. We provide the coverage certificate before packing begins, and claims are processed directly through our team.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                                        Q4: Will you help in setting up the rooms at the new location?
+                                                        Q4: Can we relocate in phases while keeping the hotel partially open?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Yes, our service includes the unpacking and precise setup of furniture and fixtures in each room according to your floor plan and brand standards.</p>
+                                                        <p>Absolutely. Many hotel moves happen in phases—one floor at a time, or back-of-house first and guest floors later. We plan the phases with your operations team to minimize guest impact.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                                        Q5: How do you handle fragile hotel décor and artwork?
+                                                        Q5: Do you handle art, mirrors, and fragile décor items?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>We use customized crating and premium padding for all fragile items, ensuring artwork, mirrors, and glass fixtures are moved without a single scratch.</p>
+                                                        <p>Yes. Each fragile piece gets a custom crate or protective wrap depending on size and vulnerability. Artwork and mirrors are padded, custom-boxed, and loaded with glass-side protection to prevent any transit damage.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <h2>Conclusion</h2>
-                                <p>At <strong>Lucky Transporter</strong>, we bring more than a decade of expertise to every hospitality relocation project. Contact us today for a free quote and let our experts handle your hotel shifting with the professionalism it deserves!</p>
-                            </div>
+                                <h2>Let’s Plan Your Hotel Move</h2>
+                                <p>A hotel relocation is a complex logistics project, but it doesn’t have to disrupt your business. <strong>Lucky Transporter</strong> has the fleet, the team, and the hospitality experience to execute a move that gets your property back to full operation fast. Contact us for a site survey and detailed proposal.</p>
                         </div>
                         <div class="col-30">
                             <aside class="services__sidebar">

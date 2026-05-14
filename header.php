@@ -215,9 +215,6 @@ In your html page, add the snippet and call gtag_report_conversion when someone 
                     <a href="javascript:void(0);" class="get_a_free_quote" title="Get a Free Quote from Lucky Transporter">
                         <i class="fa-regular fa-paper-plane" aria-hidden="true"></i>Get Free Quote
                     </a>
-                    <a href="javascript:void(0);" class="make_payment_btn_pop" title="Make a Payment to Lucky Transporter">
-                        <i class="fa-regular fa-receipt" aria-hidden="true"></i>Make A Payment
-                    </a>
                 </div>
             </div>
         </div>
@@ -417,10 +414,10 @@ In your html page, add the snippet and call gtag_report_conversion when someone 
         </div>
     </div>
     <div style="text-align: center; font-size: 15px; color: #fff; line-height: 2.8rem;background-color: var(--tg-theme-primary);font-weight: 600;">
-        <i class="fas fa-handshake"></i>
-        <span style="font-weight: bold;">आपके भरोसे का साथी</span>,
-        <i class="fas fa-shoe-prints"></i>
-        <span style="font-weight: bold;">हर कदम पर !</span>
+        <i class="fas fa-truck"></i>
+        <span style="font-weight: bold;">सुरक्षित स्थानांतरण</span>,
+        <i class="fas fa-heart"></i>
+        <span style="font-weight: bold;">आपके भरोसे</span>
     </div>
 
 </header>

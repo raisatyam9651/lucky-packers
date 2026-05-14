@@ -39,45 +39,40 @@
                             </div>
 
                             <div class="services__details-content">
-                                <h1 class="title">Professional Home Shifting Services for a Smooth Transition</h1>
-                                <p>Moving to a different house is a significant milestone, filled with both excitement and challenges. At <strong>Lucky Transporter</strong>, we understand the emotional and physical demands of home shifting. Our mission is to take the burden off your shoulders, providing a seamless relocation experience for your family.</p>
-                                
-                                <p>With over a decade of experience in the relocation industry, we have successfully moved thousands of families across India. Our team of expert movers is trained to handle every detail of your move, ensuring your furniture, electronics, and personal belongings reach your new home safely and on time.</p>
+                                <h1 class="title">Home Shifting That Gets You Settled Faster, Not Just Relocated</h1>
+                                <p>Moving homes is one of those experiences that sounds manageable until you're three days in, surrounded by open boxes, trying to figure out which remote goes with which appliance. At <strong>Lucky Transporter</strong>, we've been through this with thousands of families, and we've learned that a good home shift isn't about doing things fast—it's about doing things in the right order so you land in your new home feeling organized instead of overwhelmed.</p>
 
-                                <h2>Key Features of Our Home Shifting Services</h2>
+                                <p>Our home shifting service covers everything from packing your kitchen to setting up your beds. You decide how much help you need—some clients want us to handle the entire move, others just need help with the heavy lifting. Either way, our teams show up on time, work efficiently, and leave your new place looking like a home, not a warehouse.</p>
+
+                                <h2>What Your Home Move Includes</h2>
                                 <ul>
-                                    <li><strong>Comprehensive Planning:</strong> We start by understanding your specific needs and creating a detailed plan to ensure a well-organized move.</li>
-                                    <li><strong>High-Quality Packaging:</strong> We use industrial-grade materials like bubble wrap, corrugated sheets, and sturdy cartons to protect your valuables.</li>
-                                    <li><strong>Timely Relocation:</strong> Our fleet of modern vehicles, equipped with GPS tracking, ensures that your goods arrive at your destination without delay.</li>
-                                    <li><strong>Setup Assistance:</strong> Our work doesn't end at delivery; we assist in unpacking and arranging your items to help you settle in faster.</li>
-                                    <li><strong>Transparent Pricing:</strong> We offer customized moving solutions with no hidden costs, providing you with peace of mind.</li>
+                                    <li><strong>Room-by-Room Packing:</strong> We pack each room separately, label every box, and keep related items together so unpacking makes sense rather than creating chaos.</li>
+                                    <li><strong>Specialized Handling:</strong> Fragile items, electronics, and large furniture each get their own approach—appropriate materials, padding, and loading techniques.</li>
+                                    <li><strong>GPS-Tracked Transport:</strong> Your belongings travel in GPS-equipped vehicles, and you can check the shipment status at any point during transit.</li>
+                                    <li><strong>Setup Help at Destination:</strong> We don't just drop boxes at your door. Our team helps place furniture, assemble beds, and remove packing materials before leaving.</li>
+                                    <li><strong>Clear, Upfront Pricing:</strong> The quote you get covers everything—labor, transport, packing materials, fuel, tolls. No additionals, no surprises.</li>
                                 </ul>
 
-                                <h2>Our Proven Home Shifting Process</h2>
-                                
+                                <h2>How the Move Works</h2>
+
                                 <div>
-                                    <h3>1. Pre-Move Survey and Planning</h3>
-                                    <p>We begin with a thorough assessment of your household items. A dedicated move coordinator will help arrange all the details and documentation required for a smooth transition.</p>
+                                    <h3>1. Survey and Planning</h3>
+                                    <p>Before moving day, we visit your home to assess the volume, note any delicate or high-value items, and understand access constraints like stairs, lift availability, or narrow streets. This walkthrough gives you an accurate quote and lets us plan crew size and vehicle requirements.</p>
                                 </div>
 
                                 <div>
-                                    <h3>2. Secure Packing</h3>
-                                    <p>Our team uses specialized packing techniques for glassware, electronics, and fragile items. Large furniture pieces are dismantled and wrapped with protective padding to prevent scratches.</p>
+                                    <h3>2. Packing Day</h3>
+                                    <p>Our team arrives with all necessary packing materials—boxes, bubble wrap, foam sheets, tape, and protective blankets. We pack systematically, starting with least-essential items first. Each box is labeled with the room it belongs to and a brief description of contents.</p>
                                 </div>
 
                                 <div>
-                                    <h3>3. Careful Loading</h3>
-                                    <p>Belongings are loaded onto our GPS-tracked trucks with extra care. We use inventory management systems to ensure every box is accounted for during transit.</p>
+                                    <h3>3. Loading and Transit</h3>
+                                    <p>Boxes and furniture are loaded carefully, with heaviest items positioned first and fragile pieces protected on top. Our drivers take pre-planned routes optimized for your move distance, avoiding known congestion areas where possible.</p>
                                 </div>
 
                                 <div>
-                                    <h3>4. Transportation and Tracking</h3>
-                                    <p>Our experienced drivers navigate the best routes to ensure timely delivery. You can track your shipment in real-time for added security and transparency.</p>
-                                </div>
-
-                                <div>
-                                    <h3>5. Unpacking and Arrangement</h3>
-                                    <p>Upon arrival, we assist with unpacking and setting up your essentials. We also take care of removing all packing waste to keep your new home neat and tidy.</p>
+                                    <h3>4. Delivery and Unpacking</h3>
+                                    <p>At your new home, we place boxes in designated rooms and assemble the basics—beds, dining table, major furniture. We then remove all packing waste so you're not living in cardboard for a week. You can request unpacking of specific rooms for an additional fee if needed.</p>
                                 </div>
 
                                 <div class="services__details-content-inner-two">
@@ -85,35 +80,35 @@
                                         <div class="col-lg-6 col-md-6">
                                             <div class="services__details-inner-img">
                                                 <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-packing-01.png"
-                                                    alt="Expert Home Packing Team"
-                                                    title="Secure Packing Process">
+                                                    alt="Professional packing team organizing household items room by room"
+                                                    title="Professional Packing">
                                             </div>
                                         </div>
                                         <div class="col-lg-6 col-md-6">
                                             <div class="services__details-inner-img">
                                                 <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-packing-02.png"
-                                                    alt="Safe delivery of household goods"
-                                                    title="Efficient Unloading and Setup">
+                                                    alt="Moving team delivering and arranging furniture in new home"
+                                                    title="Furniture Setup">
                                             </div>
                                         </div>
                                     </div>
                                 </div>
 
-                                <h2>Specialized Packing for Your Valuables</h2>
+                                <h2>Items That Need Extra Attention</h2>
                                 <ul>
-                                    <li><strong>Fragile Items:</strong> Glassware and antiques are wrapped in multi-layered protective materials.</li>
-                                    <li><strong>Large Furniture:</strong> Sofas, beds, and wardrobes are disassembled and padded for safe transport.</li>
-                                    <li><strong>Electronics:</strong> TVs, computers, and appliances are packed in shockproof materials.</li>
-                                    <li><strong>Priority Items:</strong> Clothes and books are packed systematically for easy access after the move.</li>
+                                    <li><strong>Kitchen Items:</strong> Glassware, ceramics, and appliances are wrapped individually and packed with ample cushioning.</li>
+                                    <li><strong>Electronics:</strong> TVs, computers, and gaming consoles travel in shock-absorbent packaging designed for road movement.</li>
+                                    <li><strong>Large Furniture:</strong> Wardrobes, beds, and modular furniture are disassembled, padded, and protected for the journey.</li>
+                                    <li><strong>Musical Instruments:</strong> Guitars, keyboards, and similar items get custom-fitted packaging to prevent movement during transit.</li>
                                 </ul>
 
-                                <h2>Why We Are the Best Choice for Your Home Move</h2>
-                                <ol>
-                                    <li><strong>Pan-India Coverage:</strong> We provide reliable shifting services in all major Indian cities.</li>
-                                    <li><strong>11+ Years of Expertise:</strong> Our experience allows us to handle moves of any scale with precision.</li>
-                                    <li><strong>Customer-Centric Approach:</strong> We prioritize your satisfaction and the safety of your belongings above all else.</li>
-                                    <li><strong>Modern Infrastructure:</strong> Our reliable fleet and advanced tools ensure the highest level of security.</li>
-                                </ol>
+                                <h2>Why Families Choose Us</h2>
+                                <ul>
+                                    <li><strong>No Hidden Charges:</strong> The quote you receive is the final amount. We don't add fuel surcharges, stair fees, or handling charges after the fact.</li>
+                                    <li><strong>Trained, Background-Checked Staff:</strong> Every team member is verified and trained in proper lifting and packing techniques before they're sent to your home.</li>
+                                    <li><strong>Damage-Free Track Record:</strong> Over 99% of our home moves arrive with zero reported damage. When issues do occur, we resolve them directly.</li>
+                                    <li><strong>Flexible Scheduling:</strong> We work around your availability, including weekends and short-notice moves when our fleet has capacity.</li>
+                                </ul>
 
                                 <div class="services__details-benefit">
                                     <h2>Frequently Asked Questions</h2>
@@ -123,69 +118,68 @@
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                                        Q1: How long does the home shifting process take?
+                                                        Q1: How long does a home shift take?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>The time required depends on the volume of goods and the distance. Local moves usually take 1-2 days, while long-distance moves depend on the transit route.</p>
+                                                        <p>Local moves within the same city typically complete in a single day—packing in the morning, delivery by evening. Intercity moves take 2-7 days depending on distance and road conditions.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                        Q2: Do you provide insurance for my household goods?
+                                                        Q2: Is my household stuff insured?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Yes, we offer comprehensive transit insurance to cover any unforeseen damages during the shifting process, ensuring complete peace of mind.</p>
+                                                        <p>Yes. We offer transit insurance coverage based on declared item values. The premium is a small percentage of the total declared value and covers damage during loading, transit, and unloading.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                                        Q3: How do you safeguard fragile items?
+                                                        Q3: How do you protect fragile items?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>We use high-quality foam padding, bubble wrap, and extra-thick cartons for all fragile items to ensure they stay secure throughout the move.</p>
+                                                        <p>Each fragile item is wrapped in multiple layers—bubble wrap first, then foam, then placed in a double-walled box with cushioning material on all sides. Plates are packed vertically rather than stacked flat to prevent pressure cracks.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                                        Q4: Can I customize the shifting services I need?
+                                                        Q4: Can I pack some things myself?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Absolutely! We offer flexible and customizable moving packages tailored to your specific requirements and budget.</p>
+                                                        <p>Yes, though we recommend letting us pack at least the fragile and high-value items. Self-packed boxes are covered at a reduced rate under our insurance. If you're packing yourself, ask us for free box-taping tips to ensure boxes are travel-ready.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                                        Q5: Can I change my moving date?
+                                                        Q5: Can I reschedule my move?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Yes, you can reschedule your move by contacting our support team at least 48 hours in advance to check for availability.</p>
+                                                        <p>Absolutely. Just give us at least 48 hours notice and we'll move your booking to a new date, subject to availability. For urgent changes with less notice, call us directly—we'll do our best to accommodate.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <h2>Conclusion</h2>
-                                <p>Relocating to a new home should be a joyful experience. At <strong>Lucky Transporter</strong>, we treat your move like an art, ensuring every piece reaches its destination perfectly. Contact us today for a free estimate and let us handle the heavy lifting!</p>
-                            </div>
+                                <h2>Ready to Plan Your Move?</h2>
+                                <p>A home shift doesn't have to be stressful. With the right team, it can be a well-organized day that ends with you unpacking in your new living room instead of stressed out in a pile of bubble wrap. Contact <strong>Lucky Transporter</strong> for a free home survey and quote—most estimates are provided within 2 hours.</p>
                         </div>
                         <div class="col-30">
                             <aside class="services__sidebar">

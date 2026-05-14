@@ -39,76 +39,93 @@
                             </div>
 
                             <div class="services__details-content">
-                                <h1 class="title">Professional Car and Bike Transportation Services for Safe Vehicle Shifting</h1>
-                                <p>Every vehicle, be it a car or a bike, is a prized possession and a significant investment. At <strong>Lucky Transporter</strong>, we treat your vehicle with the expert care it deserves. We are a registered company specializing in the safe transfer of cars and bikes across India, ensuring that your vehicle reaches its destination in a timely and secure manner.</p>
-                                
-                                <p>With over 11 years of experience in the relocation industry, we have developed a reputation for reliability and excellence in vehicle logistics. Our team uses specialized equipment and proven techniques to handle vehicles of all types, from standard hatchbacks to premium sports bikes and luxury sedans.</p>
+                                <h1 class="title">Reliable Car & Bike Transportation Services Across India</h1>
+                                <p>Moving your vehicle to a new city or state shouldn't be stressful. At <strong>Lucky Transporter</strong>, we specialize in safe, efficient, and cost-effective car and bike transportation services that you can trust. Whether you're relocating for work, moving to a new home, or purchasing a vehicle from another city, our expert team ensures your vehicle reaches its destination securely and on time.</p>
 
-                                <h2>Why Trust Our Vehicle Transportation Services?</h2>
+                                <p>We understand that your car or bike is more than just a vehicle — it's your freedom, your investment, and often your passion. That's why we go above and beyond to provide transportation solutions that give you complete peace of mind. From compact bikes to luxury sedans, we have the expertise and equipment to handle every type of two-wheeler and four-wheeler with the care it deserves.</p>
+
+                                <h2>Our Vehicle Transport Solutions</h2>
                                 <ul>
-                                    <li><strong>Advanced Safety Infrastructure:</strong> We possess the required specialized carriers and advanced safety devices to lift, secure, and transport vehicles with maximum protection.</li>
-                                    <li><strong>Specialized Vehicle Carriers:</strong> We use enclosed carriers and custom covers for bikes and cars to protect them from road debris, weather, and unauthorized intervention.</li>
-                                    <li><strong>Nationwide Reach:</strong> Whether you are moving to a neighboring city or relocating to a different state, our network ensures a smooth and barrier-free vehicle transfer.</li>
-                                    <li><strong>Guaranteed Timely Delivery:</strong> We prioritize punctuality, ensuring that your vehicle is delivered at the expected time without unnecessary delays.</li>
-                                    <li><strong>Comprehensive Insurance and Competitive Rates:</strong> We offer affordable transportation packages along with comprehensive insurance options for total peace of mind.</li>
+                                    <li><strong>Open Carrier Transport:</strong> Ideal for budget-conscious customers, our open carriers safely transport standard vehicles across short to medium distances.</li>
+                                    <li><strong>Enclosed Carrier Service:</strong> Premium protection for luxury cars, sports bikes, vintage vehicles, and high-value automobiles with complete shield from weather and road debris.</li>
+                                    <li><strong>Door-to-Door Delivery:</strong> We pick up your vehicle from your location and deliver it directly to your doorstep, eliminating the hassle of drop-off points.</li>
+                                    <li><strong>Multi-Vehicle Transport:</strong> Move multiple vehicles together at discounted rates — perfect for families, corporate relocations, or car dealership transfers.</li>
+                                    <li><strong>Emergency Transport:</strong> When you need your vehicle ASAP, our expedited service ensures the fastest possible delivery without compromising safety.</li>
                                 </ul>
 
-                                <h2>Our Comprehensive Vehicle Transport Process</h2>
-                                
-                                <div>
-                                    <h3>1. Pre-Transport Condition Report</h3>
-                                    <p>Before loading, we conduct a thorough inspection of your vehicle and document its current condition with photographic evidence. This ensures full transparency and accountability.</p>
-                                </div>
-
-                                <div>
-                                    <h3>2. Professional Loading and Securing</h3>
-                                    <p>Using specialized ramps and hydraulic lifts, we load your vehicle into our carriers. Every vehicle is securely lashed and padded to prevent any movement during transit.</p>
-                                </div>
-
-                                <div>
-                                    <h3>3. Enclosed Carriage and GPS Tracking</h3>
-                                    <p>Your vehicle is transported in enclosed, GPS-monitored containers. This allows you to track the progress of your shipment in real-time throughout the journey.</p>
-                                </div>
-
-                                <div>
-                                    <h3>4. Safe Offloading and Final Inspection</h3>
-                                    <p>Upon arrival, we take extreme care during offloading to protect the vehicle's paint and components. A final inspection is conducted to ensure the vehicle is delivered in the same condition as received.</p>
-                                </div>
+                                <h2>Why Choose Lucky Transporter for Your Vehicle Shifting?</h2>
 
                                 <div class="services__details-content-inner-two">
                                     <div class="row gutter-24">
                                         <div class="col-lg-6 col-md-6">
                                             <div class="services__details-inner-img">
                                                 <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-transport-01.png"
-                                                    alt="Secure loading of a luxury car into carrier"
-                                                    title="Professional Car Shifting">
+                                                    alt="Secure car loading into enclosed carrier"
+                                                    title="Professional Car Loading">
                                             </div>
                                         </div>
                                         <div class="col-lg-6 col-md-6">
                                             <div class="services__details-inner-img">
                                                 <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-transport-02.png"
-                                                    alt="Safety-first bike transportation in enclosed container"
-                                                    title="Reliable Bike Transportation">
+                                                    alt="Bike secured in specialized two-wheeler carrier"
+                                                    title="Safe Bike Transportation">
                                             </div>
                                         </div>
                                     </div>
                                 </div>
 
-                                <h2>Vehicles We Expertly Handle</h2>
                                 <ul>
-                                    <li><strong>Car Shifting:</strong> Sedans, hatchbacks, SUVs, luxury cars, electric vehicles, and 4x4s.</li>
-                                    <li><strong>Two-Wheeler Transport:</strong> Motorbikes, scooters, sports bikes, and premium cruisers.</li>
-                                    <li><strong>Specialized Vehicles:</strong> Classic cars, vintage bikes, and custom-designed automobiles.</li>
-                                    <li><strong>Corporate Vehicle Fleets:</strong> Efficient transportation solutions for company cars and motorcycles.</li>
+                                    <li><strong>11+ Years of Industry Experience:</strong> Our extensive track record speaks for itself — we've successfully transported thousands of vehicles across India without a single incident.</li>
+                                    <li><strong>Licensed and Insured Operations:</strong> We are a fully registered company with comprehensive insurance coverage, protecting your vehicle against any unforeseen circumstances during transit.</li>
+                                    <li><strong>Advanced GPS Tracking:</strong> Monitor your vehicle in real-time with our state-of-the-art tracking system. Know exactly where your car or bike is at any moment.</li>
+                                    <li><strong>Trained Vehicle Handlers:</strong> Our team consists of trained professionals who understand the nuances of loading, securing, and unloading different types of vehicles.</li>
+                                    <li><strong>Transparent Pricing:</strong> No hidden charges, no surprises. We provide clear, upfront pricing with detailed breakdowns so you know exactly what you're paying for.</li>
+                                    <li><strong>Nationwide Network:</strong> With partners and agents across India, we ensure seamless transportation whether you're moving within a city or across state borders.</li>
                                 </ul>
 
-                                <h2>How to Prepare Your Vehicle for Shifting</h2>
+                                <h2>Our Streamlined Vehicle Transport Process</h2>
+
+                                <div>
+                                    <h3>1. Free Quote and Booking</h3>
+                                    <p>Contact us for a free, no-obligation quote. Share your vehicle details, pickup location, and destination, and we'll provide you with competitive pricing tailored to your requirements.</p>
+                                </div>
+
+                                <div>
+                                    <h3>2. Vehicle Inspection and Documentation</h3>
+                                    <p>Our team conducts a thorough pre-transport inspection, documenting your vehicle's condition with photos and detailed notes. This protects both you and us, ensuring complete transparency.</p>
+                                </div>
+
+                                <div>
+                                    <h3>3. Safe Loading and Securement</h3>
+                                    <p>Using hydraulic lifts, specialized ramps, and soft-wheel straps, we carefully load your vehicle onto our carrier. Every vehicle is secured with multiple lashing points to prevent any movement.</p>
+                                </div>
+
+                                <div>
+                                    <h3>4. In-Transit Monitoring</h3>
+                                    <p>Once on the road, your vehicle is monitored via GPS tracking. You can check the progress anytime through our tracking system or by contacting our customer support team.</p>
+                                </div>
+
+                                <div>
+                                    <h3>5. Careful Offloading and Final Handover</h3>
+                                    <p>Upon arrival, we carefully unload your vehicle using the same specialized equipment. A final inspection confirms your vehicle's condition matches the original documentation before handover.</p>
+                                </div>
+
+                                <h2>Vehicles We Transport</h2>
+                                <ul>
+                                    <li><strong>Cars:</strong> Hatchbacks, sedans, SUVs, MPVs, luxury cars, electric vehicles, hybrid cars, and custom-modified vehicles.</li>
+                                    <li><strong>Two-Wheelers:</strong> Motorcycles, scooters, sport bikes, touring bikes, cruiser bikes, and electric bikes.</li>
+                                    <li><strong>Specialty Vehicles:</strong> Vintage cars, classic motorcycles, racing vehicles, showroom cars, and prototype vehicles.</li>
+                                    <li><strong>Commercial Vehicles:</strong> Company fleet cars, delivery vans, and commercial motorcycles.</li>
+                                </ul>
+
+                                <h2>Tips to Prepare Your Vehicle for Transport</h2>
                                 <ol>
-                                    <li><strong>Clean Your Vehicle:</strong> A clean car or bike makes it easier to conduct an accurate condition report.</li>
-                                    <li><strong>Remove Personal Items:</strong> Clear out all personal belongings and loose accessories to prevent loss or damage.</li>
-                                    <li><strong>Check for Leaks:</strong> Ensure there are no active fluid leaks before the vehicle is loaded into the carrier.</li>
-                                    <li><strong>Maintain Low Fuel Level:</strong> Keep about a quarter-tank of fuel to reduce weight and ensure safety during transit.</li>
-                                    <li><strong>Deactivate Alarms:</strong> Disable all alarm systems to avoid battery drain or disruption during the journey.</li>
+                                    <li><strong>Document Current Condition:</strong> Take photographs of your vehicle from all angles before handing it over for transport.</li>
+                                    <li><strong>Remove Personal Belongings:</strong> Clear out all items from the car or bike — personal belongings aren't covered under our transport insurance.</li>
+                                    <li><strong>Check Fluid Levels:</strong> Ensure there are no active leaks and maintain minimal fuel (about a quarter tank is ideal).</li>
+                                    <li><strong>Disable Alarm Systems:</strong> Turn off car alarms and remove any toll tags or parking passes that could fall during transit.</li>
+                                    <li><strong>Secure Loose Parts:</strong> Remove or secure any aftermarket accessories, spoilers, or detachable parts that could be damaged.</li>
+                                    <li><strong>Leave a Spare Key:</strong> Provide a spare key to our team for loading and unloading purposes.</li>
                                 </ol>
 
                                 <div class="services__details-benefit">
@@ -124,63 +141,75 @@
                                                 </h2>
                                                 <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Transportation time depends on the distance and route. Local transfers take 1-2 days, while interstate shipments typically take 4-7 days.</p>
+                                                        <p>Transit times vary based on distance and route. Local and intercity transport typically takes 1-3 days, while long-distance interstate moves take 5-10 days. We'll provide you with an estimated delivery timeline when you book.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                        Q2: Is insurance provided for my vehicle during transit?
+                                                        Q2: Is my vehicle insured during transport?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Yes, we offer comprehensive transit insurance coverage to protect your vehicle against any accidental damage or loss during the move.</p>
+                                                        <p>Yes, every vehicle we transport is covered by comprehensive transit insurance. This protects against any damage that may occur during loading, transit, or unloading. Insurance details are provided in your service agreement.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                                        Q3: Can I track my vehicle's location during transportation?
+                                                        Q3: Can I track my vehicle during transit?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Yes! All our vehicle carriers are equipped with GPS tracking systems, providing you with real-time updates on your vehicle's progress.</p>
+                                                        <p>Absolutely! All our carriers are equipped with GPS tracking systems. You can monitor your vehicle's location in real-time through our tracking portal or by calling our customer support team for updates.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                                        Q4: Do you offer door-to-door pickup and delivery?
+                                                        Q4: What's the difference between open and enclosed transport?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Yes, we provide convenient door-to-door services, picking up your vehicle from your current location and delivering it to your new doorstep.</p>
+                                                        <p>Open transport uses an open-air carrier and is more affordable — ideal for standard vehicles. Enclosed transport provides full protection from weather, dust, and road debris — recommended for luxury, vintage, or high-value vehicles. Both methods are equally safe when handled by our team.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                                        Q5: Can you transport high-end luxury or classic cars?
+                                                        Q5: How much does car and bike transportation cost?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Absolutely. We have specialized single-vehicle carriers designed specifically for the high-security transport of luxury, vintage, and sports cars.</p>
+                                                        <p>Costs depend on vehicle type, transport method, distance, and pickup/delivery locations. Contact us for a free, personalized quote. We offer competitive pricing with no hidden charges — what we quote is what you pay.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="accordion-item">
+                                                <h2 class="accordion-header">
+                                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                                                        Q6: Can you transport modified or customized vehicles?
+                                                    </button>
+                                                </h2>
+                                                <div id="collapseSix" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                                    <div class="accordion-body">
+                                                        <p>Yes, we have experience transporting modified, customized, and aftermarket vehicles. Please inform us about any modifications, lowered suspensions, or special requirements when requesting a quote so we can arrange appropriate equipment.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <h2>Conclusion</h2>
-                                <p>Don't leave the safety of your vehicle to chance. At <strong>Lucky Transporter</strong>, we guarantee the easiest and most secure vehicle transport experience. Call us today for a free consultation and get the best auto transport service in the country!</p>
+                                <h2>Get Started Today</h2>
+                                <p>Ready to transport your car or bike safely? Trust the experts at <strong>Lucky Transporter</strong> for reliable, insured, and hassle-free vehicle transportation. Contact us now for a free quote or to learn more about our services. Your vehicle's journey starts with a single call!</p>
                             </div>
                         </div>
                         <div class="col-30">

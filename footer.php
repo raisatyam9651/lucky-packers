@@ -101,7 +101,6 @@
                 </div>
                 <div class="col-md-6">
                     <div class="footer__social" style="text-align: right;">
-                        <p class="text-white">Designed and Developed with ❤️ by &nbsp;<a href="http://gocube.in" target="_blank">GoCube Solution India</a> 💻</p>
                     </div>
                 </div>
             </div>
@@ -139,7 +138,7 @@
     </a>
 
     <!-- WhatsApp Button -->
-    <a class="botbtn" href="https://api.whatsapp.com/send?phone=+918003966646&amp;text=I%20am%20Looking%20for%20Packers%20and%20Movers%20with%20LC%20Packers%20and%20Movers%20PVT.%20LTD."
+    <a class="botbtn" href="https://api.whatsapp.com/send?phone=+918003966646&amp;text=I%20am%20Looking%20for%20Packers%20and%20Movers%20with%20Lucky%20Transporter%20and%20Movers%20PVT.%20LTD."
         target="_blank" onclick="gtag_report_conversion_whatsapp_button();" title="Chat with Lucky Transporter on WhatsApp">
         <i class="fa-brands fa-whatsapp"></i>
         <br><span>WHATSAPP</span>
@@ -152,7 +151,7 @@
     </a>
 
     <!-- SMS Button -->
-    <a class="botbtn" href="sms:+91 8003966646?body=I%20am%20Looking%20for%20Packers%20and%20Movers%20with%20LC%20Packers%20and%20Movers%20PVT.%20LTD."
+    <a class="botbtn" href="sms:+91 8003966646?body=I%20am%20Looking%20for%20Packers%20and%20Movers%20with%20Lucky%20Transporter%20and%20Movers%20PVT.%20LTD."
         title="Send a Text Message to Lucky Transporter">
         <i class="fa-regular fa-comment-sms"></i>
         <br><span>MESSAGE</span>

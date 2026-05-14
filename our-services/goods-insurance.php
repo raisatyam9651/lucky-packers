@@ -39,47 +39,47 @@
                             </div>
 
                             <div class="services__details-content">
-                                <h1 class="title">Comprehensive Goods Insurance Services for Total Peace of Mind</h1>
-                                <p>Relocating your life or business is a major transition, and we understand the natural anxiety that comes with handing over your valued possessions to a relocation partner. At <strong>Lucky Transporter</strong>, we prioritize the safety of your belongings above all else. To provide an extra layer of security, we offer comprehensive <strong>Goods Insurance Services</strong> that protect your items against any unforeseen events during transit or storage.</p>
-                                
-                                <p>With over 11 years of experience in the relocation industry, we follow the highest standards of packing and transportation. However, factors beyond our control—such as natural disasters or accidents—can occur. Our tailored insurance policies ensure that in the unlikely event of any loss or damage, you are fully compensated, allowing you to settle into your new space without any financial or emotional stress.</p>
+                                <h1 class="title">Goods Insurance That Actually Protects What Matters to You</h1>
+                                <p>Your belongings represent years of purchases, memories, and hard work. When you trust a moving company with them, you deserve more than just promises—you deserve a safety net. At <strong>Lucky Transporter</strong>, our goods insurance isn't a marketing add-on or an afterthought. It's a real financial protection mechanism that kicks in when things go wrong, and we want you to understand exactly what you're getting before you sign anything.</p>
 
-                                <h2>Why Goods Insurance is a Vital Necessity for Your Move</h2>
+                                <p>We handle hundreds of moves every year. Most arrive without a scratch. But on the rare occasions when something is damaged or lost—perhaps an accident on the highway or a warehouse incident—the difference between having coverage and not having it is enormous. Our insurance team works directly with you to set up the right policy before your move begins, so there are no surprises when it's time to settle a claim.</p>
+
+                                <h2>Why Most People Don't Think About Insurance Until They Need It</h2>
                                 <ul>
-                                    <li><strong>Financial Protection Against Damage:</strong> Accidents can happen despite the best precautions. Our insurance covers all physical damages that may occur during the moving process, ensuring your financial investment is protected.</li>
-                                    <li><strong>Stress-Free Relocation Experience:</strong> Knowing that your valuables—from expensive electronics to heirloom furniture—are legally protected allows you to focus on the more important aspects of your move.</li>
-                                    <li><strong>Reimbursement for Theft or Loss:</strong> In the rare event of theft or misplaced items, especially during long-distance or international moves, our insurance provides full reimbursement based on the declared market value.</li>
-                                    <li><strong>Mandatory for International Moves:</strong> For cross-border relocations, insurance is often a standard requirement. Our policies meet international standards, eliminating a significant layer of risk during complex global transitions.</li>
+                                    <li><strong>Accidents Are Unpredictable:</strong> Even with the best packing, road conditions, weather, and human error can cause damage during transit. Insurance turns an expensive problem into a manageable one.</li>
+                                    <li><strong>The Cost of Replacement Is Real:</strong> A single damaged antique wardrobe or a dropped television can cost thousands to replace. Our coverage ensures you're not paying out of pocket for things that were in someone else's care.</li>
+                                    <li><strong>International Moves Carry Extra Risk:</strong> More handling, longer transit, multiple carriers—cross-border relocations introduce variables that make insurance not just useful but practically essential.</li>
+                                    <li><strong>Peace of Mind Has Real Value:</strong> Knowing your belongings are covered lets you focus on settling into your new space rather than worrying about what might go wrong.</li>
                                 </ul>
 
-                                <h2>Types of Goods Insurance We Offer</h2>
+                                <h2>Insurance Plans We Offer</h2>
                                 <ul>
-                                    <li><strong>Transit Insurance:</strong> Covers physical loss or damage to your goods while they are being transported from your origin to the final destination.</li>
-                                    <li><strong>Marine Insurance:</strong> Specialized coverage for international shipments moving via sea, protecting against unique risks such as water damage or vessel incidents.</li>
-                                    <li><strong>Comprehensive 'All-Risk' Insurance:</strong> Our most thorough plan, covering everything from accidental drops and collisions to natural disasters for high-value or fragile items.</li>
-                                    <li><strong>Warehouse & Storage Insurance:</strong> Protects your goods while they are stored in our secure warehouses, covering risks like fire, theft, or environmental damage.</li>
+                                    <li><strong>Transit Insurance:</strong> Covers loss or damage to your goods from the moment they leave your doorstep until they arrive at your destination. Ideal for intercity and interstate moves within India.</li>
+                                    <li><strong>Storage Insurance:</strong> Protects items held in our warehouses against fire, theft, water damage, and structural issues. Perfect if you need temporary storage during a move.</li>
+                                    <li><strong>Marine Insurance:</strong> Required for international sea shipments, this covers goods against maritime risks including rough seas, vessel incidents, and loading damage.</li>
+                                    <li><strong>All-Risk Comprehensive Cover:</strong> Our most complete plan—covers accidental damage, handling errors, natural disasters, and nearly every scenario except a short list of clearly stated exclusions.</li>
                                 </ul>
 
-                                <h2>Our Seamless Insurance Implementation Process</h2>
-                                
+                                <h2>How It Works</h2>
+
                                 <div>
-                                    <h3>1. Detailed Item Inventory & Valuation</h3>
-                                    <p>Our experts assist you in creating a comprehensive list of all items to be moved, noting their descriptions and current market values to ensure accurate coverage.</p>
+                                    <h3>1. Item Declaration and Valuation</h3>
+                                    <p>Before packing begins, you declare the items you're moving and their estimated current market value. We help you through this process—you'd be surprised how quickly a room-by-room walkthrough adds up.</p>
                                 </div>
 
                                 <div>
-                                    <h3>2. Tailored Policy Selection</h3>
-                                    <p>Based on your specific needs—whether it's a local home shift or an international corporate move—we help you select the policy that provides the best balance of protection and value.</p>
+                                    <h3>2. Choose Your Coverage Level</h3>
+                                    <p>Based on your declaration and move type, we present you with coverage options. You choose the level that matches your risk comfort and budget. No pressure, no upsells—just clear explanations of what each option covers.</p>
                                 </div>
 
                                 <div>
-                                    <h3>3. Transparent Documentation</h3>
-                                    <p>We provide clear, understandable terms and conditions. All clauses, exclusions, and the exact process for filing a claim are documented upfront, ensuring absolute transparency.</p>
+                                    <h3>3. Documentation Before Packing</h3>
+                                    <p>We photograph and inventory high-value items before packing. This documentation is your claim evidence if you ever need to file one—no debates about condition or contents.</p>
                                 </div>
 
                                 <div>
-                                    <h3>4. Expert Packing & Loading Compliance</h3>
-                                    <p>To maintain insurance validity, our professional team ensures all items are packed according to industry standards, minimizing the potential for damage and ensuring a smooth claim process if needed.</p>
+                                    <h3>4. Claims Processing</h3>
+                                    <p>If something is damaged, you report it during delivery. Our team documents the issue, and our insurance partner assesses it directly. We handle the paperwork—you just describe what happened.</p>
                                 </div>
 
                                 <div class="services__details-content-inner-two">
@@ -87,35 +87,32 @@
                                         <div class="col-lg-6 col-md-6">
                                             <div class="services__details-inner-img">
                                                 <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-packing-01.png"
-                                                    alt="Professional inventory being taken for insurance purposes"
-                                                    title="Detailed Item Assessment">
+                                                    alt="Item inspection and inventory documentation process"
+                                                    title="Item Documentation">
                                             </div>
                                         </div>
                                         <div class="col-lg-6 col-md-6">
                                             <div class="services__details-inner-img">
                                                 <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-packing-02.png"
-                                                    alt="Securely packed and labeled goods ready for transit"
-                                                    title="Insurance-Compliant Packing">
+                                                    alt="Professional packing that meets insurance compliance standards"
+                                                    title="Compliant Packing">
                                             </div>
                                         </div>
                                     </div>
                                 </div>
 
-                                <h2>What Items Can You Insure with Us?</h2>
+                                <h2>What's Covered and What Isn't</h2>
                                 <ul>
-                                    <li><strong>Household Goods:</strong> Furniture, home appliances, kitchenware, and general household items.</li>
-                                    <li><strong>Valuables & Heirlooms:</strong> Jewelry sets, antique dishes, fine art pieces, and precious collectibles.</li>
-                                    <li><strong>High-End Electronics:</strong> Computers, home theater systems, professional-grade printers, and smart appliances.</li>
-                                    <li><strong>Automobiles:</strong> Cars, motorcycles, and luxury vehicles being transported over long distances.</li>
-                                    <li><strong>Fragile Items:</strong> Mirrors, glass furniture, delicate musical instruments, and laboratory equipment.</li>
+                                    <li><strong>Covered:</strong> Physical damage during transit, theft during moving, water or fire damage in storage, total loss of a shipment.</li>
+                                    <li><strong>Not Covered:</strong> Cash and securities, perishable goods, plants, motor vehicles in some policies, and items you packed yourself (unless disclosed and agreed upon).</li>
                                 </ul>
 
-                                <h2>Key Benefits of Choosing Lucky Transporter</h2>
+                                <h2>Why Clients Choose Our Insurance</h2>
                                 <ul>
-                                    <li><strong>Cost-Effective Premiums:</strong> We offer attractive pricing policies tailored to your specific shipment volume and destination.</li>
-                                    <li><strong>Worldwide & Pan-India Coverage:</strong> Our insurance protects your goods across all major Indian cities and international destinations.</li>
-                                    <li><strong>Rapid Claim Processing:</strong> In the event of an incident, our dedicated team handles your claim with speed and professionalism to minimize your inconvenience.</li>
-                                    <li><strong>Transparent Clauses:</strong> We believe in honesty, with no hidden costs and clearly stated policy inclusions and exclusions.</li>
+                                    <li><strong>Direct Claims Support:</strong> You don't file claims through a generic 1-800 number. Our team guides you through the process from start to finish.</li>
+                                    <li><strong>Transparent Terms:</strong> Every policy document uses plain language. We show you the exclusions and limits upfront, not after a loss.</li>
+                                    <li><strong>Competitive Pricing:</strong> Premiums are calculated on declared value and move distance—affordable for household moves and scalable for corporate relocations.</li>
+                                    <li><strong>Proven Track Record:</strong> We've processed hundreds of successful claims over 11 years, settling most within weeks of documentation.</li>
                                 </ul>
 
                                 <div class="services__details-benefit">
@@ -131,19 +128,19 @@
                                                 </h2>
                                                 <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>The premium is primarily determined by the total declared market value of the goods being moved, along with factors like the distance of travel and the level of coverage selected.</p>
+                                                        <p>Premiums are based on the total declared value of your goods, the distance of the move, and the type of coverage you select. For a typical 3-bedroom home moving across India, premiums generally fall between 0.3% and 1% of the declared value.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                        Q2: What happens if an item is damaged during the move?
+                                                        Q2: What if an item is damaged during the move?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>If you notice any damage, you should contact our team immediately. We will help you document the incident and provide the necessary supporting paperwork to initiate a rapid insurance claim.</p>
+                                                        <p>Report visible damage at the time of delivery before the team leaves. For concealed damage discovered later, notify us within 24 hours. We document everything and connect you with our insurance adjuster who assesses the damage and processes your payout based on the policy terms.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -155,40 +152,39 @@
                                                 </h2>
                                                 <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Typically, items like cash, perishable foods, personal identification documents, and certain prohibited hazardous materials are excluded from standard transit insurance policies.</p>
+                                                        <p>Yes. Standard exclusions include cash, jewelry above certain values (which needs separate declared coverage), perishable food items, live plants, and hazardous materials. We provide a full list during the declaration process.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                                        Q4: Does insurance cover items packed by the owner?
+                                                        Q4: Does insurance cover items I packed myself?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Most insurance policies require goods to be packed by professional movers to ensure validity. Items packed by the owner may have limited coverage depending on the specific policy terms.</p>
+                                                        <p>Self-packed items are typically covered at a lower rate or may have limited coverage, because we can't verify packing quality. For full coverage, let our team handle the packing—it's one of the reasons professional packing matters beyond just protection.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                                        Q5: Is insurance mandatory for local moves?
+                                                        Q5: Is insurance mandatory?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>While not legally mandatory for all local moves, we highly recommend it for any relocation involving valuable assets to minimize financial risks from unexpected accidents.</p>
+                                                        <p>For domestic moves, it's not legally required—but we strongly recommend it for any move involving items of significant value. For international moves, many countries and carriers require minimum coverage. We help you meet those requirements without overpaying.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <h2>Conclusion</h2>
-                                <p>Don't leave the safety of your valuables to chance. At <strong>Lucky Transporter</strong>, we provide the protection you need for a truly worry-free relocation. Contact us today for a free, no-obligation quote and let us take the risk out of your next move!</p>
-                            </div>
+                                <h2>Get Covered Before Your Move</h2>
+                                <p>Insurance only works if it's in place before something goes wrong. Once your goods are on the truck, it's too late to add coverage. Contact <strong>Lucky Transporter</strong> to discuss your upcoming move and we'll walk you through your coverage options—no pressure, just straightforward advice on what protects your belongings.</p>
                         </div>
                         <div class="col-30">
                             <aside class="services__sidebar">

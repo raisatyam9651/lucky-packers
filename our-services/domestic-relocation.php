@@ -39,40 +39,45 @@
                             </div>
 
                             <div class="services__details-content">
-                                <h1 class="title">Reliable Domestic Relocation Services for Nationwide Moves</h1>
-                                <p>Moving across the country presents unique challenges, but with <strong>Lucky Transporter</strong>, a nationwide move is characterized by order, ease, and efficiency. Whether you are relocating your home or office to a different state or city, we have over 11 years of experience in handling complex domestic relocations with precision.</p>
-                                
-                                <p>Our extensive network across India allows us to provide seamless moving services from one corner of the country to another. You can sit back and relax, knowing that our dedicated team will deliver your goods safely, securely, and in an intact state, regardless of the distance.</p>
+                                <h1 class="title">Seamless Domestic Relocation Services Across India</h1>
+                                <p>Planning a move within India? <strong>Lucky Transporter</strong> offers end-to-end domestic relocation services designed to take the stress out of your move. Whether you're shifting to a new city for work, relocating your family, or moving your business operations to a different state, our dedicated team ensures your belongings reach safely and on time.</p>
 
-                                <h2>Why Choose Lucky Transporter for Domestic Relocation?</h2>
+                                <p>With over a decade of experience in the relocation industry, we have built a strong pan-India network that enables us to handle moves of any scale. From single-room apartments to full household relocations, our systematic approach guarantees a smooth transition to your new destination.</p>
+
+                                <h2>What Makes Our Domestic Relocation Special?</h2>
                                 <ul>
-                                    <li><strong>Extensive Pan-India Network:</strong> We have a robust supply chain network across all major cities and towns in India, ensuring prompt service everywhere.</li>
-                                    <li><strong>Customized Moving Solutions:</strong> Every move is unique. We tailor our services to meet your specific requirements, ensuring a personalized and smooth experience.</li>
-                                    <li><strong>Certified and Trained Team:</strong> Our staff are highly trained professionals who handle your belongings with care and expertise during the entire transit.</li>
-                                    <li><strong>Advanced Tracking Technology:</strong> Our fleet is equipped with GPS technology, allowing us to monitor your shipment and ensure timely delivery.</li>
-                                    <li><strong>Transparent and Competitive Pricing:</strong> We provide detailed quotes with no hidden charges, making high-quality relocation affordable.</li>
+                                    <li><strong>Pan-India Coverage:</strong> Our logistics network spans all major cities and remote locations, ensuring we can move your goods anywhere in India.</li>
+                                    <li><strong>Dedicated Move Coordinators:</strong> Each relocation is assigned a personal coordinator who manages every detail and keeps you informed throughout the process.</li>
+                                    <li><strong>Skilled Packing Professionals:</strong> Our trained packers use industry-best materials and techniques to protect your possessions during transit.</li>
+                                    <li><strong>Real-Time Shipment Tracking:</strong> Track your shipment anytime with our GPS-enabled fleet and live status updates.</li>
+                                    <li><strong>No Hidden Costs:</strong> Receive a comprehensive quote upfront with transparent pricing — what you see is what you pay.</li>
                                 </ul>
 
-                                <h2>Our Domestic Relocation Process</h2>
-                                
+                                <h2>How Our Domestic Relocation Works</h2>
+
                                 <div>
-                                    <h3>1. Pre-Move Survey and Strategy</h3>
-                                    <p>We conduct a rigorous survey to understand your needs and volume of goods. This information helps us create a unique relocation strategy for packing, transportation, and delivery.</p>
+                                    <h3>1. Free Consultation and Quote</h3>
+                                    <p>Contact us to discuss your moving requirements. Our team will understand your needs, answer your questions, and provide a detailed cost estimate based on your move specifics.</p>
                                 </div>
 
                                 <div>
-                                    <h3>2. Premium Quality Packing</h3>
-                                    <p>We use high-grade materials like bubble wrap, strong corrugated boxes, and foam padding to provide maximum protection for your items during long-distance transport.</p>
+                                    <h3>2. Home Survey and Planning</h3>
+                                    <p>We schedule an in-person or virtual survey to assess the volume and nature of your belongings. This helps us plan the packing approach, required materials, and logistics for a smooth move.</p>
                                 </div>
 
                                 <div>
-                                    <h3>3. Secure Loading and GPS Tracking</h3>
-                                    <p>Our experienced handlers carefully load your items. The journey is closely monitored via GPS, ensuring real-time updates and adherence to schedules.</p>
+                                    <h3>3. Professional Packing Service</h3>
+                                    <p>Our packing team arrives on the scheduled day with premium packing supplies. Each item is carefully wrapped, labeled, and packed to ensure maximum protection throughout the journey.</p>
                                 </div>
 
                                 <div>
-                                    <h3>4. Safe Unloading and Unpacking</h3>
-                                    <p>Upon arrival, we take special care in unloading your belongings. We prioritize unpacking essential items first so you can settle in quickly at your new destination.</p>
+                                    <h3>4. Secure Transportation</h3>
+                                    <p>Your goods are loaded onto our well-maintained vehicles equipped with GPS tracking. We follow optimized routes to ensure timely delivery while keeping your shipment secure.</p>
+                                </div>
+
+                                <div>
+                                    <h3>5. Delivery and Unpacking</h3>
+                                    <p>At your new location, our team handles unloading, placement of items as per your instructions, and unpacking services. We don't leave until you're satisfied with the setup.</p>
                                 </div>
 
                                 <div class="services__details-content-inner-two">
@@ -80,35 +85,36 @@
                                         <div class="col-lg-6 col-md-6">
                                             <div class="services__details-inner-img">
                                                 <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-transport-01.png"
-                                                    alt="Secure loading of goods for domestic move"
-                                                    title="Professional Loading Services">
+                                                    alt="Professional packing of household goods"
+                                                    title="Expert Packing Services">
                                             </div>
                                         </div>
                                         <div class="col-lg-6 col-md-6">
                                             <div class="services__details-inner-img">
                                                 <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-transport-02.png"
-                                                    alt="GPS tracked moving truck on highway"
-                                                    title="Reliable Nationwide Transportation">
+                                                    alt="Moving truck with GPS tracking on highway"
+                                                    title="Nationwide Transport Network">
                                             </div>
                                         </div>
                                     </div>
                                 </div>
 
-                                <h2>Comprehensive Services in Domestic Domain</h2>
+                                <h2>Types of Domestic Relocations We Handle</h2>
                                 <ul>
-                                    <li><strong>Home Relocation:</strong> From small apartments to large villas, we make your home move seamless and effective.</li>
-                                    <li><strong>Office Relocation:</strong> We relocate businesses with precision, minimizing downtime to ensure your operations remain active.</li>
-                                    <li><strong>Vehicle Transportation:</strong> Safe and scratch-free transport for your car or bike to any location in India.</li>
-                                    <li><strong>Industrial Equipment Moving:</strong> Specialized handling for large machinery and oversized equipment.</li>
-                                    <li><strong>Insurance Coverage:</strong> Comprehensive transit insurance is available to protect your high-value assets.</li>
+                                    <li><strong>Household Shifting:</strong> Complete home relocation services including packing, loading, transport, unloading, and unpacking at your new residence.</li>
+                                    <li><strong>Office and Corporate Moves:</strong> Minimize business downtime with our efficient office relocation services, handling IT equipment, furniture, documents, and more.</li>
+                                    <li><strong>Vehicle Transport:</strong> Safe and insured transportation of cars, bikes, and other vehicles to your new city without adding mileage.</li>
+                                    <li><strong>Bulk and Heavy Item Moving:</strong> Specialized handling for pianos, antique furniture, artwork, and other valuable or delicate pieces.</li>
+                                    <li><strong>Storage Solutions:</strong> Need temporary storage? We offer secure warehouse facilities for short-term and long-term storage needs.</li>
                                 </ul>
 
-                                <h2>Tips for an Efficient Nationwide Move</h2>
+                                <h2>Quick Tips for a Successful Move</h2>
                                 <ol>
-                                    <li><strong>Declutter Early:</strong> Dispose of items you no longer need to reduce your moving volume and cost.</li>
-                                    <li><strong>Label Boxes Clearly:</strong> Sorting and labeling boxes by room makes unpacking much faster at the destination.</li>
-                                    <li><strong>Essentials Kit:</strong> Pack a separate bag with daily necessities and important documents to keep with you during transit.</li>
-                                    <li><strong>Communicate Special Needs:</strong> Inform our team if any specific items require extra care or specialized handling.</li>
+                                    <li><strong>Start Early:</strong> Begin planning at least 2-3 weeks in advance to avoid last-minute stress and secure your preferred moving date.</li>
+                                    <li><strong>Sort and Declutter:</strong> Take the opportunity to sell, donate, or discard items you no longer need — fewer belongings mean lower moving costs.</li>
+                                    <li><strong>Pack an Essentials Box:</strong> Prepare a box with daily necessities, important documents, medications, and valuables to keep with you during transit.</li>
+                                    <li><strong>Document Everything:</strong> Take photos of valuable items and electronics before packing for insurance and reference purposes.</li>
+                                    <li><strong>Notify Important Parties:</strong> Inform banks, utility companies, and relevant institutions about your change of address ahead of the move.</li>
                                 </ol>
 
                                 <div class="services__details-benefit">
@@ -119,68 +125,68 @@
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                                        Q1: How long does a domestic relocation usually take?
+                                                        Q1: How far in advance should I book domestic relocation services?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>The timeframe depends on the distance and volume of goods. While local moves take 1-2 days, interstate relocations typically take 5-7 days on average.</p>
+                                                        <p>We recommend booking at least 1-2 weeks in advance for standard relocations. During peak seasons or for long-distance moves, booking 3-4 weeks ahead ensures availability and better scheduling options.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                        Q2: Are my items covered against any risks during transit?
+                                                        Q2: Is my household goods insurance included in the moving cost?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Yes, we provide full-coverage transit insurance for your belongings to protect them against any unforeseen risks during the move.</p>
+                                                        <p>Basic transit insurance coverage is included with every move. For high-value items, we offer comprehensive insurance upgrades at an additional cost to provide complete peace of mind.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                                        Q3: Can I request a move on short notice?
+                                                        Q3: Can you handle fragile items like glassware and electronics?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Yes! We understand that plans can change suddenly, and we do our best to accommodate short-notice relocation requests based on our schedule.</p>
+                                                        <p>Absolutely. We use specialized packing materials including bubble wrap, foam inserts, and custom crating for fragile and valuable items. Our team is trained to handle delicate electronics, art pieces, and antiques with extra care.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                                        Q4: Are high-quality packing materials included?
+                                                        Q4: Do you provide packing materials if I want to pack some items myself?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Of course! We use premium packing materials as part of our standard service to ensure your items reach their destination in perfect condition.</p>
+                                                        <p>Yes, we offer packing material supply as a standalone service. You can purchase boxes, tape, bubble wrap, and other supplies from us for self-packing, or we can provide a partial packing service for specific items.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                                        Q5: How are the costs for interstate moves calculated?
+                                                        Q5: What payment methods do you accept?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Costs are calculated based on the distance, the volume of goods, the type of packaging required, and any additional services like vehicle transport or storage.</p>
+                                                        <p>We accept multiple payment options including cash, bank transfers, UPI payments, and credit/debit cards. For corporate clients, we also offer invoiced billing with flexible payment terms.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <h2>Conclusion</h2>
-                                <p>At <strong>Lucky Transporter</strong>, we make the load of domestic relocation easy. Contact us now for a free quote and experience a stress-free move across India with the country's most trusted relocation partner!</p>
+                                <h2>Ready to Move?</h2>
+                                <p>Let <strong>Lucky Transporter</strong> handle your next domestic relocation. Contact us today for a free quote and let our experts plan a stress-free move tailored to your needs. Experience the difference of working with a relocation partner that truly cares about your move.</p>
                             </div>
                         </div>
                         <div class="col-30">
@@ -399,7 +405,7 @@
                                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                                             </div>
                                             <div class="testimonial__content">
-                                                <p>“Lucky Transporter made my home relocation completely hassle-free. Their team was professional, on-time, and handled my belongings with utmost care. Highly recommended!”</p>
+                                                <p>"Lucky Transporter made my home relocation completely hassle-free. Their team was professional, on-time, and handled my belongings with utmost care. Highly recommended!"</p>
                                             </div>
                                         </div>
                                     </div>
@@ -413,7 +419,7 @@
                                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half-alt"></i>
                                             </div>
                                             <div class="testimonial__content">
-                                                <p>“Their service was excellent! My car was delivered safely and on time to Bangalore. Although the initial scheduling took some time, the overall experience was fantastic.”</p>
+                                                <p>"Their service was excellent! My car was delivered safely and on time to Bangalore. Although the initial scheduling took some time, the overall experience was fantastic."</p>
                                             </div>
                                         </div>
                                     </div>
@@ -427,7 +433,7 @@
                                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                                             </div>
                                             <div class="testimonial__content">
-                                                <p>“I was nervous about relocating my office, but Lucky Transporter handled everything smoothly. The team was efficient, and they ensured minimal downtime for my business.”</p>
+                                                <p>"I was nervous about relocating my office, but Lucky Transporter handled everything smoothly. The team was efficient, and they ensured minimal downtime for my business."</p>
                                             </div>
                                         </div>
                                     </div>
@@ -441,7 +447,7 @@
                                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half-alt"></i>
                                             </div>
                                             <div class="testimonial__content">
-                                                <p>“The packing was impressive, and the staff was very courteous. My furniture arrived without a single scratch. Their tracking system is also very helpful.”</p>
+                                                <p>"The packing was impressive, and the staff was very courteous. My furniture arrived without a single scratch. Their tracking system is also very helpful."</p>
                                             </div>
                                         </div>
                                     </div>
@@ -455,7 +461,7 @@
                                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                                             </div>
                                             <div class="testimonial__content">
-                                                <p>“I’ve used their services twice now, and both times were exceptional. Their attention to detail and care for my belongings is unmatched. Will definitely use again!”</p>
+                                                <p>"I've used their services twice now, and both times were exceptional. Their attention to detail and care for my belongings is unmatched. Will definitely use again!"</p>
                                             </div>
                                         </div>
                                     </div>
@@ -469,7 +475,7 @@
                                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                                             </div>
                                             <div class="testimonial__content">
-                                                <p>“They made my inter-city relocation a breeze. The team was friendly, and the pricing was transparent with no hidden costs. Definitely the best movers I’ve hired!”</p>
+                                                <p>"They made my inter-city relocation a breeze. The team was friendly, and the pricing was transparent with no hidden costs. Definitely the best movers I've hired!"</p>
                                             </div>
                                         </div>
                                     </div>

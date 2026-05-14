@@ -1189,7 +1189,7 @@
             <div class="container">
                 <div class="cta__wrap-two cta__wrap-three">
                     <div class="cta__img">
-                        <img src="<?php echo $base_url; ?>assets/media/cta/dz-cargo-packers-main.webp" alt="Lucky Transporter - Reliable Transport Services">
+                        <img src="<?php echo $base_url; ?>assets/media/cta/cta_banner.png" alt="Lucky Transporter - Reliable Transport Services">
                     </div>
                     <div class="cta__content-two cta__content-three">
                         <div class="content__left">

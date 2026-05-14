@@ -39,40 +39,45 @@
                             </div>
 
                             <div class="services__details-content">
-                                <h1 class="title">Expert International Relocation Services for Global Moves</h1>
-                                <p>Moving to a different country can be a complex and hectic process, but with <strong>Lucky Transporter</strong>, your international relocation becomes a seamless and hassle-free experience. With over 11 years of expertise in the field of global relocation, we focus on moving your world across borders with absolute care and professionalism.</p>
-                                
-                                <p>Whether you are shifting your entire household or relocating your corporate office, we handle every detail from documentation to delivery. Our global network of partners ensures that your goods reach any corner of the world safely and on time, allowing you to focus on your new journey abroad.</p>
+                                <h1 class="title">International Relocation That Reaches Anywhere Without the Hassle</h1>
+                                <p>Moving abroad means juggling a hundred things at once—visa applications, new job contracts, school admissions, language barriers. Your household goods shouldn't be one of those things you lose sleep over. At <strong>Lucky Transporter</strong>, we coordinate international moves using our network of vetted partner agents in over 60 countries, so your belongings arrive where you need them, when you need them, without customs surprises.</p>
 
-                                <h2>Key Features of Our International Relocation Services</h2>
+                                <p>International relocations are complex by nature—different countries have different import restrictions, duty calculations, and documentation requirements. Our team handles that complexity on your behalf. You pack, we coordinate. You land, your stuff is already on its way.</p>
+
+                                <h2>What Makes International Moves Different</h2>
                                 <ul>
-                                    <li><strong>Global Delivery Network:</strong> In collaboration with trusted international movers, we offer reliable overseas moving services across all major continents.</li>
-                                    <li><strong>End-to-End Assistance:</strong> We manage every aspect of your relocation, including professional packing, customs clearance, shipping, and final setup.</li>
-                                    <li><strong>Qualified Global Experts:</strong> Our team is well-versed in international moving regulations, customs procedures, and handling fragile cross-border shipments.</li>
-                                    <li><strong>Customized Moving Plans:</strong> We tailor our relocation strategies to fit your specific timeline, budget, and destination requirements.</li>
-                                    <li><strong>Transparent Pricing:</strong> Our competitive and honest pricing ensures there are no hidden costs or surprises during your global move.</li>
+                                    <li><strong>Customs Complexity:</strong> Every country has different prohibited items, duty thresholds, and required documentation. We know the rules for major destinations and handle the paperwork so you don't face unexpected delays or fines.</li>
+                                    <li><strong>Long Transit Times:</strong> Sea freight to Europe takes 4-6 weeks; air freight takes 5-10 days. We help you choose the mode that matches your timeline and budget.</li>
+                                    <li><strong>Marine Risk:</strong> International shipments face ocean conditions, port handling, and multiple transfers. Export-grade packing and full cargo insurance protect your goods through every leg of the journey.</li>
+                                    <li><strong>Destination Coordination:</strong> Your shipment doesn't end at the port. Our destination agents handle import clearance, last-mile delivery, and unpacking at your new address overseas.</li>
+                                    <li><strong>Consular and Visa Documentation:</strong> Some countries require specific certifications or inspections before goods can enter. We prepare documentation packages tailored to each country's embassy and customs requirements.</li>
                                 </ul>
 
-                                <h2>Our International Relocation Process</h2>
-                                
+                                <h2>How International Moves Work With Us</h2>
+
                                 <div>
-                                    <h3>Step 1: Pre-Move Survey and Global Planning</h3>
-                                    <p>We begin with a thorough assessment of your needs to offer a tailor-made relocation plan. Our experts assist you with all necessary documentation and explain the customs requirements of your destination country.</p>
+                                    <h3>1. Pre-Move Consultation</h3>
+                                    <p>Every international move starts with understanding your destination, timeline, and volume. We identify which country you're moving to, check current import regulations, and advise on shipping mode—air for speed, sea for cost savings on larger volumes.</p>
                                 </div>
 
                                 <div>
-                                    <h3>Step 2: Specialized Export Packing</h3>
-                                    <p>We use advanced, sea-worthy packing materials to ensure the maximum safety of your goods during long-distance transit via air or sea. Special care is taken for high-value and sentimental items.</p>
+                                    <h3>2. Export Packing</h3>
+                                    <p>Items going overseas need stronger packing than domestic moves—sea-worthy cartons, steel-banded crates, and moisture barriers for ocean freight. Our team uses materials rated for international transit, not just domestic handling.</p>
                                 </div>
 
                                 <div>
-                                    <h3>Step 3: Transit and Customs Clearance</h3>
-                                    <p>Depending on your urgency, we arrange shipment via air or sea freight. We handle all customs documentation and obtain necessary clearances to facilitate a smooth entry into the destination country.</p>
+                                    <h3>3. Customs and Documentation</h3>
+                                    <p>We prepare your shipping documents—including the bill of lading, packing list, customs forms, and destination-specific certificates. For the origin country, we handle export clearance. Our destination partner manages import clearance on your behalf.</p>
                                 </div>
 
                                 <div>
-                                    <h3>Step 4: Destination Services and Delivery</h3>
-                                    <p>Upon arrival, our local partners assist with unloading, unpacking, and placing your items exactly where you want them. We ensure a "white-glove" experience from start to finish.</p>
+                                    <h3>4. Freight and Tracking</h3>
+                                    <p>Your shipment moves via the agreed mode—air or sea. We provide a tracking number that lets you monitor its progress from pickup through port of entry and final delivery.</p>
+                                </div>
+
+                                <div>
+                                    <h3>5. Final Delivery</h3>
+                                    <p>Our overseas partner agent receives your shipment at the destination port, clears customs, and delivers to your new address. They also handle unpacking and basic setup if included in your chosen service package.</p>
                                 </div>
 
                                 <div class="services__details-content-inner-two">
@@ -80,36 +85,36 @@
                                         <div class="col-lg-6 col-md-6">
                                             <div class="services__details-inner-img">
                                                 <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-transport-01.png"
-                                                    alt="Secure export packing for international shipment"
-                                                    title="Professional Global Packing">
+                                                    alt="Export-grade packing for international household goods"
+                                                    title="International Packing">
                                             </div>
                                         </div>
                                         <div class="col-lg-6 col-md-6">
                                             <div class="services__details-inner-img">
                                                 <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-transport-02.png"
-                                                    alt="International shipping container being loaded"
-                                                    title="Reliable Global Transit">
+                                                    alt="Shipping container being loaded at port for overseas delivery"
+                                                    title="Sea Freight Loading">
                                             </div>
                                         </div>
                                     </div>
                                 </div>
 
-                                <h2>Specialized International Services</h2>
+                                <h2>International Services We Offer</h2>
                                 <ul>
-                                    <li><strong>Household Goods Removal:</strong> Comprehensive door-to-door relocation services for families moving abroad.</li>
-                                    <li><strong>Corporate Global Mobility:</strong> Precise international office moving services to minimize business disruption.</li>
-                                    <li><strong>International Vehicle Shipping:</strong> Safe transport for your car or motorcycle across global borders.</li>
-                                    <li><strong>Short & Long-Term Storage:</strong> Secure warehousing solutions for your belongings during transitional phases.</li>
-                                    <li><strong>Customs Brokerage:</strong> Expert handling of all import/export regulations and duty assessments.</li>
+                                    <li><strong>Household Goods Relocation:</strong> Door-to-door service for families moving abroad—packing, freight, customs, and delivery included.</li>
+                                    <li><strong>Corporate Relocation:</strong> Employee relocation packages that include personal and office goods, coordinated with HR and visa timelines.</li>
+                                    <li><strong>Vehicle Shipping:</strong> Cars and motorcycles shipped via container or roll-on/roll-off to major international ports.</li>
+                                    <li><strong>Transit and Destination Storage:</strong> Short-term storage at origin or destination if your new home isn't ready yet.</li>
+                                    <li><strong>Pet Relocation:</strong> We partner with IATA-certified pet transport services for international animal moves.</li>
                                 </ul>
 
-                                <h2>Tips for a Successful Global Move</h2>
-                                <ol>
-                                    <li><strong>Start Early:</strong> Initiate your relocation process at least 2-3 months in advance to ensure all documentation is in order.</li>
-                                    <li><strong>Check Customs Rules:</strong> Familiarize yourself with the import laws of your target country to avoid fines or delays.</li>
-                                    <li><strong>Declutter Strategically:</strong> Sell or donate items that are not essential to reduce shipping volume and costs.</li>
-                                    <li><strong>Keep Documents Handy:</strong> Ensure passports, visas, work permits, and insurance papers are always with you, not in the shipment.</li>
-                                </ol>
+                                <h2>Before You Move: Practical Tips</h2>
+                                <ul>
+                                    <li><strong>Start Planning Early:</strong> International moves need 8-12 weeks of lead time minimum. Customs paperwork, embassy attestation, and container booking all take time.</li>
+                                    <li><strong>Reduce Your Volume:</strong> International shipping is charged by volume. Selling or donating unused items before the move saves significant cost.</li>
+                                    <li><strong>Know Your Destination's Rules:</strong> Some countries restrict electronics, medications, or religious items. A quick check prevents confiscated goods.</li>
+                                    <li><strong>Keep Essentials With You:</strong> Pack a personal luggage bag with documents, medications, electronics, and immediate essentials—never with the shipment.</li>
+                                </ul>
 
                                 <div class="services__details-benefit">
                                     <h2>Frequently Asked Questions</h2>
@@ -119,69 +124,68 @@
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                                        Q1: What documents are required for moving abroad?
+                                                        Q1: What documents do I need for an international move?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Typically, you need a valid passport, visa, work permit, and a detailed packing list (Inventory). Our team will provide a comprehensive checklist based on your destination.</p>
+                                                        <p>Typically: passport copy, visa or work permit, detailed inventory list, and destination address. Some countries require additional attestations or certificates. We provide a country-specific checklist after your survey.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                        Q2: Can I ship my car or bike internationally?
+                                                        Q2: Can I ship my car internationally?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Yes, we specialize in international vehicle shipping. We handle the specialized crating and documentation required for shipping cars and motorcycles worldwide.</p>
+                                                        <p>Yes. Vehicle shipping is available to most countries via container or roll-on/roll-off shipping. Destination import duties apply and vary by country—our team provides duty estimates for your target country before you commit.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                                        Q3: How long does an international move take?
+                                                        Q3: How long does international shipping take?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Timeframes vary by destination and mode. Air freight usually takes 7-10 days, while sea freight can take anywhere from 4 to 8 weeks depending on the route.</p>
+                                                        <p>Air freight: 5-10 days to most major cities. Sea freight: 4-8 weeks depending on the port. Destination clearance adds another 3-7 days on average. We give you realistic estimates by destination during the quote stage.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                                        Q4: Is insurance available for global shipments?
+                                                        Q4: Is my shipment insured internationally?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Absolutely. We offer comprehensive international transit insurance policies to protect your cargo from origin to final destination.</p>
+                                                        <p>Yes. All international shipments are covered under marine transit insurance for their declared value. The premium is calculated on volume and declared value—typically 0.3% to 1% of the insured value depending on the destination.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                                        Q5: Can I track my international shipment?
+                                                        Q5: How do I track my shipment abroad?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Yes, we provide advanced tracking for all international shipments, allowing you to monitor the status of your goods as they move across borders.</p>
+                                                        <p>We provide a master tracking number linked to your shipment through our tracking portal. You'll see updates at each milestone—pickup confirmed, loaded at port, departed origin, arrived at destination, cleared customs, out for delivery.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <h2>Conclusion</h2>
-                                <p>Relocating to a new country is a big step. At <strong>Lucky Transporter</strong>, we make it feel like a local move. Contact us today for a free global relocation quote and start your journey with confidence!</p>
-                            </div>
+                                <h2>Start Planning Your International Move</h2>
+                                <p>Relocating abroad doesn't have to mean losing control of your belongings in a maze of international logistics. <strong>Lucky Transporter</strong> handles the freight coordination, customs paperwork, and destination delivery—so you can focus on the life you're building overseas. Contact us for a pre-move consultation and quote.</p>
                         </div>
                         <div class="col-30">
                             <aside class="services__sidebar">

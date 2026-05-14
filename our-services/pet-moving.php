@@ -39,40 +39,46 @@
                             </div>
 
                             <div class="services__details-content">
-                                <h1 class="title">Compassionate Pet Moving Services for a Stress-Free Relocation</h1>
-                                <p>Moving to a new home can be overwhelming for everyone, especially your furry, feathered, or scaled family members. At <strong>Lucky Transporter</strong>, we understand that pets are cherished members of your family. Our specialized pet relocation services are designed to ensure a safe, comfortable, and stress-free journey for your beloved animals, whether you are moving across the city or across the globe.</p>
-                                
-                                <p>With over 11 years of experience in the relocation industry, we have mastered the art of animal logistics. Our compassionate team of pet handlers is trained to manage the unique needs of different species, ensuring that your pet receives the highest level of care and attention throughout the transition. We handle everything from documentation to door-to-door delivery, allowing you to focus on settling into your new home.</p>
+                                <h1 class="title">Pet Moving That Gets Your Furry Family Member to Destination Safe and Calm</h1>
+                                <p>Moving your pet isn’t like moving a box. They feel stress, they notice changes, and they depend on you to make sure the journey is safe. Lucky Transporter handles pet relocation differently—we see it as moving a family member, not just an animal.</p>
 
-                                <h2>Why Choose Us for Your Pet's Relocation?</h2>
+                                <p>We take care of the paperwork, the logistics, and the transport so you can focus on your pet. Whether it’s a cat who hates carriers, a dog with separation anxiety, or a bird who needs precise temperature control—we’ve handled it before, and we know what works.</p>
+
+                                <h2>What Sets Our Pet Moving Apart</h2>
+                                <p>Regular transport services aren’t set up for live animals. They don’t have the right carriers, the climate control, or the documentation knowledge. Here’s what specialized pet moving gives you:</p>
                                 <ul>
-                                    <li><strong>Certified Pet Logistics Experts:</strong> Our team consists of specialists who know exactly how to handle various breeds and species, ensuring their safety and emotional well-being throughout the process.</li>
-                                    <li><strong>Personalized Care Plans:</strong> We offer fully customizable moving strategies based on your pet's size, breed, health condition, and temperament.</li>
-                                    <li><strong>Climate-Controlled Transportation:</strong> We use well-ventilated, climate-controlled vehicles and IATA-approved carriers to ensure your pet travels in maximum comfort.</li>
-                                    <li><strong>Global & Local Reach:</strong> Regardless of the distance, we provide reliable pet relocation services across India and international borders, managing all customs and quarantine requirements.</li>
-                                    <li><strong>Real-Time GPS Tracking:</strong> Stay connected with your pet's journey through our integrated GPS tracking system, providing you with constant peace of mind.</li>
+                                    <li><strong>IATA-Approved Carriers</strong> — Airlines and regulations require specific carrier standards. We use them so your pet travels legally and safely.</li>
+                                    <li><strong>Climate-Controlled Vehicles</strong> — Temperature swings stress animals. Our vehicles maintain stable conditions throughout transit.</li>
+                                    <li><strong>GPS Tracking</strong> — Follow your pet’s journey in real-time so you know exactly where they are and when they’ll arrive.</li>
+                                    <li><strong>Handler Breaks</strong> — For longer journeys, we stop for hydration, feeding, and bathroom breaks on schedule.</li>
+                                    <li><strong>Documentation Assistance</strong> — Health certificates, vaccination records, import permits—we help organize everything needed.</li>
                                 </ul>
 
-                                <h2>Our Gentle Pet Moving Process</h2>
-                                
+                                <h2>How We Handle Your Pet</h2>
+
                                 <div>
-                                    <h3>1. Pre-Move Consultation & Planning</h3>
-                                    <p>We begin with a detailed discussion about your pet's specific requirements. We provide expert advice on necessary vaccinations, required documentation, and the best travel arrangements for your pet’s comfort.</p>
+                                    <h3>Step 1: Pre-Move Consultation</h3>
+                                    <p>We discuss your pet’s breed, size, health condition, and temperament. Then we recommend the right carrier, travel route, and any documentation gaps you need to fill before the move.</p>
                                 </div>
 
                                 <div>
-                                    <h3>2. Health Assessment & Safety Prep</h3>
-                                    <p>Before the journey, we recommend a veterinary check-up to ensure your pet is healthy and fit for travel. We assist in verifying all medical records and ensuring safety protocols are strictly followed.</p>
+                                    <h3>Step 2: Documentation Check</h3>
+                                    <p>Different destinations have different requirements—some need rabies titers, some need specific quarantine periods, some need import permits. We tell you exactly what’s needed and help you get it ready.</p>
                                 </div>
 
                                 <div>
-                                    <h3>3. Comfortable Transit & Monitoring</h3>
-                                    <p>During the move, pets are placed in spacious, clean carriers. Our handlers provide regular breaks for hydration, feeding, and exercise, ensuring your pet remains relaxed throughout the journey.</p>
+                                    <h3>Step 3: Carrier Familiarization (Optional)</h3>
+                                    <p>If your pet stress-easy, we can arrange to drop off their carrier early so they spend time getting comfortable with it before travel day. Less anxiety for them, less stress for you.</p>
                                 </div>
 
                                 <div>
-                                    <h3>4. Safe Door-to-Door Delivery</h3>
-                                    <p>We offer a complete door-to-door service, picking up your pet from your current residence and delivering them safely to your new doorstep, minimizing the stress of the move for both of you.</p>
+                                    <h3>Step 4: Door-to-Door Transport</h3>
+                                    <p>We pick up your pet from your home and deliver them to your new doorstep. No dropping off at terminals, no coordinating with multiple handlers—just pickup and delivery.</p>
+                                </div>
+
+                                <div>
+                                    <h3>Step 5: Post-Move Settling Help</h3>
+                                    <p>Upon arrival, we help settle your pet into their new space and make sure they’re eating, drinking, and calm before we leave.</p>
                                 </div>
 
                                 <div class="services__details-content-inner-two">
@@ -94,93 +100,93 @@
                                     </div>
                                 </div>
 
-                                <h2>Types of Pets We Expertly Relocate</h2>
+                                <h2>Pets We Move</h2>
                                 <ul>
-                                    <li><strong>Dogs & Cats:</strong> Specialized handling for all breeds, ensuring they are secure and comfortable during long-distance moves.</li>
-                                    <li><strong>Birds:</strong> Transported in specially designed avian carriers with careful attention to ventilation and temperature.</li>
-                                    <li><strong>Exotic Animals:</strong> Professional relocation services for rabbits, reptiles, and other unique pets with specific environmental needs.</li>
-                                    <li><strong>Aquatic Life:</strong> Specialized logistics for moving aquariums and ensuring the safety of fish and other aquatic species.</li>
+                                    <li><strong>Dogs and Cats</strong> — All breeds handled, including brachycephalic types like Bulldogs and Persian cats that need extra ventilation and temperature control.</li>
+                                    <li><strong>Birds</strong> — Avian carriers with proper ventilation, minimized noise, and temperature stability throughout the journey.</li>
+                                    <li><strong>Exotic Animals</strong> — Rabbits, reptiles, and other species needing specific environmental conditions, humidity levels, or specialized handling.</li>
+                                    <li><strong>Large Animals</strong> — Horses and livestock requiring custom transport arrangements, special permits, and route planning.</li>
                                 </ul>
 
-                                <h2>Tips for Preparing Your Pet for the Move</h2>
+                                <h2>How to Prepare Your Pet for the Move</h2>
                                 <ol>
-                                    <li><strong>Visit the Veterinarian:</strong> Ensure your pet's health is optimal and all vaccinations are up to date before the move.</li>
-                                    <li><strong>Choose the Right Carrier:</strong> Invest in a sturdy, well-ventilated carrier that allows your pet to stand, turn, and lie down comfortably.</li>
-                                    <li><strong>Carrier Familiarization:</strong> Let your pet spend time in the carrier before the move to reduce anxiety on the day of relocation.</li>
-                                    <li><strong>Pack a Comfort Kit:</strong> Include your pet's favorite toy, blanket, regular food, and any necessary medications to maintain their routine.</li>
-                                    <li><strong>Keep Routines Consistent:</strong> Try to maintain regular feeding and exercise times as much as possible leading up to the move.</li>
+                                    <li><strong>Visit Your Vet</strong> — Get a health certificate within 10 days of travel. Some destinations require this proof of fitness for travel.</li>
+                                    <li><strong>Update Vaccinations</strong> — Rabies and other required vaccines must be current. Check destination requirements well in advance.</li>
+                                    <li><strong>Choose the Right Carrier</strong> — Your pet needs room to stand, turn around, and lie down. IATA standards exist for a reason—follow them.</li>
+                                    <li><strong>Fast Before Travel</strong> — Large animals: withhold food 12-24 hours before transit to reduce nausea. Small pets: follow carrier guidelines.</li>
+                                    <li><strong>Pack a Comfort Kit</strong> — Favorite toy, worn blanket, regular food—familiar smells help reduce stress during the transition.</li>
                                 </ol>
 
                                 <div class="services__details-benefit">
-                                    <h2>Frequently Asked Questions</h2>
+                                    <h2>Common Questions About Pet Moving</h2>
                                     <br>
                                     <div class="faq__wrap">
                                         <div class="accordion" id="accordionExample">
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                                        Q1: What documents do I need for my pet's relocation?
+                                                        What documents does my pet need to relocate?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Typically, you will need a recent health certificate from a vet, vaccination records, and sometimes specific permits depending on the destination. Our team will guide you through exactly what is required for your specific move.</p>
+                                                        <p>Requirements vary by destination. Domestic moves within India typically need a health certificate and updated vaccination records. International moves require additional documents—rabies titer tests, import permits, and sometimes quarantine applications. We tell you exactly what your destination needs.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                        Q2: Can I track my pet's location during the move?
+                                                        Can I track my pet during transport?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Yes! We provide real-time GPS tracking for all our pet relocation shipments, so you can always see where your beloved family member is at any point in time.</p>
+                                                        <p>Yes. GPS tracking is available for all pet relocations. You'll see real-time location, temperature readings, and estimated arrival time throughout the journey.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                                        Q3: How do you ensure my pet's comfort during long-distance travel?
+                                                        How do you keep my pet calm during the trip?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Pets are transported in climate-controlled vehicles. Our handlers ensure regular stops for hydration and exercise, and we keep them on their familiar feeding schedule as much as possible.</p>
+                                                        <p>Temperature stability, familiar scents, and minimal stops all reduce stress. For anxious pets, we can arrange pre-trip carrier familiarization. We maintain feeding schedules where possible and use handling techniques that keep animals calm throughout.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                                        Q4: Do you handle international pet relocation?
+                                                        Do you handle international pet relocations?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Yes, we manage cross-border pet moves, including handling all necessary international permits, quarantine protocols, and customs clearance requirements.</p>
+                                                        <p>Yes. We handle international pet moves including customs clearance, quarantine arrangements, and coordination with destination-country veterinarians. Different countries have different import rules—we know them and we handle the paperwork.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                                        Q5: Is there a weight or size limit for the pets you relocate?
+                                                        What if my pet has special medical needs?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>We can relocate pets of almost any size. We use customized crates for larger breeds to ensure they have ample room to move and remain comfortable throughout the journey.</p>
+                                                        <p>Tell us in advance. We can coordinate with your vet, arrange for medication administration during transit, and adjust temperature or carrier setup for pets with medical conditions. Senior pets, diabetic animals, and pets with mobility issues are all manageable with the right planning.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <h2>Conclusion</h2>
-                                <p>Your pets deserve the best care, especially during the big changes of a relocation. At <strong>Lucky Transporter</strong>, we guarantee a safe, loving, and professional moving experience for your animals. Contact us today for a free quote and let us handle your pet's move with the compassion it deserves!</p>
+                                <h2>Your Pet Deserves Better Than Cargo Hold</h2>
+                                <p>Don't trust your pet's relocation to services that treat them like a package. Lucky Transporter handles pet moves with the attention they deserve—proper carriers, climate control, documentation help, and door-to-door service. Contact us to plan your pet's move.</p>
                             </div>
                         </div>
                         <div class="col-30">

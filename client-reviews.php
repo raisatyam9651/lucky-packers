@@ -39,97 +39,97 @@
 
                 <div class="row gutter-24">
                     <!-- Review 1 -->
-                    <div class="col-lg-4 col-md-6 mb-30">
-                        <div class="testimonial__item" style="height: 100%; border: 1px solid #eee; border-radius: 10px; padding: 30px; background: #fff; transition: all 0.3s ease;">
-                            <div class="testimonial__info">
-                                <h2 class="name">Rajat Sharma</h2>
-                                <span>Delhi, India</span>
+                    <div class=”col-lg-4 col-md-6 mb-30”>
+                        <div class=”testimonial__item” style=”height: 100%; border: 1px solid #eee; border-radius: 10px; padding: 30px; background: #fff; transition: all 0.3s ease;”>
+                            <div class=”testimonial__info”>
+                                <h2 class=”name”>Amit Patel</h2>
+                                <span>Jaipur, India</span>
                             </div>
-                            <div class="testimonial__rating" style="color: #0A4D68; margin-bottom: 15px;">
-                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            <div class=”testimonial__rating” style=”color: #0A4D68; margin-bottom: 15px;”>
+                                <i class=”fas fa-star”></i><i class=”fas fa-star”></i><i class=”fas fa-star”></i><i class=”fas fa-star”></i><i class=”fas fa-star”></i>
                             </div>
-                            <div class="testimonial__content">
-                                <p>“Lucky Transporter made my home relocation completely hassle-free. Their team was professional, on-time, and handled my belongings with utmost care. Highly recommended!”</p>
+                            <div class=”testimonial__content”>
+                                <p>”Outstanding service from start to finish! The team arrived on time, packed everything carefully, and delivered my belongings safely. Truly hassle-free relocation!”</p>
                             </div>
                         </div>
                     </div>
 
                     <!-- Review 2 -->
-                    <div class="col-lg-4 col-md-6 mb-30">
-                        <div class="testimonial__item" style="height: 100%; border: 1px solid #eee; border-radius: 10px; padding: 30px; background: #fff; transition: all 0.3s ease;">
-                            <div class="testimonial__info">
-                                <h2 class="name">Priya Mehta</h2>
-                                <span>Mumbai, India</span>
+                    <div class=”col-lg-4 col-md-6 mb-30”>
+                        <div class=”testimonial__item” style=”height: 100%; border: 1px solid #eee; border-radius: 10px; padding: 30px; background: #fff; transition: all 0.3s ease;”>
+                            <div class=”testimonial__info”>
+                                <h2 class=”name”>Sunita Reddy</h2>
+                                <span>Hyderabad, India</span>
                             </div>
-                            <div class="testimonial__rating" style="color: #0A4D68; margin-bottom: 15px;">
-                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half-alt"></i>
+                            <div class=”testimonial__rating” style=”color: #0A4D68; margin-bottom: 15px;”>
+                                <i class=”fas fa-star”></i><i class=”fas fa-star”></i><i class=”fas fa-star”></i><i class=”fas fa-star”></i><i class=”fas fa-star”></i>
                             </div>
-                            <div class="testimonial__content">
-                                <p>“Their service was excellent! My car was delivered safely and on time to Bangalore. Although the initial scheduling took some time, the overall experience was fantastic.”</p>
+                            <div class=”testimonial__content”>
+                                <p>”Relocated my entire household from Bangalore to Hyderabad. The car transportation was seamless and my vehicle arrived in perfect condition. Excellent professional team!”</p>
                             </div>
                         </div>
                     </div>
 
                     <!-- Review 3 -->
-                    <div class="col-lg-4 col-md-6 mb-30">
-                        <div class="testimonial__item" style="height: 100%; border: 1px solid #eee; border-radius: 10px; padding: 30px; background: #fff; transition: all 0.3s ease;">
-                            <div class="testimonial__info">
-                                <h2 class="name">Anjali Gupta</h2>
-                                <span>Pune, India</span>
+                    <div class=”col-lg-4 col-md-6 mb-30”>
+                        <div class=”testimonial__item” style=”height: 100%; border: 1px solid #eee; border-radius: 10px; padding: 30px; background: #fff; transition: all 0.3s ease;”>
+                            <div class=”testimonial__info”>
+                                <h2 class=”name”>Karthik Nair</h2>
+                                <span>Kochi, India</span>
                             </div>
-                            <div class="testimonial__rating" style="color: #0A4D68; margin-bottom: 15px;">
-                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            <div class=”testimonial__rating” style=”color: #0A4D68; margin-bottom: 15px;”>
+                                <i class=”fas fa-star”></i><i class=”fas fa-star”></i><i class=”fas fa-star”></i><i class=”fas fa-star”></i><i class=”fas fa-star-half-alt”></i>
                             </div>
-                            <div class="testimonial__content">
-                                <p>“I was nervous about relocating my office, but Lucky Transporter handled everything smoothly. The team was efficient, and they ensured minimal downtime for my business.”</p>
+                            <div class=”testimonial__content”>
+                                <p>”Our office shift was handled with such precision. Zero downtime, everything labeled and organized. The Lucky Transporter team truly understands corporate relocations.”</p>
                             </div>
                         </div>
                     </div>
 
                     <!-- Review 4 -->
-                    <div class="col-lg-4 col-md-6 mb-30">
-                        <div class="testimonial__item" style="height: 100%; border: 1px solid #eee; border-radius: 10px; padding: 30px; background: #fff; transition: all 0.3s ease;">
-                            <div class="testimonial__info">
-                                <h2 class="name">Ramesh Verma</h2>
-                                <span>Hyderabad, India</span>
+                    <div class=”col-lg-4 col-md-6 mb-30”>
+                        <div class=”testimonial__item” style=”height: 100%; border: 1px solid #eee; border-radius: 10px; padding: 30px; background: #fff; transition: all 0.3s ease;”>
+                            <div class=”testimonial__info”>
+                                <h2 class=”name”>Meera Desai</h2>
+                                <span>Ahmedabad, India</span>
                             </div>
-                            <div class="testimonial__rating" style="color: #0A4D68; margin-bottom: 15px;">
-                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half-alt"></i>
+                            <div class=”testimonial__rating” style=”color: #0A4D68; margin-bottom: 15px;”>
+                                <i class=”fas fa-star”></i><i class=”fas fa-star”></i><i class=”fas fa-star”></i><i class=”fas fa-star”></i><i class=”fas fa-star”></i>
                             </div>
-                            <div class="testimonial__content">
-                                <p>“The packing was impressive, and the staff was very courteous. My furniture arrived without a single scratch. Their tracking system is also very helpful.”</p>
+                            <div class=”testimonial__content”>
+                                <p>”Best packing service I’ve ever experienced. They used premium materials and handled my fragile items with extra care. Everything arrived without a scratch. Highly impressed!”</p>
                             </div>
                         </div>
                     </div>
 
                     <!-- Review 5 -->
-                    <div class="col-lg-4 col-md-6 mb-30">
-                        <div class="testimonial__item" style="height: 100%; border: 1px solid #eee; border-radius: 10px; padding: 30px; background: #fff; transition: all 0.3s ease;">
-                            <div class="testimonial__info">
-                                <h2 class="name">Sneha Rajput</h2>
-                                <span>Chennai, India</span>
+                    <div class=”col-lg-4 col-md-6 mb-30”>
+                        <div class=”testimonial__item” style=”height: 100%; border: 1px solid #eee; border-radius: 10px; padding: 30px; background: #fff; transition: all 0.3s ease;”>
+                            <div class=”testimonial__info”>
+                                <h2 class=”name”>Rahul Gupta</h2>
+                                <span>Lucknow, India</span>
                             </div>
-                            <div class="testimonial__rating" style="color: #0A4D68; margin-bottom: 15px;">
-                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            <div class=”testimonial__rating” style=”color: #0A4D68; margin-bottom: 15px;”>
+                                <i class=”fas fa-star”></i><i class=”fas fa-star”></i><i class=”fas fa-star”></i><i class=”fas fa-star”></i><i class=”fas fa-star”></i>
                             </div>
-                            <div class="testimonial__content">
-                                <p>“I’ve used their services twice now, and both times were exceptional. Their attention to detail and care for my belongings is unmatched. Will definitely use again!”</p>
+                            <div class=”testimonial__content”>
+                                <p>”Used them for international relocation to Dubai. The customs clearance was handled smoothly and all documents were perfect. Their international team is truly experienced.”</p>
                             </div>
                         </div>
                     </div>
 
                     <!-- Review 6 -->
-                    <div class="col-lg-4 col-md-6 mb-30">
-                        <div class="testimonial__item" style="height: 100%; border: 1px solid #eee; border-radius: 10px; padding: 30px; background: #fff; transition: all 0.3s ease;">
-                            <div class="testimonial__info">
-                                <h2 class="name">Vivek Mishra</h2>
-                                <span>Kolkata, India</span>
+                    <div class=”col-lg-4 col-md-6 mb-30”>
+                        <div class=”testimonial__item” style=”height: 100%; border: 1px solid #eee; border-radius: 10px; padding: 30px; background: #fff; transition: all 0.3s ease;”>
+                            <div class=”testimonial__info”>
+                                <h2 class=”name”>Nisha Kapoor</h2>
+                                <span>Chandigarh, India</span>
                             </div>
-                            <div class="testimonial__rating" style="color: #0A4D68; margin-bottom: 15px;">
-                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            <div class=”testimonial__rating” style=”color: #0A4D68; margin-bottom: 15px;”>
+                                <i class=”fas fa-star”></i><i class=”fas fa-star”></i><i class=”fas fa-star”></i><i class=”fas fa-star”></i><i class=”fas fa-star-half-alt”></i>
                             </div>
-                            <div class="testimonial__content">
-                                <p>“They made my inter-city relocation a breeze. The team was friendly, and the pricing was transparent with no hidden costs. Definitely the best movers I’ve hired!”</p>
+                            <div class=”testimonial__content”>
+                                <p>”Affordable pricing with no hidden charges. The final bill matched the quote exactly. Warehouse storage was clean and secure. Will definitely recommend to friends and family!”</p>
                             </div>
                         </div>
                     </div>

@@ -39,40 +39,51 @@
                             </div>
 
                             <div class="services__details-content">
-                                <h1 class="title">Hassle-Free Custom Clearance Services for International Relocation</h1>
-                                <p>Navigating international borders while relocating can be a complex and time-consuming task, filled with legal intricacies and red tape. At <strong>Lucky Transporter</strong>, we specialize in providing comprehensive customs clearance services that simplify the global transition of your household or commercial goods. Our experts handle all the compliance details, ensuring your shipment passes through customs smoothly and without unnecessary delays.</p>
-                                
-                                <p>With over 11 years of experience in global logistics, we have developed a profound understanding of international customs regulations, tariffs, and trade policies across numerous countries. Whether you are moving out of India or importing goods for your new residence, our dedicated team ensures that every legal requirement is met, giving you total peace of mind during your international relocation.</p>
+                                <h1 class="title">Expert Custom Clearance Services for Stress-Free International Moving</h1>
+                                <p>Moving across borders means dealing with customs regulations, documentation, and compliance requirements that can feel overwhelming. At <strong>Lucky Transporter</strong>, we remove that burden. Our dedicated customs clearance team handles every detail—from paperwork to duty calculations—so your international relocation stays on track and on schedule.</p>
 
-                                <h2>Why Trust Lucky Transporter for Custom Clearance?</h2>
+                                <p>With over <strong>11 years of experience</strong> navigating global trade regulations, we've built relationships with customs authorities across 40+ countries. Whether you're moving from India to another destination or relocating to the subcontinent, we know exactly what each port of entry requires. No guesswork. No delays. Just smooth, compliant transitions every time.</p>
+
+                                <h2>Why Professional Custom Clearance Matters</h2>
+                                <p>Customs complications are among the top reasons international relocations go over budget and behind schedule. Incorrect documentation, misclassified goods, and unpaid duties can result in:</p>
                                 <ul>
-                                    <li><strong>Deep Regulatory Expertise:</strong> Our professionals are well-versed in the evolving customs laws of major global trade hubs, ensuring your documentation is always accurate and compliant.</li>
-                                    <li><strong>End-to-End Documentation Support:</strong> We manage the entire paperwork process—from drafting invoices and packing lists to submitting import/export permits and declarations.</li>
-                                    <li><strong>Integrated Logistics Solutions:</strong> We offer a seamless transition from customs clearance to final delivery, acting as a one-stop shop for all your international moving needs.</li>
-                                    <li><strong>Global Network & Reach:</strong> Our extensive network of international partners allows us to facilitate easy clearance and secure relocation across continents with professional efficiency.</li>
-                                    <li><strong>Risk Mitigation:</strong> Our strict adherence to international policies minimizes the risk of fines, shipment seizures, or costly border delays.</li>
+                                    <li><strong>Costly storage fees</strong> — Goods held at ports accumulate daily charges</li>
+                                    <li><strong>Seized shipments</strong> — Non-compliance can lead to complete confiscation</li>
+                                    <li><strong>Heavy penalties</strong> — Fines that far exceed the original duty amounts</li>
+                                    <li><strong>Extended delays</strong> — Weeks or months of waiting for resolution</li>
+                                </ul>
+                                <p>Our team prevents these scenarios by ensuring every shipment meets exact regulatory requirements before it reaches the border.</p>
+
+                                <h2>What We Handle for You</h2>
+                                <ul>
+                                    <li><strong>Complete Documentation Preparation</strong> — Packing lists, commercial invoices, bills of lading, and all required declarations prepared accurately</li>
+                                    <li><strong>Tariff Classification & Duty Calculation</strong> — Correct categorization of goods to minimize applicable duties and taxes</li>
+                                    <li><strong>Import/Export Permit Management</strong> — Securing necessary permits for restricted items and regulated goods</li>
+                                    <li><strong>Inspection Coordination</strong> — Liaison with customs authorities during physical examinations</li>
+                                    <li><strong> Duty Payment & Financial Settlement</strong> — Prompt handling of all financial obligations to prevent delays</li>
+                                    <li><strong>Restricted Items Guidance</strong> — Clear advice on what can and cannot be transported across borders</li>
                                 </ul>
 
-                                <h2>Our Comprehensive Custom Clearance Process</h2>
-                                
+                                <h2>Our Clear, Simple Process</h2>
+
                                 <div>
-                                    <h3>1. Pre-Relocation Documentation Audit</h3>
-                                    <p>We begin by auditing all your necessary records, including invoices, packing lists, and personal declarations. This ensures that every document is in perfect order before the shipment reaches the border.</p>
+                                    <h3>Step 1: Initial Assessment</h3>
+                                    <p>We review your planned shipment and destination country requirements. This helps us identify any special permits, restricted items, or documentation needs before you start packing.</p>
                                 </div>
 
                                 <div>
-                                    <h3>2. Expert Filing and Electronic Submission</h3>
-                                    <p>Our team expedites the clearance process by electronically submitting all relevant data to the respective customs authorities, ensuring rapid processing and transparency.</p>
+                                    <h3>Step 2: Documentation Package</h3>
+                                    <p>Our team prepares a complete documentation package tailored to your specific destination. We verify every detail—from value declarations to country-of-origin markings.</p>
                                 </div>
 
                                 <div>
-                                    <h3>3. Coordination of Customs Inspections</h3>
-                                    <p>If an inspection is required, our representatives coordinate with the authorities and supervise the process to ensure your goods are handled respectfully and cleared promptly.</p>
+                                    <h3>Step 3: Customs Filing</h3>
+                                    <p>We submit all required information electronically to destination customs authorities, enabling rapid processing and real-time tracking of your clearance status.</p>
                                 </div>
 
                                 <div>
-                                    <h3>4. Duty Management and Financial Settlement</h3>
-                                    <p>We provide accurate calculations of all applicable duties and taxes. We manage the prompt payment of these levies to avoid any financial bottlenecks at the border.</p>
+                                    <h3>Step 4: Clearance & Delivery</h3>
+                                    <p>Once cleared, we coordinate immediate release and arrange seamless delivery to your new doorstep. No storage fees. No waiting.</p>
                                 </div>
 
                                 <div class="services__details-content-inner-two">
@@ -94,93 +105,94 @@
                                     </div>
                                 </div>
 
-                                <h2>Types of Goods We Handle</h2>
+                                <h2>What You Can Move With Us</h2>
                                 <ul>
-                                    <li><strong>Household Merchandise:</strong> Efficient clearance for furniture, clothing, personal effects, and home appliances.</li>
-                                    <li><strong>Commercial & Office Shipments:</strong> Managing business assets, industrial machinery, and high-value office equipment.</li>
-                                    <li><strong>Private Automobiles:</strong> Expert clearance for motor vehicles, including luxury cars and motorcycles.</li>
-                                    <li><strong>Special & High-Value Items:</strong> Delicate handling and clearance for fine art pieces, antiques, and valuable collectibles.</li>
-                                    <li><strong>Electronics & Luxury Goods:</strong> Secure clearance for high-end technology, jewelry, and luxury personal items.</li>
+                                    <li><strong>Household Goods</strong> — Furniture, appliances, clothing, and personal effects with proper documentation</li>
+                                    <li><strong>Commercial Shipments</strong> — Office equipment, machinery, and business assets for corporate relocations</li>
+                                    <li><strong>Vehicles</strong> — Cars and motorcycles with specialized import/export compliance handling</li>
+                                    <li><strong>Valuable Items</strong> — Art, antiques, and collectibles requiring specialized declarations</li>
+                                    <li><strong>Electronics</strong> — Computers, servers, and high-value tech equipment</li>
                                 </ul>
 
-                                <h2>Key Advantages of Our Service</h2>
+                                <h2>The Lucky Transporter Advantage</h2>
                                 <ul>
-                                    <li><strong>Significant Time & Cost Savings:</strong> Our expertise guarantees a rapid turnaround, saving you from expensive storage fees and logistical delays.</li>
-                                    <li><strong>Flexible & Scalable Solutions:</strong> We tailor our customs services based on your specific shipment volume and destination country requirements.</li>
-                                    <li><strong>24/7 Global Tracking:</strong> Monitor the status of your cleared goods at every stage through our GPS-enabled tracking systems.</li>
-                                    <li><strong>Unmatched Reliability:</strong> With us in charge of the red tape, you can focus on the personal aspects of settling into your new international home.</li>
+                                    <li><strong>Dedicated Expertise</strong> — One team manages your entire clearance from start to finish</li>
+                                    <li><strong>Real-Time Updates</strong> — Track your shipment status at every stage through our GPS-enabled system</li>
+                                    <li><strong>Transparent Pricing</strong> — Full cost breakdown before moving day—no hidden fees</li>
+                                    <li><strong>Global Reach</strong> — Trusted partners in 40+ countries for seamless international coverage</li>
                                 </ul>
 
                                 <div class="services__details-benefit">
-                                    <h2>Frequently Asked Questions</h2>
+                                    <h2>Common Questions About Custom Clearance</h2>
                                     <br>
                                     <div class="faq__wrap">
                                         <div class="accordion" id="accordionExample">
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                                        Q1: What specific documents are required for international customs?
+                                                        What documents do I need for customs clearance?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Typically, you'll need a detailed packing list, commercial or proforma invoice, shipping documents (like Bill of Lading), and sometimes specific import permits or personal identity declarations. We assist you in preparing every required document.</p>
+                                                        <p>The main documents include a detailed packing list, valued inventory, passport copies, and shipping documents like the bill of lading. Depending on your destination, you may also need an import declaration or proof of residence abroad. We'll prepare a complete package specific to your move.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                        Q2: How long does the customs clearance process usually take?
+                                                        How long does customs clearance take?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Clearance times vary by country and type of goods, typically ranging from a few days to a week. However, our expertise ensures the fastest possible turnaround by avoiding common documentation errors.</p>
+                                                        <p>Most clearances complete within 3-7 business days. Straightforward household goods with complete documentation often clear faster. Complex shipments or those requiring physical inspection may take longer—typically up to 2 weeks.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                                        Q3: Are there additional fees I should expect during customs?
+                                                        Will I pay customs duties on my household goods?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Besides government-mandated duties and taxes, there may be terminal handling or inspection charges. We provide a clear estimate of these potential costs beforehand to prevent surprises.</p>
+                                                        <p>Duty rates depend on your destination country and the type of goods being shipped. Many countries allow duty-free import of used household goods for returning residents. We provide a duty estimate upfront so you can budget accordingly.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                                        Q4: Can you help with the clearance of restricted or sensitive items?
+                                                        Can you help if I have restricted or prohibited items?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Yes, we handle the complex regulations and permit requirements for restricted goods, ensuring full compliance with both origin and destination state laws.</p>
+                                                        <p>Yes. We identify restricted items during our initial assessment and advise on proper handling—whether that means obtaining special permits, making alternative arrangements, or properly disposing of items that cannot be transported.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                                        Q5: Is my shipment tracked during the customs phase?
+                                                        Do I need to be present during customs clearance?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Yes, our GPS-enabled systems and coordination team provide constant updates, allowing you to monitor the status and location of your shipment throughout the clearance process.</p>
+                                                        <p>Generally, no. We handle all interactions with customs authorities on your behalf. Your presence is only required if customs officials request a physical inspection and ask you to attend.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <h2>Conclusion</h2>
-                                <p>Don't let international red tape slow down your move. At <strong>Lucky Transporter</strong>, we make global customs easy and effective. Let our experts handle the paperwork while you focus on your new journey. Contact us today for a free estimate and experience stress-free international moving!</p>
+                                <h2>Ready to Move Across Borders?</h2>
+                                <p>Let our customs experts handle the paperwork while you focus on your new adventure. Contact <strong>Lucky Transporter</strong> for a complimentary assessment of your international moving needs. We'll review your planned shipment, identify clearance requirements, and provide a complete cost estimate.</p>
+                                <p><strong>Get your free quote today</strong> and experience international relocation without the customs headaches.</p>
                             </div>
                         </div>
                         <div class="col-30">

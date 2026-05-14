@@ -39,44 +39,36 @@
                             </div>
 
                             <div class="services__details-content">
-                                <h1 class="title">Reliable Packing and Moving Services for a Stress-Free Relocation</h1>
-                                <p>Moving on its own is a difficult thing to do, but the task becomes incredibly easy to do when you have trustworthy professional packing and moving service providers. <strong>Lucky Transporter</strong> is here to take care of your packing and moving. After having served customers for over a decade, we have acquired a good amount of skill, therefore we ensure your belongings make it securely to the destination while also being handled with care throughout the process.</p>
-                                
-                                <h2>Benefits of Choosing Lucky Transporter as Your Moving Partner</h2>
-                                <p>We offer a comprehensive suite of benefits that ensure your peace of mind throughout the transition:</p>
-                                <ul>
-                                    <li><strong>Seamless Experience:</strong> Our trained professionals are adept at packing, handling, and moving anything and everything, hence you need not to worry.</li>
-                                    <li><strong>Team of Specialists:</strong> We use custom-made high-quality boxes, bubble wrap, stretch films, and corrugated sheets based on the specific needs of your items.</li>
-                                    <li><strong>End-to-End Solutions:</strong> From packing to loading, transportation, and finally unloading, we handle every single detail.</li>
-                                    <li><strong>Customer-Centric Approach:</strong> We build relationships, not just business. We are flexible to meet the unique requirements of each customer.</li>
-                                </ul>
+                                <h1 class="title">Packing and Moving Done Right—From First Wrap to Final Setup</h1>
+                                <p>Packing and moving isn't just about putting things in boxes. Done right, it's a systematic process that protects your belongings from your living room all the way to their new location. Done wrong, even expensive items can arrive damaged despite looking fine when they left. At <strong>Lucky Transporter</strong>, we've spent 11 years refining how we pack—and our damage rate shows it. We don't just throw things in boxes. We assess each item, choose the right materials, and pack in a sequence that keeps everything safe during loading, transit, and unloading.</p>
 
-                                <h2>Our Proven Packing and Moving Process</h2>
-                                <p>At Lucky Transporter, we follow a systematic approach to ensure maximum safety and efficiency:</p>
-                                
+                                <p>Our packing service covers everything from the first piece of bubble wrap to the last piece of furniture being placed in your new home. You can book just the packing labor, just the transport, or the complete end-to-end service. Most clients prefer the full package because it's simpler and the coordination is already handled.</p>
+
+                                <h2>How Our Packing Process Works</h2>
+
                                 <div>
-                                    <h3>1. Planning and Survey</h3>
-                                    <p>We start by understanding your specific needs, deadlines, and providing transparent cost estimates to avoid any misunderstandings later.</p>
+                                    <h3>1. Survey Before Packing</h3>
+                                    <p>Before moving day, we visit your home to assess what needs to move and identify items that need special attention—fragile pieces, valuable items, electronics, and anything that might require custom packaging. This survey also determines how many boxes, what materials, and how many crew members we'll need.</p>
                                 </div>
 
                                 <div>
-                                    <h3>2. Professional Packing</h3>
-                                    <p>Using appropriate packing materials, we wrap everything securely. Delicate items, electronics, and priceless possessions receive special focus and specialized packing techniques. All packages are marked for easy identification and organized unpacking.</p>
+                                    <h3>2. Room-by-Room Packing</h3>
+                                    <p>We pack one room at a time, starting with the least essential spaces. Each box is labeled with the room it belongs to and a brief description of contents. This makes unpacking much easier—you know exactly which box contains the kitchen knives without opening every carton.</p>
                                 </div>
 
                                 <div>
-                                    <h3>3. Safe Loading</h3>
-                                    <p>Our professionals use modern equipment like dollies and furniture sliders to load items onto our vehicles. Every item is locked properly to ensure it remains stationary and safe during transit.</p>
+                                    <h3>3. Item-Specific Protection</h3>
+                                    <p>Different items need different protection. Electronics get anti-static bags and foam padding. Glassware gets individually wrapped and packed vertically rather than stacked. Art and mirrors get custom-sized cardboard corners and bubble wrap. Furniture gets blanket wrapping and corner guards. We don't use the same approach for a wine glass and a wardrobe.</p>
                                 </div>
 
                                 <div>
-                                    <h3>4. Secure Transportation</h3>
-                                    <p>Our vehicles are equipped with GPS tracking systems, allowing you to monitor your delivery in real-time. We ensure safe and prompt delivery to your destination.</p>
+                                    <h3>4. Loading and Transport</h3>
+                                    <p>Boxes and furniture are loaded in a deliberate order—heavy items first, fragile items last and on top. In the truck, everything is strapped to prevent movement. Our GPS-equipped fleet lets you track the shipment in real time during transit.</p>
                                 </div>
 
                                 <div>
-                                    <h3>5. Unloading and Unpacking</h3>
-                                    <p>Once we reach the destination, we handle the unloading with the same care. We can also assist in placing furniture and boxes in the rooms as per your preference to make your transition easier.</p>
+                                    <h3>5. Unpacking and Setup</h3>
+                                    <p>At your new home, we unload in reverse order, place boxes in the correct rooms, and assemble basic furniture. We remove all packing materials before leaving. Optional unpacking services—where we help you put things away—can be added for an additional fee.</p>
                                 </div>
 
                                 <div class="services__details-content-inner-two">
@@ -84,35 +76,35 @@
                                         <div class="col-lg-6 col-md-6">
                                             <div class="services__details-inner-img">
                                                 <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-packing-01.png"
-                                                    alt="Professional Packing in Progress"
-                                                    title="High-Quality Packing Materials">
+                                                    alt="Professional packing team organizing household items with quality materials"
+                                                    title="Professional Packing">
                                             </div>
                                         </div>
                                         <div class="col-lg-6 col-md-6">
                                             <div class="services__details-inner-img">
                                                 <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-packing-02.png"
-                                                    alt="Organized Packing and Moving Materials"
-                                                    title="Branded Moving Boxes and Supplies">
+                                                    alt="Labeled moving boxes organized by room for easy unpacking"
+                                                    title="Organized Packing">
                                             </div>
                                         </div>
                                     </div>
                                 </div>
 
-                                <h2>Why Our Services Are the Best In The Industry</h2>
+                                <h2>Packing Materials We Use</h2>
                                 <ul>
-                                    <li><strong>Certified and Licensed:</strong> We are a government-approved company with over 11 years of trusted experience.</li>
-                                    <li><strong>Modern Equipment:</strong> We utilize the latest tools and specialized vehicles for all types of relocations.</li>
-                                    <li><strong>Eco-Friendly Practices:</strong> We minimize environmental impact by using recyclable packing materials whenever possible.</li>
-                                    <li><strong>24/7 Customer Support:</strong> Our team is always available to assist you and provide updates on your shipment.</li>
+                                    <li><strong>Double-Walled Cardboard Boxes:</strong> Rated for heavy contents—books, appliances, and kitchen items go in boxes that can take the weight without collapsing.</li>
+                                    <li><strong>Bubble Wrap and Foam Sheets:</strong> For electronics, glass, ceramics, and anything that could crack or scratch.</li>
+                                    <li><strong>Moving Blankets and Corner Guards:</strong> For furniture, mirrors, and large décor items that can't be boxed.</li>
+                                    <li><strong>Stretch Film and Packing Tape:</strong> To seal boxes and bundle loose items securely.</li>
+                                    <li><strong>Anti-Static Bags:</strong> For computers, monitors, and any sensitive electronic equipment.</li>
                                 </ul>
 
-                                <h2>What We Transport with Care</h2>
-                                <p>Our expertise extends to a wide variety of goods, including:</p>
+                                <h2>What We Pack and Move</h2>
                                 <ul>
-                                    <li><strong>Household Goods:</strong> Furniture, appliances, kitchenware, and personal belongings.</li>
-                                    <li><strong>Office Assets:</strong> Desks, computers, sensitive files, and heavy office furniture.</li>
-                                    <li><strong>Electronics:</strong> Specialized packing for TVs, gadgets, and IT equipment.</li>
-                                    <li><strong>Fragile Items:</strong> Antiques, glassware, artwork, and high-value collectibles.</li>
+                                    <li><strong>Household Goods:</strong> Furniture, appliances, kitchen items, bedding, and general home contents.</li>
+                                    <li><strong>Office and Business Equipment:</strong> Workstations, printers, filing cabinets, and modular furniture.</li>
+                                    <li><strong>Electronics:</strong> TVs, computers, home theater systems, and gaming consoles.</li>
+                                    <li><strong>Fragile and High-Value Items:</strong> Artwork, antiques, glassware, mirrors, and musical instruments.</li>
                                 </ul>
 
                                 <div class="services__details-benefit">
@@ -123,69 +115,68 @@
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                                        Q1: What materials do you use in packaging?
+                                                        Q1: What packing materials do you use?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>To protect your valuables, we use high-quality materials including bubble wrap, corrugated cardboard sheets, stretch film, and heavy-duty moving boxes.</p>
+                                                        <p>We use double-walled cardboard boxes, bubble wrap, foam sheets, moving blankets, stretch film, corner guards, and anti-static bags for electronics. All materials are included in your quote—no separate charges for packing supplies.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                        Q2: How much time does the packing process take?
+                                                        Q2: How long does packing take?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>The duration depends on the volume of goods. Typically, for a standard 2 BHK flat, the professional packing process takes around 4-6 hours.</p>
+                                                        <p>For a typical 2-3 bedroom home, our team of 4-6 packers usually completes packing in 4-6 hours. Larger homes or homes with more fragile items take proportionally longer. We give you a time estimate during the pre-move survey.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                                        Q3: Are there extra costs for fragile items?
+                                                        Q3: Is there an extra charge for fragile items?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>No, specialized handling and extra packing materials for fragile items are included in our standard transparent pricing.</p>
+                                                        <p>No. The specialized materials and extra care for fragile items are included in our standard packing service. We don't charge more for fragile handling—we just use the right materials.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                                        Q4: Can I track my shipment during the journey?
+                                                        Q4: Can I track my shipment?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Yes! Our modern fleet is equipped with GPS technology, allowing you to track and monitor your consignment in real-time through our support team.</p>
+                                                        <p>Yes. Our vehicles are GPS-equipped and you receive tracking updates throughout the journey. For intercity moves, the tracking portal shows estimated arrival times, not just current location.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                                        Q5: Do you assist with unpacking at the new location?
+                                                        Q5: Do you help unpack at the destination?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Yes, we provide comprehensive unpacking services and help you set up your belongings in your new home or office as per your instructions.</p>
+                                                        <p>Basic unpacking—placing boxes in rooms, assembling beds and major furniture, removing packing materials—is included. Full unpacking where we also help put things away is available as an add-on service for clients who want the extra hand.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <h2>Conclusion</h2>
-                                <p>Whether you are shifting your house or moving your office, <strong>Lucky Transporter</strong> is your trusted partner for a seamless relocation. With our expert team and professional packing standards, we turn a complex move into a hassle-free experience. Get in touch for a free quotation today!</p>
-                            </div>
+                                <h2>Book Your Packing and Moving Service</h2>
+                                <p>Packing and moving doesn't have to be exhausting. With the right team, the right materials, and the right plan, you can walk out of your old home knowing everything inside is protected. Contact <strong>Lucky Transporter</strong> to schedule a pre-move survey and get a transparent, all-inclusive quote.</p>
                         </div>
                         <div class="col-30">
                             <aside class="services__sidebar">

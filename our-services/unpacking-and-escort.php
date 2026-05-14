@@ -39,39 +39,41 @@
                             </div>
 
                             <div class="services__details-content">
-                                <h1 class="title">Seamless Unpacking and Escort Services for a Stress-Free Move</h1>
-                                <p>Moving to a new environment is exciting, but the task of reorganizing everything can be overwhelming. At <strong>Lucky Transporter</strong>, we provide dedicated assistance and support throughout the entire moving process. Our professional unpacking and escort services are designed to remove the burden of settling in, allowing you to enjoy your new space from day one.</p>
-                                
-                                <p>Our team of experts handles your belongings with the utmost care, assisting with the careful removal of items from boxes and setting up your home or office exactly as you envision it. With over 11 years of experience, we ensure a smooth transition with minimal disruption to your daily life.</p>
+                                <h1 class="title">Unpacking and Setup That Gets You Living in Your New Space Faster</h1>
+                                <p>The boxes are delivered. The hard part's over, right? Not quite. Unpacking is where most moves fall apart—it's time-consuming, tedious, and suddenly you're living out of suitcases for two weeks because there's always something more urgent to do.</p>
 
-                                <h2>Why Choose Lucky Transporter for Unpacking?</h2>
+                                <p>Lucky Transporter's unpacking service handles the entire post-move setup: opening boxes, placing items in their rooms, assembling furniture, connecting appliances, and cleaning up the packing debris. You move in ready to live, not ready to spend your weekend fighting with instruction manuals.</p>
+
+                                <h2>What Unpacking Service Covers</h2>
+                                <p>We don't just empty boxes—we make your new space functional:</p>
                                 <ul>
-                                    <li><strong>Experts in Moving:</strong> Our staff are trained professionals who know how to handle delicate, expensive, and oversized items with ease during the unpacking stage.</li>
-                                    <li><strong>Greater Convenience:</strong> We speed up the settling-in process so you can start using your new space immediately without the long wait time associated with DIY unpacking.</li>
-                                    <li><strong>All-in-One Assistance:</strong> From opening boxes to arranging furniture, we handle the heavy lifting and the fine details, removing the stress from your relocation.</li>
-                                    <li><strong>Personalized Approach:</strong> Our services are tailored to your preferences, ensuring that every item is placed exactly where you want it.</li>
+                                    <li><strong>Room-by-Room Unpacking</strong> — Kitchen items in the kitchen, bedroom items in the bedroom. We follow your priorities for which rooms to set up first.</li>
+                                    <li><strong>Furniture Assembly</strong> — Beds, tables, wardrobes, shelving units. All the flatpack and partially assembled furniture that arrived in pieces.</li>
+                                    <li><strong>Appliance Setup</strong> — Washing machines, refrigerators, TVs, microwaves. We position and connect them so they're ready to use.</li>
+                                    <li><strong>Debris Removal</strong> — All boxes, packing paper, bubble wrap, and packing materials hauled away after setup is complete.</li>
+                                    <li><strong>Basic Organization</strong> — Wardrobe hanging, drawer arrangement, kitchen cabinet setup. Not full Marie Kondo, but functional.</li>
                                 </ul>
 
-                                <h2>Our Systematic Unpacking & Setup Process</h2>
-                                
+                                <h2>How We Handle Unpacking</h2>
+
                                 <div>
-                                    <h3>1. Assessment and Planning</h3>
-                                    <p>Upon reaching the destination, our specialists assess the layout and create a plan to unpack efficiently. We prioritize essential areas like the kitchen and bedrooms to make your first night comfortable.</p>
+                                    <h3>Step 1: Walkthrough and Priority Setting</h3>
+                                    <p>On arrival, we walk through the space with you. You tell us what's essential for day one—usually the kitchen and master bedroom—and we work from there. No assumptions about what goes where.</p>
                                 </div>
 
                                 <div>
-                                    <h3>2. Careful Unpacking</h3>
-                                    <p>Every item is unpacked with precision, ensuring that all contents remain intact. We pay special attention to fragile items, valuables, and custom equipment throughout the process.</p>
+                                    <h3>Step 2: Systematic Unpacking</h3>
+                                    <p>We unpack room by room, not box by box. Each room's items are consolidated from multiple boxes before we start placing, so nothing gets lost in the wrong room.</p>
                                 </div>
 
                                 <div>
-                                    <h3>3. Setup and Arrangement</h3>
-                                    <p>We don't just leave boxes; we set up your furniture, large appliances, and other relevant equipment as per your directions, making them immediately operational.</p>
+                                    <h3>Step 3: Assembly and Setup</h3>
+                                    <p>Furniture gets assembled, appliances get positioned and connected, and basic organization happens—drawers lined, wardrobes arranged, kitchen items accessible. Not fully organized, but usable.</p>
                                 </div>
 
                                 <div>
-                                    <h3>4. Waste Management and Cleanup</h3>
-                                    <p>After the setup is complete, we efficiently manage and remove all packaging materials, leftover boxes, and debris, leaving your new space clean and clutter-free.</p>
+                                    <h3>Step 4: Cleanup and Walkthrough</h3>
+                                    <p>Packing materials are bundled and removed. We do a final walkthrough with you to confirm everything is where you want it. Adjustments happen on the spot.</p>
                                 </div>
 
                                 <div class="services__details-content-inner-two">
@@ -93,92 +95,93 @@
                                     </div>
                                 </div>
 
-                                <h2>What is an Escort Service in Relocation?</h2>
-                                <p>Our Escort Service provides an assigned personnel who travels with your shipment or monitors it closely throughout the journey. This ensures constant supervision and personalized care for your high-value belongings.</p>
+                                <h2>What the Escort Service Covers</h2>
+                                <p>For high-value or sensitive shipments, we offer escort service—a dedicated handler who travels with your consignment from origin to destination. This means:</p>
                                 <ul>
-                                    <li><strong>Constant Surveillance:</strong> Real-time monitoring of your goods from door-to-door, including comprehensive insurance coverage.</li>
-                                    <li><strong>Dedicated Care:</strong> Specialized attention for essential accessories like cutlery, china, ornaments, and precious metals.</li>
-                                    <li><strong>Regular Communication:</strong> Frequent updates from the escort personnel regarding the shipment's status and ETA.</li>
+                                    <li><strong>Dedicated Supervision</strong> — One person responsible for your goods throughout the journey, not just loading and unloading.</li>
+                                    <li><strong>Real-Time Updates</strong> — Direct communication from the escort handler about transit status, delays, and ETA changes.</li>
+                                    <li><strong>Enhanced Security</strong> — Physical presence with your goods at all times, not just GPS tracking.</li>
+                                    <li><strong>Special Handling</strong> — Fragile items, valuable goods, or sensitive equipment get the focused attention they need.</li>
                                 </ul>
 
-                                <h2>Key Benefits of Our Services</h2>
+                                <h2>Why Add Unpacking to Your Move</h2>
                                 <ol>
-                                    <li><strong>Time-Saving:</strong> Our team handles the entire unpacking task, freeing you to focus on your work or family.</li>
-                                    <li><strong>Safe Handling:</strong> We use professional techniques to prevent any damage during the final stage of your move.</li>
-                                    <li><strong>Stress-Free Transition:</strong> Everything is placed and operational, making your new house feel like a home instantly.</li>
-                                    <li><strong>Environmental Responsibility:</strong> We follow eco-friendly practices for disposing of packing waste and resource utilization.</li>
+                                    <li><strong>Time Back in Your Day</strong> — Professional unpacking takes hours for you, minutes for us. That time is better spent on work, family, or just recovering from the move.</li>
+                                    <li><strong>Nothing Lost in the Chaos</strong> — Items unpacked systematically don't end up in the wrong room or misplaced in storage. We track what came from where.</li>
+                                    <li><strong>Less Day-One Stress</strong> — Walking into a set-up home instead of a maze of boxes changes how the move feels. It actually feels like home sooner.</li>
+                                    <li><strong>Proper Disposal</strong> — Packing waste disposed of responsibly, not sitting in your new home waiting for you to deal with it.</li>
                                 </ol>
 
                                 <div class="services__details-benefit">
-                                    <h2>Frequently Asked Questions</h2>
+                                    <h2>Common Questions About Unpacking</h2>
                                     <br>
                                     <div class="faq__wrap">
                                         <div class="accordion" id="accordionExample">
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                                        Q1: What does the unpacking service involve?
+                                                        What's included in unpacking service?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>An unpacking service involves carefully taking items out of their boxes, arranging furniture and appliances as per your choice, and disposing of all packing materials to leave your space clean.</p>
+                                                        <p>We open boxes, unpack items into their designated rooms, assemble furniture, connect basic appliances, and remove all packing debris. We don't do deep cleaning or full home organization—we make your space functional enough to live in.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                        Q2: Are sensitive and delicate items treated differently?
+                                                        Can I choose which rooms to prioritize?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Yes, we pay additional attention to sensitive and delicate items. We use specialized handling techniques for unboxing and placing them to ensure they are never at risk.</p>
+                                                        <p>Yes. Tell us what you need first—most people prioritize the kitchen and master bedroom. We work through your priorities in order.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                                        Q3: Do you assemble and set up electronics?
+                                                        Do you handle fragile or valuable items differently?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Of course! Our experts assist in placing and setting up electronic devices in their proper arrangement with utmost diligence.</p>
+                                                        <p>Yes. Fragile items get extra attention during unpacking—delicate glassware, electronics, artwork. We unpack these items first and place them where you indicate before moving to other rooms.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                                        Q4: Can I reschedule the unpacking services to a later date?
+                                                        When can unpacking be scheduled?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Yes, you can choose a convenient time frame that meets your schedule for the unpacking services.</p>
+                                                        <p>Same day as delivery or the day after—your choice. We can schedule unpacking to align with your move-in time so we're not starting before you're ready to be there.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                                        Q5: What role does an escort service play?
+                                                        What's the difference between escort and standard tracking?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Our escort service ensures your items are moved safely through real-time tracking, focused supervision, and constant communication until they reach the final destination.</p>
+                                                        <p>Standard tracking is GPS-based—location updates. Escort service means a dedicated person travels with your shipment. They can make handling decisions during transit, provide immediate updates, and are accountable for the goods throughout. Useful for high-value or sensitive shipments.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <h2>Conclusion</h2>
-                                <p>At <strong>Lucky Transporter</strong>, we take the heavy lifting and the organizational stress off your shoulders. Our professional unpacking and escort services ensure that your move ends on a high note, leaving you to relax in your perfectly organized new space. Contact us today for a free quote!</p>
+                                <h2>Move In Ready to Live</h2>
+                                <p>Lucky Transporter's unpacking service bridges the gap between "delivery day" and "home." We handle the tedious post-move work so you're not living out of boxes for weeks. Add escort service for peace of mind on sensitive or valuable shipments. Contact us to schedule unpacking along with your move.</p>
                             </div>
                         </div>
                         <div class="col-30">

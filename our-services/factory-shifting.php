@@ -39,40 +39,45 @@
                             </div>
 
                             <div class="services__details-content">
-                                <h1 class="title">Professional Factory Shifting Services for Heavy Industrial Relocation</h1>
-                                <p>Relocating an entire factory or manufacturing unit is a massive logistical challenge that involves moving heavy machinery, production lines, and delicate industrial equipment. At <strong>Lucky Transporter</strong>, we specialize in high-stakes industrial relocation, ensuring that every piece of your factory's infrastructure is handled with extreme care and professional precision.</p>
-                                
-                                <p>With over 11 years of experience, we have developed a reputation for executing seamless factory transitions across India. Our team is trained to handle the complexities of industrial logistics, from dismantling heavy gear to reassembling and commissioning it at the new site, all while ensuring minimal downtime for your operations.</p>
+                                <h1 class="title">Seamless Factory Shifting Services That Keep Your Business Running</h1>
+                                <p>When your factory needs to move, every hour of downtime means lost production and revenue. At <strong>Lucky Transporter</strong>, we understand that industrial relocations are high-pressure operations where timing and precision matter above everything else. Our dedicated team has helped dozens of manufacturing units across India relocate without missing a single scheduled delivery.</p>
 
-                                <h2>Why Trust Us for Your Industrial Relocation?</h2>
+                                <p>What sets us apart is our end-to-end approach to factory moves. From the initial site survey to the final installation and testing at your new facility, we manage every detail. No subcontracting, no handoffs that create confusion—just one team with one mission: getting your factory back up and running as quickly as possible.</p>
+
+                                <h2>What Makes Our Factory Shifting Service Different?</h2>
                                 <ul>
-                                    <li><strong>Specialized Heavy-Duty Equipment:</strong> We utilize modern cranes, forklifts, and hydraulic lifts specifically designed for the safe loading and maneuvering of heavy industrial machinery.</li>
-                                    <li><strong>Highly Skilled Technical Workforce:</strong> Our personnel undergo rigorous training in industrial logistics, dismantling, and reassembly, ensuring they possess the deep knowledge required for factory shifts.</li>
-                                    <li><strong>Customized Relocation Roadmap:</strong> Moving a factory is not a one-size-fits-all job. We create bespoke relocation plans tailored to your factory's specific layout, machinery types, and operational schedule.</li>
-                                    <li><strong>Seamless One-Stop Service:</strong> We manage every phase of the relocation—from dismantling and packing to secure transportation and final setup—providing you with a hassle-free experience.</li>
-                                    <li><strong>GPS-Integrated Secure Transit:</strong> Our fleet is equipped with real-time GPS tracking, providing you with constant updates on the location of your valuable industrial assets during the move.</li>
+                                    <li><strong>Dedicated Project Managers:</strong> Every factory relocation gets its own assigned manager who coordinates all aspects of the move and serves as your single point of contact throughout the process.</li>
+                                    <li><strong>Equipment-Specific Handling:</strong> We assess each piece of machinery individually and use the appropriate lifting devices, cradles, and securing methods rather than a generic approach.</li>
+                                    <li><strong>Production-Line Planning:</strong> We work around your production schedule, planning the move in phases so critical departments can resume operations while others are still being relocated.</li>
+                                    <li><strong>Complete Site Management:</strong> Beyond just moving equipment, we handle disconnection, reconnection, and basic commissioning—giving your team a head start on the new setup.</li>
+                                    <li><strong>Real-Time Move Tracking:</strong> GPS-equipped vehicles and a live dashboard let you monitor your equipment's location and estimated arrival at any time.</li>
                                 </ul>
 
-                                <h2>Our Meticulous Factory Shifting Process</h2>
-                                
+                                <h2>Our Factory Shifting Process</h2>
+
                                 <div>
-                                    <h3>1. Thorough Site Reconnaissance and Strategy</h3>
-                                    <p>We begin with a detailed site visit to evaluate the factory layout and scope of work. This allows us to assess the technical requirements and create a strategy that ensures a smooth and efficient transition.</p>
+                                    <h3>1. Site Survey and Move Planning</h3>
+                                    <p>Our engineers visit your facility to catalog every item that needs to move, assess access points and constraints, and build a detailed relocation plan. This plan includes a phase-by-phase timeline so you know exactly when each section of your factory will be operational again.</p>
                                 </div>
 
                                 <div>
-                                    <h3>2. Expert Dismantling and Industrial Packing</h3>
-                                    <p>Heavy machinery and sensitive electronic components are dismantled by our technical experts. We use high-quality industrial-grade materials to pack every component, ensuring zero damage during transit.</p>
+                                    <h3>2. Disconnection and Preparation</h3>
+                                    <p>Before any equipment leaves its foundation, our technicians safely disconnect power, utilities, and data lines. Each connection point is photographed and labeled for accurate reconnection at the destination.</p>
                                 </div>
 
                                 <div>
-                                    <h3>3. Safe Transportation and Real-Time Monitoring</h3>
-                                    <p>Your factory assets are transported in specialized vehicles designed for heavy loads. Our real-time monitoring system keeps you informed of the journey's progress every step of the way.</p>
+                                    <h3>3. Secure Packing and Loading</h3>
+                                    <p>Delicate components are wrapped in anti-static materials, heavy machinery is strapped into custom cradles, and everything is loaded onto purpose-built vehicles using hydraulic systems that eliminate manual lifting risks.</p>
                                 </div>
 
                                 <div>
-                                    <h3>4. Professional Reassembly and Site Setup</h3>
-                                    <p>Upon reaching the new site, we reassemble your machinery and help with the initial setup. Our goal is to ensure your production line is ready for immediate operation with minimal delay.</p>
+                                    <h3>4. Transportation and Delivery</h3>
+                                    <p>Our heavy-load fleet transports your equipment along pre-planned routes designed to minimize vibration and shock. You receive live tracking updates throughout the journey.</p>
+                                </div>
+
+                                <div>
+                                    <h3>5. Reinstallation and Startup Support</h3>
+                                    <p>Upon arrival, our team reinstalls equipment to manufacturer specifications, reconnects all services, and performs basic operational checks. We stay on-site until you're satisfied that everything is running correctly.</p>
                                 </div>
 
                                 <div class="services__details-content-inner-two">
@@ -80,35 +85,35 @@
                                         <div class="col-lg-6 col-md-6">
                                             <div class="services__details-inner-img">
                                                 <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-loading-01.png"
-                                                    alt="Secure loading of industrial machinery using specialized cranes"
-                                                    title="Heavy Machine Relocation">
+                                                    alt="Factory equipment being carefully loaded onto transport vehicles"
+                                                    title="Industrial Equipment Loading">
                                             </div>
                                         </div>
                                         <div class="col-lg-6 col-md-6">
                                             <div class="services__details-inner-img">
                                                 <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-loading-02.png"
-                                                    alt="Professional industrial setup at new factory location"
-                                                    title="Industrial Site Setup">
+                                                    alt="Industrial machinery being reinstalled at new factory location"
+                                                    title="Machine Reinstallation">
                                             </div>
                                         </div>
                                     </div>
                                 </div>
 
-                                <h2>Categories of Industrial Units We Relocate</h2>
+                                <h2>Industries We Serve</h2>
                                 <ul>
-                                    <li><strong>Manufacturing Units:</strong> Relocation of production lines, lathes, CNC machines, and heavy tools.</li>
-                                    <li><strong>Textile Mills:</strong> Careful handling of looms, dyeing machines, and large-scale textile equipment.</li>
-                                    <li><strong>Pharmaceutical Plants:</strong> Secure transport of sensitive lab gear, cleanroom components, and specialized packaging units.</li>
-                                    <li><strong>Food Processing Units:</strong> Moving food-grade machinery, large ovens, and refrigeration systems.</li>
-                                    <li><strong>Automobile Factories:</strong> Efficient shifting of assembly lines, spare parts, and specialized automotive tools.</li>
+                                    <li><strong>Automotive Manufacturing:</strong> Assembly line equipment, robotic arms, CNC centers, and quality testing stations.</li>
+                                    <li><strong>Textile and Garment Units:</strong> High-speed looms, spinning machines, dyeing equipment, and finishing lines.</li>
+                                    <li><strong>Pharmaceutical Production:</strong> Cleanroom systems, filling lines, lab equipment, and temperature-controlled storage.</li>
+                                    <li><strong>Food Processing Plants:</strong> Large-scale ovens, refrigeration units, packaging lines, and hygiene-rated conveyors.</li>
+                                    <li><strong>Plastic and Polymer Industries:</strong> Injection molding machines, extruders, cooling systems, and raw material handling.</li>
                                 </ul>
 
-                                <h2>Key Benefits for Your Business</h2>
+                                <h2>Why Factories Choose Lucky Transporter</h2>
                                 <ul>
-                                    <li><strong>Reduced Operational Downtime:</strong> Our efficient process ensures your business operations experience minimal interruption.</li>
-                                    <li><strong>Comprehensive Asset Protection:</strong> Premium packing and secure handling methods safeguard your expensive assets from any damage.</li>
-                                    <li><strong>Total Peace of Mind:</strong> Our professional crew handles all the heavy lifting and technical logistics, allowing you to focus on your core business.</li>
-                                    <li><strong>Cost-Effective Solutions:</strong> Competitive rates ensure that you receive high-quality industrial moving services without exceeding your budget.</li>
+                                    <li><strong>Minimal Production Disruption:</strong> Our phased approach lets you keep revenue-generating operations running longer while we handle the rest.</li>
+                                    <li><strong>Risk-Free Relocation:</strong> Comprehensive transit coverage means you're protected against any unexpected damage during the move.</li>
+                                    <li><strong>No Hidden Charges:</strong> The quote you receive includes everything—labor, transport, packing materials, and basic installation. No surprises on billing day.</li>
+                                    <li><strong>Compliance and Safety:</strong> All moves follow strict occupational safety guidelines, and we carry full liability insurance for industrial operations.</li>
                                 </ul>
 
                                 <div class="services__details-benefit">
@@ -119,69 +124,68 @@
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                                        Q1: How long does a full factory relocation typically take?
+                                                        Q1: How do you minimize downtime during a factory relocation?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>The time frame depends on the size of the factory, the volume of machinery, and the distance. We provide a specific, realistic timeline during the planning phase to ensure project transparency.</p>
+                                                        <p>We use a phased relocation approach, moving non-critical equipment first while keeping your core production lines running as long as possible. This strategy typically reduces downtime by 40-60% compared to a full shutdown and move.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                        Q2: Can you handle the moving of high-precision or sensitive machinery?
+                                                        Q2: Can you handle sensitive precision machinery?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Yes, our crew is extensively trained in handling delicate and high-precision industrial equipment with extreme care and specialized vibration-dampening packing.</p>
+                                                        <p>Yes. We use vibration dampening materials, climate-controlled vehicles, and shock-absorbing mounting for sensitive equipment. Every piece is insured individually based on its replacement value.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                                        Q3: Do you provide transit insurance for industrial assets?
+                                                        Q3: Is my equipment insured during the move?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Absolutely. we offer comprehensive insurance options for all your factory assets during transit, providing you with financial security and peace of mind.</p>
+                                                        <p>All factory equipment is covered under our comprehensive transit insurance policy for the full declared value. We provide documentation of coverage before the move begins.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                                        Q4: Do you offer machinery re-erection services at the new site?
+                                                        Q4: Do you handle the reinstallation and setup?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Yes, we provide technical re-erection and basic commissioning support to help your team get the machines operational as soon as possible after the move.</p>
+                                                        <p>Yes. Our technicians perform complete reinstallation including mechanical anchoring, utility connections, and basic operational testing. Your engineers handle fine calibration—that's outside our scope, but we get everything to that point.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                                        Q5: What safety protocols are followed during the relocation?
+                                                        Q5: How do you handle hazardous materials or chemicals?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>We adhere to strict industrial safety standards, using proper PPE, certified lifting gear, and highly secure transportation methods to prevent any site accidents or equipment damage.</p>
+                                                        <p>We partner with licensed hazardous material handlers for any industrial chemicals, solvents, or regulated substances. These are identified during the survey phase and handled by certified specialists—never mixed with general freight.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <h2>Conclusion</h2>
-                                <p>Factory relocation demands unmatched expertise and attention to detail. At <strong>Lucky Transporter</strong>, we make even the most complex industrial moves easy and effective. Contact us today for a free estimate and let us handle your factory shift with professional excellence!</p>
-                            </div>
+                                <h2>Ready to Relocate Your Factory?</h2>
+                                <p>A factory relocation doesn't have to mean weeks of lost production. With the right partner, it can be a well-planned transition that gets you back online faster than you expected. <strong>Lucky Transporter</strong> has the equipment, the team, and the track record to make it happen. Contact us today for a detailed assessment and customized relocation plan.</p>
                         </div>
                         <div class="col-30">
                             <aside class="services__sidebar">

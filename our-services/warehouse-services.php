@@ -39,40 +39,40 @@
                             </div>
 
                             <div class="services__details-content">
-                                <h1 class="title">Secure Warehouse and Storage Services for Businesses and Individuals</h1>
-                                <p>The smooth flow of logistics relies heavily on the proper storage and management of goods. At <strong>Lucky Transporter</strong>, we offer tailor-made warehousing services designed to fulfill the diverse requirements of businesses and individuals alike. Our modern facilities are equipped with high security and efficient management systems to guarantee the safety of your products at all times.</p>
-                                
-                                <p>Whether you need short-term storage during a move or a long-term warehousing solution for your commercial inventory, our facilities provide a clean, pest-free, and highly secure environment. With our expert team and advanced infrastructure, your belongings are always in safe hands and ready for dispatch whenever you need them.</p>
+                                <h1 class="title">Warehouse Storage That Keeps Your Goods Safe Until You Need Them</h1>
+                                <p>Sometimes a move doesn't happen in one straight line. Maybe your new place isn't ready yet. Maybe you're scaling down your office and need somewhere to store the overflow. Maybe you're a business that needs flexible inventory storage without the overhead of your own warehouse.</p>
 
-                                <h2>What Makes Our Warehouse Services Unique?</h2>
+                                <p>Lucky Transporter's warehousing service gives you secure, accessible storage for as long as you need it. Our warehouses are monitored around the clock, pest-controlled, and maintained. Your goods don't just sit there—they stay protected until you're ready to retrieve them.</p>
+
+                                <h2>What Our Warehouses Offer</h2>
                                 <ul>
-                                    <li><strong>Exceptional Facilities:</strong> Our warehouses feature modern infrastructure, temperature-controlled options, and organized storage spaces for various types of products.</li>
-                                    <li><strong>24/7 Safety and Security:</strong> We employ round-the-clock security personnel, CCTV surveillance, and advanced fire alarm systems to protect your assets from any risk.</li>
-                                    <li><strong>Flexible Storage Options:</strong> We offer scalable storage solutions that can be customized for any duration, whether it's for a few weeks or several months.</li>
-                                    <li><strong>Expert Handling Personnel:</strong> Our staff is trained in using modern machinery for the safe loading and unloading of goods, preventing any accidental damage.</li>
-                                    <li><strong>Strategic Locations:</strong> With warehouses located in major Indian cities, we ensure that your goods are stored conveniently near your business centers or distribution points.</li>
+                                    <li><strong>24/7 Security</strong> — CCTV monitoring, security personnel, and controlled access. Your goods are watched from the moment they arrive until they leave.</li>
+                                    <li><strong>Climate Options</strong> — Temperature-controlled units for sensitive items: pharmaceuticals, artwork, electronics, food products.</li>
+                                    <li><strong>Pest and Moisture Control</strong> — Regular professional treatments keep stored goods free from damage caused by pests, humidity, or water.</li>
+                                    <li><strong>Inventory Management</strong> — Track what's in storage, request item retrieval, and schedule dispatch when you need it.</li>
+                                    <li><strong>Flexible Duration</strong> — Short-term storage during a move, long-term for business inventory. No rigid commitments.</li>
                                 </ul>
 
-                                <h2>Additional Features of Our Warehousing Solutions</h2>
-                                
+                                <h2>What We Store</h2>
+
                                 <div>
-                                    <h3>1. Advanced Inventory Management</h3>
-                                    <p>We utilize sophisticated tracking systems for every item stocked in our warehouse. This helps in maintaining accurate stock levels and ensures easy retrieval of goods when required.</p>
+                                    <h3>Household Goods</h3>
+                                    <p>Furniture, appliances, personal belongings during transition. Often used when new home isn't ready or during home renovations. Items stored in clean, dry conditions.</p>
                                 </div>
 
                                 <div>
-                                    <h3>2. Climate-Controlled Environments</h3>
-                                    <p>We offer specialized storage areas for sensitive items such as pharmaceuticals, certain food products, and delicate machinery that require a stable environment.</p>
+                                    <h3>Business Inventory</h3>
+                                    <p>Retail stock, office equipment, electronics. E-commerce businesses use us for overflow inventory during peak seasons. Scalable space that grows with your business.</p>
                                 </div>
 
                                 <div>
-                                    <h3>3. Bulk Storage for Oversized Items</h3>
-                                    <p>Our spacious facilities allow for the efficient storage of large machinery, miscellaneous equipment, and oversized industrial goods that require significant floor space.</p>
+                                    <h3>Industrial Equipment</h3>
+                                    <p>Machinery, spare parts, tools. Oversized items requiring significant floor space. Loading and unloading equipment available on-site.</p>
                                 </div>
 
                                 <div>
-                                    <h3>4. Hygiene and Pest Control</h3>
-                                    <p>Regular cleaning and professional disinfecting protocols ensure that our warehouses remain clean and free from pests, protecting your goods from any biological damage.</p>
+                                    <h3>Fragile and High-Value Items</h3>
+                                    <p>Artwork, antiques, sensitive electronics. Climate-controlled units, secure access, and insurance options for peace of mind.</p>
                                 </div>
 
                                 <div class="services__details-content-inner-two">
@@ -94,93 +94,92 @@
                                     </div>
                                 </div>
 
-                                <h2>Types of Goods We Manage</h2>
-                                <ul>
-                                    <li><strong>Commercial Inventory:</strong> Electronics, office supplies, and retail stock.</li>
-                                    <li><strong>Household Belongings:</strong> Furniture, appliances, and personal items during relocation.</li>
-                                    <li><strong>Industrial Equipment:</strong> Spare parts, tools, and heavy machinery components.</li>
-                                    <li><strong>Fragile and High-Value Items:</strong> Antiques, artwork, and sensitive electronic equipment.</li>
-                                    <li><strong>Retail & E-commerce Stock:</strong> Scalable storage for growing online businesses.</li>
-                                </ul>
-
-                                <h2>Benefits of Choosing Our Storage Services</h2>
+                                <h2>How Storage Works</h2>
                                 <ol>
-                                    <li><strong>Cost-Effective Solutions:</strong> Save on overhead costs by using our flexible storage spaces that align with your actual utilization.</li>
-                                    <li><strong>Improved Supply Chain Efficiency:</strong> Our organized storage and retrieval processes help speed up your logistics operations.</li>
-                                    <li><strong>Total Peace of Mind:</strong> With multi-layered security and professional handling, you can be sure your goods are safe.</li>
-                                    <li><strong>Scalability:</strong> Easily increase or decrease your storage space as your business needs fluctuate.</li>
+                                    <li><strong>Drop Off or We Collect</strong> — Bring items to our warehouse, or we arrange pickup. Items are inventoried upon arrival.</li>
+                                    <li><strong>Secure Storage</strong> — Items placed in appropriate storage units based on requirements: standard, climate-controlled, or high-security.</li>
+                                    <li><strong>Ongoing Maintenance</strong> — Regular pest control, cleanliness maintenance, and condition monitoring while stored.</li>
+                                    <li><strong>Retrieve When Needed</strong> — Request partial or full retrieval. Items can be dispatched to your location or held for pickup.</li>
                                 </ol>
 
+                                <h2>Why Businesses Use Our Warehousing</h2>
+                                <ul>
+                                    <li><strong>No Capital Locked in Real Estate</strong> — Pay for storage space as you use it. No property investment, no facility maintenance.</li>
+                                    <li><strong>Flexible Scaling</strong> — Increase or decrease storage space based on seasonal inventory fluctuations without long-term leases.</li>
+                                    <li><strong>Supply Chain Integration</strong> — Items stored with us can be part of your fulfillment chain—we handle dispatch when orders come in.</li>
+                                    <li><strong>Cost Predictability</strong> — Monthly billing, no surprises. Know exactly what storage costs each month.</li>
+                                </ul>
+
                                 <div class="services__details-benefit">
-                                    <h2>Frequently Asked Questions</h2>
+                                    <h2>Common Questions About Warehousing</h2>
                                     <br>
                                     <div class="faq__wrap">
                                         <div class="accordion" id="accordionExample">
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                                        Q1: What types of goods can I store in your warehouses?
+                                                        What can I store in your warehouses?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>You can store a wide range of items, including household furniture, commercial inventory, electronics, machinery, and even climate-sensitive products.</p>
+                                                        <p>Almost anything: household goods, commercial inventory, electronics, machinery, furniture, fragile items, and climate-sensitive products. We don't store hazardous materials or perishable food items.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                        Q2: Is my stored inventory covered by insurance?
+                                                        Are stored goods insured?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Yes, we offer comprehensive insurance options for all goods stored in our facilities, protecting them against unforeseen events like fire or theft.</p>
+                                                        <p>Yes. Goods insurance is available based on declared value. This covers loss or damage from fire, theft, water, and other covered events during storage. Let us know your coverage needs and we'll provide options.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                                        Q3: Can I access my goods whenever I need to?
+                                                        Can I access my stored items anytime?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Stored goods can be accessed during our standard operational hours. We request a short notice period to ensure your items are ready for retrieval or dispatch.</p>
+                                                        <p>Access during standard business hours with advance notice—usually 24-48 hours. This gives us time to locate and prepare your items. For urgent retrieval, contact us and we'll accommodate where possible.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                                        Q4: How do you protect goods from pests and dampness?
+                                                        How do you protect goods from pests and moisture?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>We maintain a rigorous schedule for professional pest control and cleaning. Our warehouses are built with moisture-resistant materials to keep the environment dry and safe.</p>
+                                                        <p>Regular professional pest control treatments, moisture-resistant warehouse construction, and climate monitoring in sensitive areas. Your goods arrive clean and stay that way.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                                        Q5: Do you provide long-term storage for businesses?
+                                                        Do you offer long-term storage contracts?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Yes, we offer attractive long-term storage contracts for businesses, providing a stable and cost-effective solution for their inventory management.</p>
+                                                        <p>Yes. Monthly billing with no long-term commitment required, but discounts are available for longer-term arrangements. Businesses with consistent storage needs benefit from negotiated rates.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <h2>Conclusion</h2>
-                                <p>At <strong>Lucky Transporter</strong>, we understand that your goods are valuable. Our warehouse services are built on trust, security, and efficiency. Contact us today for a free consultation and let us provide the perfect storage solution for your needs!</p>
+                                <h2>Storage Without the Facility Overhead</h2>
+                                <p>Lucky Transporter's warehousing gives you professional storage without the property headaches. Security, maintenance, pest control—all handled. Your goods stay protected and accessible. Contact us to discuss your storage requirements or arrange a facility tour.</p>
                             </div>
                         </div>
                         <div class="col-30">

@@ -39,40 +39,45 @@
                             </div>
 
                             <div class="services__details-content">
-                                <h1 class="title">Expert Office Shifting Services for Seamless Corporate Relocation</h1>
-                                <p>Relocating an office is a complex operation that demands meticulous planning, precision management, and minimal disruption to business activities. At <strong>Lucky Transporter</strong>, we specialize in high-efficiency office shifting services designed to take the stress out of your corporate transition. With over 11 years of expertise, we have assisted hundreds of businesses across India in relocating their workspaces safely and effectively.</p>
-                                
-                                <p>We understand that time is money in the business world. Our goal is to ensure a smooth transition with the fastest possible turnaround, allowing your team to resume work in their new environment with zero downtime. From packing sensitive IT equipment to setting up modular furniture, we handle every detail with professional care.</p>
+                                <h1 class="title">Office Shifting That Gets Your Team Back to Work in Less Time</h1>
+                                <p>Every hour of office downtime costs money. When your team can't work, projects stall, clients wait, and revenue stops. At <strong>Lucky Transporter</strong>, we've moved hundreds of offices—from 10-person startups relocating to a new floor, to 500-employee enterprises moving across cities. We know that speed matters, but so does getting things working properly when you arrive. Our office shifting service is designed around one goal: minimizing your operational gap.</p>
 
-                                <h2>Why Choose Us for Your Office Relocation?</h2>
+                                <p>We don't just pack boxes and drive trucks. We plan the move around your business—weekend windows, after-hours packing, phased transitions that let departments stay functional while others move. We coordinate with your IT team, your facilities manager, and whoever's managing the project on your end. Communication is as important as muscle.</p>
+
+                                <h2>What's Included in an Office Move</h2>
                                 <ul>
-                                    <li><strong>Specialized Asset Management:</strong> We use high-grade packing materials and specialized containers for expensive IT equipment, servers, and fragile office furnishings to ensure zero-damage transit.</li>
-                                    <li><strong>Minimizing Business Downtime:</strong> Our strategic relocation plans are engineered to speed up the moving process, ensuring your business operations are back up and running as quickly as possible.</li>
-                                    <li><strong>Scalable Solutions for All Businesses:</strong> Whether you are a small startup moving to a new floor or a large corporation relocating to a different city, we have the resources to handle office moves of any magnitude.</li>
-                                    <li><strong>Highly Trained Relocation Crew:</strong> Every member of our team is specifically trained in the nuances of office logistics, including the disassembly and reassembly of complex office systems.</li>
-                                    <li><strong>GPS-Enabled Secure Transit:</strong> Our entire fleet is equipped with real-time tracking, giving you constant visibility into the location and status of your office assets during the move.</li>
+                                    <li><strong>IT Equipment Handling:</strong> Workstations, servers, networking gear, and peripherals are packed in anti-static materials, labeled by machine and destination, and handled with care during loading and unloading.</li>
+                                    <li><strong>Furniture Disassembly and Reassembly:</strong> Modular workstations, conference tables, and partitions are taken apart at the old office and reassembled at the new one per your floor plan.</li>
+                                    <li><strong>Document and Archive Management:</strong> Files are packed in secure, numbered boxes with chain-of-custody tracking—important for regulated industries like finance, law, and healthcare.</li>
+                                    <li><strong>Phased Scheduling:</strong> If you can't move everything at once, we phase the move—IT first, then furniture, then common areas—so critical teams stay operational longer.</li>
+                                    <li><strong>Post-Move Setup:</strong> We don't just drop boxes and leave. We unpack, assemble, run cables, and place equipment where you need it.</li>
                                 </ul>
 
-                                <h2>Our Meticulous Office Shifting Process</h2>
-                                
+                                <h2>How Office Moves Work With Us</h2>
+
                                 <div>
-                                    <h3>Step 1: Strategic Planning and Consultation</h3>
-                                    <p>We begin with a detailed consultation to understand your specific requirements. We then formulate a customized relocation roadmap that aligns with your business schedule and operational needs.</p>
+                                    <h3>1. Pre-Move Survey and Planning</h3>
+                                    <p>We visit your office to catalog everything that needs to move—workstation count, server room equipment, conference rooms, storage areas, and any fragile or high-value items. This survey generates an accurate quote and a realistic schedule that accounts for your operational constraints.</p>
                                 </div>
 
                                 <div>
-                                    <h3>Step 2: Asset Inventory and Categorization</h3>
-                                    <p>Our experts conduct a comprehensive inventory of all office assets—from server racks and computers to furniture and confidential files—ensuring everything is accounted for and categorized for organized packing.</p>
+                                    <h3>2. IT and Asset Labeling</h3>
+                                    <p>Every asset gets a label matching it to its destination location in the new office. This isn't just for boxes—individual monitors, keyboards, CPUs, and cables are tagged so your IT team can reconnect everything without guessing which cable goes where.</p>
                                 </div>
 
                                 <div>
-                                    <h3>Step 3: Systematic Packing and Labeling</h3>
-                                    <p>We use a systematic labeling system for all boxes and equipment. This ensures that every item is placed in its exact designated area in the new office, facilitating a faster setup.</p>
+                                    <h3>3. Secure Packing</h3>
+                                    <p>Computers are wrapped in anti-static bags before boxing. Servers travel in padded transit cases. Furniture is blanket-wrapped and strapped. We don't cut corners on packing materials because the cost of damaged equipment far exceeds the savings.</p>
                                 </div>
 
                                 <div>
-                                    <h3>Step 4: Professional Unpacking and Installation</h3>
-                                    <p>Upon arrival, our team doesn't just drop off boxes. We unpack and install your equipment and furniture according to your floor plan, helping you get your workspace ready for immediate use.</p>
+                                    <h3>4. Loading and Transportation</h3>
+                                    <p>Items are loaded in reverse order of priority—least critical first, most critical last. In-transit GPS tracking means you know exactly where your equipment is during the move.</p>
+                                </div>
+
+                                <div>
+                                    <h3>5. Setup and Testing</h3>
+                                    <p>At the new office, our team reassembles furniture, places equipment, and runs initial setup. We stay until your IT team confirms everything is connected and operational. Basic cable management is included; fine-tuning is handled by your tech team.</p>
                                 </div>
 
                                 <div class="services__details-content-inner-two">
@@ -80,36 +85,35 @@
                                         <div class="col-lg-6 col-md-6">
                                             <div class="services__details-inner-img">
                                                 <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-packing-01.png"
-                                                    alt="Professional packing of office computers and IT servers"
-                                                    title="Secure IT Equipment Packing">
+                                                    alt="IT team carefully packing office computers and servers with proper labeling"
+                                                    title="IT Equipment Packing">
                                             </div>
                                         </div>
                                         <div class="col-lg-6 col-md-6">
                                             <div class="services__details-inner-img">
                                                 <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-packing-02.png"
-                                                    alt="Organized labeling and boxing of office files"
-                                                    title="Systematic Office Relocation">
+                                                    alt="Organized office boxes with destination labels ready for moving"
+                                                    title="Labeled Office Assets">
                                             </div>
                                         </div>
                                     </div>
                                 </div>
 
-                                <h2>Types of Corporate Moves We Handle</h2>
+                                <h2>Types of Office Moves We Handle</h2>
                                 <ul>
-                                    <li><strong>IT and Data Center Relocation:</strong> Expert handling of servers, networking gear, and sensitive computer systems.</li>
-                                    <li><strong>Furniture Disassembly & Assembly:</strong> Professional management of modular workstations, conference tables, and executive furniture.</li>
-                                    <li><strong>Confidential Document Shifting:</strong> Secure and organized transport of sensitive business files and archives.</li>
-                                    <li><strong>Industrial and Lab Relocation:</strong> Specialized moving services for heavy machinery and delicate laboratory equipment.</li>
-                                    <li><strong>Branch Expansion & Consolidation:</strong> Efficient logistics for merging or expanding office locations across India.</li>
+                                    <li><strong>Small Business Moves:</strong> 10-50 seat offices moving within the same city or to a nearby location.</li>
+                                    <li><strong>Enterprise Relocations:</strong> 100+ seat offices with server rooms, multiple floors, and phased transition requirements.</li>
+                                    <li><strong>Branch Expansion:</strong> New office setups where we're moving equipment to a previously unoccupied space.</li>
+                                    <li><strong>Storage Moves:</strong> Office equipment and furniture going into temporary or long-term storage during transitions.</li>
                                 </ul>
 
-                                <h2>Essential Tips for a Smooth Office Move</h2>
-                                <ol>
-                                    <li><strong>Assign a Relocation Lead:</strong> Designate an internal coordinator to work directly with our project manager for better communication.</li>
-                                    <li><strong>Communicate with Stakeholders:</strong> Inform employees, clients, and vendors about the move and any expected change in service hours.</li>
-                                    <li><strong>Systematic Data Backup:</strong> Ensure all critical business data is backed up before the IT infrastructure is disconnected for the move.</li>
-                                    <li><strong>Update Business Address:</strong> Prepare to update your address on all official documentation, digital platforms, and business directories.</li>
-                                </ol>
+                                <h2>What Affects Your Move Timeline</h2>
+                                <ul>
+                                    <li><strong>Office Size:</strong> Larger offices take more time—packing, loading, and setup all scale with volume.</li>
+                                    <li><strong>Distance:</strong> Local moves can complete in one day; intercity moves typically take 2-5 days including travel.</li>
+                                    <li><strong>IT Complexity:</strong> Server rooms and extensive cable runs add time to both disassembly and reassembly.</li>
+                                    <li><strong>Access Constraints:</strong> Buildings without service elevators or tight loading dock access take longer to load.</li>
+                                </ul>
 
                                 <div class="services__details-benefit">
                                     <h2>Frequently Asked Questions</h2>
@@ -119,69 +123,68 @@
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                                        Q1: How long does a standard office relocation take?
+                                                        Q1: How long does a typical office move take?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>The timeline varies based on the size of the office and the distance. However, most local office moves are completed within 24 to 72 hours to ensure minimal business impact.</p>
+                                                        <p>A local move for a 20-50 seat office typically completes in 1-2 days—packing and loading on day one, delivery and setup on day two. Larger offices or intercity moves take proportionally longer. We give you a detailed schedule during the survey phase.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                        Q2: Can you handle the relocation of our server room and IT network?
+                                                        Q2: Can you handle our server room relocation?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Yes, we have specialized IT relocation teams trained to handle delicate servers, networking switches, and complex cabling with maximum safety and care.</p>
+                                                        <p>Yes. We have IT relocation specialists who handle server racks, network switches, and structured cabling. Servers are backed up by your IT team before we touch them—we handle the physical move and initial rack reinstallation.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                                        Q3: Do you offer weekend or after-hours moving services?
+                                                        Q3: Do you work on weekends?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Absolutely. We often schedule office moves over weekends or during evening hours to ensure that your regular business operations are not interrupted.</p>
+                                                        <p>Yes. Most office moves happen over weekends or public holidays when the office is empty. We also offer evening shifts for moves that need to happen during business hours with minimal disruption.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                                        Q4: Is our office furniture covered under insurance?
+                                                        Q4: Is our equipment insured?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Yes, we provide comprehensive transit insurance for all office assets, protecting your furniture, IT equipment, and documents against any unforeseen damage during transit.</p>
+                                                        <p>Yes. All office equipment is covered under our corporate transit policy for declared replacement values. We provide the coverage document before the move begins and handle claims directly if any damage occurs.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                                        Q5: How do you ensure the safety of sensitive business documents?
+                                                        Q5: Can we move in phases?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Confidential documents are packed in security-sealed containers and handled with strict chain-of-custody protocols to ensure complete privacy and safety.</p>
+                                                        <p>Absolutely. Many large offices move department by department over multiple weekends. We plan these transitions with your department heads so the most critical teams can continue operating while others are being relocated.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <h2>Conclusion</h2>
-                                <p>Office shifting doesn't have to be a logistical nightmare. With <strong>Lucky Transporter</strong>, you get a seamless, professional, and efficient transition. Contact us today for a free corporate relocation quote and experience the best in office moving services!</p>
-                            </div>
+                                <h2>Plan Your Office Move</h2>
+                                <p>An office move doesn't have to shut your business down for a week. With proper planning, the right crew, and a clear sequence, you can be operational at your new location faster than you think. Contact <strong>Lucky Transporter</strong> to schedule a site survey and get a detailed proposal for your office relocation.</p>
                         </div>
                         <div class="col-30">
                             <aside class="services__sidebar">

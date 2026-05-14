@@ -39,40 +39,55 @@
                             </div>
 
                             <div class="services__details-content">
-                                <h1 class="title">Specialized Painting and Fine Art Moving Services for Your Valued Collections</h1>
-                                <p>We understand that artwork and paintings are more than just objects; they carry immense emotional value, historical significance, and often represent a significant financial investment. At <strong>Lucky Transporter</strong>, we prioritize the secure relocation of your masterpieces, offering specialized <strong>Painting Moving Services</strong> that guarantee your artwork reaches its destination in pristine condition.</p>
-                                
-                                <p>With over 11 years of dedicated experience in the relocation industry, our team has mastered the delicate art of transporting fine art. We employ museum-grade packing techniques and specialized handling protocols to protect every piece, from contemporary canvas paintings to rare antique artifacts. Whether you are moving a single cherished painting or an entire gallery collection, we provide the expert care your art deserves.</p>
+                                <h1 class="title">Fine Art and Painting Moving That Handles Your Collection Like Museum Staff</h1>
+                                <p>Moving paintings and artwork isn't like moving furniture. One scratch on a framed canvas, one crack in a marble sculpture, and you've lost something irreplaceable—not just in value, but in meaning. That's why Lucky Transporter treats every piece as if it belonged in a gallery.</p>
 
-                                <h2>Why Trust Lucky Transporter for Art Relocation?</h2>
+                                <p>Our art handlers are trained specifically for fragile, high-value pieces. We use museum-grade materials, custom-built crates, and climate-controlled vehicles to ensure your collection arrives exactly as it left. Whether it's a single watercolor or an entire gallery wall, we bring the same level of care.</p>
+
+                                <h2>The Difference Between Art Movers and Regular Movers</h2>
+                                <p>Regular moving companies don't have the training or materials to protect fine art properly. The risks aren't worth taking:</p>
                                 <ul>
-                                    <li><strong>Museum-Grade Handling Expertise:</strong> Our handlers are specifically trained in the physics of art transport, understanding how to manage fragility, weight distribution, and sensitive surfaces.</li>
-                                    <li><strong>Premium Acid-Free Packaging:</strong> We use only the highest quality materials, including acid-free glassine paper, non-abrasive wraps, and custom foam inserts to prevent any chemical or physical damage.</li>
-                                    <li><strong>Custom Crating Solutions:</strong> For high-value or exceptionally fragile pieces, we design and build custom wooden crates tailored to the exact dimensions and structural needs of the artwork.</li>
-                                    <li><strong>Climate-Controlled Transportation:</strong> Our vehicles are equipped with temperature and humidity controls, as well as advanced shock-absorbent systems, to protect sensitive oil paints and delicate frames.</li>
-                                    <li><strong>Comprehensive Art Insurance:</strong> We offer tailored insurance options specifically for high-value artwork, providing you with full financial protection and peace of mind throughout the journey.</li>
+                                    <li><strong>Surface scratches</strong> — Frames and canvases get damaged from contact with other items during transit</li>
+                                    <li><strong>Humidity warping</strong> — Oil paintings and watercolor paper warp when exposed to temperature swings</li>
+                                    <li><strong>Impact breakage</strong> — Insufficient cushioning leads to cracked frames, shattered glass, torn canvas</li>
+                                    <li><strong>Value loss</strong> — Improper handling reduces collectible and insurance value permanently</li>
+                                </ul>
+                                <p>Specialized art moving eliminates these risks through materials and methods developed for galleries and museums.</p>
+
+                                <h2>What We Move</h2>
+                                <ul>
+                                    <li><strong>Oil Paintings</strong> — Canvas and panel pieces requiring corner protection and climate stability</li>
+                                    <li><strong>Watercolors and Prints</strong> — Acid-sensitive works needing flat positioning with humidity control</li>
+                                    <li><strong>Sculptures</strong> — Marble, bronze, glass, and mixed-media pieces requiring individual crating</li>
+                                    <li><strong>Antique Furniture</strong> — Pieces with fragile finishes, ornate details, and historical value</li>
+                                    <li><strong>Photography and Framed Art</strong> — Signed prints, limited editions, and family heirlooms</li>
                                 </ul>
 
-                                <h2>Our Meticulous Art Moving Process</h2>
-                                
+                                <h2>How We Protect Every Piece</h2>
+
                                 <div>
-                                    <h3>1. Specialized Assessment & Strategic Planning</h3>
-                                    <p>We begin with a detailed evaluation of each piece, considering its medium (oil, watercolor, acrylic), age, frame type, and size. This allows us to craft a personalized relocation plan that addresses every potential risk.</p>
+                                    <h3>Step 1: Condition Assessment</h3>
+                                    <p>We inspect each piece before packing—documenting existing damage, checking frame integrity, and noting any areas needing special attention. This becomes your baseline for insurance and delivery verification.</p>
                                 </div>
 
                                 <div>
-                                    <h3>2. Expert Multi-Layered Packing</h3>
-                                    <p>Each artwork is carefully wrapped in acid-free paper, followed by multiple layers of bubble wrap and corner protectors. We then place the pieces in reinforced cartons or custom-built crates for maximum physical security.</p>
+                                    <h3>Step 2: Museum-Grade Packing</h3>
+                                    <p>Each piece gets multi-layer protection: acid-free glassine paper as the primary barrier, custom foam inserts sized to the artwork, and padded corner guards for frames. No two pieces are packed the same way—each gets exactly what it needs.</p>
                                 </div>
 
                                 <div>
-                                    <h3>3. Precision Loading & Secure transit</h3>
-                                    <p>Using specialized tools, we secure your artwork within our vehicles to prevent any movement. Our GPS-enabled fleet allows for constant monitoring, ensuring your collection is always under our watchful eye.</p>
+                                    <h3>Step 3: Custom Crating</h3>
+                                    <p>High-value or fragile pieces go into purpose-built wooden crates. These are sized to the artwork with foam lining and vibration-dampening materials. The crate becomes its protected traveling home.</p>
                                 </div>
 
                                 <div>
-                                    <h3>4. Careful Unpacking & Professional Placement</h3>
-                                    <p>Upon arrival, our art handlers professionally unpack each piece and assist in precise positioning at your new location, ensuring your art is displayed exactly as you intended.</p>
+                                    <h3>Step 4: Climate-Controlled Transit</h3>
+                                    <p>Our climate-controlled vehicles maintain stable temperature and humidity throughout transit. This is critical for oil paints, watercolors, and any piece sensitive to environmental changes.</p>
+                                </div>
+
+                                <div>
+                                    <h3>Step 5: Careful Unpacking and Placement</h3>
+                                    <p>Upon arrival, we unpack each piece professionally, inspect for any transit issues, and position it exactly where you want it. We handle hanging, lighting adjustment, and any assembly needed.</p>
                                 </div>
 
                                 <div class="services__details-content-inner-two">
@@ -94,93 +109,93 @@
                                     </div>
                                 </div>
 
-                                <h2>Types of Artwork We Expertly Shift</h2>
+                                <h2>Artwork We Handle</h2>
                                 <ul>
-                                    <li><strong>Fine Art Paintings:</strong> Expert care for oil on canvas, acrylics, and delicate watercolors in all frame styles.</li>
-                                    <li><strong>Sculptures & Statues:</strong> Specialized crating solutions for sculptures made of marble, bronze, glass, or mixed media.</li>
-                                    <li><strong>Antique Artifacts:</strong> Handling rare and precious historical pieces with the extreme care required to maintain their integrity.</li>
-                                    <li><strong>Canvas & Large-Scale Art:</strong> Safe transport for oversized canvas works, whether framed or professionally rolled.</li>
-                                    <li><strong>Photography & Limited Prints:</strong> Protection against light exposure and humidity for framed photographs and high-end prints.</li>
+                                    <li><strong>Oil Paintings</strong> — Canvas and panel pieces requiring climate control and careful corner protection</li>
+                                    <li><strong>Watercolors and Prints</strong> — Acid-sensitive works needing flat positioning and humidity protection</li>
+                                    <li><strong>Sculptures</strong> — Marble, bronze, glass, and mixed-media pieces requiring custom crating</li>
+                                    <li><strong>Antiques</strong> — Historical pieces with fragile finishes and collector value</li>
+                                    <li><strong>Photography and Framed Art</strong> — Signed prints, photography, and limited editions</li>
                                 </ul>
 
-                                <h2>Who We Serve</h2>
+                                <h2>Who Needs Art Moving Services</h2>
                                 <ul>
-                                    <li><strong>Private Collectors:</strong> Safely moving your personal gallery during a home relocation.</li>
-                                    <li><strong>Art Galleries:</strong> Managing the transfer of artwork between exhibitions or for sales deliveries.</li>
-                                    <li><strong>Museums:</strong> Providing expert logistical support for historical artifacts and treasured collections.</li>
-                                    <li><strong>Corporate Offices:</strong> Professional relocation of artwork displayed in lobbies, boardrooms, and executive suites.</li>
+                                    <li><strong>Private Collectors</strong> — Moving home galleries or relocating a single precious piece</li>
+                                    <li><strong>Art Galleries</strong> — Exhibition setup, breakdown, and client delivery</li>
+                                    <li><strong>Corporate Offices</strong> — Boardroom art, lobby installations, and hotel artwork</li>
+                                    <li><strong>Artists</strong> — Studio relocations and gallery representation transfers</li>
                                 </ul>
 
                                 <div class="services__details-benefit">
-                                    <h2>Frequently Asked Questions</h2>
+                                    <h2>Common Questions About Art Moving</h2>
                                     <br>
                                     <div class="faq__wrap">
                                         <div class="accordion" id="accordionExample">
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                                        Q1: How do you protect the surface of sensitive oil paintings?
+                                                        How do you protect oil paintings from climate damage?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>We use pH-neutral, acid-free glassine paper as the first layer of contact. This prevents the packing materials from sticking to the paint or causing chemical reactions with the medium.</p>
+                                                        <p>We use climate-controlled vehicles that maintain stable temperature and humidity throughout transit. Oil paintings are particularly sensitive to temperature changes, which can cause paint cracking or canvas warping. Our vehicles prevent this by keeping conditions consistent from pickup to delivery.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                        Q2: Can you handle the relocation of very large or oversized artwork?
+                                                        Can you move oversized or irregular-shaped artwork?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Absolutely. We specialize in custom-crating oversized pieces and using specialized lifting equipment to ensure they are moved safely and efficiently, even in challenging environments.</p>
+                                                        <p>Yes. We custom-build crates for oversized pieces and use specialized handling equipment. For very large canvas works, we can arrange professional rolling with archival tubes—a standard museum practice. Every piece gets a solution tailored to its dimensions and vulnerabilities.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                                        Q3: Do you provide insurance specifically for fine art?
+                                                        Do you provide insurance for valuable artwork?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Yes, we highly recommend and provide comprehensive art-specific insurance. This covers the full declared value of your collection against any transit-related incidents.</p>
+                                                        <p>Yes. We offer transit insurance coverage based on declared values. For high-value collections, we work with specialized art insurance providers to ensure full coverage during handling, transport, and installation. Documentation of condition before the move supports the claims process if needed.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                                        Q4: Can you move artwork internationally?
+                                                        Do you handle international art shipments?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Yes, we have extensive experience in global art logistics, including coordinating with customs authorities for the necessary permits and ensuring international transport standards are met.</p>
+                                                        <p>Yes. We handle global art logistics including customs documentation for fine art, specialized import permits, and coordination with international art handlers and customs brokers. Our network covers major art market destinations worldwide.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                                        Q5: Should I take photos of my artwork before the move?
+                                                        What should I do to prepare my artwork before the move?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Yes, we always recommend taking high-resolution photos of each piece before packing. This serves as vital photographic evidence for your records and for insurance purposes.</p>
+                                                        <p>Photograph each piece from multiple angles before we arrive—this creates a record for insurance purposes and helps verify condition upon delivery. Let us know about any existing damage, loose frames, or特别 sensitive areas. We handle the rest from packing to placement.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <h2>Conclusion</h2>
-                                <p>Moving fine art is a specialized craft that requires precision, patience, and professional expertise. At <strong>Lucky Transporter</strong>, we have mastered this art over a decade of service. Contact us today for a free estimate and let us handle your valuable collection with the professional excellence it deserves!</p>
+                                <h2>Trust Your Collection to Specialists</h2>
+                                <p>Art moves aren't like other moves. The stakes are higher and the tolerances are smaller. Lucky Transporter's art handling team brings museum-grade techniques to every relocation—custom crating, climate control, and careful positioning included. Contact us for an assessment and quote for your collection.</p>
                             </div>
                         </div>
                         <div class="col-30">

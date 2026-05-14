@@ -39,39 +39,36 @@
                             </div>
 
                             <div class="services__details-content">
-                                <h1 class="title">Safe and Efficient Loading and Unloading Services Tailored for You</h1>
-                                <p>Loading and unloading your goods are crucial steps in the moving process. At <strong>Lucky Transporter</strong>, we understand that while relocation can be described in simple terms, it requires meticulous planning and expert execution. Years of experience have made us specialists in handling your goods with the highest level of care at every point of the move.</p>
-                                
-                                <h2>Why Choose Lucky Transporter for Loading and Unloading?</h2>
-                                <p>We offer a systematic approach that guarantees the safety of your belongings:</p>
-                                <ul>
-                                    <li><strong>Experienced Workforce:</strong> Our staff is well-trained and has successfully handled thousands of moves. Their skill set allows them to move furniture, delicate showpieces, and electronic goods safely in a single, organized operation.</li>
-                                    <li><strong>Modern Equipment:</strong> We use advanced tools such as hydraulic lifts, dollies, and furniture sliders to ensure heavy items are moved without any damage to the property or the item itself.</li>
-                                    <li><strong>Safety First Approach:</strong> We prioritize the safety of your belongings above all else. Our team uses protective gear and follows strict safety protocols throughout the loading and unloading stages.</li>
-                                    <li><strong>Efficiency and Speed:</strong> Our systematic approach ensures that the loading and unloading are done quickly without compromising on safety, saving you valuable time.</li>
-                                </ul>
+                                <h1 class="title">Loading and Unloading That Protects Your Goods from Doorstep to Destination</h1>
+                                <p>The way your belongings are loaded and unloaded matters more than most people realize. A poorly loaded truck can turn a short relocation into a broken furniture nightmare—even if everything was packed perfectly. At <strong>Lucky Transporter</strong>, loading and unloading isn't just a step in our process; it's a specialized skill we've refined over thousands of moves.</p>
 
-                                <h2>Our Proven Loading and Unloading Process</h2>
-                                <p>At Lucky Transporter, we follow a rigorous process to ensure a smooth transition:</p>
-                                
+                                <p>Our crews understand weight distribution, securing techniques, and sequence—the difference between an item arriving in one piece or arriving damaged often comes down to decisions made during loading. We treat every item, heavy or fragile, with the same level of care because we know how much each piece means to you.</p>
+
+                                <h2>How Our Loading and Unloading Service Works</h2>
+
                                 <div>
-                                    <h3>1. Pre-Move Planning</h3>
-                                    <p>We begin by assessing the volume and type of goods to be moved. This helps us determine the right equipment and manpower required for a smooth operation.</p>
+                                    <h3>1. Assessment Before Touching Anything</h3>
+                                    <p>We evaluate your items before lifting a single box. This gives us the right crew size, the correct equipment, and a plan for how everything loads onto the vehicle—heavy pieces where, fragile items placed how. It takes 15 minutes and prevents problems all day.</p>
                                 </div>
 
                                 <div>
-                                    <h3>2. Safe Loading</h3>
-                                    <p>Our team carefully loads your belongings onto the moving vehicle, ensuring that heavy items are placed at the bottom for stability and fragile items are secured on top to prevent pressure damage.</p>
+                                    <h3>2. Right Equipment for Every Item</h3>
+                                    <p>No one lifts a washing machine by hand when a hand truck exists. We arrive with furniture sliders, dollies, ramps, moving blankets, and straps. For items above a certain weight, we use hydraulic equipment to lift safely without risking back injuries or floor damage.</p>
                                 </div>
 
                                 <div>
-                                    <h3>3. Secure Transportation</h3>
-                                    <p>We use well-maintained vehicles driven by experienced drivers who understand the importance of smooth transit to ensure your goods reach their destination safely and on time.</p>
+                                    <h3>3. Loading Sequence</h3>
+                                    <p>We load in a deliberate order: heaviest and largest items first along the walls, medium items in the center, and fragile or priority items last—loaded closest to the cab so they come out first at the destination. Everything is strapped or blocked to prevent shifting during transit.</p>
                                 </div>
 
                                 <div>
-                                    <h3>4. Systematic Unloading</h3>
-                                    <p>Upon arrival, our team systematically unloads your goods, placing them in designated areas as per your instructions to make the unpacking process easier and more organized.</p>
+                                    <h3>4. Secure Transit</h3>
+                                    <p>Loaded vehicles are checked before departure. Items are re-secured if needed at any rest stops during long-distance moves. Our drivers are trained to avoid sudden braking and sharp turns that could damage loosely packed loads.</p>
+                                </div>
+
+                                <div>
+                                    <h3>5. Systematic Unloading</h3>
+                                    <p>At your destination, we unload in reverse order—fragile items first, placed in their designated rooms immediately. Furniture goes where you want it, not where it's convenient for us. We don't leave until everything is placed and you're satisfied.</p>
                                 </div>
 
                                 <div class="services__details-content-inner-two">
@@ -79,46 +76,39 @@
                                         <div class="col-lg-6 col-md-6">
                                             <div class="services__details-inner-img">
                                                 <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-transport-01.png"
-                                                    alt="Expert Loading Team in Action"
-                                                    title="Professional Loading Equipment">
+                                                    alt="Loading crew using proper equipment to safely load heavy furniture"
+                                                    title="Safe Loading Practices">
                                             </div>
                                         </div>
                                         <div class="col-lg-6 col-md-6">
                                             <div class="services__details-inner-img">
                                                 <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-transport-02.png"
-                                                    alt="Organized Unloading Process"
-                                                    title="Systematic Unloading and Placement">
+                                                    alt="Organized unloading with items placed in designated rooms"
+                                                    title="Room Placement">
                                             </div>
                                         </div>
                                     </div>
                                 </div>
 
-                                <h2>Summary of Our Service Features</h2>
+                                <h2>What We Load and Unload</h2>
                                 <ul>
-                                    <li>Protective Bubble Packaging for all fragile items.</li>
-                                    <li>Use of high-quality corrugated sheets and industrial-grade stretch films.</li>
-                                    <li>Advanced loading equipment including ramps, heavy-duty dollies, and sliders.</li>
-                                    <li>Systematic labeling for easy identification and room-wise organization.</li>
+                                    <li><strong>Household Furniture:</strong> Beds, sofas, wardrobes, dining sets, and modular furniture—all handled with blankets and proper lifting techniques.</li>
+                                    <li><strong>Fragile and High-Value Items:</strong> Artwork, mirrors, antiques, glass furniture, and expensive electronics loaded last and offloaded first.</li>
+                                    <li><strong>Heavy Appliances:</strong> Refrigerators, washing machines, AC units, and industrial-grade equipment moved with appropriate mechanical aids.</li>
+                                    <li><strong>Office and IT Equipment:</strong> Workstations, server racks, printers, and copiers—loaded to minimize vibration and physical stress during transit.</li>
+                                    <li><strong>Vehicles:</strong> Cars and bikes loaded onto specialized ramps and secured for transport.</li>
                                 </ul>
 
-                                <h2>Types of Items We Handle with Expertise</h2>
-                                <p>Our team is equipped to manage a wide range of goods, including:</p>
+                                <h2>Equipment We Use</h2>
                                 <ul>
-                                    <li><strong>Household Furniture:</strong> Sofas, beds, wardrobes, and dining sets.</li>
-                                    <li><strong>Fragile Items:</strong> Glassware, expensive artwork, antiques, and mirrors.</li>
-                                    <li><strong>Electrical Appliances:</strong> Large TVs, refrigerators, washing machines, and HVAC units.</li>
-                                    <li><strong>Office Equipment:</strong> Server racks, computers, printers, and modular workstations.</li>
-                                    <li><strong>Industrial Machinery:</strong> Specialized equipment for small and medium enterprises.</li>
-                                    <li><strong>Vehicles:</strong> Safe loading of Cars and Bikes using specialized ramps.</li>
+                                    <li><strong>Hand Trucks and Dollies:</strong> For heavy appliances and large boxes.</li>
+                                    <li><strong>Furniture Sliders and Moving Blankets:</strong> For hardwood floors and polished surfaces that scratch easily.</li>
+                                    <li><strong>Hydraulic Lifts and Ramps:</strong> For ground-floor and basement access without stairs.</li>
+                                    <li><strong>Heavy-Duty Straps and Tie-Downs:</strong> To secure items inside the vehicle during transit.</li>
                                 </ul>
 
-                                <h2>Loading and Unloading Tips for a Smooth Move</h2>
-                                <ol>
-                                    <li><strong>Plan Ahead:</strong> Create a detailed checklist of items to ensure nothing is overlooked during the loading process.</li>
-                                    <li><strong>Label Everything:</strong> Clearly mark boxes with their contents and the destination room to speed up the unloading process.</li>
-                                    <li><strong>Disassemble Large Items:</strong> Where possible, take apart oversized furniture to make them easier and safer to load.</li>
-                                    <li><strong>Communicate Clearly:</strong> Provide specific instructions to our moving team regarding high-priority or extra-fragile items.</li>
-                                </ol>
+                                <h2>Why Book Just Loading and Unloading</h2>
+                                <p>Not everyone needs full packing and moving service. If you've already packed everything yourself or you're only moving items from one floor to another in the same building, you might only need the labor. Our loading and unloading service works standalone—you handle the transport, we handle the heavy lifting.</p>
 
                                 <div class="services__details-benefit">
                                     <h2>Frequently Asked Questions</h2>
@@ -128,69 +118,68 @@
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                                        Q1: Do you provide specialized tools and machinery for loading?
+                                                        Q1: Do you bring your own equipment?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Yes, we utilize a variety of specialized tools including rollers, sliders, and where necessary, cranes or forklifts to safely move items regardless of their weight or size.</p>
+                                                        <p>Yes. We arrive with hand trucks, dollies, furniture sliders, moving blankets, straps, and ramps. You don't need to arrange anything—we bring everything needed for the job.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                        Q2: How do you handle fragile objects during loading?
+                                                        Q2: How do you handle fragile items during loading?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Fragile items are given extra attention. We use specialized packing materials like foam and bubble wrap, and they are always loaded last and secured on top of heavier items.</p>
+                                                        <p>Fragile items are wrapped in moving blankets and loaded last. In the vehicle, they're positioned on top of stable items and away from walls where impact could occur. At delivery, they come off the truck first.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                                        Q3: Can you unload items into specific rooms at my new home?
+                                                        Q3: Can you place items in specific rooms?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Absolutely. Our team will unload and place each item or box in its designated room as per your instructions to make your unboxing process much faster.</p>
+                                                        <p>Yes. Tell us which room each box or item belongs in during booking or at delivery. Our crew will place everything accordingly—beds in bedrooms, sofas in the living room, and so on.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                                        Q4: How long does the loading and unloading process take?
+                                                        Q4: How long does loading and unloading take?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>The time required depends on the volume of goods and complexity. Generally, a standard household loading or unloading process takes between 2 to 4 hours.</p>
+                                                        <p>For a typical 2-3 bedroom home, loading takes 2-3 hours and unloading takes 1-2 hours. Larger homes or commercial moves take proportionally longer. We give you a time estimate during booking.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                                        Q5: What measures are in place if an item is damaged during the process?
+                                                        Q5: Is there insurance if something gets damaged?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>While we take every precaution to prevent damage, all our services are covered by insurance. In the rare event of damage, we assist with the claim process for your peace of mind.</p>
+                                                        <p>Yes. All items handled by our crew are covered under our transit liability policy. Damage claims are processed directly with our team—no third-party insurance runaround. Report any damage at the time of delivery.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <h2>Conclusion</h2>
-                                <p>At <strong>Lucky Transporter</strong>, we take the heavy lifting off your shoulders. Our professional loading and unloading services ensure that your valuables are handled with precision and care, making your move efficient and stress-free. Contact us today for a free estimate!</p>
-                            </div>
+                                <h2>Book Loading and Unloading</h2>
+                                <p>Whether you need a crew for a full home move or just a few hours of help shifting heavy furniture downstairs, <strong>Lucky Transporter</strong> has the team and equipment to do it safely. Contact us for same-day or advance booking.</p>
                         </div>
                         <div class="col-30">
                             <aside class="services__sidebar">

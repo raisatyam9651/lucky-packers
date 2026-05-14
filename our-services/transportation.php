@@ -39,56 +39,27 @@
                             </div>
 
                             <div class="services__details-content">
-                                <h1 class="title">Smooth Transport Solutions for All Your Needs</h1>
-                                <p>In the contemporary world with all its speedy activities, the efficient transport services make the life of men and households to run business and stay connected. Lucky Transporter helps you to come up with complete and reliable solutions in transport which are designed specifically for you. We have more than 11 years of experience in the industry, we guarantee the timely delivery of the goods and services of both individuals and businesses.</p>
-                                <p>Our transport services deliver more than just household and commercial transport as we also transport vehicles and special consignments. A modern fleet, tracking systems enable us to place the customer at the forefront of our every goal to ensure expedited and secured deliveries.</p>
-                                <h2>What Makes Our Transport Services Stand Out?</h2>
+                                <h1 class="title">Transportation That Gets Your Goods There on Time and in Good Condition</h1>
+                                <p>Getting your goods from point A to point B sounds simple until you factor in distances, road conditions, multiple handling points, and the dozen things that can go wrong along the way. Lucky Transporter handles transportation logistics so you don’t have to worry about whether your shipment will arrive on time.</p>
+                                <p>We operate a modern fleet across major routes in India. GPS tracking keeps you updated throughout the journey, and our drivers are trained to handle different cargo types—fragile goods, commercial shipments, vehicle transport. Whatever you’re moving, we have the right vehicle and the right approach.</p>
+                                <h2>What We Transport</h2>
                                 <ol>
                                     <li>
-                                        <strong>Reliability Like Never Before:</strong> More than a decade of performance in delivering goods properly and effectively.
+                                        <strong>Household Goods</strong> — Furniture, appliances, personal belongings. Cushioned loading and secure positioning so nothing shifts during transit.
                                     </li>
                                     <li>
-                                        <strong>National Coverage:</strong> Almost all major cities and even some distant places within India covered.
+                                        <strong>Commercial Shipments</strong> — Raw materials, finished products, machinery. Consistent scheduling for regular business logistics needs.
                                     </li>
                                     <li>
-                                        <strong>Real Time Tracking Devices:</strong> Full tracking visibility through GPS system while the items are on the road.
+                                        <strong>Vehicles</strong> — Cars and bikes on specialized car carriers. No stacking damage, no scratches—just secure loading and delivery.
                                     </li>
                                     <li>
-                                        <strong>Fleet Of New Vehicles:</strong> Ready with new fitted vehicles required to transport the diverse goods.
+                                        <strong>Fragile and Sensitive Goods</strong> — Electronics, glassware, machinery. Individual packing protocols based on the item’s vulnerability profile.
                                     </li>
                                     <li>
-                                        <strong>Cost Effective Services:</strong> Low prices with low and no extra fees.
-                                    </li>
-                                    <li>
-                                        <strong>Green Solutions:</strong> Use of the means which will help in cutting down the carbon footprint.
+                                        <strong>Long-Distance and Inter-City</strong> — Hub-based network covering major Indian cities with optimized routes for faster delivery.
                                     </li>
                                 </ol>
-                                <h2>What Makes Our Transport Services Stand Out?</h2>
-                                <p>No job is impossible for us since we have devised bespoke procedures for our customers’ varied transportation needs throughout the years.</p>
-                                <div>
-                                    <h3>1. Transportation of Goods from Households</h3>
-                                    <p>Our focus is always on damage management, so we treat household items with regard for necessary precautions vis a vis all the aspects such as furniture, kitchen appliances and much more. We ensure that our trucks are fully equipped in a way that delivered items reach safely and within the time limit.</p>
-                                </div>
-
-                                <div>
-                                    <h3>2. Transportation of Commercial Goods</h3>
-                                    <p>Protecting raw materials, goods, and machinery through delivery channels is the forte of our professionals. Our goal is to serve our clients regardless of the product that they require dispatching/receiving.</p>
-                                </div>
-
-                                <div>
-                                    <h3>3. Transportation of Automobiles</h3>
-                                    <p>Our specialized carriers take the weight of all the logistics making life easy for the owners of cars/bikes. The focus is always on providing automobile owners with prompt services so that their vehicles are not scratched or damaged during transport.</p>
-                                </div>
-
-                                <div>
-                                    <h3>4. Transporting Fragile Items Such As Electronics And Perishables</h3>
-                                    <p>We pack every single item, whether it is perishables, glassware, or meteorites with the utmost care in order to preserve them during the entirety of the delivery route. We, as a result, go to great lengths to make sure that the items stay in one piece.</p>
-                                </div>
-
-                                <div>
-                                    <h3>5. Transportation Over Long Distances And Inter-City Transportation</h3>
-                                    <p>Locations of our hubs have been specifically planned and strategically chosen to ensure that every inter-city transportation is fast and smooth. With time we have set up an expansive transportation network which makes frequent travels easier.</p>
-                                </div>
 
                                 <div class="services__details-content-inner-two">
                                     <div class="row gutter-24">
@@ -111,168 +82,103 @@
                                     </div>
                                 </div>
 
-                                <h2>Why Our Services Are the Best In The Industry</h2>
-                                <ul>
-                                    <li>
-                                        <strong>Security Measures:</strong> A comprehensive set of protocol mechanisms to ensure that your goods during transportation are not lost.
-                                    </li>
-                                    <li>
-                                        <strong>Always On:</strong> Whenever a concern needs to be addressed, our client support staff will always be there to take your calls.
-                                    </li>
-                                    <li>
-                                        <strong>Bespoke Services:</strong> Tailormade services that cater to your needs either personal or professional matters.
-                                    </li>
-                                    <li>
-                                        <strong>Simplified Protocols:</strong> The entire structure from booking to the delivery has been created inside out focused on convenience.
-                                    </li>
-                                    <li>
-                                        <strong>Professionalism:</strong> Skilled personnel who know how to handle your goods.
-                                    </li>
-                                </ul>
-                                <h2>How We Operate On Transportation Economics</h2>
+                                <h2>How the Process Works</h2>
                                 <ol>
                                     <li>
-                                        <strong>First Meeting:</strong> Firstly, how to go about your needs is discussed, along with aspects that pertain to how your transportation is best handled.
+                                        <strong>Requirement Discussion</strong> — Share what you're shipping, the quantity, the destination, and any special handling needs. We match you with the right vehicle type.
                                     </li>
                                     <li>
-                                        <strong>Custom Pricing:</strong> For jobs that need to be done, pricing plans that outline transparency and context are made available.
+                                        <strong>Transparent Pricing</strong> — We provide a clear quote based on distance, cargo type, and any additional services like packing or insurance. No surprises after pickup.
                                     </li>
                                     <li>
-                                        <strong>Packing & Loading:</strong> The best practices of the industry are first applicable as a team to pack and then load goods & container.
+                                        <strong>Packing and Loading</strong> — If packing services are included, we use industry-appropriate materials and load goods to prevent transit damage.
                                     </li>
                                     <li>
-                                        <strong>Track Units:</strong> A shipment effected by our customer shall be updated owing to the position of it being through a GPS tracking system.
+                                        <strong>GPS Tracking</strong> — Monitor your shipment in real-time. We update you at key milestones: departure, in-transit, approaching destination.
                                     </li>
                                     <li>
-                                        <strong>Safe & On Time Delivery:</strong> Your goods shall be delivered smoothly and on commissioning time, never compromising on safety.
+                                        <strong>Safe On-Time Delivery</strong> — Delivery to your specified location, with unloading assistance if needed.
                                     </li>
-                                </ol>
-                                <h2>Safety Oriented Services</h2>
-                                <p>D Z Packers and Movers PVT. LTD. places utmost importance with safety and to comply and implement safety during transportation we have the means to do so which includes but is limited to.</p>
-                                <ol>
-                                    <li>Checks conducted on the ongoing maintenance of vehicles.</li>
-                                    <li>Compliance that guarantees the safety of packaged goods.</li>
-                                    <li>Drivers possess a wealth of expertise in the industry.</li>
-                                    <li>Instantaneous supervision of the system in order to provide information as quickly as possible.</li>
-                                </ol>
-                                <h3>How Many Different Market Sectors Can Activa Transport Service Company Accommodate?</h3>
-                                <p>Our transportation services are suitable for:</p>
-                                <ol>
-                                    <li>Retail and E-commerce</li>
-                                    <li>Manufacturing and Heavy Equipment</li>
-                                    <li>Automotive Industry</li>
-                                    <li>Pharmaceuticals</li>
-                                    <li>Food and Beverages</li>
-                                    <li>Electronics and Buy IT Equipment</li>
                                 </ol>
 
+                                <h2>Industries We Serve</h2>
+                                <p>Our transport network handles regular shipments for businesses across sectors:</p>
+                                <ul>
+                                    <li><strong>Retail and E-Commerce</strong> — Fulfillment logistics for growing businesses</li>
+                                    <li><strong>Manufacturing</strong> — Raw material inbound and finished goods outbound</li>
+                                    <li><strong>Automotive</strong> — Parts and finished vehicle transport</li>
+                                    <li><strong>Pharmaceuticals</strong> — Climate-sensitive product movement</li>
+                                    <li><strong>Electronics</strong> — Fragile equipment requiring careful handling</li>
+                                    <li><strong>Food and Beverages</strong> — Perishables needing specific transit conditions</li>
+                                </ul>
+
                                 <div class="services__details-benefit">
-                                    <h2>Important Questions&Answers regarding Transport Services</h2>
+                                    <h2>Common Questions About Transportation</h2>
                                     <br>
                                     <div class="faq__wrap">
                                         <div class="accordion" id="accordionExample">
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                                        Q1: What are the different goods you deal in, like fuelling agents, lubricants, etc?
+                                                        What types of goods can you transport?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>We are able to move almost all goods including household items, vehicles, movable furniture, delicate items and other such goods, and even food items.</p>
+                                                        <p>We transport household items, commercial goods, vehicles (cars and bikes), fragile items like electronics and glassware, and temperature-sensitive shipments. If you have something specific, tell us—we'll confirm whether we can handle it and what preparations are needed.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                        Q2: What precautions do you take for the transportation of fragile goods?
+                                                        Q2: How do you handle fragile goods during transport?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Packing of carry boxes containing items that are fragile are done with proper material, and also separate A-class handling measures are taken while in movement of the sensitive cargo.</p>
+                                                        <p>Fragile items get individual packing based on their vulnerability—foam wrapping, double-boxing, or custom crating depending on the item. During loading, they're positioned away from heavy items and secured to prevent shifting. Drivers are briefed on sensitive cargo before departure.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                                        Q3: Who do I contact for information about my shipment, and can I check whether it's on the way?
+                                                        Q3: Can I track my shipment in real-time?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>All our shipments can be tracked using the GPS technology, and you can monitor the status of your package anytime you need.</p>
+                                                        <p>Yes. GPS tracking is standard on all our vehicles. You can see the current location, estimated arrival time, and any delays in real-time through our tracking system.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                                        Q4: How much do the services related to transportation cost?
+                                                        Q4: How much does transportation cost?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>The price is dependent on the type and quantity of the goods as well as distances involved and extra services such as insurance. Get in touch with us for a tailored price.</p>
+                                                        <p>Cost depends on what you're shipping, the distance, vehicle type needed, and any extra services like packing or insurance. Contact us with your requirements for a specific quote. We don't do hidden charges—the price we quote is the price you pay.</p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                                        Q5: Do you provide any insurance for cargo which is being transported?
+                                                        Q5: Do you provide insurance for transported goods?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Yes, we do offer comprehensive coverage which will safeguard your goods against any unforeseen events during the delivery of your goods to the end user.</p>
+                                                        <p>Yes. Goods insurance is available as an add-on. Declared value coverage protects your shipment against loss or damage during transit. We recommend it for high-value items.</p>
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="accordion-item">
-                                                <h2 class="accordion-header">
-                                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                                                        Q6: What is the typical total duration of transportation?
-                                                    </button>
-                                                </h2>
-                                                <div id="collapseSix" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                                    <div class="accordion-body">
-                                                        <p>It’s been seen that the time taken depends on distance and items being carried. Within regions deliveries will likely take 1-2 days, while long haul deliveries might take longer while being moved.</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="accordion-item">
-                                                <h2 class="accordion-header">
-                                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
-                                                        Q7: What papers does one need for insurance of their vehicles during transportation?
-                                                    </button>
-                                                </h2>
-                                                <div id="collapseSeven" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                                    <div class="accordion-body">
-                                                        <p>You are required to submit the vehicle registration documents, proof of insurance and a copy of identification document for verification.</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="accordion-item">
-                                                <h2 class="accordion-header">
-                                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
-                                                        Q8: Do such policies have additional fees?
-                                                    </button>
-                                                </h2>
-                                                <div id="collapseEight" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                                    <div class="accordion-body">
-                                                        <p>No, there are no extra fees involved with us – the costing of the project/order is clear-cut and there are no hidden charges. All fees will be stated in the estimate provided.</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                </div>
-                                <h2>Conclusion</h2>
-                                <p>As for transport services, Lucky Transporter comes out as a partner one can depend on. We are fully committed to ensuring the safe delivery of your goods while putting emphasis on efficacy and customer satisfaction. The process of moving house, a business, or a vehicle becomes effortless as our professionals take charge of the task. Reach out to us now for obtain superior transport services at reasonable costs.</p>
+                                <h2>Reliable Transport for Your Business and Home</h2>
+                                <p>Lucky Transporter handles transportation for businesses with regular shipping needs and individuals moving household goods. The same attention to timing, handling, and tracking applies regardless of shipment size. Contact us to discuss your transport requirements.</p>
                             </div>
                         </div>
                         <div class="col-30">
@@ -959,168 +865,4 @@
         </article>
     </main>
 
-    <!-- footer-area -->
-<footer class="footer__area-two fix">
-    <div class="container">
-        <div class="footer__top">
-            <div class="row">
-                <!-- About Us and Social Links -->
-                <div class="col-xl-4 col-lg-5 col-md-6">
-                    <div class="footer__widget">
-                        <div class="footer__logo">
-                            <a href="<?php echo $base_url; ?>"><img src="<?php echo $base_url; ?>assets/media/logo/logo.jpeg" alt="Lucky Transporter Logo"></a>
-                        </div>
-                        <div class="footer__content footer__content-two">
-                            <p>
-                                Lucky Transporter offers professional packing and moving services across India. With over 11 years of experience, we ensure a seamless relocation for homes, offices, and vehicles.
-                            </p>
-                        </div>
-                        <div class="footer__social footer__social-two">
-                            <ul class="list-wrap">
-                                <li><a href="https://www.facebook.com/profile.php?id=61571732304929" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-
-                                <li><a href="javascript:void(0);" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a></li>
-
-                                <li><a href="https://www.youtube.com/channel/UCWIHCiznHKhWh5_pplTBFvQ" target="_blank"><i class="fab fa-youtube"></i></a></li>
-                            </ul>
-                        </div>
-
-                    </div>
-                </div>
-
-                <!-- Services Links -->
-                <div class="col-xl-2 col-lg-4 col-md-6 col-sm-6">
-                    <div class="footer__widget">
-                        <h4 class="footer__widget-title footer__widget-title-two">Quick Links</h4>
-                        <div class="footer__link footer__link-two">
-                            <ul class="list-wrap">
-                                <li><a href="<?php echo $base_url; ?>">Home</a></li>
-                                <li><a href="<?php echo $base_url; ?>about-us.php">About Us</a></li>
-                                <li><a href="<?php echo $base_url; ?>our-work.php">Our Work</a></li>
-                                <li><a href="<?php echo $base_url; ?>faq.php">Faq's</a></li>
-                                <li><a href="<?php echo $base_url; ?>our-network.php">Our Network</a></li>
-                                <li><a href="<?php echo $base_url; ?>blogs/">Blogs</a></li>
-                                <li><a href="<?php echo $base_url; ?>contact-us.php">Contact Us</a></li>
-
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Quick Links -->
-                <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
-                    <div class="footer__widget">
-                        <h4 class="footer__widget-title footer__widget-title-two">Our Services</h4>
-                        <div class="footer__link footer__link-two">
-                            <ul class="list-wrap">
-
-                                <li><a href="<?php echo $base_url; ?>our-services/">Our All Services</a></li>
-                                <li><a href="<?php echo $base_url; ?>our-services/home-shifting.php">Home Relocation</a></li>
-                                <li><a href="<?php echo $base_url; ?>our-services/office-shifting.php">Office Shifting</a></li>
-                                <li><a href="<?php echo $base_url; ?>our-services/car-and-bike-transportation.php">Car & Bike Moving</a></li>
-                                <li><a href="<?php echo $base_url; ?>our-services/international-relocation.php">International Relocation</a></li>
-                                <li><a href="<?php echo $base_url; ?>our-services/warehouse-services.php">Warehousing</a></li>
-                                <li><a href="<?php echo $base_url; ?>our-services/goods-insurance.php">Goods Insurance</a></li>
-                            </ul>
-
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Contact Information -->
-                <div class="col-xl-3 col-lg-4 col-md-6">
-                    <div class="footer__widget">
-                        <h4 class="footer__widget-title footer__widget-title-two">Contact Information</h4>
-                        <div class="footer__info-wrap footer__info-wrap-two">
-                            <ul class="list-wrap">
-                                <li>
-                                    <i class="flaticon-telephone"></i>
-                                    <a href="tel:+91 8003966646" onclick="gtag_report_conversion_call_button();">+91 8003966646</a>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-envelope"></i>
-                                    <a href="mailto:info@luckycarepackers.com">info@luckycarepackers.com</a>
-                                </li>
-                                <li>
-                                    <i class="flaticon-time"></i>
-                                    <p>We Are Available 24x7</p>
-                                </li>
-                                <li style="margin-bottom: 10px;margin-top: 20px;"><a class="btnv" href="<?php echo $base_url; ?>terms-and-conditions.php">// Terms & Conditions</a></li>
-                                <li><a class="btnv" href="<?php echo $base_url; ?>privacy-policy.php">// Privacy Policy</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="footer__bottom">
-            <div class="row align-items-center">
-                <div class="col-md-6">
-                    <div class="copyright-text">
-                        <p>Copyright <a href="<?php echo $base_url; ?>">© 2026 Lucky Transporter</a> | All Rights Reserved</p>
-                    </div>
-                </div>
-                <div class="col-md-6">
-                    <div class="footer__social" style="text-align: right;">
-                        <p class="text-white">Designed and Developed with ❤️ by &nbsp;<a href="http://gocube.in" target="_blank">GoCube Solution India</a> 💻</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</footer>
-<!-- footer-area-end -->
-
-<!-- Scroll-top -->
-<button class="scroll__top scroll-to-target" data-target="html">
-    <i class="fas fa-angle-up"></i>
-</button>
-<!-- Scroll-top-end-->
-
-<!-- Save Contact Details -->
-<a href="generate_vcard.php" class="fixed-button01 priceCalculateBtn" style="bottom: 80px;color:#fff">
-    Save Contact Details! <i class="fa-regular fa-download"></i>
-</a>
-<!-- Save Contact Details -->
-
-<!-- footer bottom -->
-<div class="gocube_bottom_bar01">
-
-    <!-- Call Button -->
-    <a class="botbtn" href="tel:+91 8003966646" onclick="gtag_report_conversion_call_button();" title="Call Lucky Transporter at +91 8003966646">
-        <i class="fa-regular fa-phone"></i>
-        <br><span>CALL</span>
-    </a>
-
-    <!-- Email Button -->
-    <a class="botbtn" href="mailto:info@luckycarepackers.com?cc=info@luckycarepackers.com&amp;subject=Looking for Packers and Movers with Lucky Transporter"
-        title="Send an Email to Lucky Transporter">
-        <i class="fa-regular fa-envelope"></i>
-        <br><span>E-MAIL</span>
-    </a>
-
-    <!-- WhatsApp Button -->
-    <a class="botbtn" href="https://api.whatsapp.com/send?phone=+918003966646&amp;text=I%20am%20Looking%20for%20Packers%20and%20Movers%20with%20LC%20Packers%20and%20Movers%20PVT.%20LTD."
-        target="_blank" onclick="gtag_report_conversion_whatsapp_button();" title="Chat with Lucky Transporter on WhatsApp">
-        <i class="fa-brands fa-whatsapp"></i>
-        <br><span>WHATSAPP</span>
-    </a>
-
-    <!-- Enquiry Button -->
-    <a class="botbtn get_a_free_quote" href="javascript:void(0);" title="Submit Your Enquiry to Lucky Transporter">
-        <i class="fa-regular fa-square-pen"></i>
-        <br><span>ENQUIRY</span>
-    </a>
-
-    <!-- SMS Button -->
-    <a class="botbtn" href="sms:+91 8003966646?body=I%20am%20Looking%20for%20Packers%20and%20Movers%20with%20LC%20Packers%20and%20Movers%20PVT.%20LTD."
-        title="Send a Text Message to Lucky Transporter">
-        <i class="fa-regular fa-comment-sms"></i>
-        <br><span>MESSAGE</span>
-    </a>
-
-</div>
-
-
-
-<?php include '../footer.php'; ?>
+    <!-- footer-area -->

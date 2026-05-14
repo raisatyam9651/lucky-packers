@@ -75,6 +75,7 @@
                             <div class="content">
                                 <h4 class="title">Head Office</h4>
                                 <p>G-65, Sector-110, New Palam Vihar, Phase-1, Gurugram, Haryana - 122017</p>
+                                <p class="mt-10"><a href="<?php echo $base_url; ?>assets/img/GST.pdf" target="_blank" style="color: #0A4D68; font-weight: 600;"><i class="fas fa-file-pdf"></i> Download GST Certificate</a></p>
                             </div>
                         </div>
                     </div>
@@ -84,7 +85,7 @@
                     <div class="row gutter-24">
                         <div class="col-lg-6">
                             <div class="contact__map" style="height: 100%; min-height: 400px; border-radius: 10px; overflow: hidden;">
-                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3506.711835973955!2d77.0142998748386!3d28.4882583906323!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d199859f5b61b%3A0xc958925534!2sLC%20Packers%20and%20Movers%20Pvt.%20Ltd.!5e0!3m2!1sen!2sin!4v1715104000000!5m2!1sen!2sin" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3506.711835973955!2d77.0142998748386!3d28.4882583906323!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d199859f5b61b%3A0xc958925534!2sLucky%20Transporter%20and%20Movers%20Pvt.%20Ltd.!5e0!3m2!1sen!2sin!4v1715104000000!5m2!1sen!2sin" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                             </div>
                         </div>
                         <div class="col-lg-6">
