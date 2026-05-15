@@ -470,7 +470,7 @@ include 'header.php';
                                         <?php 
                                         $half = ceil(count($local_areas) / 2);
                                         for($i=0; $i<$half; $i++) {
-                                            echo '<a href="#" class="list-group-item list-group-item-action">Packers & Movers in ' . $local_areas[$i] . ' ' . $city . '</a>';
+                                            echo '<div class="list-group-item list-group-item-action">Packers & Movers in ' . $local_areas[$i] . ' ' . $city . '</div>';
                                         }
                                         ?>
                                     </div>
@@ -479,7 +479,7 @@ include 'header.php';
                                     <div class="list-group">
                                         <?php 
                                         for($i=$half; $i<count($local_areas); $i++) {
-                                            echo '<a href="#" class="list-group-item list-group-item-action">Packers & Movers in ' . $local_areas[$i] . ' ' . $city . '</a>';
+                                            echo '<div class="list-group-item list-group-item-action">Packers & Movers in ' . $local_areas[$i] . ' ' . $city . '</div>';
                                         }
                                         ?>
                                     </div>
