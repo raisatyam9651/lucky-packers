@@ -470,7 +470,13 @@ include 'header.php';
                                         <?php 
                                         $half = ceil(count($local_areas) / 2);
                                         for($i=0; $i<$half; $i++) {
-                                            echo '<div class="list-group-item list-group-item-action">Packers & Movers in ' . $local_areas[$i] . ' ' . $city . '</div>';
+                                            $area_text = 'Packers & Movers in ' . $local_areas[$i] . ' ' . $city;
+                                            if(isset($linked_areas) && $linked_areas) {
+                                                $area_slug = strtolower(str_replace([' ', '&'], ['-', 'and'], $area_text)) . ".php";
+                                                echo '<a href="' . $base_url . $area_slug . '" class="list-group-item list-group-item-action">' . $area_text . '</a>';
+                                            } else {
+                                                echo '<div class="list-group-item list-group-item-action">' . $area_text . '</div>';
+                                            }
                                         }
                                         ?>
                                     </div>
@@ -479,7 +485,13 @@ include 'header.php';
                                     <div class="list-group">
                                         <?php 
                                         for($i=$half; $i<count($local_areas); $i++) {
-                                            echo '<div class="list-group-item list-group-item-action">Packers & Movers in ' . $local_areas[$i] . ' ' . $city . '</div>';
+                                            $area_text = 'Packers & Movers in ' . $local_areas[$i] . ' ' . $city;
+                                            if(isset($linked_areas) && $linked_areas) {
+                                                $area_slug = strtolower(str_replace([' ', '&'], ['-', 'and'], $area_text)) . ".php";
+                                                echo '<a href="' . $base_url . $area_slug . '" class="list-group-item list-group-item-action">' . $area_text . '</a>';
+                                            } else {
+                                                echo '<div class="list-group-item list-group-item-action">' . $area_text . '</div>';
+                                            }
                                         }
                                         ?>
                                     </div>
