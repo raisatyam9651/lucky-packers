@@ -322,6 +322,69 @@ include 'header.php';
                             </div>
                         </div>
                     </div>
+
+                    <!-- Service 4: Car & Bike Moving -->
+                    <div class="col-lg-4 col-md-6">
+                        <div class="services__item-three">
+                            <div class="services__thumb-three">
+                                <a href="<?php echo $base_url; ?>our-services/car-and-bike-transportation.php" title="Car and Bike Moving Services in <?php echo $city; ?>">
+                                    <img src="<?php echo $base_url; ?>assets/media/services/car-bike-moving.jpg" alt="Car and Bike Moving Services in <?php echo $city; ?>">
+                                </a>
+                            </div>
+                            <div class="services__content-three">
+                                <div class="services__icon-three">
+                                    <i class="fa-solid fa-car"></i>
+                                </div>
+                                <h4 class="title">
+                                    <a href="<?php echo $base_url; ?>our-services/car-and-bike-transportation.php" title="Learn more about Car and Bike Moving">Car & Bike Moving</a>
+                                </h4>
+                                <p>We provide specialized transportation for cars and bikes in <?php echo $city; ?>, ensuring damage-free delivery with secure handling and timely service.</p>
+                                <p style="margin-top: 10px;"><a href="<?php echo $base_url; ?>our-services/car-and-bike-transportation.php">Read More >></a></p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Service 5: Warehousing -->
+                    <div class="col-lg-4 col-md-6">
+                        <div class="services__item-three">
+                            <div class="services__thumb-three">
+                                <a href="<?php echo $base_url; ?>our-services/warehouse-services.php" title="Warehousing Services in <?php echo $city; ?>">
+                                    <img src="<?php echo $base_url; ?>assets/media/services/warehousing.jpg" alt="Warehousing Services in <?php echo $city; ?>">
+                                </a>
+                            </div>
+                            <div class="services__content-three">
+                                <div class="services__icon-three">
+                                    <i class="fa-solid fa-warehouse"></i>
+                                </div>
+                                <h4 class="title">
+                                    <a href="<?php echo $base_url; ?>our-services/warehouse-services.php" title="Learn more about Warehousing">Warehousing</a>
+                                </h4>
+                                <p>Our modern warehouses in <?php echo $city; ?> provide secure storage options, flexible plans, and round-the-clock monitoring to safeguard your goods.</p>
+                                <p style="margin-top: 10px;"><a href="<?php echo $base_url; ?>our-services/warehouse-services.php">Read More >></a></p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Service 6: Goods Insurance -->
+                    <div class="col-lg-4 col-md-6">
+                        <div class="services__item-three">
+                            <div class="services__thumb-three">
+                                <a href="<?php echo $base_url; ?>our-services/goods-insurance.php" title="Goods Insurance Services in <?php echo $city; ?>">
+                                    <img src="<?php echo $base_url; ?>assets/media/services/goods-insurance.jpg" alt="Goods Insurance Services in <?php echo $city; ?>">
+                                </a>
+                            </div>
+                            <div class="services__content-three">
+                                <div class="services__icon-three">
+                                    <i class="fa-solid fa-shield-check"></i>
+                                </div>
+                                <h4 class="title">
+                                    <a href="<?php echo $base_url; ?>our-services/goods-insurance.php" title="Learn more about Goods Insurance">Goods Insurance</a>
+                                </h4>
+                                <p>Comprehensive insurance coverage in <?php echo $city; ?> to protect your belongings against unforeseen events during transit, providing peace of mind.</p>
+                                <p style="margin-top: 10px;"><a href="<?php echo $base_url; ?>our-services/goods-insurance.php">Read More >></a></p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>
