@@ -5,9 +5,9 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Lucky Transporter - Trusted Relocation Services</title>
-    <meta name="description" content="Reliable packers and movers with 11+ years of experience. Lucky Transporter offers home, office, and vehicle relocation services across India. Get a free quote today!">
-    <meta name="keywords" content="packers and movers, relocation services, home shifting, office relocation, car transportation, warehouse storage, Lucky Transporter, trusted packers in India">
+    <title><?php echo isset($page_title) ? $page_title : 'Lucky Transporter - Trusted Relocation Services'; ?></title>
+    <meta name="description" content="<?php echo isset($page_description) ? $page_description : 'Reliable packers and movers with 11+ years of experience. Lucky Transporter offers home, office, and vehicle relocation services across India. Get a free quote today!'; ?>">
+    <meta name="keywords" content="<?php echo isset($page_keywords) ? $page_keywords : 'packers and movers, relocation services, home shifting, office relocation, car transportation, warehouse storage, Lucky Transporter, trusted packers in India'; ?>">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="icon" type="image/jpeg" href="<?php echo $base_url; ?>assets/media/favicon/logo.jpeg" sizes="96x96" />

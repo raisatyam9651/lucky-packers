@@ -99,7 +99,7 @@ $(document).ready(function() {
     }
     // Google Sheets Integration
     function sendToGoogleSheet(formData, source) {
-        const scriptURL = 'https://script.google.com/macros/s/AKfycbz3HI0cjYo7ImoGIuq4Pgh2Tw7vofiTJY9tOEWcKjovdsTW7yYOXbqAVTc3FEO6a78/exec';
+        const scriptURL = 'https://script.google.com/macros/s/AKfycbB5niIOM14-el6eZl4E-LZUodQziK20ZfekHxOW5tZYVRatu_sQyOCXfm1FEOhMfyn/exec';
         
         // Convert FormData to URLSearchParams for better Apps Script compatibility
         const searchParams = new URLSearchParams();

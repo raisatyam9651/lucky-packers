@@ -1795,41 +1795,53 @@
                     <div class="container my-1 ca-our-service-city-area">
 
 
-                        <!-- Our Service Locations in Gurgaon -->
+                        <!-- Our Major Service Locations -->
                         <span class="sub-title_price">
-                            -- Our Service Locations in Gurgaon --
+                            -- Our Major Service Locations Across India --
                         </span>
                         <div class="container aos-init">
                             <div class="row">
-                                <!-- ======= Column 1 (Items #1–5) ======= -->
-                                <div class="col-md-6 col-sm-6 mb-3">
+                                <!-- ======= Column 1 ======= -->
+                                <div class="col-md-3 col-sm-6 mb-3">
                                     <div class="list-group">
-                                        <!-- 1 -->
-                                        <a href="./gurgaon/packers-and-movers-in-cyber-city.php" class="list-group-item list-group-item-action" title="Packers and Movers in Cyber City">Packers & Movers in Cyber City</a>
-                                        <!-- 2 -->
-                                        <a href="./gurgaon/packers-and-movers-in-dlf-phase-1.php" class="list-group-item list-group-item-action" title="Packers and Movers in DLF Phase 1">Packers & Movers in DLF Phase 1</a>
-                                        <!-- 3 -->
-                                        <a href="./gurgaon/packers-and-movers-in-dlf-phase-2.php" class="list-group-item list-group-item-action" title="Packers and Movers in DLF Phase 2">Packers & Movers in DLF Phase 2</a>
-                                        <!-- 4 -->
-                                        <a href="./gurgaon/packers-and-movers-in-dlf-phase-3.php" class="list-group-item list-group-item-action" title="Packers and Movers in DLF Phase 3">Packers & Movers in DLF Phase 3</a>
-                                        <!-- 5 -->
-                                        <a href="./gurgaon/packers-and-movers-in-dlf-phase-4.php" class="list-group-item list-group-item-action" title="Packers and Movers in DLF Phase 4">Packers & Movers in DLF Phase 4</a>
+                                        <a href="./movers-and-packers-in-delhi.php" class="list-group-item list-group-item-action" title="Packers and Movers in Delhi">Packers & Movers in Delhi</a>
+                                        <a href="./movers-and-packers-in-noida.php" class="list-group-item list-group-item-action" title="Packers and Movers in Noida">Packers & Movers in Noida</a>
+                                        <a href="./movers-and-packers-in-gurgaon.php" class="list-group-item list-group-item-action" title="Packers and Movers in Gurgaon">Packers & Movers in Gurgaon</a>
+                                        <a href="./movers-and-packers-in-faridabad.php" class="list-group-item list-group-item-action" title="Packers and Movers in Faridabad">Packers & Movers in Faridabad</a>
+                                        <a href="./movers-and-packers-in-ghaziabad.php" class="list-group-item list-group-item-action" title="Packers and Movers in Ghaziabad">Packers & Movers in Ghaziabad</a>
                                     </div>
                                 </div>
 
-                                <!-- ======= Column 2 (Items #6–10) ======= -->
-                                <div class="col-md-6 col-sm-6 mb-3">
+                                <!-- ======= Column 2 ======= -->
+                                <div class="col-md-3 col-sm-6 mb-3">
                                     <div class="list-group">
-                                        <!-- 6 -->
-                                        <a href="./gurgaon/packers-and-movers-in-dlf-phase-5.php" class="list-group-item list-group-item-action" title="Packers and Movers in DLF Phase 5">Packers & Movers in DLF Phase 5</a>
-                                        <!-- 7 -->
-                                        <a href="./gurgaon/packers-and-movers-in-golf-course-road.php" class="list-group-item list-group-item-action" title="Packers and Movers in Golf Course Road">Packers & Movers in Golf Course Road</a>
-                                        <!-- 8 -->
-                                        <a href="./gurgaon/packers-and-movers-in-mg-road.php" class="list-group-item list-group-item-action" title="Packers and Movers in MG Road">Packers & Movers in MG Road</a>
-                                        <!-- 9 -->
-                                        <a href="./gurgaon/packers-and-movers-in-udyog-vihar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Udyog Vihar">Packers & Movers in Udyog Vihar</a>
-                                        <!-- 10 -->
-                                        <a href="./gurgaon/packers-and-movers-in-sohna-road.php" class="list-group-item list-group-item-action" title="Packers & Movers in Sohna Road">Packers & Movers in Sohna Road</a>
+                                        <a href="./movers-and-packers-in-mumbai.php" class="list-group-item list-group-item-action" title="Packers and Movers in Mumbai">Packers & Movers in Mumbai</a>
+                                        <a href="./movers-and-packers-in-bangalore.php" class="list-group-item list-group-item-action" title="Packers and Movers in Bangalore">Packers & Movers in Bangalore</a>
+                                        <a href="./movers-and-packers-in-hyderabad.php" class="list-group-item list-group-item-action" title="Packers and Movers in Hyderabad">Packers & Movers in Hyderabad</a>
+                                        <a href="./movers-and-packers-in-pune.php" class="list-group-item list-group-item-action" title="Packers & Movers in Pune">Packers & Movers in Pune</a>
+                                        <a href="./movers-and-packers-in-kolkata.php" class="list-group-item list-group-item-action" title="Packers and Movers in Kolkata">Packers & Movers in Kolkata</a>
+                                    </div>
+                                </div>
+
+                                <!-- ======= Column 3 ======= -->
+                                <div class="col-md-3 col-sm-6 mb-3">
+                                    <div class="list-group">
+                                        <a href="./movers-and-packers-in-chandigarh.php" class="list-group-item list-group-item-action" title="Packers and Movers in Chandigarh">Packers & Movers in Chandigarh</a>
+                                        <a href="./movers-and-packers-in-punjab.php" class="list-group-item list-group-item-action" title="Packers and Movers in Punjab">Packers & Movers in Punjab</a>
+                                        <a href="./movers-and-packers-in-rajasthan.php" class="list-group-item list-group-item-action" title="Packers and Movers in Rajasthan">Packers & Movers in Rajasthan</a>
+                                        <a href="./movers-and-packers-in-gujarat.php" class="list-group-item list-group-item-action" title="Packers and Movers in Gujarat">Packers & Movers in Gujarat</a>
+                                        <a href="./movers-and-packers-in-surat.php" class="list-group-item list-group-item-action" title="Packers and Movers in Surat">Packers & Movers in Surat</a>
+                                    </div>
+                                </div>
+
+                                <!-- ======= Column 4 ======= -->
+                                <div class="col-md-3 col-sm-6 mb-3">
+                                    <div class="list-group">
+                                        <a href="./movers-and-packers-in-indore.php" class="list-group-item list-group-item-action" title="Packers and Movers in Indore">Packers & Movers in Indore</a>
+                                        <a href="./movers-and-packers-in-nashik.php" class="list-group-item list-group-item-action" title="Packers and Movers in Nashik">Packers & Movers in Nashik</a>
+                                        <a href="./movers-and-packers-in-meerut.php" class="list-group-item list-group-item-action" title="Packers and Movers in Meerut">Packers & Movers in Meerut</a>
+                                        <a href="./movers-and-packers-in-haridwar.php" class="list-group-item list-group-item-action" title="Packers and Movers in Haridwar">Packers & Movers in Haridwar</a>
+                                        <a href="./movers-and-packers-in-dehradun.php" class="list-group-item list-group-item-action" title="Packers and Movers in Dehradun">Packers & Movers in Dehradun</a>
                                     </div>
                                 </div>
                             </div>
