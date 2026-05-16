@@ -44,7 +44,13 @@ include '../header.php'; ?>
             justify-content: space-between;
             padding: 12px 20px !important;
             border-bottom: 1px solid #eee;
+            color: #1a1a1a !important;
+            font-weight: 500;
             transition: all 0.3s ease;
+        }
+
+        .shop-cat-list ul li a:hover {
+            color: #e11c24 !important;
         }
 
         .shop-cat-list ul li a.active {

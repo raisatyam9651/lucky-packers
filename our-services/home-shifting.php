@@ -34,14 +34,21 @@
                 opacity: 1 !important;
             }
             .shop-cat-list ul li a {
-                display: flex !important;
-                align-items: center;
-                justify-content: space-between;
-                padding: 12px 20px !important;
-                border-bottom: 1px solid #eee;
-                transition: all 0.3s ease;
-            }
-            .shop-cat-list ul li a.active {
+            display: flex !important;
+            align-items: center;
+            justify-content: space-between;
+            padding: 12px 20px !important;
+            border-bottom: 1px solid #eee;
+            color: #1a1a1a !important;
+            font-weight: 500;
+            transition: all 0.3s ease;
+        }
+
+        .shop-cat-list ul li a:hover {
+            color: #e11c24 !important;
+        }
+
+        .shop-cat-list ul li a.active {
                 background: #e11c24 !important;
                 color: #fff !important;
             }
