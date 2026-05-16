@@ -65,8 +65,8 @@
                                             <i class="fa-solid fa-phone-volume"></i> +91 8003966646
                                         </a>
                                     </div>
-                                    <a href="<?php echo $base_url; ?>contact-us.php" class="btn" style="background: #111; color: #fff; width: 100%; border-radius: 5px; padding: 12px; font-weight: 700; display: flex; align-items: center; justify-content: center; gap: 10px; font-size: 14px;">
-                                        Get A Free Quote <i class="fa-solid fa-arrow-up-right" style="font-size: 12px;"></i>
+                                    <a href="<?php echo $base_url; ?>contact-us.php" class="btn" style="background: #e11c24; color: #fff; width: 100%; border-radius: 5px; padding: 12px; font-weight: 700; display: flex; align-items: center; justify-content: center; gap: 10px; font-size: 14px;">
+                                        Get A Free Quote <i class="fa-solid fa-arrow-right" style="font-size: 12px;"></i>
                                     </a>
                                 </div>
                             </div>

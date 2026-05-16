@@ -5,6 +5,30 @@ $page_keywords = 'moving portfolio, successful shifts, lucky transporter work, r
 $base_url = ''; 
 include 'header.php'; 
 ?>
+<style>
+    /* Absolute Fix for black and white issue */
+    .project__item-three img, 
+    .project__thumb img,
+    .project__thumb img[src*="png"],
+    .project__thumb img[src*="jpg"] {
+        filter: grayscale(0) !important;
+        -webkit-filter: grayscale(0) !important;
+        opacity: 1 !important;
+    }
+    .project__item-three:hover img {
+        transform: scale(1.05);
+    }
+    /* Also fix testimonials grayscale if they exist on this page */
+    .testimonial__nav .swiper-wrapper button img {
+        filter: grayscale(0) !important;
+        -webkit-filter: grayscale(0) !important;
+    }
+    /* Fix for breadcrumb black and white issue */
+    .breadcrumb__area.breadcrumb__bg::after {
+        mix-blend-mode: normal !important;
+        background: rgba(0, 0, 0, 0.4) !important; /* Dark overlay but with color */
+    }
+</style>
 
     <!-- main-area -->
     <main class="fix">

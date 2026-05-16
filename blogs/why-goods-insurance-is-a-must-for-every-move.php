@@ -38,7 +38,7 @@
                                 <div class="thumb-header" style="background: #E11C24; color: #fff; padding: 10px 20px; text-align: center; font-weight: 700; font-size: 14px;">
                                     LUCKY TRANSPORTER
                                 </div>
-                                <img src="<?php echo $base_url; ?>assets/media/blogs/goods-insurance-hero.png" alt="Why Goods Insurance is a Must for Every Move" style="width: 100%;">
+                                <img src="<?php echo $base_url; ?>assets/media/blogs/goods-insurance-feature.png" alt="Why Goods Insurance is a Must for Every Move" style="width: 100%;">
                                 <div class="thumb-footer" style="background: #1A2226; color: #fff; padding: 10px 20px; text-align: center; font-weight: 700; font-size: 16px;">
                                     Why Goods Insurance is a Must for Every Move
                                 </div>

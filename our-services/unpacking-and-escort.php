@@ -26,12 +26,37 @@
         <!-- breadcrumb-area-end -->
 
 
+        
+        <style>
+            .services__details-thumb img, .services__details-inner-img img {
+                filter: grayscale(0) !important;
+                -webkit-filter: grayscale(0) !important;
+                opacity: 1 !important;
+            }
+            .shop-cat-list ul li a {
+                display: flex !important;
+                align-items: center;
+                justify-content: space-between;
+                padding: 12px 20px !important;
+                border-bottom: 1px solid #eee;
+                transition: all 0.3s ease;
+            }
+            .shop-cat-list ul li a.active {
+                background: #e11c24 !important;
+                color: #fff !important;
+            }
+            /* Fix for breadcrumb black and white issue */
+            .breadcrumb__area.breadcrumb__bg::after {
+                mix-blend-mode: normal !important;
+                background: rgba(0, 0, 0, 0.5) !important;
+            }
+        </style>
         <!-- services-details-area -->
         <section class="services__details-area section-p-60">
             <div class="container">
                 <div class="services__details-inner">
                     <div class="row">
-                        <div class="col-70 order-0 order-lg-2">
+                        <div class="col-lg-8 order-0 order-lg-2">
                             <div class="services__details-thumb">
                                 <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-packing-main.png"
                                     alt="Professional Unpacking and Escort Services by Lucky Transporter"
@@ -184,7 +209,7 @@
                                 <p>Lucky Transporter's unpacking service bridges the gap between "delivery day" and "home." We handle the tedious post-move work so you're not living out of boxes for weeks. Add escort service for peace of mind on sensitive or valuable shipments. Contact us to schedule unpacking along with your move.</p>
                             </div>
                         </div>
-                        <div class="col-30">
+                        <div class="col-lg-4">
                             <aside class="services__sidebar">
                                 <div class="blog-widget">
                                     <h4 class="widget-title">Our Services</h4>

@@ -3,21 +3,21 @@ $blogs = [
     [
         'title' => '10 Essential Packing Tips for a Hassle-Free Relocation',
         'slug' => '10-packing-tips-for-hassle-free-relocation.php',
-        'image' => 'assets/media/blogs/blog1.png',
+        'image' => 'assets/media/blogs/packing-tips-feature.png',
         'date' => '22 Nov, 2024',
         'excerpt' => 'Learn how to pack like a pro with our expert tips to ensure your belongings stay safe during the move.'
     ],
     [
         'title' => 'The Ultimate Guide to Choosing the Best Packers and Movers',
         'slug' => 'the-ultimate-guide-to-choosing-the-best-packers-and-movers.php',
-        'image' => 'assets/media/blogs/blog2.png',
+        'image' => 'assets/media/blogs/choosing-packers-feature.png',
         'date' => '18 Nov, 2024',
         'excerpt' => 'Explore key factors to consider when selecting a reliable relocation partner for your next move.'
     ],
     [
         'title' => 'Why Goods Insurance Is a Must for Every Move',
         'slug' => 'why-goods-insurance-is-a-must-for-every-move.php',
-        'image' => 'assets/media/blogs/blog3.png',
+        'image' => 'assets/media/blogs/goods-insurance-feature.png',
         'date' => '15 Nov, 2024',
         'excerpt' => 'Protect your valuables with comprehensive insurance coverage. Learn why it\'s vital for peace of mind.'
     ],

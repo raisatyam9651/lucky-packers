@@ -28,10 +28,34 @@
 
         <!-- services-details-area -->
         <section class="services__details-area section-p-60">
+            <style>
+                .services__details-thumb img, .services__details-inner-img img {
+                    filter: grayscale(0) !important;
+                    -webkit-filter: grayscale(0) !important;
+                    opacity: 1 !important;
+                }
+                .shop-cat-list ul li a {
+                    display: flex !important;
+                    align-items: center;
+                    justify-content: space-between;
+                    padding: 12px 20px !important;
+                    border-bottom: 1px solid #eee;
+                    transition: all 0.3s ease;
+                }
+                .shop-cat-list ul li a.active {
+                    background: #e11c24 !important;
+                    color: #fff !important;
+                }
+                /* Fix for breadcrumb black and white issue */
+                .breadcrumb__area.breadcrumb__bg::after {
+                    mix-blend-mode: normal !important;
+                    background: rgba(0, 0, 0, 0.4) !important;
+                }
+            </style>
             <div class="container">
                 <div class="services__details-inner">
                     <div class="row">
-                        <div class="col-70 order-0 order-lg-2">
+                        <div class="col-lg-8 order-0 order-lg-2">
                             <div class="services__details-thumb">
                                 <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-packing-main.png"
                                     alt="Comprehensive Goods Insurance Services by Lucky Transporter"
@@ -186,7 +210,7 @@
                                 <h2>Get Covered Before Your Move</h2>
                                 <p>Insurance only works if it's in place before something goes wrong. Once your goods are on the truck, it's too late to add coverage. Contact <strong>Lucky Transporter</strong> to discuss your upcoming move and we'll walk you through your coverage options—no pressure, just straightforward advice on what protects your belongings.</p>
                         </div>
-                        <div class="col-30">
+                        <div class="col-lg-4">
                             <aside class="services__sidebar">
                                 <div class="blog-widget">
                                     <h4 class="widget-title">Our Services</h4>

@@ -116,6 +116,22 @@
             font-family: "Font Awesome 6 Free";
             font-weight: 900;
         }
+
+        /* Global Fix for Grayscale Imagery & Breadcrumb Visuals */
+        .project__item-three img, 
+        .project__thumb img, 
+        .services__details-thumb img, 
+        .services__details-inner-img img, 
+        .testimonial__nav .swiper-wrapper button img,
+        .brand__item img {
+            filter: grayscale(0) !important;
+            -webkit-filter: grayscale(0) !important;
+            opacity: 1 !important;
+        }
+        .breadcrumb__area.breadcrumb__bg::after {
+            mix-blend-mode: normal !important;
+            background: rgba(0, 0, 0, 0.5) !important;
+        }
     </style>
 
     <meta name="robots" content="index, follow">

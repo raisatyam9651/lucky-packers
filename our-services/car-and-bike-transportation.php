@@ -26,12 +26,37 @@
         <!-- breadcrumb-area-end -->
 
 
+        
+        <style>
+            .services__details-thumb img, .services__details-inner-img img {
+                filter: grayscale(0) !important;
+                -webkit-filter: grayscale(0) !important;
+                opacity: 1 !important;
+            }
+            .shop-cat-list ul li a {
+                display: flex !important;
+                align-items: center;
+                justify-content: space-between;
+                padding: 12px 20px !important;
+                border-bottom: 1px solid #eee;
+                transition: all 0.3s ease;
+            }
+            .shop-cat-list ul li a.active {
+                background: #e11c24 !important;
+                color: #fff !important;
+            }
+            /* Fix for breadcrumb black and white issue */
+            .breadcrumb__area.breadcrumb__bg::after {
+                mix-blend-mode: normal !important;
+                background: rgba(0, 0, 0, 0.5) !important;
+            }
+        </style>
         <!-- services-details-area -->
         <section class="services__details-area section-p-60">
             <div class="container">
                 <div class="services__details-inner">
                     <div class="row">
-                        <div class="col-70 order-0 order-lg-2">
+                        <div class="col-lg-8 order-0 order-lg-2">
                             <div class="services__details-thumb">
                                 <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-transport-main.png"
                                     alt="Safe Car and Bike Transportation Services by Lucky Transporter"
@@ -212,7 +237,7 @@
                                 <p>Ready to transport your car or bike safely? Trust the experts at <strong>Lucky Transporter</strong> for reliable, insured, and hassle-free vehicle transportation. Contact us now for a free quote or to learn more about our services. Your vehicle's journey starts with a single call!</p>
                             </div>
                         </div>
-                        <div class="col-30">
+                        <div class="col-lg-4">
                             <aside class="services__sidebar">
                                 <div class="blog-widget">
                                     <h4 class="widget-title">Our Services</h4>

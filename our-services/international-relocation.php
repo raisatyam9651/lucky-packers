@@ -26,12 +26,37 @@
         <!-- breadcrumb-area-end -->
 
 
+        
+        <style>
+            .services__details-thumb img, .services__details-inner-img img {
+                filter: grayscale(0) !important;
+                -webkit-filter: grayscale(0) !important;
+                opacity: 1 !important;
+            }
+            .shop-cat-list ul li a {
+                display: flex !important;
+                align-items: center;
+                justify-content: space-between;
+                padding: 12px 20px !important;
+                border-bottom: 1px solid #eee;
+                transition: all 0.3s ease;
+            }
+            .shop-cat-list ul li a.active {
+                background: #e11c24 !important;
+                color: #fff !important;
+            }
+            /* Fix for breadcrumb black and white issue */
+            .breadcrumb__area.breadcrumb__bg::after {
+                mix-blend-mode: normal !important;
+                background: rgba(0, 0, 0, 0.5) !important;
+            }
+        </style>
         <!-- services-details-area -->
         <section class="services__details-area section-p-60">
             <div class="container">
                 <div class="services__details-inner">
                     <div class="row">
-                        <div class="col-70 order-0 order-lg-2">
+                        <div class="col-lg-8 order-0 order-lg-2">
                             <div class="services__details-thumb">
                                 <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-transport-main.png"
                                     alt="Global International Relocation Services by Lucky Transporter"
@@ -187,7 +212,7 @@
                                 <h2>Start Planning Your International Move</h2>
                                 <p>Relocating abroad doesn't have to mean losing control of your belongings in a maze of international logistics. <strong>Lucky Transporter</strong> handles the freight coordination, customs paperwork, and destination delivery—so you can focus on the life you're building overseas. Contact us for a pre-move consultation and quote.</p>
                         </div>
-                        <div class="col-30">
+                        <div class="col-lg-4">
                             <aside class="services__sidebar">
                                 <div class="blog-widget">
                                     <h4 class="widget-title">Our Services</h4>

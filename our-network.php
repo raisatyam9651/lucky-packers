@@ -84,9 +84,9 @@ include 'header.php';
                                     <?php echo $city; ?>
                                 </a>
                             </h4>
-                            <p style="font-size: 14px; color: #666; margin-bottom: 20px;">Top-rated home and office shifting services in <?php echo $city; ?>.</p>
-                            <a href="<?php echo $base_url . $slug; ?>" class="btn btn-link" style="padding: 0; color: #e11c24; font-weight: 600; text-transform: uppercase; font-size: 12px; letter-spacing: 1px;">
-                                View Service Areas <i class="fa-solid fa-arrow-right-long" style="margin-left: 5px;"></i>
+                            <p style="font-size: 14px; color: #666; margin-bottom: 25px;">Top-rated home and office shifting services in <?php echo $city; ?>.</p>
+                            <a href="<?php echo $base_url . $slug; ?>" class="btn" style="padding: 10px 20px; font-size: 11px; letter-spacing: 1px; border-radius: 5px; height: auto; line-height: 1;">
+                                VIEW SERVICE AREAS <i class="fa-solid fa-arrow-right-long" style="margin-left: 8px;"></i>
                             </a>
                         </div>
                     </div>
