@@ -132,6 +132,16 @@
             mix-blend-mode: normal !important;
             background: rgba(0, 0, 0, 0.5) !important;
         }
+
+        /* Sticky Sidebar for Service & Blog Pages */
+        @media (min-width: 992px) {
+            .services__sidebar, .blog__sidebar {
+                position: sticky;
+                top: 100px; /* Offset for sticky header */
+                align-self: start;
+                height: auto;
+            }
+        }
     </style>
 
     <meta name="robots" content="index, follow">
