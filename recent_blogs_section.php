@@ -4,14 +4,14 @@
         <div class="row align-items-center">
             <div class="col-lg-8 col-md-8">
                 <div class="section__title mb-30">
-                    <span class="sub-title" title="Explore Recent Blogs by Lucky Transporter">// Recent Blogs</span>
+                    <span class="sub-title" title="Explore Recent Blogs by LC Packers and Mover">// Recent Blogs</span>
                     <h2 class="title">Our Latest Insights</h2>
                     <p class="description">Discover expert tips, relocation advice, and industry insights to make your move seamless and hassle-free.</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-4">
                 <div class="view-all-btn text-end mb-30">
-                    <a href="<?php echo $base_url; ?>blogs/" class="btn" title="Explore All Blogs by Lucky Transporter">See All Blogs
+                    <a href="<?php echo $base_url; ?>blogs/" class="btn" title="Explore All Blogs by LC Packers and Mover">See All Blogs
                         <img src="<?php echo $base_url; ?>assets/media/svg/right-arrow-white.svg" alt="View All Blogs" class="injectable">
                     </a>
                 </div>

@@ -57,7 +57,7 @@
                             <div class="blog-widget" style="padding: 0; border: none; background: none;">
                                 <div class="sidebar__contact-box" style="padding: 40px 30px; border: 1px solid #eee; border-radius: 10px; text-align: center; background: #fff;">
                                     <div class="logo mb-30">
-                                        <a href="<?php echo $base_url; ?>"><img src="<?php echo $base_url; ?>assets/media/logo/lc-packers-logo.png" alt="Lucky Transporter" style="max-width: 180px;"></a>
+                                        <a href="<?php echo $base_url; ?>"><img src="<?php echo $base_url; ?>assets/media/logo/lc-packers-logo.png" alt="LC Packers and Mover" style="max-width: 180px;"></a>
                                     </div>
                                     <h4 class="title" style="font-size: 18px; font-weight: 800; color: #0A4D68; line-height: 1.4; margin-bottom: 20px;">Tailored Relocation Solutions For You</h4>
                                     <div class="phone" style="margin-bottom: 25px;">

@@ -123,7 +123,7 @@
                                 <div class="services__widget services__widget-two">
                                     <div class="sidebar__logo">
                                         <a href="<?php echo $base_url; ?>">
-                                            <img src="<?php echo $base_url; ?>assets/media/logo/logo.jpeg" alt="Lucky Transporter Pvt. Ltd. Logo" style="width: 80%;" title="Lucky Transporter Pvt. Ltd.">
+                                            <img src="<?php echo $base_url; ?>assets/media/logo/logo.jpeg" alt="LC Packers and Mover Pvt. Ltd. Logo" style="width: 80%;" title="LC Packers and Mover Pvt. Ltd.">
                                         </a>
                                     </div>
                                     <div class="sidebar__contact">
@@ -144,7 +144,7 @@
                         <div class="col-lg-8">
                             <div class="services__details-thumb">
                                 <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-packing-main.png"
-                                    alt="Professional Unpacking and Escort Services by Lucky Transporter"
+                                    alt="Professional Unpacking and Escort Services by LC Packers and Mover"
                                     title="Safe and Stress-Free Unpacking Solutions">
                             </div>
 
@@ -152,7 +152,7 @@
                                 <h1 class="title">Unpacking and Setup That Gets You Living in Your New Space Faster</h1>
                                 <p>The boxes are delivered. The hard part's over, right? Not quite. Unpacking is where most moves fall apart—it's time-consuming, tedious, and suddenly you're living out of suitcases for two weeks because there's always something more urgent to do.</p>
 
-                                <p>Lucky Transporter's unpacking service handles the entire post-move setup: opening boxes, placing items in their rooms, assembling furniture, connecting appliances, and cleaning up the packing debris. You move in ready to live, not ready to spend your weekend fighting with instruction manuals.</p>
+                                <p>LC Packers and Mover's unpacking service handles the entire post-move setup: opening boxes, placing items in their rooms, assembling furniture, connecting appliances, and cleaning up the packing debris. You move in ready to live, not ready to spend your weekend fighting with instruction manuals.</p>
 
                                 <h2>What Unpacking Service Covers</h2>
                                 <p>We don't just empty boxes—we make your new space functional:</p>
@@ -291,7 +291,7 @@
                                     </div>
                                 </div>
                                 <h2>Move In Ready to Live</h2>
-                                <p>Lucky Transporter's unpacking service bridges the gap between "delivery day" and "home." We handle the tedious post-move work so you're not living out of boxes for weeks. Add escort service for peace of mind on sensitive or valuable shipments. Contact us to schedule unpacking along with your move.</p>
+                                <p>LC Packers and Mover's unpacking service bridges the gap between "delivery day" and "home." We handle the tedious post-move work so you're not living out of boxes for weeks. Add escort service for peace of mind on sensitive or valuable shipments. Contact us to schedule unpacking along with your move.</p>
                             </div>
                         </div>
                     </div>
@@ -432,7 +432,7 @@
                                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                                             </div>
                                             <div class="testimonial__content">
-                                                <p>“Lucky Transporter made my home relocation completely hassle-free. Their team was professional, on-time, and handled my belongings with utmost care. Highly recommended!”</p>
+                                                <p>“LC Packers and Mover made my home relocation completely hassle-free. Their team was professional, on-time, and handled my belongings with utmost care. Highly recommended!”</p>
                                             </div>
                                         </div>
                                     </div>
@@ -460,7 +460,7 @@
                                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                                             </div>
                                             <div class="testimonial__content">
-                                                <p>“I was nervous about relocating my office, but Lucky Transporter handled everything smoothly. The team was efficient, and they ensured minimal downtime for my business.”</p>
+                                                <p>“I was nervous about relocating my office, but LC Packers and Mover handled everything smoothly. The team was efficient, and they ensured minimal downtime for my business.”</p>
                                             </div>
                                         </div>
                                     </div>
@@ -539,8 +539,8 @@
                             <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client<?php echo sprintf('%02d', $i); ?>.webp"
-                                        alt="Client <?php echo $i; ?> Logo | Trusted by Lucky Transporter"
-                                        title="Client <?php echo $i; ?> | Partner of Lucky Transporter">
+                                        alt="Client <?php echo $i; ?> Logo | Trusted by LC Packers and Mover"
+                                        title="Client <?php echo $i; ?> | Partner of LC Packers and Mover">
                                 </div>
                             </div>
                         <?php endfor; ?>

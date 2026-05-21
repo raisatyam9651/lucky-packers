@@ -61,7 +61,7 @@
                         <div class="section__title text-center mb-50">
                             <span class="sub-title">// Common Queries</span>
                             <h2 class="title">Everything You Need to Know</h2>
-                            <p>At <strong>Lucky Transporter</strong>, we aim to make your relocation journey transparent and stress-free. Here are some of the most frequently asked questions to help you prepare for your move.</p>
+                            <p>At <strong>LC Packers and Mover</strong>, we aim to make your relocation journey transparent and stress-free. Here are some of the most frequently asked questions to help you prepare for your move.</p>
                         </div>
                         <div class="faq__wrap">
                             <div class="accordion" id="accordionExample">
@@ -70,7 +70,7 @@
                                 <div class="accordion-item">
                                     <h2 class="accordion-header">
                                         <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                            Q1: What services does Lucky Transporter provide?
+                                            Q1: What services does LC Packers and Mover provide?
                                         </button>
                                     </h2>
                                     <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
@@ -266,7 +266,7 @@
                                 <div class="accordion-item">
                                     <h2 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFifteen" aria-expanded="false" aria-controls="collapseFifteen">
-                                            Q15: Why should I choose Lucky Transporter?
+                                            Q15: Why should I choose LC Packers and Mover?
                                         </button>
                                     </h2>
                                     <div id="collapseFifteen" class="accordion-collapse collapse" data-bs-parent="#accordionExample">

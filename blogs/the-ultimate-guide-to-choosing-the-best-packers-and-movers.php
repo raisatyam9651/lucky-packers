@@ -36,7 +36,7 @@
                         <div class="blog__details-content">
                             <div class="blog__details-thumb" style="border: 1px solid #eee; border-radius: 10px; overflow: hidden; margin-bottom: 30px;">
                                 <div class="thumb-header" style="background: #0A4D68; color: #fff; padding: 10px 20px; text-align: center; font-weight: 700; font-size: 14px;">
-                                    LUCKY TRANSPORTER
+                                    LC PACKERS AND MOVER
                                 </div>
                                 <img src="<?php echo $base_url; ?>assets/media/blogs/blog2.png" alt="The Ultimate Guide to Choosing the Best Packers and Movers" style="width: 100%;">
                                 <div class="thumb-footer" style="background: #0A4D68; color: #fff; padding: 10px 20px; text-align: center; font-weight: 700; font-size: 16px;">
@@ -46,7 +46,7 @@
 
                             <h1 class="title" style="font-size: 32px; font-weight: 800; color: #0A4D68; margin-bottom: 20px;">Your Roadmap to a Reliable Relocation Partner</h1>
 
-                            <p>With numerous relocation companies operating in the market today, finding a trustworthy partner for your move is the most critical decision you'll make. The wrong choice can lead to hidden charges, damaged belongings, and unnecessary stress. At <strong>Lucky Transporter</strong>, we believe every customer deserves complete transparency and professional excellence. This guide will walk you through the selection process like an industry expert.</p>
+                            <p>With numerous relocation companies operating in the market today, finding a trustworthy partner for your move is the most critical decision you'll make. The wrong choice can lead to hidden charges, damaged belongings, and unnecessary stress. At <strong>LC Packers and Mover</strong>, we believe every customer deserves complete transparency and professional excellence. This guide will walk you through the selection process like an industry expert.</p>
 
                             <h3 style="color: #0A4D68; font-weight: 700; margin-top: 30px;">Essential Qualifications to Look For</h3>
                             <p>Before signing any agreement, ensure your chosen moving company meets these fundamental criteria:</p>
@@ -94,8 +94,8 @@
                                 <li style="margin-bottom: 10px;"><strong>No Written Contracts:</strong> Insist on detailed written agreements outlining all terms and conditions.</li>
                             </ol>
 
-                            <h3 style="color: #0A4D68; font-weight: 700;">Why Choose Lucky Transporter?</h3>
-                            <p>At Lucky Transporter, we differentiate ourselves through excellence and integrity. When you partner with us, you receive:</p>
+                            <h3 style="color: #0A4D68; font-weight: 700;">Why Choose LC Packers and Mover?</h3>
+                            <p>At LC Packers and Mover, we differentiate ourselves through excellence and integrity. When you partner with us, you receive:</p>
                             <ul class="list-wrap" style="margin-bottom: 30px;">
                                 <li style="margin-bottom: 8px;"><i class="fa-solid fa-circle-check" style="color: #0A4D68; margin-right: 10px;"></i> Over a decade of proven relocation expertise.</li>
                                 <li style="margin-bottom: 8px;"><i class="fa-solid fa-circle-check" style="color: #0A4D68; margin-right: 10px;"></i> Trained professional crew with dedicated in-house fleet.</li>
@@ -105,7 +105,7 @@
                             </ul>
 
                             <h3 style="color: #0A4D68; font-weight: 700;">Conclusion</h3>
-                            <p>Selecting the right packers and movers is the foundation of a successful relocation. By following this comprehensive guide and conducting proper due diligence, you can ensure your move is handled with the care and professionalism it deserves. For a truly exceptional moving experience, contact <strong>Lucky Transporter</strong> today and request your free, no-obligation quotation. Let us transform your relocation journey into a positive, memorable experience!</p>
+                            <p>Selecting the right packers and movers is the foundation of a successful relocation. By following this comprehensive guide and conducting proper due diligence, you can ensure your move is handled with the care and professionalism it deserves. For a truly exceptional moving experience, contact <strong>LC Packers and Mover</strong> today and request your free, no-obligation quotation. Let us transform your relocation journey into a positive, memorable experience!</p>
 
                         </div>
                     </div>

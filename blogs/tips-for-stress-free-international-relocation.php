@@ -44,7 +44,7 @@
                                 </ul>
                             </div>
                             <h1 class="title">Tips for Stress-Free International Relocation</h1>
-                            <p>Moving abroad is one of the biggest transitions you can make. Between visa paperwork, customs regulations, and packing for a different climate, the process can feel overwhelming. At <strong>Lucky Transporter</strong>, we’ve assisted countless families and professionals in their global journeys. Here are our top tips for a successful international move.</p>
+                            <p>Moving abroad is one of the biggest transitions you can make. Between visa paperwork, customs regulations, and packing for a different climate, the process can feel overwhelming. At <strong>LC Packers and Mover</strong>, we’ve assisted countless families and professionals in their global journeys. Here are our top tips for a successful international move.</p>
 
                             <h2>1. Understand Customs Regulations</h2>
                             <p>Every country has its own list of restricted and prohibited items. Research the customs laws of your destination early to avoid delays or fines. We can provide you with a detailed guide based on your destination country.</p>
@@ -61,7 +61,7 @@
                             <h2>5. Pack for Your First Few Weeks</h2>
                             <p>Since your main shipment may take time to arrive, pack an "essential suitcase" with enough clothes, medications, and basic items to last at least 2-3 weeks at your new destination.</p>
 
-                            <h3>The Global Reach of Lucky Transporter</h3>
+                            <h3>The Global Reach of LC Packers and Mover</h3>
                             <p>With our network of international partners and expertise in global logistics, we ensure your belongings reach their international destination safely. Contact us today for a comprehensive international relocation consultation!</p>
 
                             <div class="blog__details-bottom">

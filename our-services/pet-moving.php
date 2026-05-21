@@ -123,7 +123,7 @@
                                 <div class="services__widget services__widget-two">
                                     <div class="sidebar__logo">
                                         <a href="<?php echo $base_url; ?>">
-                                            <img src="<?php echo $base_url; ?>assets/media/logo/logo.jpeg" alt="Lucky Transporter Pvt. Ltd. Logo" style="width: 80%;" title="Lucky Transporter Pvt. Ltd.">
+                                            <img src="<?php echo $base_url; ?>assets/media/logo/logo.jpeg" alt="LC Packers and Mover Pvt. Ltd. Logo" style="width: 80%;" title="LC Packers and Mover Pvt. Ltd.">
                                         </a>
                                     </div>
                                     <div class="sidebar__contact">
@@ -143,14 +143,14 @@
                         </div>
                         <div class="col-lg-8">
                             <div class="services__details-thumb">
-                                <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-transport-main.png"
-                                    alt="Safe Pet Moving Services by Lucky Transporter"
+                                <img src="<?php echo $base_url; ?>assets/media/services/pet-moving-main.png"
+                                    alt="Safe Pet Moving Services by LC Packers and Mover"
                                     title="Compassionate Pet Relocation Solutions">
                             </div>
 
                             <div class="services__details-content">
                                 <h1 class="title">Pet Moving That Gets Your Furry Family Member to Destination Safe and Calm</h1>
-                                <p>Moving your pet isn’t like moving a box. They feel stress, they notice changes, and they depend on you to make sure the journey is safe. Lucky Transporter handles pet relocation differently—we see it as moving a family member, not just an animal.</p>
+                                <p>Moving your pet isn’t like moving a box. They feel stress, they notice changes, and they depend on you to make sure the journey is safe. LC Packers and Mover handles pet relocation differently—we see it as moving a family member, not just an animal.</p>
 
                                 <p>We take care of the paperwork, the logistics, and the transport so you can focus on your pet. Whether it’s a cat who hates carriers, a dog with separation anxiety, or a bird who needs precise temperature control—we’ve handled it before, and we know what works.</p>
 
@@ -296,7 +296,7 @@
                                     </div>
                                 </div>
                                 <h2>Your Pet Deserves Better Than Cargo Hold</h2>
-                                <p>Don't trust your pet's relocation to services that treat them like a package. Lucky Transporter handles pet moves with the attention they deserve—proper carriers, climate control, documentation help, and door-to-door service. Contact us to plan your pet's move.</p>
+                                <p>Don't trust your pet's relocation to services that treat them like a package. LC Packers and Mover handles pet moves with the attention they deserve—proper carriers, climate control, documentation help, and door-to-door service. Contact us to plan your pet's move.</p>
                             </div>
                         </div>
                     </div>
@@ -437,7 +437,7 @@
                                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                                             </div>
                                             <div class="testimonial__content">
-                                                <p>“Lucky Transporter made my home relocation completely hassle-free. Their team was professional, on-time, and handled my belongings with utmost care. Highly recommended!”</p>
+                                                <p>“LC Packers and Mover made my home relocation completely hassle-free. Their team was professional, on-time, and handled my belongings with utmost care. Highly recommended!”</p>
                                             </div>
                                         </div>
                                     </div>
@@ -465,7 +465,7 @@
                                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                                             </div>
                                             <div class="testimonial__content">
-                                                <p>“I was nervous about relocating my office, but Lucky Transporter handled everything smoothly. The team was efficient, and they ensured minimal downtime for my business.”</p>
+                                                <p>“I was nervous about relocating my office, but LC Packers and Mover handled everything smoothly. The team was efficient, and they ensured minimal downtime for my business.”</p>
                                             </div>
                                         </div>
                                     </div>
@@ -544,8 +544,8 @@
                             <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client<?php echo sprintf('%02d', $i); ?>.webp"
-                                        alt="Client <?php echo $i; ?> Logo | Trusted by Lucky Transporter"
-                                        title="Client <?php echo $i; ?> | Partner of Lucky Transporter">
+                                        alt="Client <?php echo $i; ?> Logo | Trusted by LC Packers and Mover"
+                                        title="Client <?php echo $i; ?> | Partner of LC Packers and Mover">
                                 </div>
                             </div>
                         <?php endfor; ?>

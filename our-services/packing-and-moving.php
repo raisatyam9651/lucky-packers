@@ -123,7 +123,7 @@
                                 <div class="services__widget services__widget-two">
                                     <div class="sidebar__logo">
                                         <a href="<?php echo $base_url; ?>">
-                                            <img src="<?php echo $base_url; ?>assets/media/logo/logo.jpeg" alt="Lucky Transporter Pvt. Ltd. Logo" style="width: 80%;" title="Lucky Transporter Pvt. Ltd.">
+                                            <img src="<?php echo $base_url; ?>assets/media/logo/logo.jpeg" alt="LC Packers and Mover Pvt. Ltd. Logo" style="width: 80%;" title="LC Packers and Mover Pvt. Ltd.">
                                         </a>
                                     </div>
                                     <div class="sidebar__contact">
@@ -144,13 +144,13 @@
                         <div class="col-lg-8">
                             <div class="services__details-thumb">
                                 <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-packing-main.png"
-                                    alt="Expert Packing and Moving Services by Lucky Transporter"
+                                    alt="Expert Packing and Moving Services by LC Packers and Mover"
                                     title="Professional Packing and Moving Solutions">
                             </div>
 
                             <div class="services__details-content">
                                 <h1 class="title">Packing and Moving Done Right—From First Wrap to Final Setup</h1>
-                                <p>Packing and moving isn't just about putting things in boxes. Done right, it's a systematic process that protects your belongings from your living room all the way to their new location. Done wrong, even expensive items can arrive damaged despite looking fine when they left. At <strong>Lucky Transporter</strong>, we've spent 11 years refining how we pack—and our damage rate shows it. We don't just throw things in boxes. We assess each item, choose the right materials, and pack in a sequence that keeps everything safe during loading, transit, and unloading.</p>
+                                <p>Packing and moving isn't just about putting things in boxes. Done right, it's a systematic process that protects your belongings from your living room all the way to their new location. Done wrong, even expensive items can arrive damaged despite looking fine when they left. At <strong>LC Packers and Mover</strong>, we've spent 11 years refining how we pack—and our damage rate shows it. We don't just throw things in boxes. We assess each item, choose the right materials, and pack in a sequence that keeps everything safe during loading, transit, and unloading.</p>
 
                                 <p>Our packing service covers everything from the first piece of bubble wrap to the last piece of furniture being placed in your new home. You can book just the packing labor, just the transport, or the complete end-to-end service. Most clients prefer the full package because it's simpler and the coordination is already handled.</p>
 
@@ -286,87 +286,8 @@
                                     </div>
                                 </div>
                                 <h2>Book Your Packing and Moving Service</h2>
-                                <p>Packing and moving doesn't have to be exhausting. With the right team, the right materials, and the right plan, you can walk out of your old home knowing everything inside is protected. Contact <strong>Lucky Transporter</strong> to schedule a pre-move survey and get a transparent, all-inclusive quote.</p>
+                                <p>Packing and moving doesn't have to be exhausting. With the right team, the right materials, and the right plan, you can walk out of your old home knowing everything inside is protected. Contact <strong>LC Packers and Mover</strong> to schedule a pre-move survey and get a transparent, all-inclusive quote.</p>
                         </div>
-                        <div class="col-lg-4">
-                            <aside class="services__sidebar">
-                                <div class="blog-widget">
-                                    <h4 class="widget-title">Our Services</h4>
-                                    <div class="shop-cat-list">
-                                        <ul class="list-wrap">
-                                            <li>
-                                                <a class="" href="<?php echo $base_url; ?>our-services/transportation.php" title="Transportation Services">Transportation</a>
-                                            </li>
-                                            <li>
-                                                <a class="active" href="<?php echo $base_url; ?>our-services/packing-and-moving.php" title="Packing and Moving Services">Packing and Moving</a>
-                                            </li>
-                                            <li>
-                                                <a class="" href="<?php echo $base_url; ?>our-services/loading-and-unloading.php" title="Loading and Unloading Services">Loading and Unloading</a>
-                                            </li>
-                                            <li>
-                                                <a class="" href="<?php echo $base_url; ?>our-services/unpacking-and-escort.php" title="Unpacking and Escort Services">Unpacking and Escort</a>
-                                            </li>
-                                            <li>
-                                                <a class="" href="<?php echo $base_url; ?>our-services/home-shifting.php" title="Home Shifting Services">Home Shifting</a>
-                                            </li>
-                                            <li>
-                                                <a class="" href="<?php echo $base_url; ?>our-services/domestic-relocation.php" title="Domestic Relocation Services">Domestic Relocation</a>
-                                            </li>
-                                            <li>
-                                                <a class="" href="<?php echo $base_url; ?>our-services/international-relocation.php" title="International Relocation Services">International Relocation</a>
-                                            </li>
-                                            <li>
-                                                <a class="" href="<?php echo $base_url; ?>our-services/warehouse-services.php" title="Warehouse Services">Warehouse Services</a>
-                                            </li>
-                                            <li>
-                                                <a class="" href="<?php echo $base_url; ?>our-services/car-and-bike-transportation.php" title="Car and Bike Transportation Services">Car and Bike Transportation</a>
-                                            </li>
-                                            <li>
-                                                <a class="" href="<?php echo $base_url; ?>our-services/office-shifting.php" title="Office Shifting Services">Office Shifting</a>
-                                            </li>
-                                            <li>
-                                                <a class="" href="<?php echo $base_url; ?>our-services/hotel-shifting.php" title="Hotel Shifting Services">Hotel Shifting</a>
-                                            </li>
-                                            <li>
-                                                <a class="" href="<?php echo $base_url; ?>our-services/factory-shifting.php" title="Factory Shifting Services">Factory Shifting</a>
-                                            </li>
-                                            <li>
-                                                <a class="" href="<?php echo $base_url; ?>our-services/pet-moving.php" title="Pet Moving Services">Pet Moving</a>
-                                            </li>
-                                            <li>
-                                                <a class="" href="<?php echo $base_url; ?>our-services/custom-clearance.php" title="Custom Clearance Services">Custom Clearance</a>
-                                            </li>
-                                            <li>
-                                                <a class="" href="<?php echo $base_url; ?>our-services/painting-moving-services.php" title="Painting Moving Services">Painting Moving Services</a>
-                                            </li>
-                                            <li>
-                                                <a class="" href="<?php echo $base_url; ?>our-services/goods-insurance.php" title="Goods Insurance Services">Goods Insurance</a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="services__widget services__widget-two">
-                                    <div class="sidebar__logo">
-                                        <a href="<?php echo $base_url; ?>">
-                                            <img src="<?php echo $base_url; ?>assets/media/logo/logo.jpeg" alt="Lucky Transporter Pvt. Ltd. Logo" style="width: 80%;" title="Lucky Transporter Pvt. Ltd.">
-                                        </a>
-                                    </div>
-                                    <div class="sidebar__contact">
-                                        <h2 class="title">Tailored Relocation Solutions for You</h2>
-                                        <a href="tel:+91 8003966646" class="sidebar__phone">
-                                            <i class="flaticon-telephone"></i> +91 8003966646                                        </a>
-                                        <a href="javascript:void(0);" class="btn get_a_free_quote" title="Get a Free Quote">
-                                            Get A Free Quote
-                                            <img src="<?php echo $base_url; ?>assets/media/svg/right-arrow-white.svg" alt="Get A Free Quote" class="injectable">
-                                        </a>
-                                    </div>
-                                    <div class="sidebar__shape" style="background-image: url('assets/media/bg/dz-cargo-packers-service-slidebar.webp');">
-                                    </div>
-                                </div>
-
-                            </aside>
-                        </div>
-                    </div>
                     </div>
                 </div>
             </div>
@@ -505,7 +426,7 @@
                                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                                             </div>
                                             <div class="testimonial__content">
-                                                <p>“Lucky Transporter made my home relocation completely hassle-free. Their team was professional, on-time, and handled my belongings with utmost care. Highly recommended!”</p>
+                                                <p>“LC Packers and Mover made my home relocation completely hassle-free. Their team was professional, on-time, and handled my belongings with utmost care. Highly recommended!”</p>
                                             </div>
                                         </div>
                                     </div>
@@ -533,7 +454,7 @@
                                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                                             </div>
                                             <div class="testimonial__content">
-                                                <p>“I was nervous about relocating my office, but Lucky Transporter handled everything smoothly. The team was efficient, and they ensured minimal downtime for my business.”</p>
+                                                <p>“I was nervous about relocating my office, but LC Packers and Mover handled everything smoothly. The team was efficient, and they ensured minimal downtime for my business.”</p>
                                             </div>
                                         </div>
                                     </div>
@@ -611,92 +532,92 @@
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client01.webp"
-                                        alt="Client 1 Logo | Trusted by Lucky Transporter"
-                                        title="Client 1 | Partner of Lucky Transporter">
+                                        alt="Client 1 Logo | Trusted by LC Packers and Mover"
+                                        title="Client 1 | Partner of LC Packers and Mover">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client02.webp"
-                                        alt="Client 2 Logo | Trusted by Lucky Transporter"
-                                        title="Client 2 | Partner of Lucky Transporter">
+                                        alt="Client 2 Logo | Trusted by LC Packers and Mover"
+                                        title="Client 2 | Partner of LC Packers and Mover">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client03.webp"
-                                        alt="Client 3 Logo | Trusted by Lucky Transporter"
-                                        title="Client 3 | Partner of Lucky Transporter">
+                                        alt="Client 3 Logo | Trusted by LC Packers and Mover"
+                                        title="Client 3 | Partner of LC Packers and Mover">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client04.webp"
-                                        alt="Client 4 Logo | Trusted by Lucky Transporter"
-                                        title="Client 4 | Partner of Lucky Transporter">
+                                        alt="Client 4 Logo | Trusted by LC Packers and Mover"
+                                        title="Client 4 | Partner of LC Packers and Mover">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client05.webp"
-                                        alt="Client 5 Logo | Trusted by Lucky Transporter"
-                                        title="Client 5 | Partner of Lucky Transporter">
+                                        alt="Client 5 Logo | Trusted by LC Packers and Mover"
+                                        title="Client 5 | Partner of LC Packers and Mover">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client06.webp"
-                                        alt="Client 6 Logo | Trusted by Lucky Transporter"
-                                        title="Client 6 | Partner of Lucky Transporter">
+                                        alt="Client 6 Logo | Trusted by LC Packers and Mover"
+                                        title="Client 6 | Partner of LC Packers and Mover">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client07.webp"
-                                        alt="Client 7 Logo | Trusted by Lucky Transporter"
-                                        title="Client 7 | Partner of Lucky Transporter">
+                                        alt="Client 7 Logo | Trusted by LC Packers and Mover"
+                                        title="Client 7 | Partner of LC Packers and Mover">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client08.webp"
-                                        alt="Client 8 Logo | Trusted by Lucky Transporter"
-                                        title="Client 8 | Partner of Lucky Transporter">
+                                        alt="Client 8 Logo | Trusted by LC Packers and Mover"
+                                        title="Client 8 | Partner of LC Packers and Mover">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client09.webp"
-                                        alt="Client 9 Logo | Trusted by Lucky Transporter"
-                                        title="Client 9 | Partner of Lucky Transporter">
+                                        alt="Client 9 Logo | Trusted by LC Packers and Mover"
+                                        title="Client 9 | Partner of LC Packers and Mover">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client10.webp"
-                                        alt="Client 10 Logo | Trusted by Lucky Transporter"
-                                        title="Client 10 | Partner of Lucky Transporter">
+                                        alt="Client 10 Logo | Trusted by LC Packers and Mover"
+                                        title="Client 10 | Partner of LC Packers and Mover">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client11.webp"
-                                        alt="Client 11 Logo | Trusted by Lucky Transporter"
-                                        title="Client 11 | Partner of Lucky Transporter">
+                                        alt="Client 11 Logo | Trusted by LC Packers and Mover"
+                                        title="Client 11 | Partner of LC Packers and Mover">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client12.webp"
-                                        alt="Client 12 Logo | Trusted by Lucky Transporter"
-                                        title="Client 12 | Partner of Lucky Transporter">
+                                        alt="Client 12 Logo | Trusted by LC Packers and Mover"
+                                        title="Client 12 | Partner of LC Packers and Mover">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client13.webp"
-                                        alt="Client 13 Logo | Trusted by Lucky Transporter"
-                                        title="Client 13 | Partner of Lucky Transporter">
+                                        alt="Client 13 Logo | Trusted by LC Packers and Mover"
+                                        title="Client 13 | Partner of LC Packers and Mover">
                                 </div>
                             </div>
                                             </div>

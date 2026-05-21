@@ -148,7 +148,7 @@
                     <!-- Image Section -->
                     <div class="col-lg-6 col-md-9">
                         <div class="about__img-five">
-                            <img src="<?php echo $base_url; ?>assets/media/about/about-team.jpg" alt="Lucky Transporter Team" data-aos="fade-left" data-aos-delay="200">
+                            <img src="<?php echo $base_url; ?>assets/media/about/about-team.jpg" alt="LC Packers and Mover Team" data-aos="fade-left" data-aos-delay="200">
                             <div class="about__clients-box about__clients-box-two" data-aos="fade-right" data-aos-delay="200">
                                 <span class="title">Committed to Safe & Reliable Relocation</span>
                                 <div class="counter__item">
@@ -180,7 +180,7 @@
                               <span class="sub-title">// OUR IDENTITY</span>
                             <h2 class="title">Over A Decade Of Superior Moving And Logistics Support</h2>
                             <p>
-                                Lucky Transporter stands as a leading brand within the logistics and shifting sector, committed to delivering high-quality moving assistance throughout the country. With more than ten years of expertise, our team has effectively supported numerous households and corporations in their transition processes. Our dedication to protection, speed, and client happiness has established us as a reliable partner for every variety of relocation requirement.
+                                LC Packers and Mover stands as a leading brand within the logistics and shifting sector, committed to delivering high-quality moving assistance throughout the country. With more than ten years of expertise, our team has effectively supported numerous households and corporations in their transition processes. Our dedication to protection, speed, and client happiness has established us as a reliable partner for every variety of relocation requirement.
                             </p>
                             <div class="about__content-inner-three">
                                 <div class="about__list-box about__list-box-five">
@@ -227,7 +227,7 @@
                                     </div>
                                     <div class="content">
                                         <span>Hotline Number</span>
-                                        <a title="Call Lucky Transporter for Reliable Relocation Services" href="tel:+91 8003966646">+91 8003966646</a>
+                                        <a title="Call LC Packers and Mover for Reliable Relocation Services" href="tel:+91 8003966646">+91 8003966646</a>
                                     </div>
                                 </div>
                             </div>
@@ -310,7 +310,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="services__item-three">
                             <div class="services__thumb-three">
-                                <a href="./our-services/home-shifting.php" title="Household Relocation Services by Lucky Transporter">
+                                <a href="./our-services/home-shifting.php" title="Household Relocation Services by LC Packers and Mover">
                                     <img src="<?php echo $base_url; ?>assets/media/services/household-relocation.jpg" alt="Household Relocation Services">
                                 </a>
                             </div>
@@ -331,7 +331,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="services__item-three">
                             <div class="services__thumb-three">
-                                <a href="./our-services/office-shifting.php" title="Office Shifting Services by Lucky Transporter">
+                                <a href="./our-services/office-shifting.php" title="Office Shifting Services by LC Packers and Mover">
                                     <img src="<?php echo $base_url; ?>assets/media/services/office-shifting.jpg" alt="Office Shifting Services">
                                 </a>
                             </div>
@@ -352,7 +352,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="services__item-three">
                             <div class="services__thumb-three">
-                                <a href="./our-services/international-relocation.php" title="International Relocation Services by Lucky Transporter">
+                                <a href="./our-services/international-relocation.php" title="International Relocation Services by LC Packers and Mover">
                                     <img src="<?php echo $base_url; ?>assets/media/services/international-relocation.jpg" alt="International Relocation Services">
                                 </a>
                             </div>
@@ -373,7 +373,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="services__item-three">
                             <div class="services__thumb-three">
-                                <a href="./our-services/car-and-bike-transportation.php" title="Car and Bike Moving Services by Lucky Transporter">
+                                <a href="./our-services/car-and-bike-transportation.php" title="Car and Bike Moving Services by LC Packers and Mover">
                                     <img src="<?php echo $base_url; ?>assets/media/services/car-bike-moving.jpg" alt="Car and Bike Moving Services">
                                 </a>
                             </div>
@@ -394,7 +394,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="services__item-three">
                             <div class="services__thumb-three">
-                                <a href="./our-services/warehouse-services.php" title="Warehousing Services by Lucky Transporter">
+                                <a href="./our-services/warehouse-services.php" title="Warehousing Services by LC Packers and Mover">
                                     <img src="<?php echo $base_url; ?>assets/media/services/warehousing.jpg" alt="Warehousing Services">
                                 </a>
                             </div>
@@ -415,7 +415,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="services__item-three">
                             <div class="services__thumb-three">
-                                <a href="./our-services/goods-insurance.php" title="Goods Insurance Services by Lucky Transporter">
+                                <a href="./our-services/goods-insurance.php" title="Goods Insurance Services by LC Packers and Mover">
                                     <img src="<?php echo $base_url; ?>assets/media/services/goods-insurance.jpg" alt="Goods Insurance Services">
                                 </a>
                             </div>
@@ -434,7 +434,7 @@
                 </div>
                 <div class="col-12">
                     <div class="view-all-btn-two view-all-btn-three text-center mb-0 mt-10">
-                        <a href="./our-services/" title="Explore All Services by Lucky Transporter" class="btn border-btn">View All Services
+                        <a href="./our-services/" title="Explore All Services by LC Packers and Mover" class="btn border-btn">View All Services
                             <img src="<?php echo $base_url; ?>assets/media/svg/right-arrow-red.svg" alt="Explore All Services" class="injectable">
                         </a>
                     </div>
@@ -606,7 +606,7 @@
                             <span class="sub-title">// Why Choose Us</span>
                             <h2 class="title">Delivering Excellence with Every Move</h2>
                             <p>
-                                At Lucky Transporter, we take pride in offering reliable, safe, and efficient relocation services. With over 11 years of experience, our specialized workers ensure that every move, whether residential, commercial, or automotive, is trouble-free. Trust us to handle your valuable belongings with care while delivering the highest quality service.
+                                At LC Packers and Mover, we take pride in offering reliable, safe, and efficient relocation services. With over 11 years of experience, our specialized workers ensure that every move, whether residential, commercial, or automotive, is trouble-free. Trust us to handle your valuable belongings with care while delivering the highest quality service.
                             </p>
                         </div>
                     </div>
@@ -822,13 +822,13 @@
                     <div class="col-lg-3 col-md-6">
                         <article class="project__item-three">
                             <figure class="project__thumb-three">
-                                <a href="./our-work.php" title="Explore our work at Lucky Transporter">
-                                    <img src="<?php echo $base_url; ?>assets/media/our-work/lc-packers-work-01.png" alt="Lucky Transporter Work Image 1">
+                                <a href="./our-work.php" title="Explore our work at LC Packers and Mover">
+                                    <img src="<?php echo $base_url; ?>assets/media/our-work/lc-packers-work-01.png" alt="LC Packers and Mover Work Image 1">
                                 </a>
                             </figure>
                             <div class="project__content-three">
                                 <h3 class="title">
-                                    <a href="./our-work.php" title="Explore all work by Lucky Transporter">View All Work</a>
+                                    <a href="./our-work.php" title="Explore all work by LC Packers and Mover">View All Work</a>
                                 </h3>
                             </div>
                             <div class="project__icon">
@@ -843,13 +843,13 @@
                     <div class="col-lg-3 col-md-6">
                         <article class="project__item-three">
                             <figure class="project__thumb-three">
-                                <a href="./our-work.php" title="Explore our work at Lucky Transporter">
-                                    <img src="<?php echo $base_url; ?>assets/media/our-work/lc-packers-work-02.png" alt="Lucky Transporter Work Image 2">
+                                <a href="./our-work.php" title="Explore our work at LC Packers and Mover">
+                                    <img src="<?php echo $base_url; ?>assets/media/our-work/lc-packers-work-02.png" alt="LC Packers and Mover Work Image 2">
                                 </a>
                             </figure>
                             <div class="project__content-three">
                                 <h3 class="title">
-                                    <a href="./our-work.php" title="Explore all work by Lucky Transporter">View All Work</a>
+                                    <a href="./our-work.php" title="Explore all work by LC Packers and Mover">View All Work</a>
                                 </h3>
                             </div>
                             <div class="project__icon">
@@ -864,13 +864,13 @@
                     <div class="col-lg-3 col-md-6">
                         <article class="project__item-three">
                             <figure class="project__thumb-three">
-                                <a href="./our-work.php" title="Explore our work at Lucky Transporter">
-                                    <img src="<?php echo $base_url; ?>assets/media/our-work/lc-packers-work-03.png" alt="Lucky Transporter Work Image 3">
+                                <a href="./our-work.php" title="Explore our work at LC Packers and Mover">
+                                    <img src="<?php echo $base_url; ?>assets/media/our-work/lc-packers-work-03.png" alt="LC Packers and Mover Work Image 3">
                                 </a>
                             </figure>
                             <div class="project__content-three">
                                 <h3 class="title">
-                                    <a href="./our-work.php" title="Explore all work by Lucky Transporter">View All Work</a>
+                                    <a href="./our-work.php" title="Explore all work by LC Packers and Mover">View All Work</a>
                                 </h3>
                             </div>
                             <div class="project__icon">
@@ -885,13 +885,13 @@
                     <div class="col-lg-3 col-md-6">
                         <article class="project__item-three">
                             <figure class="project__thumb-three">
-                                <a href="./our-work.php" title="Explore our work at Lucky Transporter">
-                                    <img src="<?php echo $base_url; ?>assets/media/our-work/lc-packers-work-04.png" alt="Lucky Transporter Work Image 4">
+                                <a href="./our-work.php" title="Explore our work at LC Packers and Mover">
+                                    <img src="<?php echo $base_url; ?>assets/media/our-work/lc-packers-work-04.png" alt="LC Packers and Mover Work Image 4">
                                 </a>
                             </figure>
                             <div class="project__content-three">
                                 <h3 class="title">
-                                    <a href="./our-work.php" title="Explore all work by Lucky Transporter">View All Work</a>
+                                    <a href="./our-work.php" title="Explore all work by LC Packers and Mover">View All Work</a>
                                 </h3>
                             </div>
                             <div class="project__icon">
@@ -907,13 +907,13 @@
                     <div class="col-lg-3 col-md-6">
                         <article class="project__item-three">
                             <figure class="project__thumb-three">
-                                <a href="./our-work.php" title="Explore our work at Lucky Transporter">
-                                    <img src="<?php echo $base_url; ?>assets/media/our-work/lc-packers-work-05.png" alt="Lucky Transporter Work Image 5">
+                                <a href="./our-work.php" title="Explore our work at LC Packers and Mover">
+                                    <img src="<?php echo $base_url; ?>assets/media/our-work/lc-packers-work-05.png" alt="LC Packers and Mover Work Image 5">
                                 </a>
                             </figure>
                             <div class="project__content-three">
                                 <h3 class="title">
-                                    <a href="./our-work.php" title="Explore all work by Lucky Transporter">View All Work</a>
+                                    <a href="./our-work.php" title="Explore all work by LC Packers and Mover">View All Work</a>
                                 </h3>
                             </div>
                             <div class="project__icon">
@@ -928,13 +928,13 @@
                     <div class="col-lg-3 col-md-6">
                         <article class="project__item-three">
                             <figure class="project__thumb-three">
-                                <a href="./our-work.php" title="Explore our work at Lucky Transporter">
-                                    <img src="<?php echo $base_url; ?>assets/media/our-work/lc-packers-work-06.png" alt="Lucky Transporter Work Image 6">
+                                <a href="./our-work.php" title="Explore our work at LC Packers and Mover">
+                                    <img src="<?php echo $base_url; ?>assets/media/our-work/lc-packers-work-06.png" alt="LC Packers and Mover Work Image 6">
                                 </a>
                             </figure>
                             <div class="project__content-three">
                                 <h3 class="title">
-                                    <a href="./our-work.php" title="Explore all work by Lucky Transporter">View All Work</a>
+                                    <a href="./our-work.php" title="Explore all work by LC Packers and Mover">View All Work</a>
                                 </h3>
                             </div>
                             <div class="project__icon">
@@ -949,13 +949,13 @@
                     <div class="col-lg-3 col-md-6">
                         <article class="project__item-three">
                             <figure class="project__thumb-three">
-                                <a href="./our-work.php" title="Explore our work at Lucky Transporter">
-                                    <img src="<?php echo $base_url; ?>assets/media/our-work/lc-packers-work-07.png" alt="Lucky Transporter Work Image 7">
+                                <a href="./our-work.php" title="Explore our work at LC Packers and Mover">
+                                    <img src="<?php echo $base_url; ?>assets/media/our-work/lc-packers-work-07.png" alt="LC Packers and Mover Work Image 7">
                                 </a>
                             </figure>
                             <div class="project__content-three">
                                 <h3 class="title">
-                                    <a href="./our-work.php" title="Explore all work by Lucky Transporter">View All Work</a>
+                                    <a href="./our-work.php" title="Explore all work by LC Packers and Mover">View All Work</a>
                                 </h3>
                             </div>
                             <div class="project__icon">
@@ -970,13 +970,13 @@
                     <div class="col-lg-3 col-md-6">
                         <article class="project__item-three">
                             <figure class="project__thumb-three">
-                                <a href="./our-work.php" title="Explore our work at Lucky Transporter">
-                                    <img src="<?php echo $base_url; ?>assets/media/our-work/lc-packers-work-08.png" alt="Lucky Transporter Work Image 8">
+                                <a href="./our-work.php" title="Explore our work at LC Packers and Mover">
+                                    <img src="<?php echo $base_url; ?>assets/media/our-work/lc-packers-work-08.png" alt="LC Packers and Mover Work Image 8">
                                 </a>
                             </figure>
                             <div class="project__content-three">
                                 <h3 class="title">
-                                    <a href="./our-work.php" title="Explore all work by Lucky Transporter">View All Work</a>
+                                    <a href="./our-work.php" title="Explore all work by LC Packers and Mover">View All Work</a>
                                 </h3>
                             </div>
                             <div class="project__icon">
@@ -992,7 +992,7 @@
 
             <div class="col-12">
                 <div class="view-all-btn-two view-all-btn-three text-center mb-0 mt-10">
-                    <a href="./our-work.php" title="Explore All Work by Lucky Transporter" class="btn border-btn">View All Work <img src="<?php echo $base_url; ?>assets/media/svg/right-arrow-red.svg" alt="Explore All Services" class="injectable"></a>
+                    <a href="./our-work.php" title="Explore All Work by LC Packers and Mover" class="btn border-btn">View All Work <img src="<?php echo $base_url; ?>assets/media/svg/right-arrow-red.svg" alt="Explore All Services" class="injectable"></a>
                 </div>
             </div>
             </div>
@@ -1056,7 +1056,7 @@
                             <span class="sub-title">// HOW IT WORKS</span>
                             <h2 class="title">Unveiling Our Streamlined Relocation Process</h2>
                             <p>
-                                At Lucky Transporter, our staff utilizes a tested and rapid methodology to guarantee your shifting is fluid and easy. From strategy and boxing to transit and drop-off, each phase is crafted to deliver maximum security and client joy. Learn how our professional crew turns a move into a perfect and effortless journey for everyone.
+                                At LC Packers and Mover, our staff utilizes a tested and rapid methodology to guarantee your shifting is fluid and easy. From strategy and boxing to transit and drop-off, each phase is crafted to deliver maximum security and client joy. Learn how our professional crew turns a move into a perfect and effortless journey for everyone.
                             </p>
                         </div>
                     </div>
@@ -1189,13 +1189,13 @@
             <div class="container">
                 <div class="cta__wrap-two cta__wrap-three">
                     <div class="cta__img">
-                        <img src="<?php echo $base_url; ?>assets/media/cta/cta_banner.png" alt="Lucky Transporter - Reliable Transport Services">
+                        <img src="<?php echo $base_url; ?>assets/media/cta/cta_banner.png" alt="LC Packers and Mover - Reliable Transport Services">
                     </div>
                     <div class="cta__content-two cta__content-three">
                         <div class="content__left">
                             <h2 class="title">Seeking Trustworthy Shifting And Professional Logistics Support?</h2>
                         <p>
-                            Lucky Transporter has been active in this industry for more than 11 years which provides us the expertise to offer top-tier boxing, transit and shifting assistance throughout India. Whether you require home moving, corporate transfer or car transport, we ensure the entire process is simple and very productive.
+                            LC Packers and Mover has been active in this industry for more than 11 years which provides us the expertise to offer top-tier boxing, transit and shifting assistance throughout India. Whether you require home moving, corporate transfer or car transport, we ensure the entire process is simple and very productive.
                         </p>
                         </div>
                         <div class="cta__btn-two cta__btn-three">
@@ -1267,7 +1267,7 @@
                                                 <i class="fas fa-star"></i>
                                             </div>
                                             <div class="testimonial__content">
-                                                <p>“Lucky Transporter turned my household shift into a truly easy experience. The staff was expert, punctual, and managed my property with incredible gentleness. Great team!”</p>
+                                                <p>“LC Packers and Mover turned my household shift into a truly easy experience. The staff was expert, punctual, and managed my property with incredible gentleness. Great team!”</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1305,7 +1305,7 @@
                                                 <i class="fas fa-star"></i>
                                             </div>
                                             <div class="testimonial__content">
-                                                <p>“We were worried about moving our workspace, but Lucky Transporter managed the task perfectly. The crew was fast, and they guaranteed low disruption for our company.”</p>
+                                                <p>“We were worried about moving our workspace, but LC Packers and Mover managed the task perfectly. The crew was fast, and they guaranteed low disruption for our company.”</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1500,7 +1500,7 @@
                                     <div class="accordion-item">
                                         <h2 class="accordion-header">
                                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                                Which specific shifting solutions does Lucky Transporter company currently offer?
+                                                Which specific shifting solutions does LC Packers and Mover company currently offer?
                                             </button>
                                         </h2>
                                         <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
@@ -1784,7 +1784,7 @@
                             <span class="sub-title">// Our Service Coverage</span>
                             <h2 class="title">Strategic Moving Support Across Indian Regions</h2>
                             <p>
-                                Lucky Transporter Pvt Ltd utilizes expert staff to coordinate seamless logistics for diverse requirements. Whether it's residential house moving, complex office transitions, or vehicle transport, our team prioritizes reliability and minimizes stress for every client.
+                                LC Packers and Mover Pvt Ltd utilizes expert staff to coordinate seamless logistics for diverse requirements. Whether it's residential house moving, complex office transitions, or vehicle transport, our team prioritizes reliability and minimizes stress for every client.
                             </p>
                         </div>
                     </div>
@@ -1918,92 +1918,92 @@
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client01.webp"
-                                        alt="Client 1 Logo | Trusted by Lucky Transporter"
-                                        title="Client 1 | Partner of Lucky Transporter">
+                                        alt="Client 1 Logo | Trusted by LC Packers and Mover"
+                                        title="Client 1 | Partner of LC Packers and Mover">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client02.webp"
-                                        alt="Client 2 Logo | Trusted by Lucky Transporter"
-                                        title="Client 2 | Partner of Lucky Transporter">
+                                        alt="Client 2 Logo | Trusted by LC Packers and Mover"
+                                        title="Client 2 | Partner of LC Packers and Mover">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client03.webp"
-                                        alt="Client 3 Logo | Trusted by Lucky Transporter"
-                                        title="Client 3 | Partner of Lucky Transporter">
+                                        alt="Client 3 Logo | Trusted by LC Packers and Mover"
+                                        title="Client 3 | Partner of LC Packers and Mover">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client04.webp"
-                                        alt="Client 4 Logo | Trusted by Lucky Transporter"
-                                        title="Client 4 | Partner of Lucky Transporter">
+                                        alt="Client 4 Logo | Trusted by LC Packers and Mover"
+                                        title="Client 4 | Partner of LC Packers and Mover">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client05.webp"
-                                        alt="Client 5 Logo | Trusted by Lucky Transporter"
-                                        title="Client 5 | Partner of Lucky Transporter">
+                                        alt="Client 5 Logo | Trusted by LC Packers and Mover"
+                                        title="Client 5 | Partner of LC Packers and Mover">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client06.webp"
-                                        alt="Client 6 Logo | Trusted by Lucky Transporter"
-                                        title="Client 6 | Partner of Lucky Transporter">
+                                        alt="Client 6 Logo | Trusted by LC Packers and Mover"
+                                        title="Client 6 | Partner of LC Packers and Mover">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client07.webp"
-                                        alt="Client 7 Logo | Trusted by Lucky Transporter"
-                                        title="Client 7 | Partner of Lucky Transporter">
+                                        alt="Client 7 Logo | Trusted by LC Packers and Mover"
+                                        title="Client 7 | Partner of LC Packers and Mover">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client08.webp"
-                                        alt="Client 8 Logo | Trusted by Lucky Transporter"
-                                        title="Client 8 | Partner of Lucky Transporter">
+                                        alt="Client 8 Logo | Trusted by LC Packers and Mover"
+                                        title="Client 8 | Partner of LC Packers and Mover">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client09.webp"
-                                        alt="Client 9 Logo | Trusted by Lucky Transporter"
-                                        title="Client 9 | Partner of Lucky Transporter">
+                                        alt="Client 9 Logo | Trusted by LC Packers and Mover"
+                                        title="Client 9 | Partner of LC Packers and Mover">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client10.webp"
-                                        alt="Client 10 Logo | Trusted by Lucky Transporter"
-                                        title="Client 10 | Partner of Lucky Transporter">
+                                        alt="Client 10 Logo | Trusted by LC Packers and Mover"
+                                        title="Client 10 | Partner of LC Packers and Mover">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client11.webp"
-                                        alt="Client 11 Logo | Trusted by Lucky Transporter"
-                                        title="Client 11 | Partner of Lucky Transporter">
+                                        alt="Client 11 Logo | Trusted by LC Packers and Mover"
+                                        title="Client 11 | Partner of LC Packers and Mover">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client12.webp"
-                                        alt="Client 12 Logo | Trusted by Lucky Transporter"
-                                        title="Client 12 | Partner of Lucky Transporter">
+                                        alt="Client 12 Logo | Trusted by LC Packers and Mover"
+                                        title="Client 12 | Partner of LC Packers and Mover">
                                 </div>
                             </div>
                                                     <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client13.webp"
-                                        alt="Client 13 Logo | Trusted by Lucky Transporter"
-                                        title="Client 13 | Partner of Lucky Transporter">
+                                        alt="Client 13 Logo | Trusted by LC Packers and Mover"
+                                        title="Client 13 | Partner of LC Packers and Mover">
                                 </div>
                             </div>
                                             </div>

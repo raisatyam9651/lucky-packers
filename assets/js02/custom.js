@@ -154,7 +154,7 @@ $(document).ready(function() {
                 data: $("#get_a_quote_form01").serialize(),
                 success: function(data) {
                     $("#get_a_quote_form01_result").html(
-                        '<small style="color:green"><strong>Thank You for Reaching Out! </strong> We have received your details and our team at <strong>Lucky Transporter PVT. LTD.</strong> will get in touch with you shortly.</small>',
+                        '<small style="color:green"><strong>Thank You for Reaching Out! </strong> We have received your details and our team at <strong>LC Packers and Mover PVT. LTD.</strong> will get in touch with you shortly.</small>',
                     );
                     submitBtn.prop("disabled", !1);
                     submitBtn.css({
@@ -277,7 +277,7 @@ $(document).ready(function() {
                 data: $("#get_a_quote_form02").serialize(),
                 success: function(data) {
                     $("#get_a_quote_form02_result").html(
-                        '<small style="color:green"><strong>Thank You for Reaching Out! </strong> We have received your details and our team at <strong>Lucky Transporter PVT. LTD.</strong> will get in touch with you shortly.</small>',
+                        '<small style="color:green"><strong>Thank You for Reaching Out! </strong> We have received your details and our team at <strong>LC Packers and Mover PVT. LTD.</strong> will get in touch with you shortly.</small>',
                     );
                     submitBtn.prop("disabled", !1);
                     submitBtn.css({
@@ -336,7 +336,7 @@ $(document).ready(function() {
                 data: $("#corp_contact_form").serialize(),
                 success: function(data) {
                     $("#corp_contact_form_result").html(
-                        '<small style="color:green"><strong>Thank You for Reaching Out! </strong> We have received your details and our team at <strong>Lucky Transporter PVT. LTD.</strong> will get in touch with you shortly.</small>',
+                        '<small style="color:green"><strong>Thank You for Reaching Out! </strong> We have received your details and our team at <strong>LC Packers and Mover PVT. LTD.</strong> will get in touch with you shortly.</small>',
                     );
                     submitBtn.prop("disabled", !1);
                     submitBtn.css({
@@ -395,7 +395,7 @@ $(document).ready(function() {
                 data: $("#corp_hero_form").serialize(),
                 success: function(data) {
                     $("#corp_hero_form_result").html(
-                        '<small style="color:green"><strong>Thank You for Reaching Out! </strong> We have received your details and our team at <strong>Lucky Transporter PVT. LTD.</strong> will get in touch with you shortly.</small>',
+                        '<small style="color:green"><strong>Thank You for Reaching Out! </strong> We have received your details and our team at <strong>LC Packers and Mover PVT. LTD.</strong> will get in touch with you shortly.</small>',
                     );
                     submitBtn.prop("disabled", !1);
                     submitBtn.css({
@@ -510,7 +510,7 @@ $(document).ready(function() {
                 data: $("#contact-form05").serialize(),
                 success: function(data) {
                     $(".contact-form05_result").html(
-                        '<small style="color:green"><strong>Thank You for Reaching Out! </strong> We have received your details and our team at <strong>Lucky Transporter PVT. LTD.</strong> will get in touch with you shortly.</small>',
+                        '<small style="color:green"><strong>Thank You for Reaching Out! </strong> We have received your details and our team at <strong>LC Packers and Mover PVT. LTD.</strong> will get in touch with you shortly.</small>',
                     );
                     submitBtn.prop("disabled", !1);
                     submitBtn.css({

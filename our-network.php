@@ -1,6 +1,6 @@
 <?php 
-$page_title = 'Our Network | Lucky Transporter - Packers and Movers Across India';
-$page_description = 'Lucky Transporter provides reliable packers and movers services across all major cities in India, including Delhi, Noida, Gurgaon, Mumbai, Bangalore, and more.';
+$page_title = 'Our Network | LC Packers and Mover - Packers and Movers Across India';
+$page_description = 'LC Packers and Mover provides reliable packers and movers services across all major cities in India, including Delhi, Noida, Gurgaon, Mumbai, Bangalore, and more.';
 $page_keywords = 'packers and movers network, movers in india, luck transporter locations, delhi, noida, gurgaon, mumbai, bangalore';
 include 'header.php'; 
 ?>
@@ -38,7 +38,7 @@ include 'header.php';
                             <span class="sub-title">// NATIONWIDE PRESENCE</span>
                             <h2 class="title">Our Service Network Across India</h2>
                             <p>
-                                With over a decade of excellence, Lucky Transporter has established a robust logistics infrastructure across the country. From metropolitan hubs to growing industrial centers, we bring professional relocation services to your doorstep.
+                                With over a decade of excellence, LC Packers and Mover has established a robust logistics infrastructure across the country. From metropolitan hubs to growing industrial centers, we bring professional relocation services to your doorstep.
                             </p>
                         </div>
                     </div>

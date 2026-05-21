@@ -1,7 +1,7 @@
 <?php 
-$page_title = 'Our Work | Lucky Transporter - Recent Successful Relocation Projects';
-$page_description = 'Explore the Lucky Transporter portfolio. From premium home shifting to complex industrial moves, see how we deliver excellence across India.';
-$page_keywords = 'moving portfolio, successful shifts, lucky transporter work, relocation gallery';
+$page_title = 'Our Work | LC Packers and Mover - Recent Successful Relocation Projects';
+$page_description = 'Explore the LC Packers and Mover portfolio. From premium home shifting to complex industrial moves, see how we deliver excellence across India.';
+$page_keywords = 'moving portfolio, successful shifts, lc packers and mover work, relocation gallery';
 $base_url = ''; 
 include 'header.php'; 
 ?>

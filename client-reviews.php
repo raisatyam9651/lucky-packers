@@ -32,7 +32,7 @@
                         <div class="section__title text-center mb-50">
                             <span class="sub-title">// What Our Clients Say</span>
                             <h2 class="title">Voices of Satisfaction</h2>
-                            <p>At <strong>Lucky Transporter</strong>, customer satisfaction is at the center of everything we do. Over the past 11 years, we’ve moved countless people, families, and companies seamlessly and their satisfaction is a testimony to our dedication to excellence. Whether it is house moves or office moves, our clients value the quality, trust and individuality we provide.</p>
+                            <p>At <strong>LC Packers and Mover</strong>, customer satisfaction is at the center of everything we do. Over the past 11 years, we’ve moved countless people, families, and companies seamlessly and their satisfaction is a testimony to our dedication to excellence. Whether it is house moves or office moves, our clients value the quality, trust and individuality we provide.</p>
                         </div>
                     </div>
                 </div>
@@ -81,7 +81,7 @@
                                 <i class=”fas fa-star”></i><i class=”fas fa-star”></i><i class=”fas fa-star”></i><i class=”fas fa-star”></i><i class=”fas fa-star-half-alt”></i>
                             </div>
                             <div class=”testimonial__content”>
-                                <p>”Our office shift was handled with such precision. Zero downtime, everything labeled and organized. The Lucky Transporter team truly understands corporate relocations.”</p>
+                                <p>”Our office shift was handled with such precision. Zero downtime, everything labeled and organized. The LC Packers and Mover team truly understands corporate relocations.”</p>
                             </div>
                         </div>
                     </div>
@@ -146,7 +146,7 @@
                         <div class="col-lg-8">
                             <div class="cta__content">
                                 <h2 class="title" style="color: #fff; margin-bottom: 10px;">Experience Stress-Free Shifting!</h2>
-                                <p style="margin-bottom: 0;">Join our thousands of happy customers. Contact Lucky Transporter for a free quote today.</p>
+                                <p style="margin-bottom: 0;">Join our thousands of happy customers. Contact LC Packers and Mover for a free quote today.</p>
                             </div>
                         </div>
                         <div class="col-lg-4 text-lg-end mt-4 mt-lg-0">

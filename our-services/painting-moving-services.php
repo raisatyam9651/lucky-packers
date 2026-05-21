@@ -123,7 +123,7 @@
                                 <div class="services__widget services__widget-two">
                                     <div class="sidebar__logo">
                                         <a href="<?php echo $base_url; ?>">
-                                            <img src="<?php echo $base_url; ?>assets/media/logo/logo.jpeg" alt="Lucky Transporter Pvt. Ltd. Logo" style="width: 80%;" title="Lucky Transporter Pvt. Ltd.">
+                                            <img src="<?php echo $base_url; ?>assets/media/logo/logo.jpeg" alt="LC Packers and Mover Pvt. Ltd. Logo" style="width: 80%;" title="LC Packers and Mover Pvt. Ltd.">
                                         </a>
                                     </div>
                                     <div class="sidebar__contact">
@@ -143,14 +143,14 @@
                         </div>
                         <div class="col-lg-8">
                             <div class="services__details-thumb">
-                                <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-packing-main.png"
-                                    alt="Expert Fine Art and Painting Moving Services by Lucky Transporter"
+                                <img src="<?php echo $base_url; ?>assets/media/services/painting-moving-main.png"
+                                    alt="Expert Fine Art and Painting Moving Services by LC Packers and Mover"
                                     title="Specialized Artwork Relocation Solutions">
                             </div>
 
                             <div class="services__details-content">
                                 <h1 class="title">Fine Art and Painting Moving That Handles Your Collection Like Museum Staff</h1>
-                                <p>Moving paintings and artwork isn't like moving furniture. One scratch on a framed canvas, one crack in a marble sculpture, and you've lost something irreplaceable—not just in value, but in meaning. That's why Lucky Transporter treats every piece as if it belonged in a gallery.</p>
+                                <p>Moving paintings and artwork isn't like moving furniture. One scratch on a framed canvas, one crack in a marble sculpture, and you've lost something irreplaceable—not just in value, but in meaning. That's why LC Packers and Mover treats every piece as if it belonged in a gallery.</p>
 
                                 <p>Our art handlers are trained specifically for fragile, high-value pieces. We use museum-grade materials, custom-built crates, and climate-controlled vehicles to ensure your collection arrives exactly as it left. Whether it's a single watercolor or an entire gallery wall, we bring the same level of care.</p>
 
@@ -305,7 +305,7 @@
                                     </div>
                                 </div>
                                 <h2>Trust Your Collection to Specialists</h2>
-                                <p>Art moves aren't like other moves. The stakes are higher and the tolerances are smaller. Lucky Transporter's art handling team brings museum-grade techniques to every relocation—custom crating, climate control, and careful positioning included. Contact us for an assessment and quote for your collection.</p>
+                                <p>Art moves aren't like other moves. The stakes are higher and the tolerances are smaller. LC Packers and Mover's art handling team brings museum-grade techniques to every relocation—custom crating, climate control, and careful positioning included. Contact us for an assessment and quote for your collection.</p>
                             </div>
                         </div>
                     </div>
@@ -446,7 +446,7 @@
                                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                                             </div>
                                             <div class="testimonial__content">
-                                                <p>“Lucky Transporter made my home relocation completely hassle-free. Their team was professional, on-time, and handled my belongings with utmost care. Highly recommended!”</p>
+                                                <p>“LC Packers and Mover made my home relocation completely hassle-free. Their team was professional, on-time, and handled my belongings with utmost care. Highly recommended!”</p>
                                             </div>
                                         </div>
                                     </div>
@@ -474,7 +474,7 @@
                                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                                             </div>
                                             <div class="testimonial__content">
-                                                <p>“I was nervous about relocating my office, but Lucky Transporter handled everything smoothly. The team was efficient, and they ensured minimal downtime for my business.”</p>
+                                                <p>“I was nervous about relocating my office, but LC Packers and Mover handled everything smoothly. The team was efficient, and they ensured minimal downtime for my business.”</p>
                                             </div>
                                         </div>
                                     </div>
@@ -553,8 +553,8 @@
                             <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client<?php echo sprintf('%02d', $i); ?>.webp"
-                                        alt="Client <?php echo $i; ?> Logo | Trusted by Lucky Transporter"
-                                        title="Client <?php echo $i; ?> | Partner of Lucky Transporter">
+                                        alt="Client <?php echo $i; ?> Logo | Trusted by LC Packers and Mover"
+                                        title="Client <?php echo $i; ?> | Partner of LC Packers and Mover">
                                 </div>
                             </div>
                         <?php endfor; ?>

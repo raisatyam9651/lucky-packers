@@ -1,7 +1,7 @@
 <?php 
-$page_title = 'About Us | Lucky Transporter - Trusted Packers and Movers Since 2013';
-$page_description = 'Learn more about Lucky Transporter, a leading relocation service provider in India with 11+ years of experience and 22,000+ successful moves.';
-$page_keywords = 'about lucky transporter, trusted movers and packers, relocation history, moving experts india';
+$page_title = 'About Us | LC Packers and Mover - Trusted Packers and Movers Since 2013';
+$page_description = 'Learn more about LC Packers and Mover, a leading relocation service provider in India with 11+ years of experience and 22,000+ successful moves.';
+$page_keywords = 'about lc packers and mover, trusted movers and packers, relocation history, moving experts india';
 include 'header.php'; 
 ?>
 
@@ -35,7 +35,7 @@ include 'header.php';
                 <div class="row align-items-center justify-content-center gutter-24">
                     <div class="col-lg-6 col-md-9">
                         <div class="about__img-five">
-                            <img src="<?php echo $base_url; ?>assets/media/about/about-team.jpg" alt="Lucky Transporter Team" data-aos="fade-left" data-aos-delay="200">
+                            <img src="<?php echo $base_url; ?>assets/media/about/about-team.jpg" alt="LC Packers and Mover Team" data-aos="fade-left" data-aos-delay="200">
                             <div class="about__clients-box about__clients-box-two" data-aos="fade-right" data-aos-delay="200">
                                 <span class="title">Dedicated to Safe Relocation</span>
                                 <div class="counter__item">
@@ -65,7 +65,7 @@ include 'header.php';
                                 <span class="sub-title">// OUR STORY</span>
                                 <h2 class="title">Your Most Trusted Relocation Partner Since 2013</h2>
                                 <p>
-                                    Lucky Transporter was founded with a single mission: to redefine the relocation experience in India. Over the last 11 years, we have grown from a small local team to a nationwide network of moving professionals, serving thousands of families and businesses with integrity and care.
+                                    LC Packers and Mover was founded with a single mission: to redefine the relocation experience in India. Over the last 11 years, we have grown from a small local team to a nationwide network of moving professionals, serving thousands of families and businesses with integrity and care.
                                 </p>
                                 <p>
                                     We believe that every move tells a story, and our job is to ensure it has a happy beginning in the new location. From high-quality packing materials to state-of-the-art transportation, we invest in every detail to keep your belongings safe.

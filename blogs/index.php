@@ -32,7 +32,7 @@
                         <div class="section__title text-center mb-50">
                             <span class="sub-title" style="color: #0A4D68; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">// DISCOVER EXPERT RELOCATION INSIGHTS</span>
                             <h2 class="title" style="font-weight: 800; font-size: 36px; margin-top: 10px;">Your Trusted Resource For Moving Tips And Industry Updates</h2>
-                            <p style="max-width: 900px; margin: 20px auto 0;">Welcome to <strong>Lucky Transporter Pvt. Ltd.</strong> blog – here is your resource for the relocation and logistics tips from professionals. We have more than 11 years experience and we can provide you with helpful tips, instructions, and news on how to move efficiently. From packing tips and selecting good movers to learning about international moving tips, you’ll find everything in our blogs. Stay updated, save money, and ensure an effortless move with help from the professionals. Start exploring today!</p>
+                            <p style="max-width: 900px; margin: 20px auto 0;">Welcome to <strong>LC Packers and Mover Pvt. Ltd.</strong> blog – here is your resource for the relocation and logistics tips from professionals. We have more than 11 years experience and we can provide you with helpful tips, instructions, and news on how to move efficiently. From packing tips and selecting good movers to learning about international moving tips, you’ll find everything in our blogs. Stay updated, save money, and ensure an effortless move with help from the professionals. Start exploring today!</p>
                         </div>
                     </div>
                 </div>

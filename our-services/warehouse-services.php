@@ -123,7 +123,7 @@
                                 <div class="services__widget services__widget-two">
                                     <div class="sidebar__logo">
                                         <a href="<?php echo $base_url; ?>">
-                                            <img src="<?php echo $base_url; ?>assets/media/logo/logo.jpeg" alt="Lucky Transporter Pvt. Ltd. Logo" style="width: 80%;" title="Lucky Transporter Pvt. Ltd.">
+                                            <img src="<?php echo $base_url; ?>assets/media/logo/logo.jpeg" alt="LC Packers and Mover Pvt. Ltd. Logo" style="width: 80%;" title="LC Packers and Mover Pvt. Ltd.">
                                         </a>
                                     </div>
                                     <div class="sidebar__contact">
@@ -143,8 +143,8 @@
                         </div>
                         <div class="col-lg-8">
                             <div class="services__details-thumb">
-                                <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-loading-main.png"
-                                    alt="Secure Warehouse and Storage Solutions by Lucky Transporter"
+                                <img src="<?php echo $base_url; ?>assets/media/services/warehouse-services-main.png"
+                                    alt="Secure Warehouse and Storage Solutions by LC Packers and Mover"
                                     title="Modern Warehousing Facilities for Your Goods">
                             </div>
 
@@ -152,7 +152,7 @@
                                 <h1 class="title">Warehouse Storage That Keeps Your Goods Safe Until You Need Them</h1>
                                 <p>Sometimes a move doesn't happen in one straight line. Maybe your new place isn't ready yet. Maybe you're scaling down your office and need somewhere to store the overflow. Maybe you're a business that needs flexible inventory storage without the overhead of your own warehouse.</p>
 
-                                <p>Lucky Transporter's warehousing service gives you secure, accessible storage for as long as you need it. Our warehouses are monitored around the clock, pest-controlled, and maintained. Your goods don't just sit there—they stay protected until you're ready to retrieve them.</p>
+                                <p>LC Packers and Mover's warehousing service gives you secure, accessible storage for as long as you need it. Our warehouses are monitored around the clock, pest-controlled, and maintained. Your goods don't just sit there—they stay protected until you're ready to retrieve them.</p>
 
                                 <h2>What Our Warehouses Offer</h2>
                                 <ul>
@@ -289,7 +289,7 @@
                                     </div>
                                 </div>
                                 <h2>Storage Without the Facility Overhead</h2>
-                                <p>Lucky Transporter's warehousing gives you professional storage without the property headaches. Security, maintenance, pest control—all handled. Your goods stay protected and accessible. Contact us to discuss your storage requirements or arrange a facility tour.</p>
+                                <p>LC Packers and Mover's warehousing gives you professional storage without the property headaches. Security, maintenance, pest control—all handled. Your goods stay protected and accessible. Contact us to discuss your storage requirements or arrange a facility tour.</p>
                             </div>
                         </div>
                     </div>
@@ -430,7 +430,7 @@
                                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                                             </div>
                                             <div class="testimonial__content">
-                                                <p>“Lucky Transporter made my home relocation completely hassle-free. Their team was professional, on-time, and handled my belongings with utmost care. Highly recommended!”</p>
+                                                <p>“LC Packers and Mover made my home relocation completely hassle-free. Their team was professional, on-time, and handled my belongings with utmost care. Highly recommended!”</p>
                                             </div>
                                         </div>
                                     </div>
@@ -458,7 +458,7 @@
                                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                                             </div>
                                             <div class="testimonial__content">
-                                                <p>“I was nervous about relocating my office, but Lucky Transporter handled everything smoothly. The team was efficient, and they ensured minimal downtime for my business.”</p>
+                                                <p>“I was nervous about relocating my office, but LC Packers and Mover handled everything smoothly. The team was efficient, and they ensured minimal downtime for my business.”</p>
                                             </div>
                                         </div>
                                     </div>
@@ -537,8 +537,8 @@
                             <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client<?php echo sprintf('%02d', $i); ?>.webp"
-                                        alt="Client <?php echo $i; ?> Logo | Trusted by Lucky Transporter"
-                                        title="Client <?php echo $i; ?> | Partner of Lucky Transporter">
+                                        alt="Client <?php echo $i; ?> Logo | Trusted by LC Packers and Mover"
+                                        title="Client <?php echo $i; ?> | Partner of LC Packers and Mover">
                                 </div>
                             </div>
                         <?php endfor; ?>

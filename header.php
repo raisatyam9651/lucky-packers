@@ -5,32 +5,32 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title><?php echo isset($page_title) ? $page_title : 'Lucky Transporter - Trusted Relocation Services'; ?></title>
-    <meta name="description" content="<?php echo isset($page_description) ? $page_description : 'Reliable packers and movers with 11+ years of experience. Lucky Transporter offers home, office, and vehicle relocation services across India. Get a free quote today!'; ?>">
-    <meta name="keywords" content="<?php echo isset($page_keywords) ? $page_keywords : 'packers and movers, relocation services, home shifting, office relocation, car transportation, warehouse storage, Lucky Transporter, trusted packers in India'; ?>">
+    <title><?php echo isset($page_title) ? $page_title : 'LC Packers and Mover - Trusted Relocation Services'; ?></title>
+    <meta name="description" content="<?php echo isset($page_description) ? $page_description : 'Reliable packers and movers with 11+ years of experience. LC Packers and Mover offers home, office, and vehicle relocation services across India. Get a free quote today!'; ?>">
+    <meta name="keywords" content="<?php echo isset($page_keywords) ? $page_keywords : 'packers and movers, relocation services, home shifting, office relocation, car transportation, warehouse storage, LC Packers and Mover, trusted packers in India'; ?>">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="icon" type="image/jpeg" href="<?php echo $base_url; ?>assets/media/favicon/logo.jpeg" sizes="96x96" />
     <link rel="icon" type="image/jpeg" href="<?php echo $base_url; ?>assets/media/favicon/logo.jpeg" />
     <link rel="shortcut icon" href="<?php echo $base_url; ?>assets/media/favicon/logo.jpeg" />
     <link rel="apple-touch-icon" sizes="180x180" href="<?php echo $base_url; ?>assets/media/favicon/logo.jpeg" />
-    <meta name="apple-mobile-web-app-title" content="Lucky Transporter" />
+    <meta name="apple-mobile-web-app-title" content="LC Packers and Mover" />
     <link rel="manifest" href="<?php echo $base_url; ?>assets/media/favicon/site.webmanifest" />
 
     <!-- Twitter Card data -->
     <meta name="twitter:card" content="summary_large_image">
 
-    <meta name="twitter:title" content="Lucky Transporter - Trusted Relocation Services">
+    <meta name="twitter:title" content="LC Packers and Mover - Trusted Relocation Services">
     <meta name="twitter:description" content="Explore our Home Relocation, Office Relocation, and Vehicle Moving Services. Reliable, secure, and available all over India.">
     <meta name="twitter:image" content="<?php echo $base_url; ?>assets/media/card/twitter-card.webp">
 
     <!-- Open Graph data -->
-    <meta property="og:title" content="Lucky Transporter - Trusted Relocation Services" />
+    <meta property="og:title" content="LC Packers and Mover - Trusted Relocation Services" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="<?php echo $base_url; ?>" />
     <meta property="og:image" content="<?php echo $base_url; ?>assets/media/card/facebook-open-graph-card.webp" />
     <meta property="og:description" content="Relocation made easy with our reliable services – Home, Office, International, and Vehicle Moving Solutions." />
-    <meta property="og:site_name" content="Lucky Transporter" />
+    <meta property="og:site_name" content="LC Packers and Mover" />
 
     <!-- CSS here -->
     <link rel="stylesheet" href="<?php echo $base_url; ?>assets/css01/bootstrap.min.css">
@@ -225,12 +225,12 @@ In your html page, add the snippet and call gtag_report_conversion when someone 
                 <div class="top-header-01-left-section" role="contentinfo">
                     <div>
                         <i class="fas fa-map-marker-alt" aria-hidden="true"></i>
-                        <span>Welcome to <strong>Lucky Transporter</strong></span>
+                        <span>Welcome to <strong>LC Packers and Mover</strong></span>
                     </div>
                     <div>
                         <i class="fa-regular fa-phone" aria-hidden="true"></i>
                         <span>
-                            <a href="tel:+91 8003966646" onclick="gtag_report_conversion_call_button();" title="Call Lucky Transporter">
+                            <a href="tel:+91 8003966646" onclick="gtag_report_conversion_call_button();" title="Call LC Packers and Mover">
                                 +91 8003966646                            </a>
                         </span>
                     </div>
@@ -238,7 +238,7 @@ In your html page, add the snippet and call gtag_report_conversion when someone 
 
                 <!-- Right Section -->
                 <div class="top-header-01-right-section">
-                    <a href="javascript:void(0);" class="get_a_free_quote" title="Get a Free Quote from Lucky Transporter">
+                    <a href="javascript:void(0);" class="get_a_free_quote" title="Get a Free Quote from LC Packers and Mover">
                         <i class="fa-regular fa-paper-plane" aria-hidden="true"></i>Get Free Quote
                     </a>
                 </div>
@@ -257,8 +257,8 @@ In your html page, add the snippet and call gtag_report_conversion when someone 
                         <div class="tgmenu__wrap">
                             <!-- Logo -->
                             <div class="logo">
-                                <a href="<?php echo $base_url; ?>" title="Lucky Transporter - Home">
-                                    <img src="<?php echo $base_url; ?>assets/media/logo/logo.jpeg" alt="Lucky Transporter Logo" loading="lazy" style="height: 60px;">
+                                <a href="<?php echo $base_url; ?>" title="LC Packers and Mover - Home">
+                                    <img src="<?php echo $base_url; ?>assets/media/logo/logo.jpeg" alt="LC Packers and Mover Logo" loading="lazy" style="height: 60px;">
                                 </a>
                             </div>
 
@@ -388,8 +388,8 @@ In your html page, add the snippet and call gtag_report_conversion when someone 
                             <nav class="tgmobile__menu-box">
                                 <div class="close-btn" title="Close Mobile Menu"><i class="tg-flaticon-close"></i></div>
                                 <div class="nav-logo">
-                                    <a href="<?php echo $base_url; ?>" title="Lucky Transporter - Home">
-                                        <img src="<?php echo $base_url; ?>assets/media/logo/logo.jpeg" alt="Lucky Transporter Logo" loading="lazy" style="height: 60px;">
+                                    <a href="<?php echo $base_url; ?>" title="LC Packers and Mover - Home">
+                                        <img src="<?php echo $base_url; ?>assets/media/logo/logo.jpeg" alt="LC Packers and Mover Logo" loading="lazy" style="height: 60px;">
                                     </a>
                                 </div>
                                 <div class="tgmobile__track-btn" style="padding:14px 20px 6px;">

@@ -155,8 +155,8 @@ include '../header.php'; ?>
                                 <div class="sidebar__logo">
                                     <a href="<?php echo $base_url; ?>">
                                         <img src="<?php echo $base_url; ?>assets/media/logo/logo.jpeg"
-                                            alt="Lucky Transporter Pvt. Ltd. Logo" style="width: 80%;"
-                                            title="Lucky Transporter Pvt. Ltd.">
+                                            alt="LC Packers and Mover Pvt. Ltd. Logo" style="width: 80%;"
+                                            title="LC Packers and Mover Pvt. Ltd.">
                                     </a>
                                 </div>
                                 <div class="sidebar__contact">
@@ -178,8 +178,8 @@ include '../header.php'; ?>
                     </div>
                     <div class="col-lg-8">
                         <div class="services__details-thumb">
-                            <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-transport-main.png"
-                                alt="Safe Car and Bike Transportation Services by Lucky Transporter"
+                            <img src="<?php echo $base_url; ?>assets/media/services/car-and-bike-main.png"
+                                alt="Safe Car and Bike Transportation Services by LC Packers and Mover"
                                 title="Expert Vehicle Shifting Solutions">
                         </div>
 
@@ -215,7 +215,7 @@ include '../header.php'; ?>
                                     service ensures the fastest possible delivery without compromising safety.</li>
                             </ul>
 
-                            <h2>Why Choose Lucky Transporter for Your Vehicle Shifting?</h2>
+                            <h2>Why Choose LC Packers and Mover for Your Vehicle Shifting?</h2>
 
                             <div class="services__details-content-inner-two">
                                 <div class="row gutter-24">
@@ -622,7 +622,7 @@ include '../header.php'; ?>
                                                 class="fas fa-star"></i>
                                         </div>
                                         <div class="testimonial__content">
-                                            <p>“Lucky Transporter made my home relocation completely hassle-free. Their
+                                            <p>“LC Packers and Mover made my home relocation completely hassle-free. Their
                                                 team was professional, on-time, and handled my belongings with utmost
                                                 care. Highly recommended!”</p>
                                         </div>
@@ -658,7 +658,7 @@ include '../header.php'; ?>
                                                 class="fas fa-star"></i>
                                         </div>
                                         <div class="testimonial__content">
-                                            <p>“I was nervous about relocating my office, but Lucky Transporter handled
+                                            <p>“I was nervous about relocating my office, but LC Packers and Mover handled
                                                 everything smoothly. The team was efficient, and they ensured minimal
                                                 downtime for my business.”</p>
                                         </div>
@@ -752,8 +752,8 @@ include '../header.php'; ?>
                         <div class="swiper-slide">
                             <div class="brand__item">
                                 <img src="<?php echo $base_url; ?>assets/media/clients/client<?php echo sprintf('%02d', $i); ?>.webp"
-                                    alt="Client <?php echo $i; ?> Logo | Trusted by Lucky Transporter"
-                                    title="Client <?php echo $i; ?> | Partner of Lucky Transporter">
+                                    alt="Client <?php echo $i; ?> Logo | Trusted by LC Packers and Mover"
+                                    title="Client <?php echo $i; ?> | Partner of LC Packers and Mover">
                             </div>
                         </div>
                     <?php endfor; ?>

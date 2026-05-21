@@ -126,7 +126,7 @@ include 'header.php';
                     <!-- Image Section -->
                     <div class="col-lg-6 col-md-9">
                         <div class="about__img-five">
-                            <img src="<?php echo $base_url; ?>assets/media/about/about-team.jpg" alt="Lucky Transporter Team" data-aos="fade-left" data-aos-delay="200">
+                            <img src="<?php echo $base_url; ?>assets/media/about/about-team.jpg" alt="LC Packers and Mover Team" data-aos="fade-left" data-aos-delay="200">
                             <div class="about__clients-box about__clients-box-two" data-aos="fade-right" data-aos-delay="200">
                                 <span class="title">Committed to Safe <?php echo $city; ?> Relocation</span>
                                 <div class="counter__item">
@@ -158,7 +158,7 @@ include 'header.php';
                               <span class="sub-title">// <?php echo strtoupper($city); ?>'S TRUSTED MOVERS</span>
                             <h2 class="title">Top Rated Packers and Movers in <?php echo $city; ?> for Over a Decade</h2>
                             <p>
-                                Lucky Transporter stands as a leading brand in <?php echo $city; ?>'s logistics and shifting sector, committed to delivering high-quality moving assistance throughout the city and beyond. With more than ten years of expertise, our team has effectively supported numerous households and corporations in their transition processes in <?php echo $city; ?>. Our dedication to protection, speed, and client happiness has established us as a reliable partner for every variety of relocation requirement.
+                                LC Packers and Mover stands as a leading brand in <?php echo $city; ?>'s logistics and shifting sector, committed to delivering high-quality moving assistance throughout the city and beyond. With more than ten years of expertise, our team has effectively supported numerous households and corporations in their transition processes in <?php echo $city; ?>. Our dedication to protection, speed, and client happiness has established us as a reliable partner for every variety of relocation requirement.
                             </p>
                             <div class="about__content-inner-three">
                                 <div class="about__list-box about__list-box-five">
@@ -204,7 +204,7 @@ include 'header.php';
                                     </div>
                                     <div class="content">
                                         <span>Hotline Number</span>
-                                        <a title="Call Lucky Transporter for Reliable Relocation Services" href="tel:+91 8003966646">+91 8003966646</a>
+                                        <a title="Call LC Packers and Mover for Reliable Relocation Services" href="tel:+91 8003966646">+91 8003966646</a>
                                     </div>
                                 </div>
                             </div>
@@ -452,7 +452,7 @@ include 'header.php';
                             <span class="sub-title">// Why Choose Us in <?php echo $city; ?></span>
                             <h2 class="title">Delivering Excellence with Every <?php echo $city; ?> Move</h2>
                             <p>
-                                At Lucky Transporter, we take pride in offering reliable, safe, and efficient relocation services in <?php echo $city; ?>. With over 11 years of experience, our specialized workers ensure that every move in <?php echo $city; ?>, whether residential, commercial, or automotive, is trouble-free.
+                                At LC Packers and Mover, we take pride in offering reliable, safe, and efficient relocation services in <?php echo $city; ?>. With over 11 years of experience, our specialized workers ensure that every move in <?php echo $city; ?>, whether residential, commercial, or automotive, is trouble-free.
                             </p>
                         </div>
                     </div>

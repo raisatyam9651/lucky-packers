@@ -32,7 +32,7 @@
                         <div class="section__title text-center mb-50">
                             <span class="sub-title">// Get In Touch</span>
                             <h2 class="title">We're Here to Assist You</h2>
-                            <p>Have questions about your relocation? Need a custom moving solution? We're here to help! At <strong>Lucky Transporter</strong>, we’ll provide smooth assistance for all of your moving needs. You can rely on us whether you’re moving within or outside the country. Contact us today and let us make your move easy.</p>
+                            <p>Have questions about your relocation? Need a custom moving solution? We're here to help! At <strong>LC Packers and Mover</strong>, we’ll provide smooth assistance for all of your moving needs. You can rely on us whether you’re moving within or outside the country. Contact us today and let us make your move easy.</p>
                         </div>
                     </div>
                 </div>

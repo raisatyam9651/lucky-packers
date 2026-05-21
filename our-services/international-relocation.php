@@ -123,7 +123,7 @@
                                 <div class="services__widget services__widget-two">
                                     <div class="sidebar__logo">
                                         <a href="<?php echo $base_url; ?>">
-                                            <img src="<?php echo $base_url; ?>assets/media/logo/logo.jpeg" alt="Lucky Transporter Pvt. Ltd. Logo" style="width: 80%;" title="Lucky Transporter Pvt. Ltd.">
+                                            <img src="<?php echo $base_url; ?>assets/media/logo/logo.jpeg" alt="LC Packers and Mover Pvt. Ltd. Logo" style="width: 80%;" title="LC Packers and Mover Pvt. Ltd.">
                                         </a>
                                     </div>
                                     <div class="sidebar__contact">
@@ -144,13 +144,13 @@
                         <div class="col-lg-8">
                             <div class="services__details-thumb">
                                 <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-transport-main.png"
-                                    alt="Global International Relocation Services by Lucky Transporter"
+                                    alt="Global International Relocation Services by LC Packers and Mover"
                                     title="Professional Overseas Moving Solutions">
                             </div>
 
                             <div class="services__details-content">
                                 <h1 class="title">International Relocation That Reaches Anywhere Without the Hassle</h1>
-                                <p>Moving abroad means juggling a hundred things at once—visa applications, new job contracts, school admissions, language barriers. Your household goods shouldn't be one of those things you lose sleep over. At <strong>Lucky Transporter</strong>, we coordinate international moves using our network of vetted partner agents in over 60 countries, so your belongings arrive where you need them, when you need them, without customs surprises.</p>
+                                <p>Moving abroad means juggling a hundred things at once—visa applications, new job contracts, school admissions, language barriers. Your household goods shouldn't be one of those things you lose sleep over. At <strong>LC Packers and Mover</strong>, we coordinate international moves using our network of vetted partner agents in over 60 countries, so your belongings arrive where you need them, when you need them, without customs surprises.</p>
 
                                 <p>International relocations are complex by nature—different countries have different import restrictions, duty calculations, and documentation requirements. Our team handles that complexity on your behalf. You pack, we coordinate. You land, your stuff is already on its way.</p>
 
@@ -295,87 +295,8 @@
                                     </div>
                                 </div>
                                 <h2>Start Planning Your International Move</h2>
-                                <p>Relocating abroad doesn't have to mean losing control of your belongings in a maze of international logistics. <strong>Lucky Transporter</strong> handles the freight coordination, customs paperwork, and destination delivery—so you can focus on the life you're building overseas. Contact us for a pre-move consultation and quote.</p>
+                                <p>Relocating abroad doesn't have to mean losing control of your belongings in a maze of international logistics. <strong>LC Packers and Mover</strong> handles the freight coordination, customs paperwork, and destination delivery—so you can focus on the life you're building overseas. Contact us for a pre-move consultation and quote.</p>
                         </div>
-                        <div class="col-lg-4">
-                            <aside class="services__sidebar">
-                                <div class="blog-widget">
-                                    <h4 class="widget-title">Our Services</h4>
-                                    <div class="shop-cat-list">
-                                        <ul class="list-wrap">
-                                            <li>
-                                                <a class="" href="<?php echo $base_url; ?>our-services/transportation.php" title="Transportation Services">Transportation</a>
-                                            </li>
-                                            <li>
-                                                <a class="" href="<?php echo $base_url; ?>our-services/packing-and-moving.php" title="Packing and Moving Services">Packing and Moving</a>
-                                            </li>
-                                            <li>
-                                                <a class="" href="<?php echo $base_url; ?>our-services/loading-and-unloading.php" title="Loading and Unloading Services">Loading and Unloading</a>
-                                            </li>
-                                            <li>
-                                                <a class="" href="<?php echo $base_url; ?>our-services/unpacking-and-escort.php" title="Unpacking and Escort Services">Unpacking and Escort</a>
-                                            </li>
-                                            <li>
-                                                <a class="" href="<?php echo $base_url; ?>our-services/home-shifting.php" title="Home Shifting Services">Home Shifting</a>
-                                            </li>
-                                            <li>
-                                                <a class="" href="<?php echo $base_url; ?>our-services/domestic-relocation.php" title="Domestic Relocation Services">Domestic Relocation</a>
-                                            </li>
-                                            <li>
-                                                <a class="active" href="<?php echo $base_url; ?>our-services/international-relocation.php" title="International Relocation Services">International Relocation</a>
-                                            </li>
-                                            <li>
-                                                <a class="" href="<?php echo $base_url; ?>our-services/warehouse-services.php" title="Warehouse Services">Warehouse Services</a>
-                                            </li>
-                                            <li>
-                                                <a class="" href="<?php echo $base_url; ?>our-services/car-and-bike-transportation.php" title="Car and Bike Transportation Services">Car and Bike Transportation</a>
-                                            </li>
-                                            <li>
-                                                <a class="" href="<?php echo $base_url; ?>our-services/office-shifting.php" title="Office Shifting Services">Office Shifting</a>
-                                            </li>
-                                            <li>
-                                                <a class="" href="<?php echo $base_url; ?>our-services/hotel-shifting.php" title="Hotel Shifting Services">Hotel Shifting</a>
-                                            </li>
-                                            <li>
-                                                <a class="" href="<?php echo $base_url; ?>our-services/factory-shifting.php" title="Factory Shifting Services">Factory Shifting</a>
-                                            </li>
-                                            <li>
-                                                <a class="" href="<?php echo $base_url; ?>our-services/pet-moving.php" title="Pet Moving Services">Pet Moving</a>
-                                            </li>
-                                            <li>
-                                                <a class="" href="<?php echo $base_url; ?>our-services/custom-clearance.php" title="Custom Clearance Services">Custom Clearance</a>
-                                            </li>
-                                            <li>
-                                                <a class="" href="<?php echo $base_url; ?>our-services/painting-moving-services.php" title="Painting Moving Services">Painting Moving Services</a>
-                                            </li>
-                                            <li>
-                                                <a class="" href="<?php echo $base_url; ?>our-services/goods-insurance.php" title="Goods Insurance Services">Goods Insurance</a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="services__widget services__widget-two">
-                                    <div class="sidebar__logo">
-                                        <a href="<?php echo $base_url; ?>">
-                                            <img src="<?php echo $base_url; ?>assets/media/logo/logo.jpeg" alt="Lucky Transporter Pvt. Ltd. Logo" style="width: 80%;" title="Lucky Transporter Pvt. Ltd.">
-                                        </a>
-                                    </div>
-                                    <div class="sidebar__contact">
-                                        <h2 class="title">Tailored Relocation Solutions for You</h2>
-                                        <a href="tel:+91 8003966646" class="sidebar__phone">
-                                            <i class="flaticon-telephone"></i> +91 8003966646                                        </a>
-                                        <a href="javascript:void(0);" class="btn get_a_free_quote" title="Get a Free Quote">
-                                            Get A Free Quote
-                                            <img src="<?php echo $base_url; ?>assets/media/svg/right-arrow-white.svg" alt="Get A Free Quote" class="injectable">
-                                        </a>
-                                    </div>
-                                    <div class="sidebar__shape" style="background-image: url('<?php echo $base_url; ?>assets/media/bg/dz-cargo-packers-service-slidebar.webp');">
-                                    </div>
-                                </div>
-
-                            </aside>
-                        </div>
-                    </div>
                     </div>
                 </div>
             </div>
@@ -514,7 +435,7 @@
                                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                                             </div>
                                             <div class="testimonial__content">
-                                                <p>“Lucky Transporter made my home relocation completely hassle-free. Their team was professional, on-time, and handled my belongings with utmost care. Highly recommended!”</p>
+                                                <p>“LC Packers and Mover made my home relocation completely hassle-free. Their team was professional, on-time, and handled my belongings with utmost care. Highly recommended!”</p>
                                             </div>
                                         </div>
                                     </div>
@@ -542,7 +463,7 @@
                                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                                             </div>
                                             <div class="testimonial__content">
-                                                <p>“I was nervous about relocating my office, but Lucky Transporter handled everything smoothly. The team was efficient, and they ensured minimal downtime for my business.”</p>
+                                                <p>“I was nervous about relocating my office, but LC Packers and Mover handled everything smoothly. The team was efficient, and they ensured minimal downtime for my business.”</p>
                                             </div>
                                         </div>
                                     </div>
@@ -621,8 +542,8 @@
                             <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client<?php echo sprintf('%02d', $i); ?>.webp"
-                                        alt="Client <?php echo $i; ?> Logo | Trusted by Lucky Transporter"
-                                        title="Client <?php echo $i; ?> | Partner of Lucky Transporter">
+                                        alt="Client <?php echo $i; ?> Logo | Trusted by LC Packers and Mover"
+                                        title="Client <?php echo $i; ?> | Partner of LC Packers and Mover">
                                 </div>
                             </div>
                         <?php endfor; ?>

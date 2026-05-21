@@ -36,7 +36,7 @@
                         <div class="blog__details-content">
                             <div class="blog__details-thumb" style="border: 1px solid #eee; border-radius: 10px; overflow: hidden; margin-bottom: 30px;">
                                 <div class="thumb-header" style="background: #0A4D68; color: #fff; padding: 10px 20px; text-align: center; font-weight: 700; font-size: 14px;">
-                                    LUCKY TRANSPORTER
+                                    LC PACKERS AND MOVER
                                 </div>
                                 <img src="<?php echo $base_url; ?>assets/media/blogs/blog1.png" alt="10 Essential Packing Tips for a Hassle-Free Relocation" style="width: 100%;">
                                 <div class="thumb-footer" style="background: #0A4D68; color: #fff; padding: 10px 20px; text-align: center; font-weight: 700; font-size: 16px;">
@@ -46,7 +46,7 @@
 
                             <h1 class="title" style="font-size: 32px; font-weight: 800; color: #0A4D68; margin-bottom: 20px;">Master the Art of Packing: 10 Secrets for a Smooth Move</h1>
 
-                            <p>Moving to a new home or office is an exciting milestone, but the packing process can quickly become overwhelming. At <strong>Lucky Transporter</strong>, we understand how stressful relocations can be, and that's why we've compiled these 10 expert packing tips to help you prepare like a professional. Whether you're moving across town or to a different city, these strategies will ensure your belongings arrive safely and your move stays stress-free.</p>
+                            <p>Moving to a new home or office is an exciting milestone, but the packing process can quickly become overwhelming. At <strong>LC Packers and Mover</strong>, we understand how stressful relocations can be, and that's why we've compiled these 10 expert packing tips to help you prepare like a professional. Whether you're moving across town or to a different city, these strategies will ensure your belongings arrive safely and your move stays stress-free.</p>
 
                             <h3 style="color: #0A4D68; font-weight: 700; margin-top: 30px;">Why Proper Packing Matters</h3>
                             <p>Efficient packing isn't just about fitting items into boxes—it's about organization, protection, and efficiency. Proper packing ensures:</p>
@@ -159,8 +159,8 @@
                                 <li style="margin-bottom: 10px;"><strong>Not Securing Liquids:</strong> Seal bottles tightly and wrap them in plastic bags.</li>
                             </ol>
 
-                            <h3 style="color: #0A4D68; font-weight: 700;">How Lucky Transporter Can Help</h3>
-                            <p>At <strong>Lucky Transporter</strong>, we take the stress out of packing. Our professional team provides:</p>
+                            <h3 style="color: #0A4D68; font-weight: 700;">How LC Packers and Mover Can Help</h3>
+                            <p>At <strong>LC Packers and Mover</strong>, we take the stress out of packing. Our professional team provides:</p>
                             <ul class="list-wrap" style="margin-bottom: 30px;">
                                 <li style="margin-bottom: 8px;"><i class="fa-solid fa-circle-check" style="color: #0A4D68; margin-right: 10px;"></i> Expert packing using premium-grade materials.</li>
                                 <li style="margin-bottom: 8px;"><i class="fa-solid fa-circle-check" style="color: #0A4D68; margin-right: 10px;"></i> Custom labeling and organization systems.</li>
@@ -169,7 +169,7 @@
                             </ul>
 
                             <h3 style="color: #0A4D68; font-weight: 700;">Conclusion</h3>
-                            <p>Packing doesn't have to be a nightmare. With these 10 essential tips and the support of <strong>Lucky Transporter</strong>, your next move can be seamless and stress-free. Contact us today for professional packing and moving services that prioritize the safety of your belongings. Let us handle the heavy lifting while you focus on starting your new chapter!</p>
+                            <p>Packing doesn't have to be a nightmare. With these 10 essential tips and the support of <strong>LC Packers and Mover</strong>, your next move can be seamless and stress-free. Contact us today for professional packing and moving services that prioritize the safety of your belongings. Let us handle the heavy lifting while you focus on starting your new chapter!</p>
 
                         </div>
                     </div>

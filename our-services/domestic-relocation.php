@@ -123,7 +123,7 @@
                                 <div class="services__widget services__widget-two">
                                     <div class="sidebar__logo">
                                         <a href="<?php echo $base_url; ?>">
-                                            <img src="<?php echo $base_url; ?>assets/media/logo/logo.jpeg" alt="Lucky Transporter Pvt. Ltd. Logo" style="width: 80%;" title="Lucky Transporter Pvt. Ltd.">
+                                            <img src="<?php echo $base_url; ?>assets/media/logo/logo.jpeg" alt="LC Packers and Mover Pvt. Ltd. Logo" style="width: 80%;" title="LC Packers and Mover Pvt. Ltd.">
                                         </a>
                                     </div>
                                     <div class="sidebar__contact">
@@ -144,13 +144,13 @@
                         <div class="col-lg-8">
                             <div class="services__details-thumb">
                                 <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-transport-main.png"
-                                    alt="Domestic Relocation Services by Lucky Transporter"
+                                    alt="Domestic Relocation Services by LC Packers and Mover"
                                     title="Nationwide Moving and Shifting Solutions">
                             </div>
 
                             <div class="services__details-content">
                                 <h1 class="title">Seamless Domestic Relocation Services Across India</h1>
-                                <p>Planning a move within India? <strong>Lucky Transporter</strong> offers end-to-end domestic relocation services designed to take the stress out of your move. Whether you're shifting to a new city for work, relocating your family, or moving your business operations to a different state, our dedicated team ensures your belongings reach safely and on time.</p>
+                                <p>Planning a move within India? <strong>LC Packers and Mover</strong> offers end-to-end domestic relocation services designed to take the stress out of your move. Whether you're shifting to a new city for work, relocating your family, or moving your business operations to a different state, our dedicated team ensures your belongings reach safely and on time.</p>
 
                                 <p>With over a decade of experience in the relocation industry, we have built a strong pan-India network that enables us to handle moves of any scale. From single-room apartments to full household relocations, our systematic approach guarantees a smooth transition to your new destination.</p>
 
@@ -296,7 +296,7 @@
                                     </div>
                                 </div>
                                 <h2>Ready to Move?</h2>
-                                <p>Let <strong>Lucky Transporter</strong> handle your next domestic relocation. Contact us today for a free quote and let our experts plan a stress-free move tailored to your needs. Experience the difference of working with a relocation partner that truly cares about your move.</p>
+                                <p>Let <strong>LC Packers and Mover</strong> handle your next domestic relocation. Contact us today for a free quote and let our experts plan a stress-free move tailored to your needs. Experience the difference of working with a relocation partner that truly cares about your move.</p>
                             </div>
                         </div>
                     </div>
@@ -437,7 +437,7 @@
                                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                                             </div>
                                             <div class="testimonial__content">
-                                                <p>"Lucky Transporter made my home relocation completely hassle-free. Their team was professional, on-time, and handled my belongings with utmost care. Highly recommended!"</p>
+                                                <p>"LC Packers and Mover made my home relocation completely hassle-free. Their team was professional, on-time, and handled my belongings with utmost care. Highly recommended!"</p>
                                             </div>
                                         </div>
                                     </div>
@@ -465,7 +465,7 @@
                                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                                             </div>
                                             <div class="testimonial__content">
-                                                <p>"I was nervous about relocating my office, but Lucky Transporter handled everything smoothly. The team was efficient, and they ensured minimal downtime for my business."</p>
+                                                <p>"I was nervous about relocating my office, but LC Packers and Mover handled everything smoothly. The team was efficient, and they ensured minimal downtime for my business."</p>
                                             </div>
                                         </div>
                                     </div>
@@ -544,8 +544,8 @@
                             <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client<?php echo sprintf('%02d', $i); ?>.webp"
-                                        alt="Client <?php echo $i; ?> Logo | Trusted by Lucky Transporter"
-                                        title="Client <?php echo $i; ?> | Partner of Lucky Transporter">
+                                        alt="Client <?php echo $i; ?> Logo | Trusted by LC Packers and Mover"
+                                        title="Client <?php echo $i; ?> | Partner of LC Packers and Mover">
                                 </div>
                             </div>
                         <?php endfor; ?>

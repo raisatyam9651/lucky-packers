@@ -7,11 +7,11 @@
                 <div class="col-xl-4 col-lg-5 col-md-6">
                     <div class="footer__widget">
                         <div class="footer__logo">
-                            <a href="<?php echo $base_url; ?>"><img src="<?php echo $base_url; ?>assets/media/logo/logo.jpeg" alt="Lucky Transporter Logo"></a>
+                            <a href="<?php echo $base_url; ?>"><img src="<?php echo $base_url; ?>assets/media/logo/logo.jpeg" alt="LC Packers and Mover Logo"></a>
                         </div>
                         <div class="footer__content footer__content-two">
                             <p>
-                                Lucky Transporter offers professional packing and moving services across India. With over 11 years of experience, we ensure a seamless relocation for homes, offices, and vehicles.
+                                LC Packers and Mover offers professional packing and moving services across India. With over 11 years of experience, we ensure a seamless relocation for homes, offices, and vehicles.
                             </p>
                         </div>
                         <div class="footer__social footer__social-two">
@@ -96,7 +96,7 @@
             <div class="row align-items-center">
                 <div class="col-md-6">
                     <div class="copyright-text">
-                        <p>Copyright <a href="<?php echo $base_url; ?>">© 2026 Lucky Transporter</a> | All Rights Reserved</p>
+                        <p>Copyright <a href="<?php echo $base_url; ?>">© 2026 LC Packers and Mover</a> | All Rights Reserved</p>
                     </div>
                 </div>
                 <div class="col-md-6">
@@ -125,34 +125,34 @@
 <div class="gocube_bottom_bar01">
 
     <!-- Call Button -->
-    <a class="botbtn" href="tel:+91 8003966646" onclick="gtag_report_conversion_call_button();" title="Call Lucky Transporter at +91 8003966646">
+    <a class="botbtn" href="tel:+91 8003966646" onclick="gtag_report_conversion_call_button();" title="Call LC Packers and Mover at +91 8003966646">
         <i class="fa-regular fa-phone"></i>
         <br><span>CALL</span>
     </a>
 
     <!-- Email Button -->
-    <a class="botbtn" href="mailto:info@luckycarepackers.com?cc=info@luckycarepackers.com&amp;subject=Looking for Packers and Movers with Lucky Transporter"
-        title="Send an Email to Lucky Transporter">
+    <a class="botbtn" href="mailto:info@luckycarepackers.com?cc=info@luckycarepackers.com&amp;subject=Looking for Packers and Movers with LC Packers and Mover"
+        title="Send an Email to LC Packers and Mover">
         <i class="fa-regular fa-envelope"></i>
         <br><span>E-MAIL</span>
     </a>
 
     <!-- WhatsApp Button -->
     <a class="botbtn" href="https://api.whatsapp.com/send?phone=+918003966646&amp;text=I%20am%20Looking%20for%20Packers%20and%20Movers%20with%20Lucky%20Transporter%20and%20Movers%20PVT.%20LTD."
-        target="_blank" onclick="gtag_report_conversion_whatsapp_button();" title="Chat with Lucky Transporter on WhatsApp">
+        target="_blank" onclick="gtag_report_conversion_whatsapp_button();" title="Chat with LC Packers and Mover on WhatsApp">
         <i class="fa-brands fa-whatsapp"></i>
         <br><span>WHATSAPP</span>
     </a>
 
     <!-- Enquiry Button -->
-    <a class="botbtn get_a_free_quote" href="javascript:void(0);" title="Submit Your Enquiry to Lucky Transporter">
+    <a class="botbtn get_a_free_quote" href="javascript:void(0);" title="Submit Your Enquiry to LC Packers and Mover">
         <i class="fa-regular fa-square-pen"></i>
         <br><span>ENQUIRY</span>
     </a>
 
     <!-- SMS Button -->
     <a class="botbtn" href="sms:+91 8003966646?body=I%20am%20Looking%20for%20Packers%20and%20Movers%20with%20Lucky%20Transporter%20and%20Movers%20PVT.%20LTD."
-        title="Send a Text Message to Lucky Transporter">
+        title="Send a Text Message to LC Packers and Mover">
         <i class="fa-regular fa-comment-sms"></i>
         <br><span>MESSAGE</span>
     </a>

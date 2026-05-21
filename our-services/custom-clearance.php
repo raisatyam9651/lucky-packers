@@ -123,7 +123,7 @@
                                 <div class="services__widget services__widget-two">
                                     <div class="sidebar__logo">
                                         <a href="<?php echo $base_url; ?>">
-                                            <img src="<?php echo $base_url; ?>assets/media/logo/logo.jpeg" alt="Lucky Transporter Pvt. Ltd. Logo" style="width: 80%;" title="Lucky Transporter Pvt. Ltd.">
+                                            <img src="<?php echo $base_url; ?>assets/media/logo/logo.jpeg" alt="LC Packers and Mover Pvt. Ltd. Logo" style="width: 80%;" title="LC Packers and Mover Pvt. Ltd.">
                                         </a>
                                     </div>
                                     <div class="sidebar__contact">
@@ -144,13 +144,13 @@
                         <div class="col-lg-8">
                             <div class="services__details-thumb">
                                 <img src="<?php echo $base_url; ?>assets/media/services/lc-packers-transport-main.png"
-                                    alt="Expert Custom Clearance Services by Lucky Transporter"
+                                    alt="Expert Custom Clearance Services by LC Packers and Mover"
                                     title="Efficient International Logistics Solutions">
                             </div>
 
                             <div class="services__details-content">
                                 <h1 class="title">Expert Custom Clearance Services for Stress-Free International Moving</h1>
-                                <p>Moving across borders means dealing with customs regulations, documentation, and compliance requirements that can feel overwhelming. At <strong>Lucky Transporter</strong>, we remove that burden. Our dedicated customs clearance team handles every detail—from paperwork to duty calculations—so your international relocation stays on track and on schedule.</p>
+                                <p>Moving across borders means dealing with customs regulations, documentation, and compliance requirements that can feel overwhelming. At <strong>LC Packers and Mover</strong>, we remove that burden. Our dedicated customs clearance team handles every detail—from paperwork to duty calculations—so your international relocation stays on track and on schedule.</p>
 
                                 <p>With over <strong>11 years of experience</strong> navigating global trade regulations, we've built relationships with customs authorities across 40+ countries. Whether you're moving from India to another destination or relocating to the subcontinent, we know exactly what each port of entry requires. No guesswork. No delays. Just smooth, compliant transitions every time.</p>
 
@@ -224,7 +224,7 @@
                                     <li><strong>Electronics</strong> — Computers, servers, and high-value tech equipment</li>
                                 </ul>
 
-                                <h2>The Lucky Transporter Advantage</h2>
+                                <h2>The LC Packers and Mover Advantage</h2>
                                 <ul>
                                     <li><strong>Dedicated Expertise</strong> — One team manages your entire clearance from start to finish</li>
                                     <li><strong>Real-Time Updates</strong> — Track your shipment status at every stage through our GPS-enabled system</li>
@@ -301,7 +301,7 @@
                                     </div>
                                 </div>
                                 <h2>Ready to Move Across Borders?</h2>
-                                <p>Let our customs experts handle the paperwork while you focus on your new adventure. Contact <strong>Lucky Transporter</strong> for a complimentary assessment of your international moving needs. We'll review your planned shipment, identify clearance requirements, and provide a complete cost estimate.</p>
+                                <p>Let our customs experts handle the paperwork while you focus on your new adventure. Contact <strong>LC Packers and Mover</strong> for a complimentary assessment of your international moving needs. We'll review your planned shipment, identify clearance requirements, and provide a complete cost estimate.</p>
                                 <p><strong>Get your free quote today</strong> and experience international relocation without the customs headaches.</p>
                             </div>
                         </div>
@@ -443,7 +443,7 @@
                                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                                             </div>
                                             <div class="testimonial__content">
-                                                <p>“Lucky Transporter made my home relocation completely hassle-free. Their team was professional, on-time, and handled my belongings with utmost care. Highly recommended!”</p>
+                                                <p>“LC Packers and Mover made my home relocation completely hassle-free. Their team was professional, on-time, and handled my belongings with utmost care. Highly recommended!”</p>
                                             </div>
                                         </div>
                                     </div>
@@ -471,7 +471,7 @@
                                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                                             </div>
                                             <div class="testimonial__content">
-                                                <p>“I was nervous about relocating my office, but Lucky Transporter handled everything smoothly. The team was efficient, and they ensured minimal downtime for my business.”</p>
+                                                <p>“I was nervous about relocating my office, but LC Packers and Mover handled everything smoothly. The team was efficient, and they ensured minimal downtime for my business.”</p>
                                             </div>
                                         </div>
                                     </div>
@@ -550,8 +550,8 @@
                             <div class="swiper-slide">
                                 <div class="brand__item">
                                     <img src="<?php echo $base_url; ?>assets/media/clients/client<?php echo sprintf('%02d', $i); ?>.webp"
-                                        alt="Client <?php echo $i; ?> Logo | Trusted by Lucky Transporter"
-                                        title="Client <?php echo $i; ?> | Partner of Lucky Transporter">
+                                        alt="Client <?php echo $i; ?> Logo | Trusted by LC Packers and Mover"
+                                        title="Client <?php echo $i; ?> | Partner of LC Packers and Mover">
                                 </div>
                             </div>
                         <?php endfor; ?>
