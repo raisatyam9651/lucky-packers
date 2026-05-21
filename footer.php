@@ -35,7 +35,7 @@
                             <ul class="list-wrap">
                                 <li><a href="<?php echo $base_url; ?>">Home</a></li>
                                 <li><a href="<?php echo $base_url; ?>about-us.php">About Us</a></li>
-                                <li><a href="<?php echo $base_url; ?>our-work.php">Our Work</a></li>
+
                                 <li><a href="<?php echo $base_url; ?>faq.php">Faq's</a></li>
                                 <li><a href="<?php echo $base_url; ?>our-network.php">Our Network</a></li>
                                 <li><a href="<?php echo $base_url; ?>blogs/">Blogs</a></li>

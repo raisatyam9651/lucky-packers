@@ -49,6 +49,20 @@
     <link rel="stylesheet" href="<?php echo $base_url; ?>assets/css01/main.min.css">
 
     <style>
+        /* Fix card alignment */
+        .services__item-three {
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+        }
+        .services__content-three {
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+        }
+        .services__content-three p {
+            flex-grow: 1;
+        }
         /* Fallback for FontAwesome Pro classes to Free Solid/Regular */
         .fa-solid, .fa-solid, .fa-duotone {
             font-family: "Font Awesome 6 Free" !important;

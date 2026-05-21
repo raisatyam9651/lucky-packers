@@ -822,17 +822,17 @@
                     <div class="col-lg-3 col-md-6">
                         <article class="project__item-three">
                             <figure class="project__thumb-three">
-                                <a href="./our-work.php" title="Explore our work at LC Packers and Mover">
+                                <a href="javascript:void(0);" title="Explore our work at LC Packers and Mover">
                                     <img src="<?php echo $base_url; ?>assets/media/our-work/lc-packers-work-01.png" alt="LC Packers and Mover Work Image 1">
                                 </a>
                             </figure>
                             <div class="project__content-three">
                                 <h3 class="title">
-                                    <a href="./our-work.php" title="Explore all work by LC Packers and Mover">View All Work</a>
+                                    <a href="javascript:void(0);" title="Explore all work by LC Packers and Mover">View All Work</a>
                                 </h3>
                             </div>
                             <div class="project__icon">
-                                <a href="./our-work.php" title="View more about our work">
+                                <a href="javascript:void(0);" title="View more about our work">
                                     <i class="flaticon-diagonal-arrow"></i>
                                 </a>
                             </div>
@@ -843,17 +843,17 @@
                     <div class="col-lg-3 col-md-6">
                         <article class="project__item-three">
                             <figure class="project__thumb-three">
-                                <a href="./our-work.php" title="Explore our work at LC Packers and Mover">
+                                <a href="javascript:void(0);" title="Explore our work at LC Packers and Mover">
                                     <img src="<?php echo $base_url; ?>assets/media/our-work/lc-packers-work-02.png" alt="LC Packers and Mover Work Image 2">
                                 </a>
                             </figure>
                             <div class="project__content-three">
                                 <h3 class="title">
-                                    <a href="./our-work.php" title="Explore all work by LC Packers and Mover">View All Work</a>
+                                    <a href="javascript:void(0);" title="Explore all work by LC Packers and Mover">View All Work</a>
                                 </h3>
                             </div>
                             <div class="project__icon">
-                                <a href="./our-work.php" title="View more about our work">
+                                <a href="javascript:void(0);" title="View more about our work">
                                     <i class="flaticon-diagonal-arrow"></i>
                                 </a>
                             </div>
@@ -864,17 +864,17 @@
                     <div class="col-lg-3 col-md-6">
                         <article class="project__item-three">
                             <figure class="project__thumb-three">
-                                <a href="./our-work.php" title="Explore our work at LC Packers and Mover">
+                                <a href="javascript:void(0);" title="Explore our work at LC Packers and Mover">
                                     <img src="<?php echo $base_url; ?>assets/media/our-work/lc-packers-work-03.png" alt="LC Packers and Mover Work Image 3">
                                 </a>
                             </figure>
                             <div class="project__content-three">
                                 <h3 class="title">
-                                    <a href="./our-work.php" title="Explore all work by LC Packers and Mover">View All Work</a>
+                                    <a href="javascript:void(0);" title="Explore all work by LC Packers and Mover">View All Work</a>
                                 </h3>
                             </div>
                             <div class="project__icon">
-                                <a href="./our-work.php" title="View more about our work">
+                                <a href="javascript:void(0);" title="View more about our work">
                                     <i class="flaticon-diagonal-arrow"></i>
                                 </a>
                             </div>
@@ -885,17 +885,17 @@
                     <div class="col-lg-3 col-md-6">
                         <article class="project__item-three">
                             <figure class="project__thumb-three">
-                                <a href="./our-work.php" title="Explore our work at LC Packers and Mover">
+                                <a href="javascript:void(0);" title="Explore our work at LC Packers and Mover">
                                     <img src="<?php echo $base_url; ?>assets/media/our-work/lc-packers-work-04.png" alt="LC Packers and Mover Work Image 4">
                                 </a>
                             </figure>
                             <div class="project__content-three">
                                 <h3 class="title">
-                                    <a href="./our-work.php" title="Explore all work by LC Packers and Mover">View All Work</a>
+                                    <a href="javascript:void(0);" title="Explore all work by LC Packers and Mover">View All Work</a>
                                 </h3>
                             </div>
                             <div class="project__icon">
-                                <a href="./our-work.php" title="View more about our work">
+                                <a href="javascript:void(0);" title="View more about our work">
                                     <i class="flaticon-diagonal-arrow"></i>
                                 </a>
                             </div>
@@ -907,17 +907,17 @@
                     <div class="col-lg-3 col-md-6">
                         <article class="project__item-three">
                             <figure class="project__thumb-three">
-                                <a href="./our-work.php" title="Explore our work at LC Packers and Mover">
+                                <a href="javascript:void(0);" title="Explore our work at LC Packers and Mover">
                                     <img src="<?php echo $base_url; ?>assets/media/our-work/lc-packers-work-05.png" alt="LC Packers and Mover Work Image 5">
                                 </a>
                             </figure>
                             <div class="project__content-three">
                                 <h3 class="title">
-                                    <a href="./our-work.php" title="Explore all work by LC Packers and Mover">View All Work</a>
+                                    <a href="javascript:void(0);" title="Explore all work by LC Packers and Mover">View All Work</a>
                                 </h3>
                             </div>
                             <div class="project__icon">
-                                <a href="./our-work.php" title="View more about our work">
+                                <a href="javascript:void(0);" title="View more about our work">
                                     <i class="flaticon-diagonal-arrow"></i>
                                 </a>
                             </div>
@@ -928,17 +928,17 @@
                     <div class="col-lg-3 col-md-6">
                         <article class="project__item-three">
                             <figure class="project__thumb-three">
-                                <a href="./our-work.php" title="Explore our work at LC Packers and Mover">
+                                <a href="javascript:void(0);" title="Explore our work at LC Packers and Mover">
                                     <img src="<?php echo $base_url; ?>assets/media/our-work/lc-packers-work-06.png" alt="LC Packers and Mover Work Image 6">
                                 </a>
                             </figure>
                             <div class="project__content-three">
                                 <h3 class="title">
-                                    <a href="./our-work.php" title="Explore all work by LC Packers and Mover">View All Work</a>
+                                    <a href="javascript:void(0);" title="Explore all work by LC Packers and Mover">View All Work</a>
                                 </h3>
                             </div>
                             <div class="project__icon">
-                                <a href="./our-work.php" title="View more about our work">
+                                <a href="javascript:void(0);" title="View more about our work">
                                     <i class="flaticon-diagonal-arrow"></i>
                                 </a>
                             </div>
@@ -949,17 +949,17 @@
                     <div class="col-lg-3 col-md-6">
                         <article class="project__item-three">
                             <figure class="project__thumb-three">
-                                <a href="./our-work.php" title="Explore our work at LC Packers and Mover">
+                                <a href="javascript:void(0);" title="Explore our work at LC Packers and Mover">
                                     <img src="<?php echo $base_url; ?>assets/media/our-work/lc-packers-work-07.png" alt="LC Packers and Mover Work Image 7">
                                 </a>
                             </figure>
                             <div class="project__content-three">
                                 <h3 class="title">
-                                    <a href="./our-work.php" title="Explore all work by LC Packers and Mover">View All Work</a>
+                                    <a href="javascript:void(0);" title="Explore all work by LC Packers and Mover">View All Work</a>
                                 </h3>
                             </div>
                             <div class="project__icon">
-                                <a href="./our-work.php" title="View more about our work">
+                                <a href="javascript:void(0);" title="View more about our work">
                                     <i class="flaticon-diagonal-arrow"></i>
                                 </a>
                             </div>
@@ -970,17 +970,17 @@
                     <div class="col-lg-3 col-md-6">
                         <article class="project__item-three">
                             <figure class="project__thumb-three">
-                                <a href="./our-work.php" title="Explore our work at LC Packers and Mover">
+                                <a href="javascript:void(0);" title="Explore our work at LC Packers and Mover">
                                     <img src="<?php echo $base_url; ?>assets/media/our-work/lc-packers-work-08.png" alt="LC Packers and Mover Work Image 8">
                                 </a>
                             </figure>
                             <div class="project__content-three">
                                 <h3 class="title">
-                                    <a href="./our-work.php" title="Explore all work by LC Packers and Mover">View All Work</a>
+                                    <a href="javascript:void(0);" title="Explore all work by LC Packers and Mover">View All Work</a>
                                 </h3>
                             </div>
                             <div class="project__icon">
-                                <a href="./our-work.php" title="View more about our work">
+                                <a href="javascript:void(0);" title="View more about our work">
                                     <i class="flaticon-diagonal-arrow"></i>
                                 </a>
                             </div>
@@ -992,7 +992,7 @@
 
             <div class="col-12">
                 <div class="view-all-btn-two view-all-btn-three text-center mb-0 mt-10">
-                    <a href="./our-work.php" title="Explore All Work by LC Packers and Mover" class="btn border-btn">View All Work <img src="<?php echo $base_url; ?>assets/media/svg/right-arrow-red.svg" alt="Explore All Services" class="injectable"></a>
+                    <a href="javascript:void(0);" title="Explore All Work by LC Packers and Mover" class="btn border-btn">View All Work <img src="<?php echo $base_url; ?>assets/media/svg/right-arrow-red.svg" alt="Explore All Services" class="injectable"></a>
                 </div>
             </div>
             </div>
